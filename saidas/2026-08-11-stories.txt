@@ -1,0 +1,40 @@
+STORIES DO DIA — 2026-08-11
+Canal: Gestão em Prática
+
+AVISO: hoje foram selecionadas 3 notícias, não 5. A pauta do dia (segunda quinzena de julho até 11/08) tinha bastante ruído — muita matéria repetida, dado de mercado financeiro sem recorte pra PME, ou notícia sem confirmação jornalística clara sobre a data de publicação. Preferi entregar menos itens, mas todos verificados e com fonte confiável, do que forçar o número.
+
+Pasta "saidas/" ainda não tinha arquivos de dias anteriores (primeira execução da rotina), então não houve checagem de repetição de pauta.
+
+============================================================
+
+ROTEIRO 1 — Juros seguem altos, mesmo com corte da Selic
+Área: Finanças
+
+"Saiu a ata do Copom ontem, e a notícia não é boa pra quem vive de crédito. Segundo o InfoMoney, o Banco Central confirmou o quarto corte seguido da Selic, agora em 14% ao ano, mas veio num tom duro, sem sinal de novo corte tão cedo. Isso significa capital de giro e financiamento mais caros por mais tempo. Eu sempre falo: nesse cenário, negociar prazo com fornecedor rende mais que brigar com juro de banco. Guarda essa, porque no próximo story eu trago uma saída real pra quem tá endividado."
+
+Fonte: InfoMoney — "Ata do Copom, IPCA, balanços e mais destaques desta terça-feira"
+https://www.infomoney.com.br/mercados/ata-copom-ipca-balancos-agenda-11082026/
+
+============================================================
+
+ROTEIRO 2 — Prazo pra renegociar dívida da empresa termina dia 31/08
+Área: Finanças
+
+"Se sua empresa tá com dívida atrasada, esse story pode valer uma grana boa pro seu caixa. O governo prorrogou o Desenrola Empresas até 31 de agosto — segundo a Agência Sebrae de Notícias, já foram renegociados R$25 bilhões em dívidas de pequenos negócios, boa parte pelo Pronampe. Dá pra conseguir desconto de até 90%, juro de 1,99% ao mês e parcelar em até 48 vezes. Minha recomendação: não deixa pra última semana, porque banco trava na correria do prazo final. Confere o link aqui embaixo e já anota isso na agenda."
+
+Fonte: Agência Sebrae de Notícias — "Portaria estende para 31 de agosto prazo de adesão a programa de renegociação de dívidas"
+https://agenciasebrae.com.br/economia-e-politica/portaria-estende-para-31-de-agosto-prazo-de-adesao-a-programa-de-renegociacao-de-dividas/
+(publicada em 28/07/2026 — mantida na pauta porque o prazo de adesão segue aberto e vence neste mês)
+
+============================================================
+
+ROTEIRO 3 — 1 em cada 4 pequenos negócios ainda não usa computador
+Área: Processos / Estratégia
+
+"Uma pesquisa nova mostrou um dado que todo dono de PME devia levar a sério. Segundo o Sebrae, 75% das micro e pequenas empresas já usam computador no dia a dia, mas entre os MEIs esse número cai pra 62%. Isso mostra que quem ainda roda o negócio só pelo celular ou no caderninho tá ficando pra trás na gestão, e isso pesa direto no caixa. Na minha visão, digitalizar não é luxo, é sobrevivência — comece pelo financeiro, que é onde o improviso mais dói. Amanhã eu trago mais uma notícia pra você aplicar no negócio."
+
+Fonte: Agência Sebrae de Notícias — "Maturidade digital: 3 em cada 4 pequenos negócios no Brasil usam computador no dia a dia"
+https://agenciasebrae.com.br/dados/maturidade-digital-3-em-cada-4-pequenos-negocios-no-brasil-usam-computador-no-dia-a-dia/
+(publicada em 07/08/2026)
+
+============================================================
