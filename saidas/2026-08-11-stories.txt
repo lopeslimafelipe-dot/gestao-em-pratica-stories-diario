@@ -38,3 +38,48 @@ https://agenciasebrae.com.br/dados/maturidade-digital-3-em-cada-4-pequenos-negoc
 (publicada em 07/08/2026)
 
 ============================================================
+
+AVISO — RODADA ADICIONAL (execução de teste): abaixo, mais 4 roteiros gerados numa rodada extra do dia, com uma restrição especial só pra esta execução: buscar apenas notícias publicadas especificamente em 10/08/2026 (ontem), ignorando qualquer coisa de hoje ou mais antiga, e nunca repetir os 3 assuntos acima (Selic/Copom, Desenrola Empresas, maturidade digital Sebrae). Os 4 abaixo são inéditos em relação aos 3 de cima e entre si. Não foi possível fechar 5 nesta rodada com a mesma exigência de atualidade e qualidade — prefiro entregar 4 verificados a forçar um quinto fraco ou repetido.
+
+============================================================
+
+ROTEIRO 4 — Pix pode ganhar versão internacional
+Área: Finanças / Meios de pagamento
+
+"Pix pode virar internacional, e isso muda o jogo pra quem vende. Segundo o InfoMoney, o Banco Central divulgou ontem o relatório de gestão do Pix: quase 80 bilhões de transações em 2025, e 43% já são de pessoa pra empresa. O Banco Central também revelou que estuda interligar o sistema com pagamentos de outros países. Pra mim, o recado é claro: quem ainda cobra só no cartão tá deixando dinheiro na mesa. Migrar pro Pix como meio principal de recebimento não é tendência, é o presente. Fica ligado que amanhã eu trago mais um pra você aplicar."
+
+Fonte: InfoMoney — "BC estuda conectar Pix a sistemas de pagamento de outros países"
+https://www.infomoney.com.br/economia/bc-estuda-conectar-pix-a-sistemas-de-pagamento-de-outros-paises/
+(relatório "Gestão do Pix 2023-2025", divulgado pelo Banco Central em 10/08/2026)
+
+============================================================
+
+ROTEIRO 5 — Embraer bate recorde de novo
+Área: Gestão / Estratégia
+
+"A Embraer bateu recorde de novo, e tem lição pra qualquer negócio aí. Segundo o InfoMoney, a empresa fechou o segundo trimestre com lucro de R$1,11 bilhão, alta de 25% no ano, e uma carteira de pedidos de US$34,5 bilhões — o sétimo recorde trimestral seguido. Isso mostra que entregar qualidade de forma consistente, trimestre após trimestre, é o que constrói uma fila de clientes esperando. Minha visão: recorde não vem de sorte, vem de repetição bem feita. Guarda esse case, porque ele vale pro seu negócio do tamanho que for."
+
+Fonte: InfoMoney — "Embraer (EMBJ3) registra lucro ajustado de R$ 1,11 bi no 2º tri, alta anual de 25,1%"
+https://www.infomoney.com.br/mercados/embraer-embj3-resultados-segundo-trimestre-2026/
+
+============================================================
+
+ROTEIRO 6 — Seu concorrente pode estar do outro lado do mundo
+Área: Vendas / Varejo
+
+"Seu concorrente de verdade hoje pode estar do outro lado do mundo. Uma pesquisa da CNDL/SPC Brasil, divulgada ontem, mostrou que 81,2 milhões de brasileiros já compraram produto importado direto de fora, principalmente pela Shopee e pela Shein, pagando no Pix. Mas o detalhe que interessa pro lojista: mais da metade desses consumidores prefeririam comprar no Brasil se o preço e a variedade fossem parecidos. Ou seja, o problema não é lealdade, é oferta. Se seu preço e seu mix não competem, o cliente vai embora — e ele já sabe pra onde ir. Fica ligado no próximo story."
+
+Fonte: CNDL/SPC Brasil (pesquisa em parceria com Offerwise) — "81,2 milhões de consumidores brasileiros compraram produtos importados ou enviados de outros países"
+https://cndl.org.br/varejosa/812-milhoes-de-consumidores-brasileiros-compraram-produtos-importados-ou-enviados-de-outros-paises-aponta-pesquisa-cndl-spc-brasil/
+
+============================================================
+
+ROTEIRO 7 — A Meta jogou uma IA de graça no colo do pequeno empresário
+Área: Tecnologia / Inovação
+
+"A Meta acabou de jogar uma ferramenta gigante de graça no colo do pequeno empresário. Segundo a Exame, ela lançou ontem o Muse Glimmer, uma inteligência artificial de 30 bilhões de parâmetros que roda direto num computador comum, com só uma placa de vídeo, sem nuvem cara nem assinatura de gigante de tecnologia. Isso derruba a barreira de custo que sempre separou empresa grande de pequena na hora de usar IA de verdade. Minha recomendação: não espera sobrar dinheiro no fim do ano, comece a testar isso já. Continua comigo nos próximos stories."
+
+Fonte: Exame — "O que é o Muse Glimmer, o modelo de IA de código aberto da Meta"
+https://exame.com/inteligencia-artificial/o-que-e-o-muse-glimmer-o-modelo-de-ia-de-codigo-aberto-da-meta/
+
+============================================================
