@@ -1,0 +1,67 @@
+RASCUNHO — PESQUISA DO DIA — 2026-08-13
+Canal: Gestão em Prática
+Etapa 1 (Pesquisa) — este documento alimenta a Etapa 2 (redação do roteiro final em 1ª pessoa)
+
+AVISO: hoje foram selecionados 5 itens. Antes de fechar a pauta, li os roteiros já publicados dos últimos dias úteis (saidas/2026-08-11-stories.txt e saidas/2026-08-12-stories.txt) para não repetir assunto. Temas já "queimados" nesses dois dias: Selic/Copom, Desenrola Empresas, maturidade digital do Sebrae (uso de computador), Pix internacional, resultado da Embraer, pesquisa CNDL/SPC sobre compras importadas, IA Muse Glimmer da Meta, tarifaço EUA x exportações brasileiras, e o artigo da HBR sobre "decision rights". Nenhum dos 5 itens abaixo repete esses assuntos.
+
+Também descartei pautas fortes por não passarem nos critérios:
+- Índice de Confiança do Empresário Industrial (CNI/ICEI) de agosto: ainda não divulgado nacionalmente até o fechamento desta pesquisa (só dado regional de Cuiabá disponível); dado de julho já está desatualizado.
+- Panorama PME da Serasa Experian (R$80,6 bi em dívidas de sócios inadimplentes): dado publicado em julho, tematicamente muito próximo do que já foi usado sobre dívida/juro em dias anteriores.
+- PwC Global CEO Survey (confiança de CEOs no menor nível em 5 anos): pesquisa divulgada em janeiro de 2026, fora da janela de ineditismo mesmo para fonte internacional.
+- McKinsey "State of Organizations 2026": relatório publicado em fevereiro de 2026, dado forte (menos de 20% das empresas que tentaram adotar IA viram impacto tangível) mas velho demais pra entrar como "inédito".
+- Duplicata escritural (mudança no crédito para empresas via Banco Central): tema relevante, mas o lançamento e as matérias de fundo são de junho/2026 — não achei ângulo com fato novo dos últimos dias.
+- Qualquer pauta ligada à Reforma Tributária (ex.: prazo de opção pelo IBS/CBS em setembro): tema tributário/político que gera discussão partidária — fora do escopo por critério.
+- CAGED de julho/2026: os resultados batiam de forma inconsistente entre fontes secundárias (uma dizia que já havia sido divulgado com saldo de 129 mil vagas, outra dizia que a divulgação oficial só ocorreria em 28/08) — sem conseguir cravar uma fonte primária única e confiável a tempo, preferi não usar.
+- Estatística de fraude por IA em pequenos negócios (Forbes, "AI-based fraud attacks surging 8.000%", com suposto fechamento de 60% dos negócios atacados em 6 meses): o dado dos "60% fecham em 6 meses" apareceu em várias fontes de marketing/setor de segurança sem lastro em pesquisa verificável — descartei por risco de imprecisão.
+
+============================================================
+
+ITEM 1 — Pix cresce muito mais que o próprio varejo na semana do Dia dos Pais
+Fato: Na semana do Dia dos Pais (3 a 9 de agosto de 2026), as vendas no varejo brasileiro cresceram 7% em valor transacionado frente ao mesmo período de 2025, segundo levantamento da fintech Getnet. O comércio físico avançou 8% — mais que o total. Por segmento, supermercados lideraram o crescimento, com alta de 14%, seguidos por padarias e confeitarias, que avançaram 11%. Entre os meios de pagamento, o Pix teve o maior crescimento de todos: alta de 37% no valor transacionado no período.
+Fonte: InfoMoney — "Vendas no varejo crescem 7% na semana do Dia dos Pais, aponta Getnet"
+https://www.infomoney.com.br/economia/vendas-no-varejo-crescem-7-na-semana-do-dia-dos-pais-aponta-getnet/
+Relevância: Data comemorativa é um termômetro de curto prazo pro varejo físico de pequeno porte (mercado de bairro, padaria, loja de presente) — mostra onde a demanda de fato girou e qual meio de pagamento puxou a fila nesse período.
+Ressalva técnica: É um recorte de uma semana específica (3-9/08) ligada a uma data comemorativa, não uma leitura do varejo o ano inteiro. Existe também o índice ICVA, da Cielo, medindo o mesmo período com metodologia própria (cartões processados pela Cielo): alta de 7,7% no total, sendo comércio físico +6,6% e online +12,1% — os números não batem exatamente com os da Getnet porque são bases de cartão diferentes, mas os dois confirmam a mesma direção (crescimento acima do normal, puxado por serviços/conveniência).
+Tese de gancho sugerida: O Pix cresceu cinco vezes mais rápido (37%) que o varejo como um todo (7%) na data — quem ainda trata o Pix como "mais uma forma de pagamento" e não como prioridade de caixa está deixando em segundo plano exatamente o jeito que o cliente mais quer pagar. Tese sustentada diretamente pelo próprio descompasso entre os dois números da matéria — não é especulação forte.
+
+============================================================
+
+ITEM 2 — Inadimplência dos pequenos negócios é a menor em 4 anos
+Fato: Segundo a 8ª edição da pesquisa Pulso dos Pequenos Negócios, do Sebrae, 20% dos empreendedores entrevistados em agosto de 2026 estão com dívidas ou empréstimos em atraso — o menor nível de inadimplência registrado desde abril de 2020. Em maio de 2020 (pico da pandemia), essa proporção havia chegado a 40%. A mesma pesquisa mostra que 30% das empresas desse porte tiveram melhora no faturamento na comparação com o mesmo mês do ano passado — o melhor resultado nesse quesito em pouco mais de um ano.
+Fonte: Agência Sebrae de Notícias — "Pequenos negócios têm menor nível de inadimplência em quatro anos"
+https://agenciasebrae.com.br/dados/pequenos-negocios-tem-menor-nivel-de-inadimplencia-em-quatro-anos/
+Relevância: Fala direto com o público PME: mostra que o cenário de caixa das micro e pequenas empresas está, na média, menos apertado que nos últimos anos — contraponto a notícias mais pessimistas sobre juro alto e crédito caro que temos visto ultimamente.
+Ressalva técnica: É pesquisa de percepção/autodeclaração dos próprios empreendedores (survey do Sebrae), não é dado de cartório ou birô de crédito (tipo Serasa/SPC) — mede quantos se declaram em atraso, não o volume de dívida em reais.
+Tese de gancho sugerida: Se a inadimplência caiu mesmo com juro ainda alto, o que melhorou não foi o cenário externo — foi como o pequeno negócio administrou o caixa dentro dele. Aviso: essa é uma leitura mais interpretativa/ousada — a pesquisa não afirma causalidade de "melhor gestão"; a queda pode refletir também os cortes recentes da Selic ou efeito de programas como o Desenrola Empresas (já usado em roteiro anterior), não necessariamente decisão individual do empresário. Conferir com atenção redobrada antes de usar essa tese como está.
+
+============================================================
+
+ITEM 3 — Pequenas empresas geram quase 6 em cada 10 empregos formais no país
+Fato: Entre janeiro e junho de 2026, as micro e pequenas empresas (MPEs) criaram 543,5 mil dos 921,6 mil novos empregos formais abertos no Brasil no período — quase 6 em cada 10 vagas (59%) —, segundo levantamento do Sebrae com base em dados do Novo Caged. Só em junho, o saldo das MPEs foi de 84,8 mil vagas (58% do total do mês), superando em mais de 80% o saldo gerado por médias e grandes empresas juntas (46,3 mil). O setor de Serviços liderou a geração de vagas entre as MPEs em junho, com 42 mil postos, seguido por Comércio e Construção, cada um com cerca de 16 mil.
+Fonte: Agência Sebrae de Notícias — "Micro e pequenas empresas lideram a criação de empregos no primeiro semestre de 2026" (publicada em 04/08/2026)
+https://agenciasebrae.com.br/economia-e-politica/micro-e-pequenas-empresas-lideram-a-criacao-de-empregos-no-primeiro-semestre-de-2026/
+Relevância: Reposiciona quem realmente sustenta o emprego no país — relevante pro dono de PME que às vezes se sente pequeno demais para importar no cenário econômico geral.
+Ressalva técnica: Dado consolidado do 1º semestre de 2026 (baseado no Caged de junho), com a matéria publicada em 04/08 — não é notícia de ontem/hoje, mas é a leitura mais recente e inédita desse recorte específico (comparação direta entre MPE e médias/grandes empresas na geração de vagas). Dentro da janela de até 1-2 semanas aceita para dado/insight.
+Tese de gancho sugerida: Enquanto o noticiário fala de juro alto e empresa grande cortando vaga, é o pequeno negócio que está, na prática, sustentando o emprego no país. Tese sustentada diretamente pelo dado (59% dos empregos do semestre, e MPE superando médias/grandes na geração de vagas do mês).
+
+============================================================
+
+ITEM 4 — 95% dos projetos de IA não dão retorno — e o motivo não é a ferramenta
+Fato: Segundo reportagem da Forbes, apesar de US$ 30 bilhões a US$ 40 bilhões investidos globalmente em iniciativas de IA generativa, apenas 5% desses projetos geram um retorno sobre investimento mensurável. A matéria cita que apenas 3% dos líderes se consideram preparados para times que já trabalham com IA, e que 70% das falhas em transformações com IA vêm da cultura organizacional da empresa, não da tecnologia em si. Em pequenos negócios, o gargalo apontado como principal é a "dependência do fundador": quando toda decisão importante ainda passa pelo dono, a IA só acelera um processo mal documentado — não corrige esse processo.
+Fonte: Forbes — "AI Adoption Fails 95% Of The Time. Small Business Leadership Is Why" (TerDawn DeBoe, publicado em 28/07/2026)
+https://www.forbes.com/sites/terdawn-deboe/2026/07/28/ai-adoption-fails-95-of-the-time-small-business-leadership-is-why/
+Relevância: Muito dono de PME está testando ferramenta de IA sem processo documentado no negócio — a matéria explica por que isso tende a não funcionar e o que precisa existir antes da ferramenta entrar.
+Ressalva técnica: Artigo em inglês, traduzido aqui com fidelidade. Os números de "US$30-40 bi investidos" e "95% sem ROI mensurável" citados pela Forbes ecoam uma estatística que ficou bastante conhecida em 2025 a partir de um estudo do MIT sobre projetos corporativos de IA generativa (majoritariamente em empresas maiores) — a Forbes aplica essa estatística ao contexto de pequeno negócio, mas a pesquisa original não foi feita com uma amostra de PMEs.
+Tese de gancho sugerida: O problema não é a ferramenta de IA — é que o processo do negócio já era desorganizado antes dela. A IA só deixa esse gargalo mais rápido e mais visível pra todo mundo ver. Tese sustentada diretamente pela citação do artigo sobre "dependência do fundador".
+
+============================================================
+
+ITEM 5 — Sua equipe "concordou" na reunião, mas não está de fato alinhada
+Fato: Artigo da Harvard Business Review (edição de julho/agosto de 2026), assinado por Julia Dhar, Kristy R. Ellmer e Philip Jameson, descreve o que chamam de "armadilha do falso alinhamento": líderes seniores acreditam que concordam sobre por que, o que e como mudar a empresa — mas, na prática, muitas vezes só "não estão atrapalhando uns aos outros", sem terem de fato debatido e decidido juntos. Os autores propõem um processo de cinco passos — definir os parâmetros da decisão antes de discutir, provocar divergência por escrito (perguntando "o que pode dar errado com essa ideia?" em vez de "o que vocês acham?"), fazer um debate de verdade, bater o martelo formalmente, e comunicar a decisão de forma unificada — e usam como case o turnaround da joalheria dinamarquesa Pandora, em que o novo CEO reduziu 46 prioridades concorrentes para 12 antes de encerrar o primeiro offsite com o time de liderança.
+Fonte: Harvard Business Review — "The False Alignment Trap"
+https://hbr.org/2026/07/the-false-alignment-trap
+Relevância: Empresa pequena com poucos sócios ou gestores também sofre disso — decisão "combinada" em reunião que, na prática, cada um interpreta de um jeito, e a execução emperra sem ninguém entender exatamente por quê.
+Ressalva técnica: Artigo original em inglês, traduzido com fidelidade; publicado na edição de julho/agosto de 2026 da revista impressa da HBR (mesma edição de onde já saiu o artigo sobre "decision rights", usado em roteiro de 12/08 — assunto diferente, mas fonte e período de publicação parecidos, vale considerar se dois artigos da HBR da mesma edição em poucos dias é aceitável). É um framework conceitual baseado em pesquisa e case da consultoria dos próprios autores (BCG), não traz um dado numérico isolado do tipo "X% das empresas sofrem disso" pra citar.
+Tese de gancho sugerida: "Todo mundo concordou" numa reunião quase nunca significa que todo mundo concordou de verdade — na maioria das vezes só significa que ninguém quis comprar a briga ali na hora. Tese sustentada pela própria citação dos autores no artigo ("we are not in one another's way" não é alinhamento de verdade).
+
+============================================================
