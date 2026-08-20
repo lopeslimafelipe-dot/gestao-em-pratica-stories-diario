@@ -1,0 +1,39 @@
+PAUTA DO DIA -- 2026-08-20
+Assunto: Justica suspende demissao em massa das Casas Bahia
+Score final: 32/35 (Frescor: 4/5, Relevancia do protagonista: 5/5, Gravidade: 5/5, Polemica adjacente: 4/5, Volume de cobertura: 5/5, Clareza do angulo: 4/5, Identificacao com audiencia: 5/5)
+
+Fato central verificado: Na terca-feira (18/8), a juiza Katarina Mousinho de Matos, do TRT-10, concedeu liminar suspendendo as demissoes coletivas promovidas pelas Casas Bahia dentro do plano de reestruturacao do grupo (fechamento de 298 lojas). A decisao atendeu pedido da CNTC (Confederacao Nacional dos Trabalhadores no Comercio), que alegou cerca de 1,9 mil demissoes ja executadas em dois dias (13-14/8); o plano total de corte, segundo a propria reestruturacao, prevendo entre 1,9 mil e 3 mil desligamentos -- por isso a cobertura de imprensa fala amplamente em "3 mil demissoes suspensas". A empresa tem 5 dias, a partir da notificacao, para restabelecer provisoriamente os vinculos juridicos e economicos dos trabalhadores ja demitidos (reinclusao em folha, manutencao de salario e beneficios) e fica proibida de fazer novas demissoes coletivas sem negociacao previa e efetiva com os sindicatos da categoria. Descumprimento gera multa de R$ 500/dia por trabalhador, com teto de ate 10 remuneracoes mensais de cada empregado. Casas Bahia ainda pode recorrer da liminar.
+Fonte confirmada: Metropoles -- https://www.metropoles.com/colunas/grande-angular/casas-bahia-justica-suspende-demissoes-coletivas-e-restringe-cortes (fato cruzado tambem com Revista Forum, Brasil247, Vermelho, Portal Alerta -- todos batendo com data, valor da multa e prazo de 5 dias)
+
+Cadeia causal (o que levou a isso):
+1) Casas Bahia vinha de uma primeira crise de divida ja em 2024, quando pediu recuperacao extrajudicial por R$ 4,07 bilhoes -- sinal de que o problema estrutural nao era novo.
+2) Nos anos seguintes, o grupo (que soma mais de 700 lojas, incluindo Ponto Frio e Extra.com) seguiu pressionado por juros altos, queda no consumo de bens duraveis e aumento da inadimplencia -- fatores que atingem o varejo como um todo, nao so a empresa.
+3) O quadro piorou ate o pedido formal de recuperacao judicial no domingo (16/8), com divida declarada de R$ 17,3 bilhoes e prejuizo contabil de R$ 10,1 bilhoes no 2T26 (a empresa diz que R$ 9,1 bi desse total sao ajustes contabeis extraordinarios ligados a propria reestruturacao, sem impacto imediato de caixa -- mas o numero absoluto e real e mostra o tamanho da crise).
+4) Dentro desse plano de reestruturacao, a empresa fechou 298 lojas e executou demissoes em massa de forma rapida e concentrada (13-14/8), sem, segundo a Justica, negociacao previa com os sindicatos -- o que caracteriza demissao coletiva irregular pela jurisprudencia trabalhista.
+5) A CNTC acionou a Justica, e dois dias depois (18/8) a liminar suspendeu os cortes e impos condicoes para qualquer nova rodada.
+
+Por que esta repercutindo agora: a combinacao de tres fatores empurrou o score alto -- gravidade (uma das maiores varejistas do pais sendo forcada judicialmente a reverter demissoes em massa), volume de cobertura (repercutiu em dezenas de veiculos por dois dias seguidos) e identificacao com audiencia (donos de PME sentem na pele os mesmos fatores -- juros altos, inadimplencia, queda de consumo -- ainda que em escala menor).
+
+Angulo de gestao sugerido: o video NAO discute o merito trabalhista/sindical nem qualquer debate politico-economico maior -- o angulo e 100% pratico de gestao. A licao central: reestruturacao e corte de custos tem que ser planejados com rito juridico correto (negociacao sindical previa em demissao coletiva nao e burocracia, e exigencia legal que evita a empresa perder controle do proprio cronograma de corte -- aqui, a pressa em cortar rapido virou risco juridico que atrasa e encarece ainda mais o processo). Segundo ponto: o caso mostra em escala gigante um problema que qualquer PME sente em escala menor -- juro alto + inadimplencia + queda de consumo corroem a operacao ate um ponto em que decisoes de emergencia (corte abrupto de pessoal) saem caras porque foram malfeitas, nao porque cortar era errado.
+
+Dados de apoio:
+- Divida declarada no pedido de recuperacao judicial: R$ 17,3 bilhoes (fonte: O Tempo -- https://www.otempo.com.br/economia/2026/8/17/entenda-crise-da-casas-bahia-que-levou-a-recuperacao-judicial-e-divida-bilionaria-do-grupo)
+- Prejuizo contabil no 2T26: R$ 10,1 bilhoes, sendo R$ 9,1 bi de ajustes contabeis extraordinarios ligados a reestruturacao (fonte: Metropoles/O Tempo, cruzado)
+- Pedido de recuperacao extrajudicial em 2024 por divida de R$ 4,07 bilhoes -- mostra que a crise vinha se arrastando havia pelo menos dois anos (fonte: O Tempo)
+- Multa fixada pela liminar: R$ 500/dia por trabalhador, teto de 10 remuneracoes mensais por empregado (fonte: Brasil247 -- https://www.brasil247.com/negocios/justica-suspende-demissoes-coletivas-nas-casas-bahia-e-exige-negociacao-sindical/)
+- Grupo soma mais de 700 lojas ao todo (Casas Bahia, Ponto Frio, Extra.com); 298 foram fechadas no plano de reestruturacao (fonte: Metropoles)
+
+Ressalva/limite: o fator "Polemica adjacente" pesou no score porque o assunto encosta em debates publicos maiores (juros altos, desemprego, direitos trabalhistas, crise do varejo -- tema sensivel em ano eleitoral). LEMBRETE EXPLICITO: o video NAO deve comentar politica partidaria, nao deve criticar figura ou partido politico, nem tomar posicao sobre o merito do debate trabalhista/sindical. Tambem existe imprecisao numerica na cobertura entre "1,9 mil" (numero ja demitido, segundo a CNTC) e "3 mil" (numero total previsto no plano de reestruturacao) -- o video pode citar "quase 3 mil demissoes dentro do plano de corte" sem cravar um numero exato de pessoas ja efetivamente demitidas, para evitar erro factual.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico (juiza manda uma das maiores varejistas do Brasil reverter quase 3 mil demissoes em 5 dias)
+- Contexto/causa raiz: a crise que vem desde 2024, os numeros da recuperacao judicial, os fatores macro (juros, inadimplencia, consumo)
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo): como o corte foi feito, por que a Justica considerou irregular, o que isso ensina sobre demissao coletiva
+- Licao de gestao (a virada): reestruturar exige rito -- pressa sem processo correto sai mais caro; o paralelo com a realidade do dono de PME
+- Fechamento + CTA
+
+Fonte(s): Metropoles -- https://www.metropoles.com/colunas/grande-angular/casas-bahia-justica-suspende-demissoes-coletivas-e-restringe-cortes | O Tempo -- https://www.otempo.com.br/economia/2026/8/17/entenda-crise-da-casas-bahia-que-levou-a-recuperacao-judicial-e-divida-bilionaria-do-grupo | Brasil247 -- https://www.brasil247.com/negocios/justica-suspende-demissoes-coletivas-nas-casas-bahia-e-exige-negociacao-sindical/
+
+Runners-up do dia (registro/transparencia):
+- Braskem Idesa consegue emprestimo DIP de US$ 409 milhoes no Chapter 11 -- 18/35
+- Confianca do pequeno empresario paulistano cai ao menor nivel desde 2021 -- 18/35
