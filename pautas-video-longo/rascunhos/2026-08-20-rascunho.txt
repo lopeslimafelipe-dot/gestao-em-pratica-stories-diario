@@ -1,0 +1,50 @@
+PAUTA DO DIA -- RADAR DE REPERCUSSAO -- 2026-08-20
+
+CANDIDATO 1 -- Justica suspende demissao em massa das Casas Bahia
+Fato: A juiza Katarina Mousinho de Matos (TRT-10) suspendeu, em decisao publicada na terca-feira (18/8), cerca de 3 mil demissoes feitas pelas Casas Bahia dentro do plano de reestruturacao (fechamento de 298 lojas). A empresa tem 5 dias para readmitir os trabalhadores e fica proibida de fazer novas demissoes coletivas sem negociacao previa com os sindicatos, sob multa de R$ 500/dia por trabalhador (podendo chegar a R$ 10 mil por trabalhador em caso de reincidencia). A decisao atendeu pedido da CNTC (Confederacao Nacional dos Trabalhadores no Comercio). Casas Bahia ainda pode recorrer da liminar. O grupo esta em recuperacao judicial desde 16/8, com divida declarada de R$ 17,3 bilhoes e prejuizo de R$ 10,1 bi no 2T26.
+Fonte: Revista Oeste -- https://revistaoeste.com/economia/justica-suspende-demissoes-das-casas-bahia/
+(Cobertura tambem em: Estadao MT, Metropoles, Folha Vitoria, Revista Forum, JB, Terra, InfoMoney, Migalhas -- fato do dia 18/8, ainda amplamente repercutido em 19-20/8)
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 32/35
+Status: VENCEDOR DO DIA
+
+>>> SINALIZACAO GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score porque o assunto encosta em debates publicos maiores (juros altos, desemprego, direitos trabalhistas, crise do varejo -- tema sensivel em ano eleitoral). O roteiro da Etapa 2 NAO deve comentar politica partidaria, nao deve criticar figura ou partido politico, nem tomar posicao sobre o debate trabalhista/sindical em si. O angulo tem que ficar 100% em gestao/negocio: o que a decisao judicial ensina sobre como planejar (ou nao planejar) um corte de custos/demissao em massa dentro de uma reestruturacao -- risco juridico de demissao coletiva sem negociacao previa, o custo de uma reestruturacao mal calculada, e o efeito pratico de juro alto + inadimplencia + queda de consumo sobre uma varejista gigante (algo que o dono de PME tambem sente, em escala menor).
+
+---
+
+CANDIDATO 2 -- Braskem Idesa consegue empréstimo DIP de US$ 409 milhões no Chapter 11
+Fato: A Justica do Texas autorizou a joint venture Braskem-Idesa (Mexico) a contratar emprestimo DIP (Debtor-in-Possession) de US$ 409 milhoes, parte de um pacote de US$ 476 milhoes, para financiar a operacao durante o processo de Chapter 11 (recuperacao judicial nos EUA). O objetivo e reduzir a divida senior de ~US$ 2,5 bi para ~US$ 1,6 bi. A acao BRKM5 subiu mais de 10% na B3 no dia do anuncio (18/8). Expectativa da empresa e sair do Chapter 11 em 60 a 90 dias.
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/braskem-brkm5-sobe-mais-de-10-na-bolsa-apos-ajuda-a-operacao-no-mexico-kaes/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 2/5
+TOTAL: 18/35
+Status: runner-up
+
+---
+
+CANDIDATO 3 -- Confianca do pequeno empresario paulistano cai ao menor nivel desde 2021
+Fato: O Indice de Confianca do Empresario do Comercio (Icec) da FecomercioSP para empresas de ate 50 funcionarios caiu para 93,6 pontos em julho/2026, sexto mes seguido de queda e o pior nivel desde junho de 2021 -- entrando em zona pessimista (abaixo de 100). Ja o indice das grandes empresas (acima de 50 funcionarios) subiu 3,9% e ficou em 106,4 pontos, em campo levemente otimista.
+Fonte: Acessa.com (FecomercioSP) -- https://www.acessa.com/economia/2026/08/336883-fecomerciosp-confianca-do-empresario-paulistano-e-pessimista-puxada-pelo-de-pequeno-porte.html
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 1/5
+- Gravidade: 2/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 18/35
+Status: runner-up
