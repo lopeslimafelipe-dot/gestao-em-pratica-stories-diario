@@ -1,0 +1,77 @@
+RASCUNHO DO DIA — 2026-08-21 (sexta-feira)
+Etapa 1 (Pesquisa) — Curador de Notícias para Stories, canal Gestão em Prática
+
+NOTA TÉCNICA IMPORTANTE (ambiente desta execução): o proxy de rede desta sessão bloqueou por política (403 policy denial) o acesso direto via WebFetch/curl a praticamente todos os domínios de fonte exigidos — G1, InfoMoney, Exame, Estadão, Valor, IBGE, Agência Brasil, FecomercioSP, CNI, Serasa, Forbes, Bloomberg, HBR, PwC, Deloitte, McKinsey, WEF, Statista, NFIB etc. Não foi possível abrir e confirmar o texto integral da matéria original em nenhuma fonte, apesar de múltiplas tentativas. Como alternativa, cada item abaixo só foi aceito quando os números batiam de forma consistente em 2 ou mais fontes independentes citando a mesma origem primária (comunicado oficial, fato relevante à CVM, release de resultado, divulgação institucional). Isso é mais fraco do que abrir a matéria original — a Etapa 2, ao revisar, deve considerar essa limitação e, se tiver acesso de rede menos restrito, vale reconfirmar as URLs antes de publicar.
+
+============================================================
+
+ITEM 1 — Mindsight lança plataforma de RH "nativa em IA" e expõe despreparo do próprio RH
+Categoria: Tecnologia
+Fato: A Mindsight lançou uma plataforma de RH com IA nativa que promete reduzir em até 97% o tempo pra estruturar processos de RH (avaliação de desempenho, pesquisa de clima, recrutamento, plano de desenvolvimento). Pesquisa da própria empresa com profissionais de RH de clientes mostrou que 83% se consideram apenas parcialmente preparados (ou menos) pra trabalhar com IA, e em 39% das empresas participantes a maturidade da organização em IA já é maior que a do próprio departamento de RH. A Mindsight atende mais de 600 empresas no Brasil, entre elas Ambev, Azul, Cacau Show e Clickbus.
+Fonte: Exame — https://exame.com/negocios/ia-generica-mindsight-passo-rh/ (matéria atualizada em 17/08/2026; mesmos números replicados pelo Mundo RH — https://mundorh.com.br/mindsight-lanca-plataforma-de-rh-com-ia-nativa/)
+Relevância: Mostra uma tendência de produto (RH "IA nativa", não IA colada em sistema legado) e um dado provocador: mesmo empresas que já investem em IA muitas vezes deixam o RH pra trás na adoção — relevante pra quem pensa em digitalizar gestão de pessoas.
+Ressalva técnica: os números (97% de redução de tempo, 83% de despreparo) vêm de material de divulgação da própria Mindsight — fornecedora do produto, com interesse comercial direto em promover o dado. Tratar como claim da empresa, não como estudo independente auditado. Publicação um pouco fora da janela ideal de 24-48h (lançamento ocorreu no início de agosto; cobertura mais recente da Exame é de 17/08, 4 dias antes de hoje).
+Possível contradição com roteiro anterior: nenhuma
+Tese de gancho sugerida: A ironia de quem devia liderar a adoção da IA na empresa — o RH — é quem está mais perdido: 83% dos profissionais se sentem despreparados, e em quase 4 de cada 10 empresas o resto do negócio já está mais maduro em IA do que o próprio RH. Pergunta pro dono de negócio: se seu RH tá travado, quem tá liderando a mudança na sua empresa?
+
+============================================================
+
+ITEM 2 — Cosan recebe propostas de chineses e mexicanos pela fatia na Rumo, pra reduzir dívida
+Categoria: Notícia de empresa
+Fato: Em 20/08/2026, a Cosan comunicou ao mercado (fato relevante) que está na fase de propostas vinculantes pela venda de cerca de 15% da Rumo (ferrovia), avaliados em aproximadamente R$5 bilhões. Avançaram à fase vinculante o Grupo México (mineração/logística) e uma proposta conjunta da chinesa Cofco com a americana Bunge; o Grupo Ultra teria saído do processo por divergência sobre o preço do ativo. A Cosan hoje detém cerca de 23% da Rumo e contratou o BTG Pactual como assessor da operação, dentro de uma estratégia de desalavancagem. A empresa reforça que ainda não há decisão sobre fechar a venda.
+Fonte: O Estado de S. Paulo / Broadcast (fato relevante à CVM), replicado com os mesmos números por BPMoney — https://bpmoney.com.br/mercado/csan3-cosan-recebe-propostas-pela-rumo-mas-nao-decide-venda/ — e BemParaná — https://www.bemparana.com.br/noticias/economia/cosan-diz-que-esta-recebendo-propostas-vinculantes-por-venda-da-rumo/
+Relevância: Caso concreto de decisão estratégica de portfólio — uma holding grande vendendo parte de um ativo maduro pra reduzir dívida, sem perder o controle majoritário. Ilustra que desalavancar às vezes significa vender parte do que funciona, não só cortar custo.
+Ressalva técnica: não consegui abrir a matéria original do Estadão diretamente (ver nota técnica no topo do arquivo); os números batem de forma consistente em duas fontes secundárias independentes que citam a mesma origem (fato relevante à CVM), o que dá confiança razoável, mas não é confirmação direta na fonte primária. A transação NÃO está fechada — é processo em andamento, pode não se concretizar.
+Possível contradição com roteiro anterior: nenhuma
+Tese de gancho sugerida: Uma holding do tamanho da Cosan — dona de fatia relevante numa das maiores ferrovias do país — precisando vender parte do que construiu, disputada por mexicanos e chineses, só pra baixar a própria dívida. Se isso acontece com quem é grande assim, endividamento não é problema que só PME enfrenta — é questão de disciplina de caixa em qualquer tamanho de empresa.
+
+============================================================
+
+ITEM 3 — Brasil abre 3,6 milhões de empresas em 7 meses, quase 14% a mais que 2025 — quase todas pequenas
+Categoria: Macroeconomia-índice
+Fato: Entre janeiro e julho de 2026, foram criadas 3,6 milhões de empresas no Brasil, alta de quase 14% sobre o mesmo período de 2025. Desse total, 3,4 milhões (96,7%) são pequenos negócios — MEI, microempresas e empresas de pequeno porte. Entre os MEIs, o crescimento na abertura foi de 14,5%; entre micro e pequenas empresas, mais de 11%. Da composição desses 3,4 milhões, 77% são MEI, 19% microempresas e cerca de 4% empresas de pequeno porte. Só em julho, Serviços liderou com 308 mil novas empresas (65% do total), Comércio com mais de 96 mil (20%) e Indústria com mais de 37 mil (8%).
+Fonte: Sebrae (com base em dados da Receita Federal), via Agência Sebrae de Notícias — https://agenciasebrae.com.br/dados/abertura-de-pequenos-negocios-cresce-quase-14-em-2026/ (divulgado em 20/08/2026)
+Relevância: Mostra o fluxo de entrada de novos negócios acelerando mesmo com juro ainda alto — sinal de que o apetite por empreender segue firme, mas também de concorrência crescente em Serviços e Comércio, que concentraram 85% das aberturas de julho.
+Ressalva técnica: é estudo do Sebrae, entidade que representa e promove o pequeno negócio — tem interesse institucional em divulgar dado favorável ao empreendedorismo. Além disso, mede só abertura de CNPJ (fluxo de entrada), não mede se essas empresas sobrevivem ou faturam bem depois.
+Possível contradição com roteiro anterior: nenhuma contradição direta, mas vale registrar contraste com o roteiro de 14/08 (confiança do pequeno empresário caindo, FecomercioSP) e com o de 18/08 (recuperação judicial da Casas Bahia): pessimismo de quem já opera e fila pra abrir empresa não se cancelam — são fenômenos diferentes (sentimento de quem está dentro do negócio vs. decisão de quem está entrando agora).
+Tese de gancho sugerida: Enquanto o noticiário mostra empresa grande fechando loja e pedindo recuperação judicial, 3,6 milhões de novos CNPJs nasceram nos primeiros 7 meses do ano — 14% a mais que 2025, e 97% deles são pequenos. O brasileiro não parou de empreender só porque o juro tá alto.
+
+============================================================
+
+ITEM 4 — Consumidor americano não guarda dinheiro, mas segue comprando — só que trocando o que compra
+Categoria: Tendência internacional
+Fato: A EY-Parthenon divulgou a 6ª onda da sua pesquisa de sentimento do consumidor americano, com cerca de 1.500 consumidores. 54% disseram não ter conseguido guardar nenhum dinheiro no mês anterior; 1 em cada 5 domicílios gastou mais do que ganhou, recorrendo a poupança ou dívida pra cobrir despesas. Mesmo assim, 72% ainda apontam categorias discricionárias — restaurante, beleza, vestuário — como onde dá pra cortar se precisar, e cerca de 1 em cada 3 (32%) seguem reduzindo viagem e lazer. A conclusão do relatório: o sentimento do consumidor segue "soft mas estável" mês a mês — famílias fazendo trade-off de consumo, não melhora real nas finanças.
+Fonte: EY (EY-Parthenon) — https://www.ey.com/en_us/newsroom/2026/08/ey-parthenon-survey-finds-stable-consumer-sentiment-despite-ongoing-financial-pressure-and-spending-trade-offs (publicado em 10/08/2026)
+Relevância: Termômetro direto pra quem vende pro consumidor final (varejo, serviços, alimentação, beleza): mostra quanto "gordura" o cliente ainda tem no orçamento antes de cortar de vez. É dado americano, mas o padrão de comportamento — segurar o supérfluo, manter o essencial — tende a se repetir em ciclo de aperto aqui também.
+Ressalva técnica: a EY é consultoria com interesse comercial em vender projeto de estratégia de consumo/varejo (EY-Parthenon é a unidade de estratégia da EY) — o enquadramento tende a favorecer narrativa que justifique contratar assessoria. (Nota de diversificação: a EY também foi fonte do roteiro de 20/08 — tema e unidade de negócio diferentes, mas registrado pra ciência da Etapa 2.)
+Possível contradição com roteiro anterior: nenhuma
+Tese de gancho sugerida: Mais da metade dos consumidores americanos não guardou nem um dólar no mês passado — e ainda assim o consumo não travou. A diferença entre cliente "sem dinheiro" e cliente "sem dinheiro pra tudo" é o que decide se sua venda cai ou só muda de categoria.
+
+============================================================
+
+ITEM 5 — Estée Lauder encerra 3 anos de queda com virada puxada por China e foco de portfólio
+Categoria: Livre
+Fato: A Estée Lauder divulgou o resultado do 4º trimestre do ano fiscal 2026 (encerrado em 30/06/2026), superando estimativas e encerrando 3 anos seguidos de queda na receita anual. Receita do trimestre: US$3,63 bilhões (acima da previsão de US$3,55 bi). Receita do ano fiscal completo: US$15,0 bilhões, alta de 5%. Vendas orgânicas cresceram 5% no trimestre — 4º trimestre seguido de crescimento — e 3% no ano fiscal completo. Lucro por ação ajustado: US$2,51 no ano, ante US$1,51 no ano anterior. Margem operacional ajustada expandiu 320 pontos-base, pra 11,2%. Na China continental, vendas orgânicas cresceram 9% no ano. A ação chegou a saltar cerca de 16% em reação ao resultado.
+Fonte: Bloomberg — "Estée Lauder Earnings: Sales Beat Estimates as Turnaround Bid Gains Steam" — https://www.bloomberg.com/news/articles/2026-08-19/estee-lauder-sales-beat-estimates-as-turnaround-bid-gains-steam (publicado em 19/08/2026)
+Relevância: Case raro de virada ("turnaround") depois de 3 anos seguidos de recuo — mostra como reposicionamento de marca, foco em poucas categorias e aposta em mercado-chave (China) revertem uma trajetória de queda, mesmo numa empresa grande e tradicional. Útil pra dono de PME pensar em disciplina de execução e foco em poucos motores de crescimento durante reestruturação.
+Ressalva técnica: números vêm do release de resultados da própria empresa (divulgação obrigatória a investidores) — prática padrão da imprensa financeira, mas a companhia tem interesse em apresentar a narrativa de forma favorável ("turnaround gaining steam"). Não consegui abrir a matéria original da Bloomberg diretamente (ver nota técnica no topo), mas os números foram cruzados e batem em múltiplas fontes secundárias independentes (Investing.com, Yahoo Finance, StockTitan/release oficial, 24/7 Wall St). É notícia de resultado trimestral/ação — cuidado na Etapa 2 pra manter o ângulo em "case de gestão/virada estratégica", não em dica de investimento.
+Possível contradição com roteiro anterior: nenhuma
+Tese de gancho sugerida: Três anos de queda seguida não se reverteram com sorte — se reverteram com foco: 4 trimestres seguidos de crescimento e ação disparando 16% no anúncio. A virada existe, mas ela é lenta e cumulativa, não um trimestre bom isolado.
+
+============================================================
+
+RESUMO DA COTA DE FONTE INTERNACIONAL: dia com 5 itens → mínimo 2 internacionais, sendo 1 de grande consultoria. Atingido: Item 4 (EY-Parthenon, grande consultoria) + Item 5 (Bloomberg) = 2 fontes internacionais. Cota cumprida.
+
+RESUMO DA COTA DE MACROECONOMIA/ÍNDICE: máximo 1-2 itens dessa categoria. Usado: 1 (Item 3). Dentro do limite.
+
+============================================================
+
+NOTAS DE PROCESSO (busca deliberada por categoria, para auditoria da Etapa 2):
+
+- Tecnologia: pesquisado ativamente; pistas descartadas por falta de corroboração ou irrelevância: ferramenta genérica de IA da Exame (sem dados numéricos concretos o suficiente), Google Gemini Business para empresas (não confirmado com segurança quanto à janela de tempo), Deloitte "State of AI in the Enterprise 2026" (dados de pesquisa de campo de 2025, incerteza sobre quando o relatório foi de fato publicado em 2026 — descartado por falta de segurança na data). Item usado: Mindsight (Item 1).
+- Notícia de empresa: item usado foi Cosan/Rumo (Item 2). Alternativa considerada e descartada: caso Oncoclínicas (prejuízo trimestral e recuperação extrajudicial) — descartado por estar fora da janela ideal de 24-48h e já ter tido ampla repercussão em dias anteriores.
+- Macroeconomia/índice: primeira tentativa (Intenção de Consumo das Famílias, CNC) foi descartada por inconsistência entre fontes secundárias sobre a taxa Selic citada (14,00% vs 13,75%) — sinal de possível erro de transcrição, e por não vir de fonte da lista aprovada. Segunda tentativa teve sucesso com o dado de abertura de pequenos negócios (Sebrae/Receita Federal), usado no Item 3. À parte, foi confirmado (mas não usado, por estar fora da janela de 72h) que o Copom cortou a Selic para 14,00% a.a. em 05/08/2026, quarto corte consecutivo — útil pra Etapa 2 saber que esse é o valor correto da Selic vigente, caso precise citá-la em algum roteiro.
+- Tendência internacional: dois itens levantados — EY-Parthenon (usado, Item 4) e um item do World Economic Forum sobre concentração do investimento estrangeiro direto (FDI) nas economias avançadas, citado na sessão "Growth Map Rewritten" da reunião de Dalian. Esse segundo item foi descartado por ter atribuição de dado mais vaga (estatística de FDI mencionada em sessão de evento, sem relatório específico linkável) — preferi usar o Item 5 (Estée Lauder/Bloomberg) pra completar a cota internacional, por ter corroboração numérica mais forte.
+- Livre: item usado foi Estée Lauder (Item 5), que também conta como fonte internacional (Bloomberg, categoria 1.2).
+
+LIMITAÇÃO GERAL: nenhuma URL deste rascunho foi confirmada por abertura direta da matéria original (WebFetch bloqueado nesta sessão para todos os domínios de imprensa testados). Todos os itens foram aceitos apenas com corroboração cruzada entre 2+ fontes secundárias independentes citando a mesma origem primária. Recomenda-se que a Etapa 2, se tiver acesso de rede menos restrito, reconfirme ao menos os números centrais antes da publicação final.
