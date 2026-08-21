@@ -1,0 +1,37 @@
+PAUTA DO DIA -- 2026-08-21
+Assunto: Inadimplencia das empresas bate recorde historico: 9,1 milhoes de CNPJs negativados
+Score final: 24/35 (Frescor: 2/5, Relevancia do protagonista: 2/5, Gravidade: 4/5, Polemica adjacente: 2/5, Volume de cobertura: 4/5, Clareza do angulo: 5/5, Identificacao com audiencia: 5/5)
+
+Fato central verificado: Segundo o Indicador de Inadimplencia das Empresas da Serasa Experian, divulgado em 17/8/2026, o numero de empresas inadimplentes no Brasil superou 9,1 milhoes de CNPJs em junho/2026 -- a maior marca da serie historica (iniciada em 2016). O volume de dividas em atraso chegou a R$ 232,9 bilhoes (ante R$ 229,9 bi em maio -- alta de 1,3% no mes; e alta de 16,67% frente a junho/2025). Em media, cada empresa inadimplente acumula 7,3 contas em atraso, com divida media de R$ 25.508,96 por CNPJ e ticket medio de R$ 3.515,77 por conta. Do total de negativados, 8,7 milhoes de CNPJs (~95%) sao micro e pequenas empresas. Fato confirmado por multiplas fontes independentes (Serasa Experian oficial, CNN Brasil, Poder360, Gazeta do Povo, Money Times) -- numeros batem integralmente com o rascunho.
+
+Cadeia causal (o que levou a isso):
+1) Selic ainda em patamar elevado (14% ao ano), mesmo apos o Banco Central iniciar o ciclo de corte em marco/2026 (vinha de 15%) -> credito segue caro e restrito para empresas.
+2) Segundo a economista-chefe da Serasa Experian, Camila Abdelmalack, as condicoes financeiras "seguem bastante restritivas" e a atividade economica "comeca a apresentar uma desaceleracao mais evidente" -> reduz o ritmo de geracao de receita das empresas justamente quando muitas ja tentam reorganizar passivos.
+3) Empresas menores sentem primeiro: 95% dos negativados sao micro/pequenos negocios, que tem menos colchao de caixa e dependem mais de credito caro para giro.
+4) O problema comeca pequeno e vira bola de neve: em media 7,3 contas em atraso por CNPJ inadimplente -- ou seja, raramente e uma divida unica, e um acumulo progressivo de pendencias que vai pressionando o fluxo de caixa ate estourar.
+5) Resultado: recorde historico de CNPJs negativados e de volume de divida, crescendo mes a mes desde pelo menos maio/2026.
+
+Por que esta repercutindo agora: o dado foi divulgado oficialmente na segunda (17/8) e a cobertura seguiu se espalhando por varios veiculos ate quinta (20/8) -- volume de cobertura alto (Gazeta do Povo, Revista Oeste, Monitor do Mercado, Perfil News, Jornal Passaporte, CNN Brasil, Poder360, Money Times, entre outros). E um numero recorde e redondo (9,1 milhoes de CNPJs, mais de R$ 232 bi), com angulo de causa-efeito muito claro (juro alto + credito caro -> inadimplencia recorde, puxada por pequenos negocios) e altissima identificacao com a dor do dono de PME -- publico central do canal.
+
+Angulo de gestao sugerido: o video NAO discute politica monetaria nem faz julgamento sobre Selic/Banco Central/governo -- usa a Selic so como dado de contexto. O foco e 100% pratico: como o dono de PME evita entrar nessa estatistica. Pontos: (a) fluxo de caixa e o que decide sobrevivencia quando o credito esta caro -- negociar prazos e reservar capital de giro antes de faltar; (b) o alerta dos "7,3 contas em atraso em media" -- inadimplencia raramente comeca grande, comeca com uma conta atrasada que vira duas, tres; o momento de agir e no primeiro atraso, nao no setimo; (c) empresa pequena tem menos colchao que empresa grande, entao a gestao de credito (nao depender de uma unica linha cara, conhecer alternativas de credito para PME) precisa ser mais disciplinada, nao menos.
+
+Dados de apoio:
+- Divida media por CNPJ inadimplente: R$ 25.508,96; ticket medio por conta em atraso: R$ 3.515,77 -- Fonte: Serasa Experian, via CNN Brasil (https://www.cnnbrasil.com.br/economia/negocios/juro-e-desafio-para-inadimplencia-das-empresas-diz-serasa-experian/)
+- Distribuicao setorial dos negativados: servicos 55,7%, comercio 32,2%, industria 8%, outros 3,1% -- Fonte: Serasa Experian, via CNN Brasil (https://www.cnnbrasil.com.br/economia/money/macroeconomia/inadimplencia-atinge-mais-de-91-milhoes-de-empresas-no-pais-e-bate-recorde/)
+- Evolucao mes a mes: 9 milhoes de CNPJs / R$ 229,9 bi em maio/2026 -> 9,1 milhoes / R$ 232,9 bi em junho/2026 (alta de 1,1% em numero de empresas e 1,3% em volume de divida) -- Fonte: Serasa Experian (release oficial) (https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/recorde-inadimplencia-das-empresas-superou-9-milhoes-de-reais-em-junho-e-dividas-chegaram-a-232-bilhoes-de-reais-revela-serasa-experian/)
+- Selic em 14% ao ano apos ciclo de corte do BC iniciado em marco/2026 (vinha de 15%) -- ainda considerada "historicamente elevada" pela Serasa -- Fonte: CNN Brasil (https://www.cnnbrasil.com.br/economia/negocios/juro-e-desafio-para-inadimplencia-das-empresas-diz-serasa-experian/)
+
+Ressalva/limite: o fator "Polemica adjacente" pontuou baixo (2/5), mas o tema toca em juros/Selic/politica monetaria do Banco Central, que pode escorregar para debate politico-economico maior (postura do governo, criticas ao BC). O video NAO deve comentar a politica monetaria em si, nao deve citar partido ou figura politica, nem tomar posicao sobre esse debate -- Selic entra so como dado tecnico de contexto, e o angulo do inicio ao fim e gestao/fluxo de caixa da PME. Tambem nao ha protagonista/marca unica (e um dado agregado de mercado), entao o video deve deixar claro que fala do cenario geral, nao de um caso especifico. Nenhuma recomendacao de investimento pessoal.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico (recorde historico -- mais de 9 milhoes de empresas com nome sujo, quase todas pequenas)
+- Contexto/causa raiz (juro alto + credito caro + desaceleracao da atividade)
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo -- do juro alto ate o acumulo de 7,3 contas em atraso por empresa)
+- Licao de gestao (a virada -- fluxo de caixa e disciplina de credito, agir no primeiro atraso)
+- Fechamento + CTA
+
+Fonte(s): Serasa Experian (release oficial) -- https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/recorde-inadimplencia-das-empresas-superou-9-milhoes-de-reais-em-junho-e-dividas-chegaram-a-232-bilhoes-de-reais-revela-serasa-experian/
+
+Runners-up do dia (registro/transparencia):
+- Raizen: prejuizo no 1T da safra 2026/27, acoes caem e Shell/Cosan perdem controle majoritario na maior recuperacao extrajudicial da historia corporativa do Brasil -- 21/35
+- Marabraz pede recuperacao judicial com divida de R$ 140 milhoes, puxada por briga societaria/familiar -- 19/35
