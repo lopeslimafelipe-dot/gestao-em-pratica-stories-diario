@@ -1,0 +1,33 @@
+ROTEIRO 1 — RH tá pronto pra liderar a IA?
+"A Mindsight lançou uma plataforma de RH com IA nativa que promete 🟡`reduzir em até 97% o tempo de processos como avaliação de desempenho`🟡 — mas a pesquisa da própria empresa, que tem interesse comercial no dado, revelou algo mais interessante: 🟡`83% dos profissionais de RH se sentem despreparados pra trabalhar com IA`🟡, e 🟡`em quase 4 de cada 10 empresas o resto do negócio já é mais maduro em IA do que o próprio RH`🟡. Se o setor que devia liderar a mudança de pessoas é o que mais está travado, a pergunta que fica é: quem está liderando a transformação digital do seu RH?"
+Fonte: Exame — https://exame.com/negocios/ia-generica-mindsight-passo-rh/
+
+============================================================
+
+ROTEIRO 2 — Cosan vende fatia da ferrovia pra pagar dívida
+"Em 20 de agosto, a Cosan comunicou ao mercado que está recebendo propostas vinculantes pela 🟡`venda de cerca de 15% da Rumo — a ferrovia — avaliados em torno de R$5 bilhões`🟡. Concorrem o Grupo México e a dupla chinesa Cofco/Bunge; o Grupo Ultra saiu por divergência de preço. A venda ainda não está fechada, mas o recado já vale: uma holding grande, dona de fatia relevante numa das maiores ferrovias do país, 🟡`disputada por estrangeiros só pra reduzir dívida`🟡. Se endividamento pesa até pra quem é desse tamanho, 🟡`disciplina de caixa não é luxo — é sobrevivência em qualquer porte de empresa`🟡."
+Fonte: Estadão/Broadcast, replicado por BPMoney — https://bpmoney.com.br/mercado/csan3-cosan-recebe-propostas-pela-rumo-mas-nao-decide-venda/
+
+============================================================
+
+ROTEIRO 3 — Brasil abre 3,6 milhões de empresas em 7 meses
+"Você viu recentemente aqui empresa grande fechando loja e pequeno empresário mais pessimista — mas são dois fenômenos diferentes: sentimento de quem já opera não cancela a fila de quem tá entrando agora. E essa fila é grande: o Brasil abriu 🟡`3,6 milhões de empresas nos primeiros 7 meses de 2026, 14% a mais que 2025`🟡, e 🟡`96,7% delas — MEI, micro e pequenas — são pequenos negócios`🟡. O dado é do Sebrae, que tem interesse em divulgar número favorável ao empreendedorismo, mas 🟡`ele só mede abertura de CNPJ, não se essas empresas sobrevivem depois`🟡. Ainda assim: 🟡`o brasileiro não parou de empreender só porque o juro tá alto`🟡."
+Fonte: Sebrae (dados Receita Federal), via Agência Sebrae de Notícias — https://agenciasebrae.com.br/dados/empreendedorismo-em-alta-abertura-de-novos-pequenos-negocios-cresce-14-em-2026/
+
+============================================================
+
+ROTEIRO 4 — O consumidor sem dinheiro que não parou de comprar
+"Uma pesquisa da EY-Parthenon com 1.500 consumidores americanos mostra que 🟡`54% não guardaram nenhum dinheiro no mês anterior`🟡, e 1 em cada 5 famílias gastou mais do que ganhou, recorrendo a poupança ou dívida. É dado de consultoria com interesse comercial em vender estratégia de consumo — mas o padrão real é outro: 🟡`72% ainda dizem que dá pra cortar restaurante, beleza e roupa se precisar, e 32% já reduziram viagem e lazer`🟡. 🟡`O cliente sem dinheiro não some — ele reorganiza pra onde vai o que sobra`🟡. A pergunta é: seu negócio está no que ele corta primeiro, ou no que ele protege até o fim?"
+Fonte: EY (EY-Parthenon) — https://www.ey.com/en_us/newsroom/2026/08/ey-parthenon-survey-finds-stable-consumer-sentiment-despite-ongoing-financial-pressure-and-spending-trade-offs
+
+============================================================
+
+ROTEIRO 5 — 3 anos de queda revertidos a trimestre por trimestre
+"A Estée Lauder encerrou 3 anos seguidos de queda na receita: 🟡`no trimestre fechado em junho, faturou US$3,63 bilhões, acima da previsão, e no ano fiscal completo somou US$15 bilhões, alta de 5%`🟡. 🟡`Lucro por ação ajustado saltou de US$1,51 pra US$2,51`🟡, e a margem operacional subiu 320 pontos-base, pra 11,2%. Na China, 🟡`vendas orgânicas cresceram 9% no ano, e a ação chegou a saltar 16% no anúncio do resultado`🟡. Os números vêm do próprio balanço da empresa — não é dica de investimento, é case de gestão. 🟡`Três anos de queda não se revertem com sorte: se revertem com foco, trimestre atrás de trimestre`🟡."
+Fonte: Bloomberg (números corroborados em múltiplas fontes secundárias) — https://www.bloomberg.com/news/articles/2026-08-19/estee-lauder-sales-beat-estimates-as-turnaround-bid-gains-steam
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] "Seu RH está pronto pra trabalhar com IA no dia a dia?" — Sim / Não
+2. [Pergunta/Participação, Roteiro 3] "Você abriu ou pensa em abrir uma empresa esse ano? Conta pra gente nos comentários (ou manda na caixinha) o que te motivou."
+3. [Virar História, Roteiro 5 -> Estilo Comparativo] O turnaround da Estée Lauder rende bem em Comparativo — lado a lado "3 anos de queda" vs "4 trimestres seguidos de virada" — porque o dado é essencialmente uma comparação de antes/depois, mais forte em imagem do que em fala direta.
