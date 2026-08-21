@@ -1,0 +1,56 @@
+PAUTA DO DIA -- RADAR DE REPERCUSSAO -- 2026-08-21
+
+CANDIDATO 1 -- Inadimplencia das empresas bate recorde historico: 9,1 milhoes de CNPJs negativados
+Fato: Segundo o Indicador de Inadimplencia das Empresas da Serasa Experian, divulgado na segunda-feira (17/8), o numero de empresas inadimplentes no Brasil superou 9,1 milhoes de CNPJs em junho/2026 -- a maior marca da serie historica. O volume de dividas em atraso chegou a R$ 232,9 bilhoes (ante R$ 229,9 bi em maio, alta de 1,3% no mes). Em media, cada empresa inadimplente acumula 7,3 contas em atraso. A grande maioria dos negativados -- cerca de 8,7 milhoes de CNPJs, ~95% do total -- e de micro e pequenas empresas. Segundo a propria Serasa, o principal fator estrutural por tras do quadro segue sendo a taxa de juros ainda elevada (Selic em 14% ao ano mesmo apos o BC iniciar o ciclo de corte em 2026) combinada com credito caro e restrito -- patamar considerado insuficiente para reverter a tendencia no curto prazo.
+Fonte: Serasa Experian (release oficial) -- https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/recorde-inadimplencia-das-empresas-superou-9-milhoes-de-reais-em-junho-e-dividas-chegaram-a-232-bilhoes-de-reais-revela-serasa-experian/
+(Cobertura ampla e ainda repercutindo entre 17-20/8 em: Gazeta do Povo, Revista Oeste, Monitor do Mercado, Perfil News, Jornal Passaporte, TMC, mercadoeconsumo.com.br, Portal do Fomento)
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 5/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: VENCEDOR DO DIA
+
+Observacao: fato foi divulgado oficialmente na segunda (17/8), 4 dias corridos antes de hoje -- por isso o Frescor pontuou baixo, mesmo com a cobertura ainda se espalhando por varios veiculos ate quinta (20/8). Nao ha um protagonista/marca unica (e um dado agregado da Serasa sobre todo o mercado), o que tambem limitou o fator Relevancia do protagonista. Mesmo assim, venceu por ter o angulo mais claro de explicar (juro alto + credito caro -> recorde de inadimplencia, puxado por pequenos negocios -> licao de fluxo de caixa/gestao de credito) e a maior identificacao direta com a dor do dono de PME entre os candidatos do dia.
+
+---
+
+CANDIDATO 2 -- Raizen: prejuizo no 1T da safra 2026/27, acoes caem e Shell/Cosan perdem controle majoritario na maior recuperacao extrajudicial da historia corporativa do Brasil
+Fato: A Raizen (joint venture entre Shell e Cosan, dona dos postos Shell e maior produtora de etanol do mundo) divulgou em 13/8 o resultado do 1o trimestre da safra 2026/27 (abril-junho): prejuizo liquido de R$ 1,64 bilhao (queda de 11% ante o mesmo periodo do ano anterior), receita liquida de R$ 51,46 bilhoes (+4%) e Ebitda ajustado de R$ 3,85 bilhoes (mais que dobrou). Apesar da melhora operacional puxada pela distribuicao de combustiveis (volume vendido +6,6%), o resultado financeiro ficou negativo em R$ 2,97 bilhoes (piora de 42,4%), e as acoes RAIZ4 chegaram a cair mais de 4% no pregao seguinte ao balanco. O pano de fundo e a recuperacao extrajudicial da empresa -- a maior desse tipo na historia corporativa do Brasil -- que reestruturou R$ 61,4 bilhoes em divida com adesao de 75% dos credores; como parte do plano, Shell e o empresario Rubens Ometto (Cosan) aceitaram diluir a fatia de ~44% que cada um tinha para uma faixa entre 3% e 15%, perdendo o controle majoritario que detinham desde a fundacao da empresa, em troca de aportar ate R$ 4 bilhoes para financiar a recuperacao.
+Fonte: ADVFN News -- https://br.advfn.com/jornal/2026/08/raizen-reduz-prejuizo-para-r-1-64-bilhao-no-1t-da-safra-2026-27-mas-divida-ainda-pesa
+(Cruzado com: InfoMoney, Seu Dinheiro, Visao Agro, Brazil Journal, Times Brasil/CNBC)
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 4/5
+TOTAL: 21/35
+Status: runner-up
+
+---
+
+CANDIDATO 3 -- Marabraz pede recuperacao judicial com divida de R$ 140 milhoes, puxada por briga societaria/familiar
+Fato: A rede de moveis e eletrodomesticos Marabraz protocolou, em 15/8, pedido de recuperacao judicial para renegociar uma divida estimada em R$ 140 milhoes. Diferente da Casas Bahia (juro alto + inadimplencia do consumidor), a crise da Marabraz tem uma causa raiz mais especifica de gestao: disputas societarias e familiares entre os socios fizeram a empresa perder acesso as garantias imobiliarias (os proprios imoveis das lojas) que sustentavam suas linhas de credito, dificultando a renovacao de financiamentos essenciais para o giro do negocio. As lojas seguem abertas normalmente enquanto a reorganizacao corre na Justica.
+Fonte: Revista Oeste -- https://revistaoeste.com/economia/marabraz-pede-recuperacao-judicial-com-divida-de-r-140-milhoes/
+(Cruzado com: Capital Aberto, Poder360, Exame, Gazeta do Povo)
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 3/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 5/5
+TOTAL: 19/35
+Status: runner-up
+
+---
+
+NOTA GERAL DO DIA: pesquisa cobriu G1, InfoMoney, Exame, Estadao, Forbes Brasil, Valor, CNN Brasil, Agencia Brasil, Serasa Experian e agregadores de manchete -- varios (G1, InfoMoney, Exame) bloquearam acesso direto via fetch, entao a cobertura desses veiculos foi checada via busca. Nao surgiu nenhum fato inedito e explosivo especificamente de hoje/ontem (21-20/8) alem dos desdobramentos continuos de Casas Bahia, que foi excluida por ja ter sido o VENCEDOR do dia 2026-08-20 (regra de nao-repeticao de assunto/empresa nos ultimos 10 dias deste pipeline). Por isso nenhum candidato do dia passou de 24/35 -- ainda assim acima do piso de ~15/35, entao ha pauta viavel, so nao com a forca do dia anterior.
