@@ -1,0 +1,73 @@
+PAUTA DO DIA -- RADAR DE REPERCUSSAO -- 2026-08-22
+
+CANDIDATO 1 -- Recuperacoes judiciais batem recorde no Brasil, puxadas pelo agronegocio
+Fato: Segundo o Monitor RGF-BIZDOC (consultoria especializada em reestruturacao empresarial), o numero de empresas brasileiras em recuperacao judicial cresceu 66% em 3 anos -- de 3.823 casos no 2º trimestre de 2023 para 6.341 casos no 2º trimestre de 2026 -- puxado principalmente por agronegocio, transporte/logistica e varejo. No agronegocio especificamente, o numero de CNPJs em RJ tambem saltou 66% nos ultimos 12 meses encerrados no 2T26, chegando a cerca de 1.263 empresas -- recorde para o setor. A pressao sobre o agro combina queda nos precos das commodities, aumento dos custos de producao, juros elevados e perdas por eventos climaticos; o levantamento cita que a taxa de juros para capital de giro, que estava abaixo de 11% ao ano em 2020, chegou a cerca de 23% ao ano em 2026, dificultando a rolagem de dividas e o acesso a credito novo.
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/recuperacoes-judiciais-no-agro-batem-recorde-com-alta-de-66-em-um-ano/
+(Cobertura ampla e simultanea em: Jornal de Brasilia, Jornal do Comercio, ES Hoje, Bem Parana, Diario do Comercio, Contabeis, Brasilagro, Noticias Agricolas, Sindifisco-MS, Terra Brasil Noticias -- fato divulgado por volta de 20-21/8, ainda se espalhando por dezenas de veiculos regionais e setoriais em 22/8)
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 26/35
+Status: VENCEDOR DO DIA
+
+>>> SINALIZACAO GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score porque o assunto encosta em debates publicos maiores -- a crise do agronegocio (setor com peso politico forte, bancada ruralista, pauta sensivel em ano eleitoral) e a critica implicita a manutencao de juros elevados por tempo prolongado. O roteiro da Etapa 2 NAO deve comentar politica partidaria, nao deve citar ou criticar figura/partido/governo, nem tomar posicao sobre a condução da politica monetaria ou agraria. O angulo tem que ficar 100% em gestao/negocio: o efeito pratico de um custo de capital de giro que triplicou em 6 anos (de ~11% para ~23% ao ano) sobre a saude financeira de qualquer empresa que dependa de credito pra girar o caixa -- e a licao de que setores ciclicos (como o agro, exposto a preco de commodity e clima) precisam de reserva e planejamento de divida ainda mais conservadores. Essa e a mesma logica de custo de capital que qualquer dono de PME sente ao renovar um emprestimo ou uma linha de credito.
+
+---
+
+CANDIDATO 2 -- Intencao de investimento das pequenas industrias cai ao menor nivel do ano, mostra CNI
+Fato: A Sondagem Industrial da CNI (Confederacao Nacional da Industria), divulgada em 20-21/8 com base em consulta a 1.407 empresas (578 pequenas, 489 medias, 340 grandes) feita entre 3 e 12/8, mostrou que o indice geral de intencao de investimento da industria caiu pelo 3º mes seguido, de 53,2 para 52,6 pontos -- mas entre as pequenas empresas o indicador despencou para 39,2 pontos, bem abaixo da linha de 50 (zona pessimista) e o pior resultado entre os tres portes e no ano. A CNI aponta tres causas: juros ainda elevados, aumento dos custos de producao e forte entrada de produtos importados.
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/intencao-de-investimento-da-industria-vai-ao-pior-patamar-em-2026/
+(Cruzado com: Folha de Londrina, Ipesi, RBN FM, Revista Construa, Paladino da Verdade, Movimento Economico)
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 2/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 22/35
+Status: runner-up
+
+---
+
+CANDIDATO 3 -- Nova regra do Banco Central "infla" calotes e aperta credito para PMEs
+Fato: Estudo divulgado por volta de 19/8 mostra que, em junho/2026, do total de R$ 85,1 bilhoes em credito bancario concedido a empresas com atraso superior a 90 dias, R$ 75,6 bilhoes (88,9%) estavam concentrados em micro, pequenas e medias empresas (MPMEs). A taxa de inadimplencia das MPMEs chegou a 5,71%, contra apenas 0,66% das grandes empresas -- uma diferenca de 5,05 pontos percentuais, uma das maiores desde agosto de 2017. Parte do aumento reflete uma mudanca regulatoria do Banco Central que passou a incluir no balanco dos bancos tambem atrasos "potenciais" (nao so os efetivos), alem do efeito real de juros altos sobre a capacidade de pagamento das PMEs.
+Fonte: InfoMoney -- https://www.infomoney.com.br/economia/inadimplencia-mpmes-credito-em-atraso-brasil/
+(Cruzado com: Jornal de Brasilia, O Tempo, Diario do Comercio, Curioso do Dia, Jornal do Comercio, Sindifisco-MS)
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 5/5
+TOTAL: 21/35
+Status: runner-up
+
+---
+
+CANDIDATO 4 -- Abra (Gol/Avianca) recorre ao Cade contra entrada da American Airlines na Azul
+Fato: A Abra, holding que controla Gol e Avianca, apresentou recurso ao Cade em 18/8 contra a aprovacao do aporte de US$ 100 milhoes da American Airlines na Azul (que da a American cerca de 8% do capital e assentos no conselho e no comite estrategico). O Cade aceitou o pedido da Abra para ser admitida como parte interessada no processo (pedido que havia sido negado em maio e foi reconsiderado). A Abra argumenta que a presenca simultanea de American e United na estrutura acionaria/governanca da Azul reduz incentivos a concorrencia entre as companhias e aumenta o risco de circulacao de informacoes concorrencialmente sensiveis.
+Fonte: PanRotas -- https://www.panrotas.com.br/aviacao/empresas/2026/08/abra-recorre-ao-cade-e-leva-aporte-da-american-na-azul-ao-tribunal_231240.html
+(Cruzado com: O Tempo, Melhores Destinos, Times Brasil/CNBC)
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 2/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 2/5
+TOTAL: 18/35
+Status: runner-up
+
+---
+
+NOTA GERAL DO DIA: pesquisa cobriu G1, InfoMoney, Exame, Estadao, Forbes Brasil, Valor, IBGE, Agencia Brasil, FecomercioSP, CNI, Serasa Experian, ABF e agregadores de manchete. A ferramenta de fetch direto (WebFetch) esteve bloqueada para todos os dominios testados hoje (incluindo dominios grandes como InfoMoney, G1, Poder360, Agencia Brasil, Serasa e ate Wikipedia) -- toda a cobertura de hoje foi checada via busca (WebSearch), com checagem cruzada em multiplos veiculos republicando o mesmo fato/numero para reduzir risco de erro. Ibovespa nao entrou como candidato: buscas sobre um suposto "recorde historico" do indice em 21/8 retornaram numeros contraditorios entre fontes (171 mil, 185 mil, 187 mil, 190 mil pontos), sinal de dado nao confiavel -- o fechamento mais corroborado (171.031,73 pontos, alta de 1,85%) nao caracteriza recorde, entao o assunto foi descartado por falta de confiabilidade dos dados encontrados. O vencedor do dia (recuperacoes judiciais em alta, puxadas pelo agro) e tematicamente proximo aos vencedores dos dois dias anteriores deste pipeline (demissao em massa da Casas Bahia em 20/8, recorde de inadimplencia via Serasa em 21/8) por tratarem todos do mesmo pano de fundo macro (juros altos, credito caro, aperto sobre PMEs) -- mas e um assunto e uma fonte de dados diferentes (recuperacao judicial, nao demissao nem inadimplencia de CNPJ), dentro da regra de nao-repeticao deste pipeline, e foi o que teve o maior score do dia por combinar boa cobertura, alta gravidade e angulo de agronegocio ainda inedito nesta pauta.
