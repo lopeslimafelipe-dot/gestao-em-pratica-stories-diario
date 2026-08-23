@@ -1,0 +1,79 @@
+PAUTA DO DIA -- RADAR DE REPERCUSSAO -- 2026-08-23
+
+CANDIDATO 1 -- Lula liga para Trump, tarifaco EUA-Brasil volta a mesa de negociacao
+Fato: Na sexta-feira (21/8), Lula telefonou para Trump (ligacao de cerca de 1h20) contestando as tarifas de 25% e 12,5% aplicadas pelos EUA sobre produtos brasileiros. Trump concordou em retomar negociacoes tecnicas; reuniao entre as equipes de comercio dos dois paises ficou marcada para segunda-feira (24/8) -- o representante comercial dos EUA, Jamieson Greer, ja contatou o ministro brasileiro Marcio Elias Rosa. No mesmo dia, o Ibovespa subiu 1,85% (a 171.031 pontos, 3º pregao seguido de alta apos 11 quedas) e o dolar caiu 0,93% (a R$ 5,1451), numa reacao direta do mercado a expectativa de destravamento comercial.
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ministros-do-brasil-e-eua-vao-retomar-negociacao-comercial
+(Cruzado com: O Tempo -- https://www.otempo.com.br/politica/governo/2026/8/21/por-telefone-a-lula-diz-a-trump-que-tarifas-sao-infundadas-e-que-pcc-e-cv-nao-sao-terroristas | InfoMoney -- https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21082026/ | Poder360 -- https://www.poder360.com.br/poder-governo/lula-liga-para-trump-e-diz-que-tarifas-contra-brasil-sao-infundadas/ | A Noticia do Vale -- https://anoticiadovale.com/2026/08/22/lula-conversa-com-trump-por-telefone-e-defende-retomada-das-negociacoes-comerciais-entre-brasil-e-eua/ -- alem de reflexo em coberturas de mercado tipo Money Times/Suno)
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 2/5
+TOTAL: 23/35
+Status: VENCEDOR DO DIA (por criterio de desempate -- ver nota abaixo)
+
+>>> SINALIZACAO GUARDRAIL POLITICO (reforcada -- risco acima da media): este e um caso-limite. Diferente do exemplo de referencia (Casas Bahia, onde o protagonista e uma empresa e a politica so fica "de fundo"), aqui o FATO CENTRAL em si e um ato politico direto -- uma ligacao entre dois chefes de Estado. Por isso o fator "Polemica adjacente sem envolvimento direto" foi pontuado propositalmente baixo (1/5): nao ha como isolar totalmente o angulo de negocio do pano de fundo politico. Uma das fontes cruzadas (O Tempo) registra que, na mesma ligacao, Lula tratou de um tema politico-diplomatico sensivel e especifico (classificacao de PCC/CV como organizacoes terroristas) -- esse ponto NAO deve aparecer no roteiro sob nenhuma hipotese. O roteiro da Etapa 2 tem que: (1) tratar o assunto exclusivamente pelo angulo de efeito pratico sobre negocio -- tarifas/cambio/comercio exterior e gestao de risco para quem exporta ou depende de insumo/servico em dolar; (2) evitar ao maximo citar Lula e Trump pelo nome ou reproduzir falas -- se precisar, mencionar apenas "governos do Brasil e dos EUA" de forma neutra; (3) jamais mencionar o tema PCC/CV, classificacao de terrorismo, Judiciario ou qualquer outro elemento da disputa politico-diplomatica; (4) nao tomar posicao sobre quem tem razao na disputa tarifaria. Se a Etapa 2 avaliar que nao da pra manter o roteiro 100% limpo de politica dentro desse angulo, a recomendacao deste radar e usar o CANDIDATO 2 (empatado em pontuacao, com risco politico muito menor) como pauta alternativa do dia.
+
+---
+
+CANDIDATO 2 -- Industria brasileira completa 20 meses de pessimismo e investimento cai ao pior patamar do ano (CNI)
+Fato: O ICEI (Indice de Confianca do Empresario Industrial), da CNI, subiu 1,9 ponto em agosto para 46,3 pontos -- mas segue abaixo da linha dos 50, marcando 20 meses seguidos de pessimismo industrial. A pesquisa ouviu 1.117 empresas (453 pequenas, 406 medias, 258 grandes) entre 3 e 7/8. A intencao de investimento caiu pelo 3º mes seguido, de 53,2 para 52,6 pontos -- o pior patamar do ano. Expectativas de exportacao e de emprego para os proximos 6 meses cruzaram a linha dos 50 e passaram a sinalizar queda.
+Fonte: CBIC -- https://cbic.org.br/cni-icei-sobe-19-ponto-em-agosto-mas-industria-completa-20-meses-de-pessimismo/
+(Cruzado com: Movimento Economico -- https://movimentoeconomico.com.br/economia/industria-empresas/2026/08/20/cni-industria-volta-a-crescer-mas-investimento-cai-ao-menor-nivel-do-ano/ | Poder360 -- https://www.poder360.com.br/poder-economia/intencao-de-investimento-da-industria-vai-ao-pior-patamar-em-2026/ | Revista Construa -- https://revistaconstrua.com.br/mercado/industria-intencao-investimento-cni-agosto/)
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 23/35
+Status: runner-up EMPATADO (pauta alternativa recomendada se o angulo do Candidato 1 nao se sustentar sem tocar em politica)
+
+---
+
+CANDIDATO 3 -- Exportacoes brasileiras batem recorde historico apesar do tarifaco dos EUA
+Fato: As exportacoes acumuladas no ano ate a 2ª semana de agosto somaram recorde historico para o periodo, com alta de cerca de 10,5% frente ao mesmo intervalo de 2025 e superavit comercial acumulado de US$ 52,08 bilhoes; so na 2ª semana de agosto o superavit foi de US$ 635,3 milhoes (+7% na comparacao anual). Exportacoes de cafe nao torrado subiram 22% e de soja 13,2% no periodo.
+Fonte: Agrolink -- https://www.agrolink.com.br/noticias/balanca-comercial--brasil-acumula-superavit-de-us--52-bilhoes_517998.html
+(Cruzado com: Diario de Pernambuco -- https://www.diariodepernambuco.com.br/economia/2026/08/11721444-balanca-comercial-tem-superavit-de-uss-6353-milhoes-na-2-semana-de-agosto.html | Acessa.com -- https://www.acessa.com/economia/2026/08/337187-balanca-comercial-tem-superavit-de-uss-6353-milhoes-na-2-semana-de-agosto.html)
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 17/35
+Status: runner-up
+
+---
+
+CANDIDATO 4 -- Light pede fim da recuperacao judicial apos aumento de capital de R$ 1,5 bilhao
+Fato: A Light formalizou pedido de encerramento da recuperacao judicial (processo aberto em 2023) apos homologar aumento de capital de R$ 1,5 bilhao (238,47 milhoes de novas acoes ordinarias a R$ 6,29 cada); a janela de subscricao foi de 16/7 a 14/8. E um contraponto positivo ao tema "recorde de recuperacoes judiciais" ja coberto por este pipeline em 22/8 -- aqui e uma empresa SAINDO de RJ, nao entrando.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/light-anuncia-homologacao-de-aumento-de-capital-e-pede-fim-da-recuperacao-judicial/
+(Cruzado com: CNN Brasil -- https://www.cnnbrasil.com.br/infra/light-pede-fim-da-recuperacao-judicial-e-anuncia-aumento-de-capital/ | Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/aumento-de-capital-bilionario-e-fim-da-recuperacao-judicial-o-que-o-investidor-precisa-saber-da-nova-fase-da-light-ligt3-ccgg/)
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 16/35
+Status: runner-up
+
+---
+
+NOTA GERAL DO DIA: pesquisa cobriu G1, InfoMoney, Exame, Estadao, Forbes Brasil, Valor, IBGE, Agencia Brasil, FecomercioSP, CNI, Serasa Experian, ABF, alem de McKinsey/HBR/PwC/WEF/Statista/Forbes internacional e agregadores de manchete para medir volume de cobertura. Nenhum dos temas repete os vencedores dos ultimos 3 dias deste pipeline (Casas Bahia em 20/8, inadimplencia Serasa em 21/8, recuperacoes judiciais do agro em 22/8) -- so ha 3 dias de historico disponivel na pasta de saidas, entao a checagem cobriu todo o historico existente.
+
+Um candidato foi DESCARTADO por falta de confiabilidade: noticias sobre o Carrefour fechando lojas no Brasil (16-20/8) incluiam, em pelo menos uma fonte de baixa qualidade (agregador regional), a alegacao de que fechamentos na Bahia/Ceara foram motivados por "saques e invasoes" -- alegacao que nao foi possivel confirmar em fonte primaria confiavel e que pode ser confusao com fatos de 2024 (quando o Carrefour de fato encerrou operacoes de hipermercado nessas duas regiões). Como o angulo mais solido (Carrefour perdendo espaco/participacao de mercado para redes regionais) tambem apareceu concentrado em agregadores republicando a mesma nota de assessoria (sinal de pauta de imprensa recirculada, nao cobertura jornalistica independente), o candidato foi descartado por inteiro nesta rodada.
+
+Dois temas ficaram de fora como candidatos autonomos por serem dado de contexto/tendencia estrutural, nao fato do dia: o corte da Selic pelo Copom para 14,00% a.a. (decidido em 4-5/8, ja processado ha quase 3 semanas) e o mercado de M&A no Brasil no 1º semestre de 2026 (593 transacoes, queda de ~35% em volume mas alta de 15% em valor para US$ 32,6 bi, puxado por negocios como a compra da Serra Verde -- unica mineradora de terras raras do Brasil -- pela americana USA Rare Earth por US$ 2,8 bi). Ambos foram usados apenas como pano de fundo.
+
+O CANDIDATO 1 (Lula liga para Trump) e o CANDIDATO 2 (CNI/pessimismo industrial) empataram em 23/35. Como o criterio de desempate e "maior gravidade, depois maior frescor" e os dois empataram tambem em gravidade (3/5), o frescor decidiu -- Candidato 1 e mais recente (evento de sexta-feira, com desdobramento marcado para amanha) contra um dado de pesquisa divulgado ha 3 dias. Por isso o Candidato 1 leva o titulo de vencedor do dia, mas com a ressalva explicita registrada acima: dado o risco politico incomum (o fato central envolve diretamente chefes de Estado, nao uma empresa), este radar recomenda que a Etapa 2 avalie com cautela extra se da pra sustentar um roteiro 100% de negocio sobre esse tema -- e, se nao der, use o Candidato 2 como pauta do dia no lugar, sem prejuizo algum, ja que os dois estao tecnicamente empatados em pontuacao.
