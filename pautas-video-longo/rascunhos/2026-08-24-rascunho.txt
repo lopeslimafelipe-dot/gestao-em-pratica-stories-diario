@@ -1,0 +1,63 @@
+PAUTA DO DIA -- RADAR DE REPERCUSSAO -- 2026-08-24
+
+RESUMO EXECUTIVO: dia de noticiario fraco para este radar. Nenhum candidato do dia atingiu score confiavel acima de ~15/35 com FRESCOR genuino (fato de hoje/ontem) sem ser repeticao direta de assunto ja usado como pauta nos ultimos 4 dias deste pipeline. Ver NOTA GERAL no fim para a lista completa de temas excluidos e o motivo.
+
+---
+
+CANDIDATO 1 -- Preco da soja bate maior patamar em mais de 3 anos, mas safra recorde de 178 milhoes de toneladas gera excesso de oferta global
+Fato: entre 13 e 20/8, o indicador Cepea/Esalq de Paranagua subiu 5,2%, aproximando-se de R$ 155 pela saca de 60 kg -- maior preco em mais de 3 anos. Ao mesmo tempo, a safra brasileira bateu recorde de producao (178 milhoes de toneladas), consolidando a lideranca nas exportacoes -- mas gerando um cenario de excesso de oferta global liderado pelo Brasil, que tende a pressionar os precos para baixo no medio prazo. E um sinal classico de ciclo de commodity: alta de curto prazo dentro de uma tendencia estrutural de queda.
+Fonte: BP Money -- https://bpmoney.com.br/agro/preco-soja-sobe-5-maior-nivel-desde-2023-cepea/
+(Cruzado com: Noticias Agricolas -- https://www.noticiasagricolas.com.br/cotacoes/soja | Bloomberg Linea -- https://www.bloomberglinea.com.br/agro/preco-do-cafe-sob-pressao-e-soja-em-abundancia-o-que-esperar-das-commodities-em-2026/)
+Score de Repercussao:
+- Frescor: 2/5 (dado da semana de 13-20/8, nao especificamente de hoje/ontem)
+- Relevancia do protagonista: 1/5 (commodity, sem marca/empresa unica)
+- Gravidade: 2/5 (movimento de preco relevante pro setor, mas nao e evento disruptivo isolado)
+- Polemica adjacente: 1/5 (sem gancho politico/polemico direto)
+- Volume de cobertura: 2/5 (cobertura concentrada em veiculos especializados de agro, nao virou manchete geral)
+- Clareza do angulo: 3/5 (da pra explicar preco sobe x safra recorde x risco de queda futura, mas e tecnico pra 2min)
+- Identificacao com audiencia: 3/5 (parte da audiencia de PME lida com custo de insumo/commodity, mas nao e universal)
+TOTAL: 14/35
+Status: descartado (abaixo do piso de ~15/35)
+
+---
+
+CANDIDATO 2 -- Boletim Economico de agosto da Serasa: inadimplencia do consumidor bate novo recorde (83,7 milhoes de CPFs negativados)
+Fato: segundo o Boletim Economico de agosto/2026 da Serasa Experian, o Brasil chegou a 83,7 milhoes de consumidores inadimplentes em junho, com 234 mil novos registros no mes -- cada CPF negativado acumula em media ~4 dividas, somando R$ 6.920,63. O boletim tambem mostra a Selic parada em 14% ao ano (Serasa projeta so mais 1 corte de 0,25pp ate o fim do ano) e credito seguindo caro tanto para consumidor quanto para empresa.
+Fonte: Serasa Experian -- https://www.serasaexperian.com.br/conteudos/boletim-economico-de-agosto-2026/
+Score de Repercussao:
+- Frescor: 2/5 (boletim mensal generalista, dado-base de junho, sem confirmacao de divulgacao especifica hoje/ontem)
+- Relevancia do protagonista: 1/5 (dado agregado do mercado, sem marca unica)
+- Gravidade: 2/5 (numero alto, mas e tendencia continua ja conhecida, nao evento novo isolado)
+- Polemica adjacente: 2/5 (juro alto/economia, tema ja bastante explorado nesta semana do pipeline)
+- Volume de cobertura: 1/5 (nao foram encontrados multiplos veiculos comentando esse boletim especificamente hoje)
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5 (e sobre inadimplencia de pessoa fisica/consumidor, nao diretamente sobre credito de PME -- ainda que o pano de fundo de juro alto seja o mesmo)
+TOTAL: 14/35
+Status: descartado (abaixo do piso de ~15/35; alem disso, tematicamente muito proximo do vencedor de 21/8 -- inadimplencia via Serasa -- ainda que la fosse CNPJ e aqui seja CPF)
+
+---
+
+CANDIDATO 3 -- Corte de vagas em big techs globais (Google, TikTok, Etsy, Zillow e outras) mesmo com investimento recorde em IA
+Fato: levantamentos de agosto/2026 mostram que os cortes de empregos em tecnologia ja superam o total de 2025 -- mais de 200 mil trabalhadores afetados em mais de 320 eventos de demissao no ano, incluindo novas rodadas anunciadas na primeira semana de agosto por Google, TikTok, Etsy e Zillow. O pano de fundo e o mesmo em todos os casos: as empresas cortam quadro corporativo ao mesmo tempo em que ampliam investimento bilionario em infraestrutura de IA.
+Fonte: Fast Company -- https://www.fastcompany.com/91586807/tech-layoffs-august-2026-update-tiktok-etsy-zillow-slash-jobs
+(Cruzado com: Futurism -- https://futurism.com/future-society/2026-tech-layoffs-surpass-2025 | IBTimes -- https://www.ibtimes.com/tech-layoffs-2026-already-beat-last-years-total-google-zillow-tiktok-cut-hundreds-3806211)
+Score de Repercussao:
+- Frescor: 1/5 (tendencia acumulada do ano; a pesquisa deste radar NAO conseguiu confirmar com confianca um evento de corte especifico ocorrido exatamente hoje/ontem -- ha risco de que os numeros citados por diferentes fontes estejam misturando datas de anuncios de meses distintos de 2026)
+- Relevancia do protagonista: 4/5 (marcas globais conhecidas, mas nao e uma unica marca -- e um conjunto)
+- Gravidade: 3/5 (volume alto acumulado, mas continuo, sem pico isolado hoje)
+- Polemica adjacente: 2/5 (debate de IA substituindo empregos ja e constante, sem gatilho novo hoje)
+- Volume de cobertura: 2/5 (cobertura concentrada em imprensa de tecnologia internacional, pouco eco em veiculos de negocios brasileiros)
+- Clareza do angulo: 3/5 (angulo de gestao existe -- cortar time e investir bilhoes em tecnologia ao mesmo tempo -- mas exige explicar contexto internacional antes de chegar na licao)
+- Identificacao com audiencia: 2/5 (protagonistas grandes e distantes da realidade do dono de PME brasileiro)
+TOTAL: 17/35
+Status: descartado apesar do score -- ver nota abaixo
+
+>>> NOTA SOBRE O CANDIDATO 3: o total (17/35) tecnicamente passaria do piso de ~15/35, mas este radar optou por NAO promove-lo a vencedor porque (1) a checagem de fontes nao permitiu confirmar com seguranca que ha um fato ESPECIFICO de hoje ou ontem por tras do numero -- os levantamentos citados agregam meses de cortes e diferentes fontes divergem sobre quais empresas cortaram vagas em qual semana exata, o que e exatamente o tipo de dado pouco confiavel que os radares anteriores (ver nota de 22/8 sobre o Ibovespa) descartaram por principio; e (2) e um assunto internacional de tecnologia, fora do foco de "o que bombou hoje no noticiario de negocios BRASILEIRO" que e o objetivo central deste radar. Registrado aqui apenas para documentar a pesquisa, nao como pauta viavel.
+
+---
+
+NOTA GERAL DO DIA: pesquisa cobriu G1, InfoMoney, Exame, Estadao, Forbes Brasil, Valor Economico, IBGE, Agencia Brasil, FecomercioSP, CNI, Serasa Experian, ABF, alem de McKinsey/HBR/PwC-Deloitte-EY/WEF/Statista/Forbes internacional/NFIB e agregadores de manchete para medir volume de cobertura. Foi um segunda-feira tipicamente fraca em fatos novos: a maior parte da agenda do dia era rotina de mercado (Focus Market Readout as 11h25, data-com de dividendos da Ultrapar) ou desdobramento tecnico de historias que ja foram vencedoras deste proprio radar nos ultimos dias -- por isso EXCLUIDAS de saida como candidatos numerados, por violarem a regra de nao-repeticao de assunto nos ultimos 10 dias corridos (so ha 4 dias de historico nesta pasta, entao a checagem cobriu todo o historico existente: Casas Bahia em 20/8, inadimplencia CNPJ via Serasa em 21/8, recuperacoes judiciais do agro em 22/8, tarifaco Brasil-EUA em 23/8):
+- Reuniao Brasil-EUA sobre tarifas: hoje (24/8) o ministro Marcio Elias Rosa e o representante comercial dos EUA Jamieson Greer apenas confirmaram por telefone que vao definir os detalhes de uma reuniao/videoconferencia para a "proxima semana" -- e um desdobramento tecnico do mesmo assunto que foi VENCEDOR do dia 23/8 (ligacao Lula-Trump), sem fato novo substancial hoje.
+- CNI/ICEI (confianca industrial de agosto, 46,3 pontos, 20 meses de pessimismo): mesmo dado ja usado como candidato nos radares de 22/8 e 23/8 -- sem atualizacao nova hoje.
+Tambem foram descartadas por serem materia velha recirculando em agregadores, sem fato novo de hoje: Grupo Mateus (fechamento de 28 lojas e ~6,6 mil demissoes -- decisao de marco/maio/2026) e Americanas (pedido de fim da recuperacao judicial -- protocolado em 25/3/2026, ainda em disputa com credores, mas sem desdobramento novo confirmado hoje).
+CONCLUSAO: nenhum candidato atingiu, com confianca, um score que combine frescor genuino de hoje/ontem, fato relevante e nao-repetitivo. Recomendacao deste radar: nao forcar pauta de video longo hoje. Se for necessario produzir algo mesmo assim, o Candidato 2 (inadimplencia do consumidor via Serasa) e o menos arriscado por ter a melhor identificacao com a audiencia, mas deve ser tratado como pauta de contexto/tendencia, nao como "fato do dia".
