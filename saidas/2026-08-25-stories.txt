@@ -1,0 +1,29 @@
+ROTEIRO 1 — De 10% pra 100%: a IA que ouve toda ligação do banco
+"Você sabia que só 🟡`5 a 10% das ligações do seu banco eram ouvidas`🟡 até agora? Na Febraban Tech 2026, a Claro lançou uma IA que transcreve e analisa 🟡`100% das chamadas de call center bancário`🟡 — e, segundo a própria empresa, isso elevou a conversão de vendas em 10% num piloto interno. Ela também lançou GPU como serviço com até 50% de desconto frente à compra do hardware. Pra mim a pergunta não é por que ninguém ouvia as ligações — é 🟡`quantos clientes insatisfeitos sua empresa nunca soube que teve`🟡. Agora dá pra checar tudo, e ficou mais barato fazer isso."
+Fonte: Exame — https://exame.com/inteligencia-artificial/claro-mira-bancos-com-gpu-mais-barata-e-ferramenta-de-ia-para-call-center/
+
+ROTEIRO 2 — A dívida de US$10,9 bi que tirou a Braskem do Ibovespa
+"A Braskem pediu recuperação extrajudicial — diferente da recuperação judicial da Casas Bahia — pra renegociar 🟡`US$10,9 bilhões em dívida`🟡. 🟡`A ação caiu 6,71% na segunda, acumulando queda de 40% no ano`🟡; desde hoje a B3 tirou a empresa do Ibovespa e de outros índices. A empresa diz que o pedido é só financeiro — fornecedores e funcionários ficam de fora. Pra mim uma dívida assim não quebra a empresa da noite pro dia: ela quebra devagar, até o dia em que 🟡`33% dos credores concordam que é hora de sentar numa mesa`🟡, o mínimo exigido por lei. Sua empresa saberia reconhecer esse ponto antes de virar manchete?"
+Fonte: InfoMoney — https://www.infomoney.com.br/mercados/b3-anuncia-exclusao-de-braskem-em-indices-apos-pedido-de-recuperacao-extrajudicial/
+
+ROTEIRO 3 — Selic travada, PIB revisado pra baixo
+"O Boletim Focus do Banco Central, com quase 170 instituições financeiras, 🟡`revisou a projeção do PIB de 2026 de 1,98% pra 1,95%`🟡 — e 🟡`manteve a Selic prevista pro fim do ano em 13,75%, travada pela 3ª semana seguida`🟡. 🟡`O IPCA projetado ficou em 5,02%, acima do teto da meta`🟡. Pra mim o mercado não está esperando alívio: está esperando o mesmo juro alto de sempre, e agora acha que o país vai crescer um pouco menos do que achava há um mês. Isso muda o quanto você deveria estar confiante pra tomar crédito agora?"
+Fonte: InfoMoney — https://www.infomoney.com.br/economia/boletim-focus-projecoes-macroeconomicas-24082026/
+
+ROTEIRO 4 — A fórmula 1:3:5 de quem lucra com IA
+"Segundo artigo de agosto da McKinsey, com mais de 10 mil líderes em 16 países, transformações de IA agêntica bem-sucedidas seguem 🟡`a proporção 1:3:5: pra cada US$1 em tecnologia, entram US$3 em redesenho de processos e US$5 em capacitação das pessoas`🟡. A maioria das empresas inverte isso e gasta quase tudo só na tecnologia. Você comprou a ferramenta de IA? Ótimo — pra mim 🟡`isso foi 1 real de cada 9 que devia investir`🟡. Os outros 8 iam pra treinar sua equipe e redesenhar o trabalho. É por isso que a IA que ia economizar seu tempo virou só mais um software que ninguém usa direito."
+Fonte: McKinsey & Company — https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap
+
+ROTEIRO 5 — 74% apostam em IA, só 5% estão prontos
+"Uma pesquisa da Deloitte com 501 executivos nos EUA — todos de empresas que já pilotam IA agêntica — mostra que 🟡`74% deles esperam que quase metade dos processos da empresa seja redesenhada em torno de agentes de IA em até 4 anos`🟡. Só que 🟡`apenas 5% dizem que a própria empresa está altamente preparada pra isso`🟡, e só 15% já escalaram soluções multiagente entre áreas. Pra mim a pergunta incômoda não é se sua empresa vai usar IA — é se o processo aguenta ser redesenhado, ou vai quebrar no meio do caminho."
+Fonte: Deloitte US — https://www.deloitte.com/us/en/about/press-room/deloitte-survey-examines-ai-readiness-agentic-ai-success.html
+
+ROTEIRO 6 — A janela do Simples Nacional abre em 7 dias
+"Isso não é o Desenrola MEI — é outra coisa: pela Resolução CGSN 186, 🟡`a escolha do regime do Simples Nacional pra 2027 deixou de ser em janeiro e passa a ser feita em setembro`🟡. 🟡`Entre 1º e 30/09/2026, você formaliza a opção pelo Portal do Simples Nacional`🟡, e no mesmo prazo decide como vai recolher os novos impostos IBS e CBS a partir de 2027. 🟡`Há direito de arrependimento só até 30 de novembro`🟡. Pra mim quem não souber que a janela mudou de janeiro pra agora só vai descobrir tarde demais."
+Fonte: Receita Federal / Gov.br — https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/prazo-para-solicitacao-pelo-simples-nacional-sera-em-setembro-de-2026
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 5] Sua empresa está preparada pra ter processos redesenhados em torno de agentes de IA? Sim / Ainda não
+2. [Pergunta/Participação, Roteiro 2] Sua empresa já sentiu de perto uma crise de caixa apertando? Conta nos comentários como vocês perceberam (ou não) o sinal antes de virar problema 👇
+3. [Virar História, Roteiro 1 -> Estilo Comparativo] O Roteiro 1 rende bem como Comparativo: lado a lado, "5-10% das ligações checadas ANTES" x "100% checadas AGORA" — o contraste visual reforça o salto de controle sem precisar de texto extra.
