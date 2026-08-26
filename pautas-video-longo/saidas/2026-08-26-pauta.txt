@@ -1,0 +1,51 @@
+PAUTA DO DIA -- 2026-08-26
+Assunto: Justica confirma falencia definitiva da Oi, pela segunda vez
+Score final: 29/35 (Frescor 5/5, Relevancia do protagonista 5/5, Gravidade 5/5, Polemica adjacente 2/5, Volume de cobertura 5/5, Clareza do angulo 4/5, Identificacao com audiencia 3/5)
+
+Fato central verificado: em 25/8/2026, a 1a Camara de Direito Privado do Tribunal de Justica do Rio de Janeiro (TJ-RJ) rejeitou os recursos (agravos de instrumento) movidos pelos bancos Itau Unibanco e Bradesco e confirmou a decretacao de falencia da Oi, encerrando definitivamente o processo de recuperacao judicial da empresa. E a segunda vez que a falencia da Oi e decretada: a primeira foi em novembro/2025, mas uma liminar suspendeu a decisao apos recurso dos bancos, devolvendo a empresa a um segundo processo de recuperacao judicial -- do qual ela agora sai sem sucesso. O patrimonio liquido da Oi esta negativo em mais de R$ 22,6 bilhoes, com divida total que ultrapassa R$ 44 bilhoes (R$ 44,3 bi). Fato confirmado por triangulacao entre pelo menos oito veiculos independentes (ND+, Exame, Migalhas, TELETIME News, O Tempo, Money Times, Telesintese, BM&C News), todos com os mesmos numeros e a mesma cronologia, sem divergencia relevante.
+Fonte principal: ND+ -- https://ndmais.com.br/economia/nova-falencia-da-oi-e-decretada-pela-justica/
+
+Cadeia causal (o que levou a isso):
+1) A Oi ja vinha de uma primeira recuperacao judicial concluida em 2022 e entrou numa segunda recuperacao judicial pouco depois, sem conseguir reequilibrar as contas.
+2) Em junho/2026, a Justica suspendeu a venda da participacao da Oi na V.tal (a empresa de infraestrutura de fibra optica que era um dos ativos mais valiosos que ainda restavam ao grupo), depois que credores e investidores questionaram a proposta vencedora do leilao, alegando preco muito abaixo do minimo original e descumprimento de regras do plano de recuperacao. Essa venda era uma das principais fontes de caixa que a empresa contava para se manter operando.
+3) Sem conseguir concluir essa venda e sem outras fontes de receita suficientes, o caixa do grupo despencou: de R$ 88,1 milhoes (projecao de junho) para R$ 19,6 milhoes ao final de julho/2026 -- uma queda de cerca de 78% em poucas semanas.
+4) A administracao judicial informou a Justica que a partir de agosto/2026 a empresa teria esgotamento total dos recursos em caixa, sem dinheiro nem para despesas essenciais de operacao.
+5) A Justica tambem apontou indicios de abuso de poder na gestao da companhia -- esvaziamento patrimonial, fornecimento de informacoes equivocadas aos credores e contratacao de profissionais por valores incompativeis com a situacao recuperacional -- fatores que pesaram contra a continuidade da recuperacao judicial.
+6) Diante do quadro, a empresa fechou em 4/8/2026 acordo com 17 entidades sindicais (entre elas FENATTEL, FITRATELP e Federacao Livre) para demitir cerca de 60% do seu quadro de funcionarios (que hoje gira em torno de 2 mil pessoas, ja bem reduzido frente ao historico da empresa), com verbas rescisorias parceladas e multa de 40% do FGTS paga em ate 120 dias -- demissoes iniciadas em 18/8, antes mesmo da decisao final de falencia.
+7) Com o caixa oficialmente esgotado e o plano de recuperacao descumprido, a Justica confirmou a falencia em 25/8, encerrando o processo.
+
+Por que esta repercutindo agora: a decisao saiu ontem (25/8) e seguiu repercutindo amplamente hoje em dezenas de veiculos -- de imprensa de telecom e mercado a portais generalistas -- porque e um evento consumado (nao mais um risco ou uma discussao juridica em aberto) envolvendo uma marca extremamente conhecida por praticamente todo brasileiro, com numeros de divida e prejuizo em escala pouco usual.
+
+Angulo de gestao sugerido: o video NAO deve comentar a disputa entre os bancos credores, questionar a decisao judicial, nem tocar em qualquer viés politico sobre a historia da empresa -- o foco e 100% pratico, com tres frentes:
+1) O que significa, na pratica, "queimar caixa" ate nao sobrar dinheiro pra despesa essencial -- e por que acompanhar de perto a projecao de caixa (nao so o resultado do mes passado) e a diferenca entre reestruturar a tempo ou nao. O caso Oi mostra isso de forma didatica: caixa caiu quase 80% em poucas semanas porque a empresa dependia de uma unica venda de ativo que travou no meio do caminho -- ou seja, plano B de caixa importa.
+2) A Justica citou expressamente informacao equivocada a credores e contratacoes com custo incompativel com a crise como agravantes -- ou seja, transparencia financeira com quem financia o negocio (banco, fornecedor, investidor) e ativo de gestao, nao burocracia. Esconder ou maquiar numero na crise piora a posicao de negociacao, nao melhora.
+3) A diferenca pratica entre recuperacao judicial (a empresa ainda tenta se reerguer, negocia prazo com credores) e falencia (fim da operacao, liquidacao de ativos) -- util pro dono de PME reconhecer em que estagio de uma crise financeira ele esta e agir antes de nao ter mais opcao de negociar.
+
+Dados de apoio:
+- Queda de caixa: de R$ 88,1 milhoes (projecao de junho/2026) para R$ 19,6 milhoes (final de julho/2026) -- fonte: InfoMoney, https://www.infomoney.com.br/mercados/oi-oibr3-alerta-para-queda-de-caixa-e-risco-a-continuidade-operacional-em-agosto/
+- Venda da participacao na V.tal suspensa pela Justica em junho/2026 apos contestacao de credores sobre o preco do leilao -- fonte: Seu Dinheiro, https://www.seudinheiro.com/2026/empresas/sem-venda-de-um-dos-principais-ativos-oi-oibr3-ve-caixa-minguar-para-r-196-milhoes-e-pode-ficar-sem-recursos-para-operar-davs/
+- Acordo de demissao de 60% do quadro (cerca de 1.000 pessoas de um total de ~2.000) com 17 sindicatos, multa de FGTS parcelada em ate 120 dias, demissoes iniciadas em 18/8 -- fonte: TELETIME News, https://teletime.com.br/13/08/2026/oi-justica-autoriza-demissoes/
+- Anatel confirmou que a falencia nao compromete a continuidade dos servicos de telecomunicacoes que ainda operam sob o grupo (incluindo telefones publicos em cerca de 7.500 localidades e servicos de utilidade publica); a operacao segue sob acompanhamento da agencia e da administracao judicial durante a transicao -- fonte: Agencia Nacional de Telecomunicacoes (Anatel), https://www.gov.br/anatel/pt-br/assuntos/noticias/decretacao-de-falencia-da-oi-nao-compromete-a-continuidade-dos-servicos-de-telecomunicacoes
+- Patrimonio liquido negativo em mais de R$ 22,6 bilhoes e divida total acima de R$ 44 bilhoes (R$ 44,3 bi) -- fonte: ND+, https://ndmais.com.br/economia/nova-falencia-da-oi-e-decretada-pela-justica/
+
+Ressalva/limite: o candidato pontuou baixo em "Polemica adjacente" (2/5), entao o risco politico e menor que em outras pautas -- ainda assim, o caso envolve grandes bancos credores (Itau, Bradesco) como partes que recorreram e perderam. O video NAO deve emitir opiniao sobre se os bancos agiram certo ou errado, nem sobre o merito da decisao judicial em si -- tratar apenas como fato consumado e extrair a licao de gestao. Tambem nao comentar viés politico algum sobre a Oi ou sobre o setor de telecom regulado pelo Estado.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico (empresa gigante e conhecida por todo brasileiro vai a falencia pela segunda vez em menos de um ano)
+- Contexto/causa raiz: como o caixa foi de R$ 88 milhoes a R$ 19 milhoes em poucas semanas por depender de uma unica venda de ativo que travou
+- Desenvolvimento da cadeia causal: divida de R$ 44 bi, descumprimento do plano de recuperacao, indicios de informacao equivocada a credores, demissao de 60% do quadro antes mesmo da decisao final
+- Licao de gestao (a virada): projetar caixa a frente e ter plano B; transparencia com quem financia o negocio; saber diferenciar estagio de recuperavel de estagio de insolvente
+- Fechamento + CTA
+
+Fonte(s):
+- ND+ -- https://ndmais.com.br/economia/nova-falencia-da-oi-e-decretada-pela-justica/
+- Exame -- https://exame.com/invest/mercados/justica-decreta-falencia-da-oi-pela-segunda-vez/
+- Migalhas -- https://www.migalhas.com.br/quentes/463169/tj-rj-decreta-falencia-da-oi-e-encerra-recuperacao-judicial
+- TELETIME News -- https://teletime.com.br/25/08/2026/justica-do-rio-de-janeiro-decide-pela-falencia-da-oi/
+- InfoMoney -- https://www.infomoney.com.br/mercados/oi-oibr3-alerta-para-queda-de-caixa-e-risco-a-continuidade-operacional-em-agosto/
+- Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/sem-venda-de-um-dos-principais-ativos-oi-oibr3-ve-caixa-minguar-para-r-196-milhoes-e-pode-ficar-sem-recursos-para-operar-davs/
+- Anatel (gov.br) -- https://www.gov.br/anatel/pt-br/assuntos/noticias/decretacao-de-falencia-da-oi-nao-compromete-a-continuidade-dos-servicos-de-telecomunicacoes
+
+Runners-up do dia (registro/transparencia):
+- Grupo Mateus tem lucro recuando 39% no 2T26 mesmo apos corte de custos -- 25/35
+- Bradespar e Litel pagam R$ 2,82 bi para encerrar disputa de mais de dez anos ligada a privatizacao da Vale -- 18/35 (fraco, registrado por completude)
