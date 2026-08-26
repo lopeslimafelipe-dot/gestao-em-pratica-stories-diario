@@ -1,0 +1,39 @@
+ROTEIRO 1 — Cliente da OmniChat triplica vendas com agente de IA no WhatsApp
+"Um cliente da OmniChat, do setor de brinquedos, triplicou as vendas num trimestre sem contratar reforço pro pico — trocou parte do atendimento humano por um agente de IA no WhatsApp. O CEO contou o case no Fórum E-Commerce Brasil: 🟡`a conversão nesse canal saltou de 4% pra 70%`🟡. É depoimento comercial da própria fornecedora, sem nome do cliente revelado. Mesmo assim, o dado chama atenção: 🟡`só 10% das vendas de toda a base de clientes da empresa já passam por IA`🟡 — o resultado apareceu antes da automação virar maioria. Vale testar onde seu WhatsApp trava venda hoje."
+Fonte: Central do Varejo — https://centraldovarejo.com.br/forum-e-commerce-brasil-tecnologia-aposta-em-agentes-de-ia/
+
+============================================================
+
+ROTEIRO 2 — Depois de quase 10 anos tentando se reerguer, Justiça decreta falência da Oi
+"A Oi não quebrou agora: vinha quebrando devagar desde 2016, entre planos de recuperação judicial que ganharam tempo, mas não resolveram o problema de fundo. Essa semana, o Tribunal de Justiça do Rio decretou a falência da empresa, dessa vez de forma definitiva — 🟡`a dívida passa de R$44,3 bilhões, contra um patrimônio líquido negativo de R$22,6 bilhões`🟡. Segundo a administração judicial, a empresa já não tinha caixa nem operação de verdade pra se sustentar. Fica a lição: 🟡`reestruturar dívida compra tempo, mas não substitui um negócio que ainda gera receita de verdade`🟡."
+Fonte: TeleTime — https://teletime.com.br/25/08/2026/justica-do-rio-de-janeiro-decide-pela-falencia-da-oi/
+
+============================================================
+
+ROTEIRO 3 — E-commerce bate recorde, e 1 em cada 3 reais já sai do Simples Nacional
+"Há alguns dias eu te mostrei o pequeno empresário pessimista e com dívida em atraso recorde. Um dado diferente conta outra história: segundo a FecomercioSP, 🟡`o e-commerce brasileiro faturou R$295,6 bilhões em 2025, recorde histórico, alta de 20%`🟡. E a fatia do Simples Nacional nesse total vem subindo ano a ano, sem parar: 🟡`13,5% em 2020, 21,5% em 2022, 29,8% em 2024, e agora 34% em 2025`🟡 — 1 em cada 3 reais do e-commerce brasileiro já sai de um pequeno negócio. Sensação e desempenho de mercado nem sempre andam juntos."
+Fonte: FecomercioSP — https://www.fecomercio.com.br/noticia/e-commerce-teve-o-maior-faturamento-da-historia-em-2025-puxado-por-mais-hubs-empresas-e-mudancas-no-mercado
+
+============================================================
+
+ROTEIRO 4 — Dono de pequeno negócio nos EUA segue "feliz" mesmo espremido pela inflação
+"O dono de pequeno negócio americano segue sendo espremido pela inflação — mas isso caiu como principal desafio citado, de 48% pra 41,3% dos donos, segundo pesquisa da Guidant Financial com 845 empresários americanos. Mesmo assim, 🟡`a nota de felicidade dele com o próprio negócio nem se mexeu: ficou em 3,97 de 5 pela segunda vez seguida, com quase 75% se dizendo feliz`🟡. É amostra da própria financeira, com interesse comercial no otimismo do setor — mas o dado chama atenção: 🟡`18,7% já planejam investir em IA`🟡. Não é que o aperto não incomode; é que ele aprendeu a não deixar isso decidir se vale continuar."
+Fonte: Guidant Financial — https://www.guidantfinancial.com/small-business-trends/
+
+============================================================
+
+ROTEIRO 5 — Grandes consultorias não preveem crise — preveem um mundo mais lento
+"As grandes consultorias não estão prevendo crise — estão prevendo um mundo que cresce mais devagar, por mais tempo. Segundo a EY-Parthenon, unidade de estratégia da EY, 🟡`o crescimento econômico global deve cair de 3,4% em 2025 pra 2,9% em 2026, antes de subir de novo pra 3,2% em 2027`🟡 — puxado por tarifa, geopolítica instável e choque de oferta. É leitura de consultoria com interesse comercial em vender estratégia, mas o alerta vale: 🟡`isso muda a pergunta que todo gestor deveria fazer`🟡. Não é mais 'quando isso passa' — é 'o que eu faço de diferente enquanto essa for a nova normalidade'."
+Fonte: EY-Parthenon / EY — https://www.ey.com/en_us/insights/strategy/global-economic-outlook
+
+============================================================
+
+ROTEIRO 6 — Faltam 5 dias pro prazo do Desenrola Empresas fechar
+"Faltam 5 dias pro prazo do Desenrola Empresas fechar, sem nova prorrogação prevista — domingo, dia 31, é o último dia pra renegociar dívida bancária com desconto de até 90% e juro de 1,99% ao mês. Segundo balanço do Ministério da Fazenda, 🟡`o programa já renegociou R$23,2 bilhões em dívida de pequeno negócio`🟡 em poucos meses, dentro dos 🟡`R$44,1 bilhões renegociados por todo o Desenrola Brasil 2.0`🟡. Não é promessa: é programa que já funcionou pra quem usou. Quem deixar pra última hora corre risco de esbarrar em banco travado na correria do prazo final."
+Fonte: Ministério da Fazenda / Gov.br, via Correio Braziliense — https://www.correiobraziliense.com.br/economia/2026/08/7472515-desenrola-brasil-2-0-renegocia-rs-44-bilhoes-mas-efeito-e-incerto.html
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] Você já usa (ou pretende usar) alguma ferramenta de IA no seu negócio esse ano? Sim, já uso ou pretendo / Não, ainda não pensei nisso
+2. [Pergunta/Participação, Roteiro 6] Você já renegociou (ou está pensando em renegociar) alguma dívida do seu negócio pelo Desenrola Empresas antes do prazo fechar dia 31? Conta aqui nos comentários como foi.
+3. [Virar História, Roteiro 3 -> Comparativo] O Roteiro 3 tem uma progressão de 4 números ano a ano (13,5% → 21,5% → 29,8% → 34%) perfeita pro estilo Comparativo, mostrando a evolução lado a lado em vez de só falar o número final — o crescimento visual reforça mais do que a fala sozinha.
