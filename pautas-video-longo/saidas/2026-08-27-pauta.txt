@@ -1,0 +1,44 @@
+PAUTA DO DIA -- 2026-08-27
+Assunto: Confiança do empresário industrial cai em 25 de 29 setores -- CNI aponta 20º mês seguido de pessimismo
+Score final: 22/35 (Frescor: 4/5, Relevância do protagonista: 1/5, Gravidade: 3/5, Polêmica adjacente: 3/5, Volume de cobertura: 4/5, Clareza do ângulo: 2/5, Identificação com audiência: 5/5)
+
+Fato central verificado: a Confederação Nacional da Indústria (CNI) divulgou em 26/8/2026 os Resultados Setoriais do Índice de Confiança do Empresário Industrial (ICEI) de agosto. O número de setores pessimistas caiu de 26 para 25 (de um total de 29 segmentos monitorados) -- ou seja, apenas 4 segmentos industriais estão otimistas. O ICEI geral subiu 1,9 ponto, para 46,3 pontos, mas segue abaixo da linha divisória de 50 pontos (que separa otimismo de pessimismo), marcando 20 meses consecutivos de pessimismo, segundo Larissa Nocko, especialista em Política e Indústria da CNI. Fonte confirmada: Agência de Notícias da Indústria (CNI) -- https://noticias.portaldaindustria.com.br/noticias/economia/confianca-cai-em-20-setores-industriais-mostra-cni/ | Perfil News -- https://www.perfilnews.com.br/2026/08/26/falta-de-confianca-chega-a-25-setores-industriais-em-agosto-mostra-cni/
+
+Cadeia causal (o que levou a isso):
+1) Juros ainda em patamar elevado -- a Selic está em 14,00% ao ano desde a reunião do Copom de 4-5/8/2026 (4º corte seguido em 2026, mas o nível segue alto na comparação histórica) -- crédito caro tanto para capital de giro quanto para investimento.
+2) Isso se soma a custos de produção em alta e forte entrada de produtos importados mais baratos, apontados pela CNI como os três motores da queda na intenção de investir da indústria.
+3) Resultado prático: segundo sondagem da CNI com empresas industriais, 53% das empresas dizem que vão precisar recorrer a mais crédito só para financiar contas a pagar (fornecedor, tributo, despesa operacional) -- não para investir --, 39% esperam aumentar o endividamento bancário nos próximos 3 meses, e 38% esperam pegar esse crédito a juros ainda mais altos.
+4) Esse aperto de caixa alimenta o pessimismo, que trava decisão de investir e contratar, que por sua vez mantém a atividade fraca -- um ciclo que se autoalimenta há 20 meses.
+
+Por que está repercutindo agora: o dado setorial (25 de 29 segmentos pessimistas) saiu ontem (26/8) e foi replicado no mesmo dia por vários portais regionais e nacionais (CNI, FIERN, Perfil News, Atualidade Política, entre outros), o que deu volume de cobertura alto (4/5) num assunto que fala diretamente da rotina de quem administra uma empresa hoje (identificação com audiência 5/5) -- mesmo sem ter um "protagonista" de marca (relevância do protagonista 1/5, por ser um índice agregado da CNI, não uma empresa específica).
+
+Ângulo de gestão sugerido: o vídeo NÃO deve comentar política econômica, criticar o Copom/Banco Central nem tomar posição sobre a Selic -- o foco é 100% prático:
+1) O que significa, na prática, operar 20 meses seguidos "no vermelho da confiança": a decisão de investir e contratar trava, e isso vira um ciclo que se retroalimenta dentro da própria empresa.
+2) O dado de que mais da metade das empresas vai buscar crédito só pra pagar conta corrente (não pra investir) é um sinal de alerta de gestão de caixa que todo dono de PME deveria monitorar na própria operação, independentemente do cenário macro -- é a diferença entre usar crédito para crescer e usar crédito pra sobreviver.
+3) A lição central: mesmo em cenário de juro alto e pessimismo estrutural, o que diferencia quem atravessa a fase e quem quebra é a gestão de caixa e de custo dentro de casa -- controlar o que dá pra controlar, sem esperar o cenário melhorar sozinho.
+
+Dados de apoio:
+- ICEI geral: 46,3 pontos em agosto/2026 (alta de 1,9 ponto ante julho, mas ainda abaixo da linha dos 50 pontos que separa otimismo de pessimismo). Fonte: CNI -- https://noticias.portaldaindustria.com.br/noticias/economia/confianca-cai-em-20-setores-industriais-mostra-cni/
+- 53% das empresas industriais preveem precisar de mais crédito para financiar contas a pagar; 38% esperam pegar esse crédito a juros mais altos. Fonte: CNI (sondagem com 191 empresas industriais, 13-24/7/2026, 30 setores, 20 UFs), via Perfil News -- https://www.perfilnews.com.br/2026/08/03/quase-40-das-empresas-industriais-preveem-aumento-do-endividamento-bancario-nos-proximos-tres-meses-segundo-cni/
+- 39% das indústrias preveem aumento do endividamento bancário nos próximos 3 meses. Mesma fonte acima.
+- Selic em 14,00% ao ano desde 5/8/2026 (4º corte consecutivo em 2026, decisão unânime do Copom). Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/macroeconomia/bc-copom-agosto-2026/
+
+Ressalva/limite: o fator "Polêmica adjacente" (3/5) pesou no score porque o tema encosta no debate econômico maior do país (nível de juros, Selic, "Custo Brasil"). Isso é só contexto factual de causa -- o vídeo e o roteiro NÃO devem opinar sobre a política de juros do Banco Central, não devem citar figura política ou partido, e não devem tomar posição sobre esse debate. O ângulo fica inteiramente restrito ao efeito prático de gestão de caixa e crédito dentro da empresa do espectador.
+
+Estrutura sugerida pro roteiro (referência, não é o roteiro pronto -- quem escreve o roteiro final é o Copywriter do canal, seção 2.4 do conhecimento dele, adaptado pra duração maior):
+- Hook: "25 de 29 setores da indústria estão pessimistas há 20 meses seguidos -- e o motivo não é só o juro alto."
+- Contexto/causa raiz: juro elevado + custo de produção em alta + concorrência de importado mais barato travando o investimento.
+- Desenvolvimento da cadeia causal (espaço extra do formato longo): como isso vira "crédito pra pagar conta" em vez de "crédito pra crescer" -- usar o dado dos 53% -- e como isso retroalimenta o pessimismo.
+- Lição de gestão (a virada): a diferença entre quem sobrevive e quem quebra nesse cenário é gestão de caixa e de custo interno, não esperar o macro melhorar.
+- Fechamento + CTA.
+
+Fonte(s):
+- Agência de Notícias da Indústria (CNI) -- https://noticias.portaldaindustria.com.br/noticias/economia/confianca-cai-em-20-setores-industriais-mostra-cni/
+- Perfil News -- https://www.perfilnews.com.br/2026/08/26/falta-de-confianca-chega-a-25-setores-industriais-em-agosto-mostra-cni/
+- Perfil News (sondagem de crédito) -- https://www.perfilnews.com.br/2026/08/03/quase-40-das-empresas-industriais-preveem-aumento-do-endividamento-bancario-nos-proximos-tres-meses-segundo-cni/
+- CNN Brasil (Selic) -- https://www.cnnbrasil.com.br/economia/macroeconomia/bc-copom-agosto-2026/
+
+Runners-up do dia (registro/transparência):
+- Estrela (fabricante de Banco Imobiliário e Jogo da Vida) protocola plano de recuperação judicial para dívida de R$ 109 milhões -- 22/35 (empatou com o vencedor; perdeu no desempate de Frescor)
+- Lojas Renner corta guidance de receita para 2026 e perde espaço para C&A e Riachuelo -- 20/35
+- Gerdau hiberna setores e demite 160 trabalhadores em unidade de Pernambuco -- 16/35
