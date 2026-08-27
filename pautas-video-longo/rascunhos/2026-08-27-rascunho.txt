@@ -1,0 +1,75 @@
+PAUTA DO DIA -- RADAR DE REPERCUSSAO -- 2026-08-27
+
+RESUMO EXECUTIVO: dia sensivelmente mais fraco que o normal em termos de repercussao "grande e fresca" -- nao houve, ate o horario da pesquisa (inicio da manha, antes da abertura do pregao e da divulgacao de indicadores do dia), nenhum fato do porte de Oi (26/8), Casas Bahia (20/8) ou Braskem (25/8). Os motores de busca ainda nao tinham indexado noticias publicadas hoje mesmo (27/8) -- a PNAD Continua (desemprego) e a Balanca Comercial estavam agendadas para sair hoje, mas o resultado nao pode ser confirmado na fonte original no momento da pesquisa, entao NAO foram usadas como candidato (regra do briefing: sempre confirmar o fato, nunca usar numero nao confirmado). Os 4 candidatos abaixo sao os mais fortes disponiveis e verificados, todos ainda repercutindo nesta semana. Checagem de repeticao cobriu os ultimos 10 dias corridos (18-26/8) contra pautas-video-longo/saidas: ha registro de Casas Bahia (20/8), Inadimplencia recorde de CNPJs (21/8), Recuperacoes judiciais do agro (22/8), Tarifaco Brasil-EUA (23/8), Braskem (25/8) e Oi (26/8) -- nenhum dos 4 candidatos de hoje repete esses assuntos/empresas.
+
+---
+
+CANDIDATO 1 -- Confianca do empresario industrial cai em 25 de 29 setores, CNI aponta 20º mes seguido de pessimismo
+Fato: a Confederacao Nacional da Industria (CNI) divulgou ontem, 26/8/2026, o resultado setorial do Indice de Confianca do Empresario Industrial (ICEI) de agosto. O numero de setores pessimistas caiu de 26 para 25 (de um total de 29 segmentos monitorados) -- ou seja, so 4 segmentos industriais estao otimistas. O indice de confianca como um todo avancou na passagem de julho para agosto/2026, mas segue em patamar de pessimismo ha 20 meses consecutivos, segundo Larissa Nocko, especialista em Politica e Industria da CNI. Analistas da entidade citam juros altos e credito mais restrito como pressao continua sobre o caixa das industrias: 53% das empresas consultadas disseram que vao precisar recorrer a mais credito so para financiar contas a pagar nos proximos meses.
+Fonte: Perfil News -- https://www.perfilnews.com.br/2026/08/26/falta-de-confianca-chega-a-25-setores-industriais-em-agosto-mostra-cni/
+Cruzado com: Atualidade Politica -- https://www.atualidadepolitica.com.br/2026/08/falta-de-confianca-chega-25-setores.html | FIERN -- https://www.fiern.org.br/confianca-cai-em-20-setores-industriais-mostra-cni/ | CNN Brasil -- https://www.cnnbrasil.com.br/economia/negocios/juro-e-desafio-para-inadimplencia-das-empresas-diz-serasa-experian/ (contexto de credito/juro relacionado)
+Score de Repercussao:
+- Frescor: 4/5 (divulgado ontem, 26/8, e ainda repercutindo hoje em varios portais)
+- Relevancia do protagonista: 1/5 (nao ha empresa/marca famosa -- e um indice setorial da CNI, entidade conhecida mas sem apelo de "protagonista")
+- Gravidade: 3/5 (pessimismo estrutural ha 20 meses seguidos e relevante, mas nao e um evento chocante/pontual como uma falencia ou demissao em massa)
+- Polemica adjacente: 3/5 (toca diretamente no debate economico do pais -- juro alto, Selic, custo Brasil -- sem precisar de viés partidario)
+- Volume de cobertura: 4/5 (replicado no mesmo dia em varios portais regionais e nacionais: FIERN, Brasil61, Capital News, Perfil News, Atualidade Politica)
+- Clareza do angulo: 2/5 (e um indice agregado e abstrato -- exige mais trabalho para virar uma cadeia causa->efeito->licao concreta em ate 2 minutos, sem um "personagem" central)
+- Identificacao com audiencia: 5/5 (fala diretamente do que o dono de industria/PME sente na pele: falta de confianca pra investir, credito caro so pra pagar conta corrente)
+TOTAL: 22/35
+Status: VENCEDOR DO DIA (por criterio de desempate -- ver nota abaixo)
+
+Nota sobre o desempate: o Candidato 1 empatou em 22/35 com o Candidato 2 (Estrela). Na Gravidade os dois empataram (3/5); no desempate seguinte, Frescor, o Candidato 1 levou vantagem (4/5 contra 2/5 do Candidato 2), por isso venceu. Vale registrar a ressalva: este e um vencedor "por regra", nao um caso obviamente estourado feito Oi ou Casas Bahia -- o proprio placar (22/35) ja e bem mais baixo que o dos ultimos vencedores fortes da semana (29 a 32/35). Fica a criterio do usuario, ao revisar este rascunho, optar por gravar sobre o Candidato 2 (Estrela) em vez do Candidato 1 caso prefira um "personagem" mais concreto para o roteiro -- os dois tem substancia para o video.
+
+Angulo de gestao sugerido para o Candidato 1: o video NAO deve comentar politica economica, criticar o Copom/Banco Central, nem tomar posicao sobre a Selic -- o foco e pratico: (1) o que significa pra uma empresa operar 20 meses seguidos "no vermelho da confianca" -- decisao de investir e contratar trava, e isso vira um ciclo que se retroalimenta; (2) o dado de que mais da metade das empresas vai buscar credito so pra pagar conta corrente (nao para investir) e um sinal de alerta de gestao de caixa que todo dono de PME deveria monitorar na propria empresa, independente do cenario macro; (3) a licao de "controlar o que da pra controlar": mesmo em cenario de juro alto e pessimismo estrutural, o que diferencia quem sobrevive e quem quebra e a gestao de caixa e de custo dentro de casa, nao esperar o cenario melhorar.
+
+---
+
+CANDIDATO 2 -- Estrela (fabricante de Banco Imobiliario e Jogo da Vida) protocola plano de recuperacao judicial para dívida de R$ 109 milhões
+Fato: a Manufatura de Brinquedos Estrela -- dona de marcas centenárias conhecidas por praticamente todo brasileiro, como Banco Imobiliário e Jogo da Vida -- protocolou em 14/8/2026 na 1ª Vara Cível de Três Pontas (MG) seu plano formal de recuperação judicial, dentro do prazo legal de 60 dias da Lei 11.101/2005, para reestruturar um passivo de R$ 109.178.016,38. O pedido inicial de recuperação judicial havia sido aberto em maio/2026. A empresa aponta como causas a concorrência de brinquedos importados asiáticos (mais baratos) e a migração do entretenimento infantil para plataformas digitais e jogos online, além de juros altos e crédito mais restrito. A Estrela deixou de publicar balanços trimestrais desde março de 2025. A companhia segue operando normalmente enquanto o plano é submetido a votação em assembleia de credores.
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/08/estrela-plano-recuperacao-judicial/
+Cruzado com: O Tempo -- https://www.otempo.com.br/economia/2026/8/21/grupo-estrela-apresenta-plano-de-recuperacao-judicial-para-dividas-de-r-109-1-milhoes | InfoMoney -- https://www.infomoney.com.br/business/estrela-em-recuperacao-judicial-entenda-motivos-da-crise-da-fabricante-de-brinquedos/ | CNN Brasil -- https://www.cnnbrasil.com.br/economia/negocios/estrela-em-recuperacao-judicial-entenda-processo-da-gigante-dos-brinquedos/ | Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/estrela-entra-com-pedido-de-recuperacao-judicial-kaes/ | RenovaInvest -- https://renovainvest.com.br/blog/estrela-recuperacao-judicial/
+Score de Repercussao:
+- Frescor: 2/5 (fato central -- protocolo do plano -- ja tem quase 2 semanas, 14/8; nao e "hoje ou ontem", mas o tema seguiu sendo comentado/explicado por veiculos ate a semana passada)
+- Relevancia do protagonista: 5/5 (marca extremamente conhecida -- praticamente todo brasileiro cresceu jogando Banco Imobiliário ou Jogo da Vida da Estrela)
+- Gravidade: 3/5 (recuperação judicial, não falência; dívida de R$ 109 milhões é relevante para a empresa mas pequena perto de casos como Oi ou Casas Bahia)
+- Polemica adjacente: 1/5 (sem gancho político relevante -- é mais um tema de nostalgia de marca e mudança de hábito de consumo/concorrência importada)
+- Volume de cobertura: 3/5 (coberta por vários veículos de peso -- Forbes, InfoMoney, CNN, Seu Dinheiro -- mas espalhada ao longo de 2 semanas, não concentrada num único dia)
+- Clareza do angulo: 4/5 (cadeia causal simples e visual: concorrência de importado mais barato + migração pro digital + juro alto -> recuperação judicial de uma marca centenária -- fácil de contar em até 2 minutos)
+- Identificacao com audiencia: 4/5 (o dono de PME sente na pele a mesma pressão -- concorrente estrangeiro mais barato, mudança de comportamento do consumidor, necessidade de se reinventar)
+TOTAL: 22/35
+Status: runner-up (empatou em pontos com o vencedor -- ver nota de desempate no Candidato 1; alternativa forte caso o usuário prefira um "personagem" de marca mais concreto)
+
+---
+
+CANDIDATO 3 -- Lojas Renner corta guidance de receita para 2026 e perde espaço para C&A e Riachuelo
+Fato: a Renner (LREN3) comunicou ao mercado em 6/8/2026 o corte do guidance de crescimento da receita operacional de varejo para 2026, de uma faixa de 9%-13% para 4%-8%, após resultado do 2T26 abaixo do esperado (lucro líquido de R$ 404,6 milhões, praticamente estável ano a ano; receita líquida de varejo de R$ 3,689 bilhões, +1,1%). A ação chegou a cair mais de 14% no dia, a pior do Ibovespa na sessão. A empresa atribuiu o resultado fraco à menor circulação de clientes nas lojas físicas durante a Copa do Mundo (mais intensa que o historicamente observado) e à concorrência crescente de plataformas internacionais após mudança tributária. Em vendas mesmas lojas de vestuário no 2T26, a Riachuelo cresceu 7,8%, a C&A 4,1% e a Renner apenas 1,5% -- ou seja, mesmo sendo a mais eficiente operacionalmente, a Renner está perdendo espaço de crescimento para concorrentes mais agressivos.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/renner-lren3-corta-guidance-apos-2t-fraco-preocupa-com-vendas-e-acoes-desabam/
+Cruzado com: DCI -- https://www.dci.com.br/negocios/renner-leva-tombo-na-bolsa-e-perde-terreno-para-ca-e-riachuelo-veja-o-que-aconteceu/ | Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/corte-no-guidance-pesa-e-acoes-da-lojas-renner-tombam-mais-de-10-apos-balanco-o-que-fazer-com-lren3-agora-kaes/ | Money Times -- https://www.moneytimes.com.br/corte-no-guidance-pesa-e-acoes-da-lojas-renner-tombam-mais-de-10-apos-balanco-o-que-fazer-com-lren3-agora-lils/ | Suno -- https://www.suno.com.br/noticias/lojas-renner-lren3-resultado-2t26-guidance-comprar-mt/
+Score de Repercussao:
+- Frescor: 1/5 (fato central é de 6/8/2026, cerca de 3 semanas atrás)
+- Relevancia do protagonista: 4/5 (Renner é uma das marcas de moda mais conhecidas do país)
+- Gravidade: 3/5 (queda forte de ação e corte de guidance chamam atenção, mas a empresa segue lucrativa e sem crise existencial)
+- Polemica adjacente: 1/5 (pouco gancho político-econômico amplo)
+- Volume de cobertura: 3/5 (boa cobertura em veículos de mercado no período do balanço, mas não concentrada em hoje)
+- Clareza do angulo: 4/5 (fácil de contar: crescer com eficiência não basta se o concorrente cresce mais rápido -- disputa por espaço de mercado)
+- Identificacao com audiencia: 4/5 (tema muito sentido por PME de varejo -- concorrência agressiva, tráfego de loja, crescimento vs. eficiência)
+TOTAL: 20/35
+Status: runner-up
+
+---
+
+CANDIDATO 4 -- Gerdau hiberna setores e demite 160 trabalhadores em unidade de Pernambuco
+Fato: a Gerdau confirmou, em comunicado aos funcionários em 4/8/2026, o encerramento das áreas de aciaria e laminação da unidade Açonorte, no Recife (PE), com a demissão de cerca de 160 trabalhadores. A unidade passa a focar só em produtos trefilados (telas, arames, pregos), mantendo cerca de 450 empregos. A empresa citou "condição de mercado", dificuldade de exportação e o cenário do setor siderúrgico (pressão de aço importado mais barato) como motivo. Foi oferecido PDI com 3 salários adicionais, plano de saúde por 6 meses e recolocação profissional.
+Fonte: ND+ -- https://ndmais.com.br/empregos-e-concursos/gerdau-demissao-em-massa-160-trabalhadores-recife/
+Cruzado com: Diário de Pernambuco -- https://www.diariodepernambuco.com.br/economia/2026/08/11720461-gerdau-encerra-setores-da-unidade-de-pernambuco-e-demite-cerca-de-160-trabalhadores.html | Terra -- https://www.terra.com.br/noticias/gerdau-fecha-setores-e-demite-trabalhadores-em-pernambuco-apontando-condicao-de-mercado,3a57f196e2b9964520c0985421ae56986fovrtt6.html
+Score de Repercussao:
+- Frescor: 1/5 (comunicado em 4/8/2026, cerca de 3 semanas atrás)
+- Relevancia do protagonista: 4/5 (Gerdau é gigante nacional do aço, marca muito conhecida)
+- Gravidade: 2/5 (160 demissões é evento localizado numa única unidade, não uma crise da empresa como um todo)
+- Polemica adjacente: 1/5 (sem gancho político-econômico amplo relevante)
+- Volume de cobertura: 2/5 (cobertura concentrada em veículos regionais de Pernambuco)
+- Clareza do angulo: 3/5 (dá pra explicar -- readequar operação ao que ainda é competitivo -- mas é um caso de escala pequena/pontual)
+- Identificacao com audiencia: 3/5 (readequação de portfólio/operação é tema de gestão, mas o caso em si é de uma unidade industrial grande, distante do dia a dia de uma PME)
+TOTAL: 16/35
+Status: runner-up (fraco, registrado por completude)
