@@ -1,0 +1,33 @@
+ROTEIRO 1 — WhatsApp vai cobrar por atendimento que hoje é de graça
+"O WhatsApp que toda PME usa de graça pra vender e atender cliente vai começar a cobrar por isso aos poucos. Segundo a Canaltech, 🟡`desde 1º de agosto a Meta cobra por token pelo uso da IA própria no WhatsApp`🟡 — e 🟡`a partir de 1º de outubro, até a mensagem de atendimento dentro da API oficial deixa de ser gratuita`🟡, isso vale só pra quem usa provedor terceirizado, não pro app comum. Quem só for descobrir isso na fatura já perdeu a janela de se preparar."
+Fonte: Canaltech — https://canaltech.com.br/mercado/api-do-whatsapp-tera-cobranca-por-mensagens-de-servico-entenda/
+
+============================================================
+
+ROTEIRO 2 — Nubank fatura mais de US$1 bi de lucro em 3 meses, pela 1ª vez
+"O Nubank acabou de provar que dá pra crescer rápido e ainda lucrar rápido, ao mesmo tempo. Segundo resultado divulgado pela empresa, 🟡`o lucro líquido do segundo trimestre passou de US$1,1 bilhão pela primeira vez na história`🟡, alta de 49% em um ano — e isso aconteceu junto com 4 milhões de clientes novos e a liderança digital no México, não apesar disso. Sem virar dica de ação: 🟡`escala e rentabilidade juntas não são sorte, são unit economics calibrado ao longo de anos`🟡. Vale a pergunta pro seu negócio: sua rentabilidade aguenta o tamanho do seu crescimento?"
+Fonte: Nu Holdings (release oficial) — https://international.nubank.com.br/pt-br/companhia/nu-holdings-ltd-divulga-resultados-financeiros-do-segundo-trimestre-de-2026/
+
+============================================================
+
+ROTEIRO 3 — Indústria menos pessimista, mas ainda pessimista em 25 de 29 setores
+"A indústria brasileira está "melhor" — mas vale entender o que isso significa de verdade. Segundo o ICEI, divulgado pela CNI, 🟡`a confiança do empresário industrial subiu 1,9 ponto em agosto, para 46,3 pontos, ainda abaixo da linha dos 50 que separa otimismo de pessimismo`🟡. E apesar da melhora, 🟡`o número de setores pessimistas caiu só de 26 para 25, de um total de 29`🟡 — quase 9 em cada 10 ainda desconfiam do próprio futuro. Recuperação, quando vier, vai ser lenta e desigual entre setores."
+Fonte: CNI (Confederação Nacional da Indústria), via Agência de Notícias da Indústria — https://noticias.portaldaindustria.com.br/noticias/economia/agenda-cni-indice-de-confianca-do-empresario-industrial-de-agosto/
+
+============================================================
+
+ROTEIRO 4 — 3 perguntas pra saber se a decisão precisa mesmo ser sua
+"Você não precisa de mais tempo no dia — precisa de menos decisões passando pela sua mesa. Segundo artigo da Harvard Business Review, de autoria da coach executiva Karen Walker, antes de assumir uma decisão, teste três perguntas: 🟡`você está decidindo isso porque só você pode, ou porque sempre foi você quem decidiu`🟡? Depois, teste se aquilo gera valor de longo prazo ou só parece urgente hoje, e se você está evitando por desconforto, não por prioridade real. 🟡`Liderar bem não é decidir mais, é escolher o que perseguir, delegar ou parar de fazer`🟡."
+Fonte: Harvard Business Review — https://hbr.org/2026/07/3-questions-to-pressure-test-your-priorities
+
+============================================================
+
+ROTEIRO 5 — Nvidia fatura US$96 bi em 3 meses vendendo a infraestrutura da IA
+"Uma única empresa faturou, em 3 meses, mais do que o PIB anual de países inteiros — vendendo o hardware que sustenta a corrida de IA do mundo todo. Segundo resultado divulgado pela própria Nvidia, 🟡`a receita do trimestre chegou a US$96,2 bilhões, alta de 106% em um ano, com US$89 bilhões só vindos de data center`🟡. Sem virar dica de ação: 🟡`isso não prova que não existe bolha, mas prova o tamanho real do dinheiro apostado nessa corrida agora`🟡, não em promessa futura."
+Fonte: NVIDIA (release oficial) — https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] Seu negócio atende cliente pela API oficial do WhatsApp (via provedor terceirizado)? Sim, uso API por provedor / Não, uso só o app comum
+2. [Pergunta/Participação, Roteiro 4] Qual decisão do seu negócio você continua tomando sozinho só porque sempre foi você quem decidiu? Conta aqui nos comentários.
+3. [Virar História, Roteiro 3 -> Comparativo] O Roteiro 3 tem dois pares de número antes/depois (44,4 -> 46,3 pontos; 26 -> 25 setores pessimistas) que rendem bem no estilo Comparativo, mostrando lado a lado que a melhora é real mas pequena — o visual evita que o "subiu" pareça maior do que é.
