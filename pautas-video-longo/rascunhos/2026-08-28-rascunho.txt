@@ -1,0 +1,47 @@
+RASCUNHO DO DIA -- 2026-08-28 (Radar de Repercussao, Etapa 1)
+
+CANDIDATO 1 -- Shein precifica IPO em Hong Kong e aperta o cerco sobre o varejo de moda brasileiro
+Fato: A Shein deve fixar hoje (28/8) o preco final do seu IPO em Hong Kong, perto do meio da faixa (HK$ 48,56/acao, dentro do intervalo HK$ 47,60-49,50), levantando cerca de US$ 1,7 bi (~HK$ 13,6 bi) e avaliando a empresa em ~US$ 26,5 bi -- bem abaixo dos US$ 100 bi de 2022, mas ainda um baita reforco de caixa. Estreia na bolsa marcada pra 1/9. Em paralelo, um levantamento do BTG Pactual com 72 mil itens mostra que uma cesta de produtos na Shein caiu de R$ 939 (junho) pra R$ 756 (agosto), contra R$ 1.344 no varejo nacional -- ou seja, ~44% mais barato que Renner, C&A e Riachuelo -- efeito da "taxa das blusinhas" (tarifa de 20% sobre compras internacionais abaixo de US$ 50) que, na pratica, aproximou os precos da Shein aos dos concorrentes brasileiros em quase tudo, exceto peca a peca de roupa intima/blusinha isolada. Com o IPO reforcando o caixa da Shein, analistas apontam que a empresa tem mais municao pra investir e crescer ainda mais forte no Brasil.
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/negocios/shein-reduz-seu-valor-de-mercado-para-ate-us-27-bi-em-ipo-em-hong-kong/ | Dados do BTG: NeoFeed -- https://neofeed.com.br/negocios/destaxa-das-blusinhas-vai-impactar-ca-renner-e-riachuelo-e-beneficiar-shein/ e Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/o-risco-da-blusinha-roupas-da-shein-estao-ainda-mais-baratas-e-desafio-para-renner-lren3-ca-ceab3-e-riachuelo-riaa3-fica-maior-kaes/
+Score de Repercussao:
+- Frescor: 5/5 (precificacao do IPO acontece exatamente hoje, estreia dia 1/9)
+- Relevancia do protagonista: 5/5 (Shein e ultra-conhecida do publico geral, nao so de quem acompanha varejo)
+- Gravidade: 3/5 (nao e uma crise, mas e um evento estruturalmente relevante -- reforco de caixa de um concorrente que ja pratica preco predatorio)
+- Polemica adjacente: 3/5 (encosta no debate da "taxa das blusinhas"/protecionismo a industria nacional vs. importados baratos -- tema que ja gera polarizacao publica sem que o video precise entrar nele)
+- Volume de cobertura: 4/5 (Bloomberg, CNBC, Axios cobrindo o IPO globalmente; imprensa de negocios brasileira -- CNN Brasil, NeoFeed, Seu Dinheiro, Forbes, InfoMoney, Metropoles -- cobrindo o angulo do impacto local)
+- Clareza do angulo: 5/5 (cadeia direta: Shein pressionada la fora -> capta caixa via IPO -> usa musculo pra baixar ainda mais preco no Brasil -> varejista/lojista pequeno de moda sente na pele -> licao de nao competir so por preco)
+- Identificacao com audiencia: 5/5 (concorrencia com e-commerce chines e uma das dores mais citadas por lojista de moda/varejo PME no Brasil hoje)
+TOTAL: 30/35
+Status: VENCEDOR DO DIA
+Observacao guardrail: o fator "Polemica adjacente" pesou porque o tema toca no debate da taxacao de importados baratos ("taxa das blusinhas"), pauta com carga politica/protecionista. O roteiro final NAO deve comentar essa discussao politica, nem tomar posicao sobre tarifas/protecionismo -- o angulo fica 100% em gestao: como um pequeno negocio de varejo compete (ou nao) so no preco contra um gigante global, e por que diferenciacao/experiencia/nicho importam mais do que nunca nesse cenario.
+
+CANDIDATO 2 -- Nubank empata com o Itau no lucro do varejo e ameaca ultrapassar o maior banco privado do pais
+Fato: No 2º trimestre de 2026, o Nubank teve lucro liquido de US$ 1,06 bi (~R$ 5,5 bi) -- primeira vez que a fintech passa de US$ 1 bi de lucro em um unico trimestre, 13 anos apos a fundacao. O valor supera o lucro do Banco do Brasil no periodo (R$ 3,9 bi) e praticamente empata com o lucro recorrente da operacao de varejo do Itau (tambem R$ 5,5 bi, diferenca de so US$ 33 milhoes). Segundo o J.P. Morgan, o Nubank pode ultrapassar o Itau no varejo ainda em 2026.
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/quem-realmente-cria-valor-nos-bancos-itau-e-nubank-disparam-na-frente-em-novo-ranking-enquanto-banco-do-brasil-perde-terreno-miql/ | Revista Business -- https://www.revistabusiness.com.br/noticia/4212/barueri/negocios/nubank-lucra-r-5-5-bilhoes-supera-banco-do-brasil-e-iguala-itau-no-varejo.html
+Score de Repercussao:
+- Frescor: 2/5 (resultado do 2T26 foi divulgado por volta de 10/8, mas segue repercutindo em rankings e analises publicadas nesta semana)
+- Relevancia do protagonista: 5/5 (Nubank e Itau sao duas das marcas mais conhecidas do brasileiro, dentro e fora do mundo financeiro)
+- Gravidade: 3/5 (marco relevante -- nao e uma crise, e uma virada de lideranca em andamento)
+- Polemica adjacente: 1/5 (nao ha carga politica ou polemica de fundo)
+- Volume de cobertura: 3/5 (varios veiculos de mercado -- Seu Dinheiro, Revista Business, Guia do Investidor, Let's Money -- mas pouca cobertura fora do nicho financeiro)
+- Clareza do angulo: 5/5 (narrativa classica de disrupcao: banco digital sem agencia bate banco tradicional centenario no lucro por foco em experiencia do cliente e custo baixo -- facil de explicar em 2 min)
+- Identificacao com audiencia: 4/5 (a licao de "desafiante ganha do gigante por experiencia/eficiencia, nao por tamanho" e diretamente aplicavel a qualquer PME competindo com players maiores)
+TOTAL: 23/35
+Status: runner-up
+
+CANDIDATO 3 -- Grupo Mateus fecha 28 lojas e demite 6.673 funcionarios apos anos de expansao acelerada
+Fato: O Grupo Mateus (rede de atacarejo/varejo do Norte-Nordeste, capital aberto na B3 como GMAT3) fechou 28 lojas e cortou 6.673 postos de trabalho entre o fim de 2025 e o 1º trimestre de 2026 -- reducao de mais de 13% do quadro -- concentrados na Bahia, Ceara, Maranhao, Para, Piaui e Sergipe. A medida faz parte de um plano de otimizacao de ativos anunciado ao mercado em maio, depois de as vendas mesmas lojas recuarem 7,3% no 1T26. Mesmo assim, a empresa abriu 11 novas unidades no 1º semestre, mantendo expansao em paralelo aos cortes.
+Fonte: ND+ (ndmais.com.br) -- https://ndmais.com.br/economia/grupo-mateus-fecha-lojas-demite-funcionarios-queda-vendas-citi/
+Score de Repercussao:
+- Frescor: 2/5 (fatos concentrados entre fim de 2025 e 1T26, mas materias explicativas sobre o caso seguem saindo em agosto/2026)
+- Relevancia do protagonista: 3/5 (Grupo Mateus e muito forte e reconhecido no Norte/Nordeste e tem capital aberto, mas tem menos fama nacional que Casas Bahia ou Shein)
+- Gravidade: 4/5 (corte de mais de 13% do quadro e fechamento de 28 lojas e um numero grande em termos absolutos)
+- Polemica adjacente: 1/5 (sem carga politica relevante)
+- Volume de cobertura: 2/5 (cobertura concentrada em veiculos regionais/especializados, pouca repercussao nacional ampla)
+- Clareza do angulo: 4/5 (cadeia clara: expansao acelerada demais -> vendas por loja caem -> empresa precisa podar o que nao performa -> licao sobre crescer no ritmo que a operacao aguenta)
+- Identificacao com audiencia: 4/5 (dor comum de PME que expande rapido demais e precisa fazer ajuste de rota)
+TOTAL: 20/35
+Status: runner-up
+
+---
+Verificacao de repeticao (ultimos 10 dias corridos, pautas-video-longo/saidas/): Casas Bahia (20/8), Inadimplencia recorde (21/8), Recuperacoes judiciais recorde no agro -- 6.341 empresas/66% (22/8), Tarifaco EUA-Brasil (23/8), Braskem (25/8), Falencia da Oi (26/8), Confianca industrial CNI (27/8). NENHUM dos 3 candidatos acima repete assunto/empresa desses dias. Descartado propositalmente da lista: o dado "recuperacao judicial atinge 6.341 empresas" que voltou a circular em veiculos menores nesta semana -- e o MESMO numero/fonte (Monitor RGF-BizDoc) ja usado como vencedor em 22/8, entao nao entra como candidato hoje mesmo re-circulando.
