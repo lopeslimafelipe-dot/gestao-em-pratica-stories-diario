@@ -1,0 +1,39 @@
+ROTEIRO 1 — Banco do Brasil troca menu por comando de voz
+"O banco que você usa pra pagar boleto trocou o menu de opções por uma frase de voz. Segundo o Tecnoblog, 🟡`desde 24 de agosto o app do Banco do Brasil tem o Meu Assistente BB, que entende comando em texto ou voz pra fazer Pix, bloquear cartão ou ajustar limite`🟡 — sem navegar tela por tela, com liberação total prevista até fim de setembro. É anúncio do próprio banco, mas o padrão é real: 🟡`se o cliente já pode simplesmente falar o que quer, quanto tempo até ele esperar o mesmo da sua empresa?`🟡"
+Fonte: Tecnoblog — https://tecnoblog.net/noticias/novo-app-do-banco-brasil-e-oficial-e-tem-assistente-de-ia-como-destaque/
+
+============================================================
+
+ROTEIRO 2 — Montadora chinesa dobra de tamanho e mira 150 lojas
+"Uma marca chinesa que quase ninguém conhecia há 2 anos virou a 16ª montadora mais vendida do Brasil. Segundo o Terra, 🟡`a Omoda & Jaecoo emplacou 16.805 carros no 1º semestre de 2026, abriu 36 lojas no período e já soma 100 concessionárias em 25 dos 27 estados — mirando 150 lojas até dezembro, com o mês exato de cada abertura já definido`🟡. A cobertura vem sobretudo de veículos do setor automotivo, citando dados da própria montadora. 🟡`Expansão agressiva assim não é sorte, é cronograma: eles sabem quantas lojas abrir em cada mês.`🟡"
+Fonte: Terra — https://www.terra.com.br/mobilidade/omoda-jaecoo-bate-recorde-no-brasil-e-supera-3-mil-vendas-pela-primeira-vez,aaa370add74715a41095abfbc8e7f7e40359nbl3.html
+
+============================================================
+
+ROTEIRO 3 — Recuperação judicial sobe 20% e agro lidera com pequenos
+"Não são só os grandes nomes que viram manchete: 🟡`o número de empresas em recuperação judicial no Brasil subiu 20,5% em um ano, de 6.409 para 7.726`🟡, segundo o Monitor RGF, da consultoria RGF Associados — que tem interesse comercial em divulgar dados de crise, mas os números são citados por grandes veículos. 🟡`No agronegócio a alta foi de 66%, recorde de 1.263 CNPJs, e 3 em cada 4 casos do setor já são de pequeno produtor rural.`🟡 🟡`Os casos grandes são só a ponta visível de um aperto que hoje é maioria entre os pequenos.`🟡"
+Fonte: Poder360 — https://www.poder360.com.br/poder-economia/recuperacoes-judiciais-no-agro-batem-recorde-com-alta-de-66-em-um-ano/
+
+============================================================
+
+ROTEIRO 4 — CEOs mais confiantes, mas IA ainda não paga a conta pra 1 em 6
+"CEOs do mundo inteiro estão um pouco mais confiantes do que há alguns meses. Segundo pesquisa da PwC com 351 CEOs de 59 países, 🟡`a confiança na própria receita nos próximos 12 meses subiu de 39% para 42%, e para os próximos 3 anos, de 46% para 51%`🟡. Mas 🟡`16% dos CEOs ainda não viram a IA aumentar receita nem reduzir custo nenhum`🟡 — vale lembrar que a PwC também vende consultoria em IA. 🟡`A ferramenta ficou mais comum; o retorno dela continua sendo exceção, não regra.`🟡"
+Fonte: PwC — https://www.pwc.com/gx/en/1/issues/c-suite-insights/ceo-survey/snapshot-august-2026.html
+
+============================================================
+
+ROTEIRO 5 — Pequeno empresário dos EUA: mais otimista e mais inseguro
+"O pequeno empresário americano está mais otimista e mais inseguro ao mesmo tempo. Segundo a NFIB, 🟡`o índice de otimismo subiu 2,4 pontos em julho, para 99,8, maior nível em quase um ano, com 20% dos donos planejando contratar — maior fatia desde 2022`🟡. Mas 🟡`o índice de incerteza também subiu, para 91, bem acima da média histórica de 68, e 27% citam falta de mão de obra qualificada como maior problema`🟡. A pesquisa é de uma associação de representação do setor, mas usada há décadas como referência. 🟡`Dá pra estar confiante e inseguro ao mesmo tempo; é a definição de tocar um negócio agora.`🟡"
+Fonte: NFIB — https://www.nfib.com/news/press-release/new-nfib-survey-small-business-optimism-continues-to-rise-11/
+
+============================================================
+
+ROTEIRO 6 — Nota fiscal do Simples ganha mais 2 meses de prazo
+"Se sua empresa do Simples Nacional estava correndo pra emitir nota fiscal de serviço no novo padrão nacional até 1º de setembro, respira. Pela Resolução CGSN nº 191/2026, 🟡`a Receita Federal adiou esse prazo pra 1º de novembro — quase 2 meses a mais pra microempresas e pequenas empresas ajustarem o sistema`🟡. É prazo oficial, direto da Receita Federal. Só que 🟡`quem já sabia da mudança original não pode usar esse tempo extra só pra esquecer de novo`🟡 — novembro chega rápido."
+Fonte: Receita Federal / Gov.br — https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 6] Sua empresa já está pronta pra emitir NFS-e no padrão nacional? Sim, já ajustei / Não, ainda não
+2. [Pergunta/Participação, Roteiro 4] A IA já aumentou sua receita ou baixou algum custo real na sua empresa? Conta aqui nos comentários o que já funcionou (ou não) aí.
+3. [Virar História, Roteiro 5 -> Comparativo] O Roteiro 5 tem dois índices andando em direções opostas ao mesmo tempo (otimismo 99,8 vs média 98,0; incerteza 91 vs média 68) — o estilo Comparativo mostra lado a lado que dá pra estar confiante e inseguro juntos, sem precisar de nenhuma fala extra explicando.
