@@ -1,0 +1,49 @@
+PAUTA DO DIA -- 2026-08-28
+Assunto: Shein precifica IPO em Hong Kong e amplia vantagem de preco sobre o varejo de moda brasileiro
+Score final: 30/35 (Frescor 5/5, Relevancia do protagonista 5/5, Gravidade 3/5, Polemica adjacente 3/5, Volume de cobertura 4/5, Clareza do angulo 5/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: Hoje (28/8), a Shein fixou o preco final do seu IPO em Hong Kong em HK$ 48,56/acao -- proximo ao meio da faixa HK$ 47,60-49,50 -- levantando cerca de HK$ 13,6 bi (~US$ 1,7-1,8 bi) e avaliando a empresa em ~US$ 26,5 bi. E uma fracao dos quase US$ 100 bi que a empresa valia em 2022 e dos US$ 66 bi de uma rodada de 2023. Estreia na Bolsa de Hong Kong marcada pra 1/9. Confirmado de forma cruzada por Bloomberg, RTE, Inside Retail Asia e CNN Brasil.
+Em paralelo, um levantamento do BTG Pactual (72,2 mil SKUs de Renner, C&A, Riachuelo e Shein, 11 categorias de roupa) mostrou que a cesta media de produtos da Shein caiu de R$ 939 (junho) pra R$ 756 (agosto), enquanto a cesta media das concorrentes nacionais foi de R$ 1.427 pra R$ 1.344 -- ou seja, a Shein esta hoje 44% mais barata que a media nacional, ante 34% dois meses atras. Por varejista: C&A tem hoje o carrinho mais caro (R$ 1.440), seguida por Renner (R$ 1.327) e Riachuelo (R$ 1.266, a mais proxima da Shein). Confirmado por Money Times, NeoFeed e Seu Dinheiro, todos com reportagens publicadas entre 25 e 28/8.
+
+CORRECAO IMPORTANTE em relacao ao rascunho da Etapa 1: o rascunho descrevia a "taxa das blusinhas" (tarifa de 20% sobre compras internacionais ate US$ 50) como fator que estaria "aproximando" os precos da Shein aos dos concorrentes brasileiros. O fact-check mostrou o oposto: essa tarifa esta SUSPENSA (zerada) desde 12/5/2026 por Medida Provisoria (MP 1.357/2026) assinada pelo governo -- e e justamente essa suspensao (nao a cobranca) que esta deixando a Shein mais barata e fazendo a vantagem de preco CRESCER (de 34% pra 44% em dois meses), nao encolher. O dado corrigido foi usado na cadeia causal abaixo.
+
+Cadeia causal (o que levou a isso):
+1) A Shein enfrenta pressao de crescimento no exterior -- teve prejuizo de US$ 99 mi no 1T26 (contra lucro de US$ 395 mi no 1T25), refletindo tarifas e mudanca de cenario de mercado -- e sua avaliacao encolheu de quase US$ 100 bi (2022) pra US$ 26,5 bi hoje.
+2) Buscando reforcar caixa, a empresa levou o IPO pra Hong Kong, com precificacao definida hoje (28/8) e estreia em 1/9.
+3) No Brasil, desde maio/2026 a tarifa de 20% sobre compras internacionais ate US$ 50 esta suspensa por MP -- o que, segundo o BTG, fez a vantagem de preco da Shein sobre Renner, C&A e Riachuelo crescer de 34% pra 44% em apenas dois meses.
+4) O caixa reforcado pelo IPO chega justamente nesse momento de vantagem de preco ampliada no Brasil, dando a empresa mais musculo financeiro pra sustentar precos agressivos e investir em operacao local.
+5) Varejistas nacionais ja sentem o efeito: a Renner revisou pra baixo suas projecoes de crescimento; C&A aposta em diferenciacao e qualidade sem abrir mao de margem; Riachuelo reforca integracao vertical e inteligencia de precos -- nenhuma delas entrou em guerra de preco aberta com a Shein.
+6) Essa vantagem tem prazo pra durar: a comissao mista do Congresso que analisa a MP foi instalada hoje mesmo (28/8), e se o texto nao for aprovado ate 8/9, a MP caduca e a tarifa de 20% pode voltar a valer a partir de 9/9 -- o que reduziria parte da vantagem de preco da Shein da noite pro dia.
+
+Por que esta repercutindo agora: confluencia rara de tres eventos no mesmo dia -- precificacao do IPO (28/8), instalacao da comissao do Congresso que decide o futuro da tarifa (28/8) e uma safra de reportagens de mercado (25-28/8) mostrando o BTG apontando a vantagem de preco da Shein no maior patamar ja medido. Isso empurrou pra cima Frescor, Volume de cobertura e Clareza do angulo no score.
+
+Angulo de gestao sugerido: a licao pratica NAO e sobre tarifa de importacao -- e sobre como um pequeno/medio varejista sobrevive quando um concorrente maior consegue operar com vantagem estrutural de custo (escala global, cambio, regras que mudam sem aviso) que o dono de PME nao controla. Dois pontos pra desenvolver: (a) competir so no preco contra quem tem folego financeiro pra sustentar margem zero por anos e uma corrida perdida -- o caminho e diferenciacao, nicho, experiencia de compra e atendimento; (b) como as varejistas citadas (Renner, C&A, Riachuelo) estao reagindo sem entrar em guerra de preco -- um case pratico de como recalibrar estrategia quando o cenario regulatorio/competitivo muda de repente, incluindo ter um "plano B" pra quando uma condicao externa favoravel (como uma tarifa suspensa) pode reverter da noite pro dia.
+
+Dados de apoio:
+- Shein: prejuizo de US$ 99 mi no 1T26 vs. lucro de US$ 395 mi no 1T25 -- fonte: CNBC/Reuters, via cobertura consolidada em cryptobriefing.com e globalbankingandfinance.com (27-28/8).
+- Cornerstone investors do IPO (Boyu Capital, Tiger Global, General Atlantic e outros) subscreveram ~US$ 383 mi em acoes -- fonte: Bloomberg, 27/8.
+- MP 1.357/2026 (zera a tarifa de 20% sobre compras ate US$ 50) foi assinada em 12/5/2026 -- fonte: Agencia Brasil, https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/lula-assina-mp-e-zera-taxa-das-blusinhas
+- Comissao mista do Congresso pra analisar a MP foi instalada em 28/8/2026, com prazo final de aprovacao em 8/9/2026 -- fonte: O Tempo, https://www.otempo.com.br/politica/congresso/2026/8/27/congresso-antecipa-instalacao-de-comissao-do-fim-da-taxa-das-blusinhas-para-esta-sexta-28-8
+
+Ressalva/limite: o fator "Polemica adjacente" pesou porque o assunto encosta no debate politico da tarifa de importados ("taxa das blusinhas"), incluindo uma MP do governo Lula em tramitacao no Congresso as vesperas das eleicoes. ISSO NAO PODE APARECER NO VIDEO. O roteiro final NAO deve comentar a disputa politica em si, nao deve citar Lula, partido, Congresso ou qualquer figura politica de forma critica ou elogiosa, e nao deve tomar posicao sobre se a tarifa deveria existir ou nao. O prazo de 8/9 pode ser mencionado apenas como um fato de calendario/regra de negocio ("essa vantagem de preco pode mudar em poucos dias, dependendo de uma decisao que sai do controle do pequeno varejista") -- nunca como comentario sobre o merito politico da medida.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico (gigante global capta bilhoes no mesmo dia em que fica ainda mais barato que o varejo brasileiro)
+- Contexto/causa raiz (por que a Shein esta mais barata agora, sem entrar na politica da tarifa)
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo -- do prejuizo da Shein la fora ate a reacao das varejistas brasileiras)
+- Licao de gestao (a virada: diferenciacao > preco, e a importancia de ter plano B pra mudancas de cenario fora do seu controle)
+- Fechamento + CTA
+
+Fonte(s):
+- CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/negocios/shein-reduz-seu-valor-de-mercado-para-ate-us-27-bi-em-ipo-em-hong-kong/
+- Bloomberg -- https://www.bloomberg.com/news/articles/2026-08-27/shein-is-said-to-guide-hong-kong-ipo-price-to-middle-of-range
+- RTE -- https://www.rte.ie/news/business/2026/0827/1589402-sheins-hong-kong-ipo-pricing-values-firm-at-26-5bn/
+- NeoFeed (destaxa das blusinhas) -- https://neofeed.com.br/negocios/destaxa-das-blusinhas-vai-impactar-ca-renner-e-riachuelo-e-beneficiar-shein/
+- Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/o-risco-da-blusinha-roupas-da-shein-estao-ainda-mais-baratas-e-desafio-para-renner-lren3-ca-ceab3-e-riachuelo-riaa3-fica-maior-kaes/
+- Money Times (dados BTG por varejista) -- https://www.moneytimes.com.br/comprar-na-shein-e-mais-barato-vantagem-de-preco-cai-sobre-lojas-renner-riachuelo-e-ca-aponta-btg-lmrs/
+- Agencia Brasil (MP assinada 12/5) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/lula-assina-mp-e-zera-taxa-das-blusinhas
+- O Tempo (comissao instalada 28/8, prazo 8/9) -- https://www.otempo.com.br/politica/congresso/2026/8/27/congresso-antecipa-instalacao-de-comissao-do-fim-da-taxa-das-blusinhas-para-esta-sexta-28-8
+
+Runners-up do dia (registro/transparencia):
+- Nubank empata com o Itau no lucro do varejo e ameaca ultrapassar o maior banco privado do pais -- 23/35
+- Grupo Mateus fecha 28 lojas e demite 6.673 funcionarios apos anos de expansao acelerada -- 20/35
