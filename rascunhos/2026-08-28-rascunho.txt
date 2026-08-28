@@ -1,0 +1,78 @@
+RASCUNHO DO DIA — 2026-08-28 (sexta-feira)
+Etapa 1 (Pesquisa) — Curador de Notícias para Stories, canal Entre Gestores
+
+NOTA TÉCNICA IMPORTANTE (ambiente desta execução): assim como em execuções anteriores, o proxy de rede desta sessão bloqueia por política (EGRESS_BLOCKED) o acesso direto via WebFetch a praticamente todos os domínios de fonte exigidos (gov.br, pwc.com, mckinsey.com, exame.com, agenciagov.ebc.com.br etc.). Não foi possível abrir e ler o texto integral de nenhuma matéria original diretamente. Como alternativa, usei WebSearch e só aceitei um item quando os números batiam de forma consistente em 2+ fontes independentes citando a mesma origem primária. IMPORTANTE: durante a apuração, uma busca inicial trouxe dados de "Novo Caged" que pareciam ser de julho/2026 (129,8 mil vagas, acumulado de 1,34 milhão no ano) — ao cruzar as URLs, ficou claro que esses números eram na verdade de JULHO/2025 (divulgados em agosto/2025), não deste ano; os dados reais de julho/2026 seriam divulgados hoje (28/08) à tarde, tarde demais para apuração nesta rodada. Descartei esse item para não arriscar erro de data — a Etapa 2 deve ter atenção redobrada a esse tipo de confusão de ano em buscas sobre indicadores mensais.
+
+============================================================
+
+ITEM 1 — Banco do Brasil lança assistente de IA por linguagem natural no app
+Categoria: Tecnologia
+Fato: O Banco do Brasil lançou, a partir de 24/08/2026, uma nova versão do aplicativo com o assistente de IA "Meu Assistente BB", que entende comandos em linguagem natural (texto ou voz) para operações como fazer um Pix, bloquear cartão ou ajustar limite — sem precisar navegar por telas — além de tirar dúvidas sobre produtos e serviços do banco. A liberação é progressiva, com previsão de chegar a todos os clientes até o fim de setembro de 2026.
+Fonte: Tecnoblog — https://tecnoblog.net/noticias/novo-app-do-banco-brasil-e-oficial-e-tem-assistente-de-ia-como-destaque/ (mesmos números replicados por diversos veículos regionais, ex.: Preto no Branco — https://pretonobranco.org/2026/08/24/banco-do-brasil-lanca-novo-aplicativo-com-foco-em-ia-e-personalizacao/)
+Relevância: Mostra a IA de linguagem natural saindo do "recurso extra" para virar a interface principal de atendimento num serviço usado por dezenas de milhões de pessoas — um preview de como qualquer negócio vai precisar pensar atendimento em pouco tempo.
+Ressalva técnica: Informação baseada em anúncio da própria empresa (Banco do Brasil), replicada por imprensa de tecnologia; ainda não há dado independente sobre adoção real ou satisfação dos usuários com o assistente.
+Possível contradição com roteiro anterior: nenhuma.
+Tese de gancho sugerida: O banco que você usa pra pagar boleto acabou de trocar o menu de opções por uma frase de voz — e isso é só o preview de como todo atendimento vai funcionar em breve. Se o cliente já pode simplesmente "falar o que quer" com o banco, quanto tempo até ele esperar o mesmo da sua empresa?
+
+------------------------------------------------------------
+
+ITEM 2 — Montadora chinesa Omoda & Jaecoo bate recorde de vendas e mira 150 lojas até dezembro
+Categoria: Notícia de empresa
+Fato: A joint-venture chinesa Omoda & Jaecoo emplacou 16.805 unidades no 1º semestre de 2026 (16ª colocação entre montadoras no Brasil) e bateu recorde mensal em maio, superando pela 1ª vez 3 mil vendas num único mês. A rede abriu 36 lojas no semestre, chegando a 100 concessionárias em 25 dos 27 estados, e mira 150 lojas até dezembro de 2026 — com cronograma mês a mês já definido para as 50 inaugurações restantes (8 em julho, 4 em agosto, 8 em setembro, 9 em outubro, 3 em novembro, 9 em dezembro).
+Fonte: Terra — https://www.terra.com.br/mobilidade/omoda-jaecoo-bate-recorde-no-brasil-e-supera-3-mil-vendas-pela-primeira-vez,aaa370add74715a41095abfbc8e7f7e40359nbl3.html (números de expansão corroborados por ND+ — https://ndmais.com.br/economia/negocios/omoda-jaecoo-expansao-150-concessionarias-novos-empregos/ — e Autossegredos — https://www.autossegredos.com.br/mercado/omoda-jaecoo-100-concessionarias-brasil-2026/)
+Relevância: Uma marca praticamente desconhecida no Brasil há 2 anos monta uma rede de distribuição em ritmo de cronograma industrial — um caso concreto de expansão planejada mês a mês, e não "conforme dá".
+Ressalva técnica: Cobertura concentrada em veículos especializados no setor automotivo, citando dados da própria montadora/associação do setor; sem contra-checagem por veículo de economia geral.
+Possível contradição com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Uma marca chinesa que quase ninguém conhecia há 2 anos já emplacou mais de 16 mil carros num semestre e abre uma concessionária nova a cada poucos dias no Brasil — com o mês exato de cada abertura já definido até dezembro. Expansão agressiva não é sorte, é planejamento: eles sabem quantas lojas abrir em cada mês do ano.
+
+------------------------------------------------------------
+
+ITEM 3 — Recuperação judicial no Brasil sobe 20,5% em um ano, agronegócio lidera com alta de 66%
+Categoria: Macroeconomia/índice
+Fato: O número de empresas em recuperação judicial no Brasil cresceu 20,5% em 12 meses, de 6.409 para 7.726, no período entre junho/2025 e junho/2026, segundo o Monitor RGF, da consultoria de reestruturação RGF Associados. O agronegócio puxa a alta, com aumento de 66% no mesmo período e recorde de 1.263 CNPJs de produtores rurais em recuperação judicial só no 1º semestre de 2026 — 3 em cada 4 casos do setor são de pequenos produtores.
+Fonte: Poder360 — https://www.poder360.com.br/poder-economia/recuperacoes-judiciais-no-agro-batem-recorde-com-alta-de-66-em-um-ano/ (dado primário: RGF Associados, corroborado por Gazeta do Povo — https://www.gazetadopovo.com.br/economia/recuperacao-judicial-setores-crise/ — e Brasilagro — https://www.brasilagro.com.br/conteudo/recuperacao-judicial-no-agro-cresceu-66-em-um-ano-no-pais.html)
+Relevância: Contextualiza em números o que os grandes casos recentes (Braskem, Oi) só mostram individualmente: o aperto de crédito e caixa é uma tendência de fundo, mais concentrada ainda entre pequenos negócios do agro do que entre as gigantes que viram manchete.
+Ressalva técnica: RGF Associados é consultoria de reestruturação empresarial — tem interesse comercial em divulgar dados que evidenciam a crise (público-alvo dos seus próprios serviços). Números, porém, são citados como referência por grandes veículos (Valor, InfoMoney, Poder360).
+Possível contradição com roteiro anterior: nenhuma contradição direta — item complementa os casos de Braskem (25/08) e Oi (26/08), mostrando que ambos fazem parte de uma tendência setorial mais ampla de aumento de recuperações judiciais, e não eventos isolados.
+Tese de gancho sugerida: Não são só a Braskem e a Oi: o número de empresas brasileiras em recuperação judicial subiu 20% em um ano, e no agronegócio 3 em cada 4 casos são de pequeno produtor. Os grandes nomes que viram manchete são só a ponta visível de um aperto de caixa que já é maioria entre os pequenos.
+
+------------------------------------------------------------
+
+ITEM 4 — CEOs globais um pouco mais confiantes, mas IA ainda não paga a conta pra 1 em cada 6
+Categoria: Tendência internacional
+Fato: O Snapshot de agosto/2026 da 29ª Pesquisa Global de CEOs da PwC (351 CEOs de 59 países e 27 setores, coletada entre 15/mai e 22/jun/2026) mostra que a fatia de CEOs "muito ou extremamente confiantes" na própria receita nos próximos 12 meses subiu de 39% para 42%; para os próximos 3 anos, de 46% para 51%. Sobre IA: 39% dos CEOs afirmam que ela já aumentou receita e/ou reduziu custos da empresa, mas 16% seguem sem nenhum ganho (receita ou custo pioraram ou ficaram estáveis).
+Fonte: PwC — https://www.pwc.com/gx/en/1/issues/c-suite-insights/ceo-survey/snapshot-august-2026.html (release complementar: https://www.pwc.com/gx/en/news-room/press-releases/2026/ceo-survey-mid-year-snapshot.html)
+Relevância: Mostra que confiança "no papel" está subindo mais rápido do que resultado real de IA no caixa — útil pra qualquer gestor calibrar expectativa antes de prometer retorno de IA pro próprio negócio.
+Ressalva técnica: Pesquisa é autodeclarada pelos próprios CEOs (percepção, não auditoria de resultado); PwC vende serviços de consultoria em IA/estratégia, o que pode influenciar o enquadramento da pesquisa.
+Possível contradição com roteiro anterior: nenhuma.
+Tese de gancho sugerida: CEOs do mundo inteiro estão um pouco mais confiantes que há alguns meses — mas quase 1 em cada 6 ainda não viu a IA gerar um real a mais de receita ou economizar um centavo de custo. A ferramenta ficou mais comum; o retorno dela continua sendo exceção, não regra.
+
+------------------------------------------------------------
+
+ITEM 5 — Pequeno empresário americano mais otimista e mais inseguro ao mesmo tempo
+Categoria: Tendência internacional
+Fato: O Índice de Otimismo das Pequenas Empresas dos EUA (NFIB) subiu 2,4 pontos em julho/2026, para 99,8 — maior nível desde agosto/2025 e acima da média histórica de 52 anos (98,0). A parcela de donos que planeja contratar nos próximos 3 meses saltou para 20% (+9 pontos, maior desde outubro/2022), e planos de investimento em capital subiram para 25% (+5 pontos, maior desde dezembro/2024). Ao mesmo tempo, o Índice de Incerteza subiu para 91 (média histórica: 68), e 27% dos donos citam "qualidade/disponibilidade de mão de obra" como maior problema do negócio (+8 pontos). Dados de julho/2026, divulgados em 11/08/2026.
+Fonte: NFIB — https://www.nfib.com/news/press-release/new-nfib-survey-small-business-optimism-continues-to-rise-11/ (dados também replicados por CNBC — https://www.cnbc.com/video/2026/08/11/nfib-small-business-optimism-index-rose-to-99-point-8-in-july-highest-level-since-august-2025.html)
+Relevância: Mostra que otimismo e insegurança podem crescer juntos — pequeno empresário quer contratar e investir mais, mas ao mesmo tempo está mais em dúvida do que nunca sobre se é a hora certa. Espelha o que muito gestor brasileiro sente na prática.
+Ressalva técnica: NFIB é associação de representação (lobby) de pequenas empresas nos EUA; a metodologia da pesquisa, porém, é usada há mais de 50 anos e citada como referência por Fed e BLS.
+Possível contradição com roteiro anterior: nenhuma.
+Tese de gancho sugerida: O pequeno empresário americano está mais otimista, quer contratar mais e investir mais — e, ao mesmo tempo, está mais inseguro do que nunca sobre se essa é a hora certa pra fazer isso. Dá pra estar confiante e inseguro ao mesmo tempo; é basicamente a definição de tocar um negócio agora.
+
+------------------------------------------------------------
+
+ITEM 6 — Nota fiscal de serviço no padrão nacional para o Simples é adiada para 1º de novembro
+Categoria: Prazo de Ação (Obrigação)
+Fato: Pela Resolução CGSN nº 191/2026 (publicada no Diário Oficial da União em 10/08/2026), a Receita Federal adiou de 1º/09/2026 para 1º/11/2026 a obrigatoriedade de emissão da NFS-e (Nota Fiscal de Serviço eletrônica) pelo padrão nacional, para microempresas e empresas de pequeno porte optantes do Simples Nacional. A resolução revoga a CGSN nº 189/2026, que havia fixado o prazo original de setembro. Data-limite atual: 1º de novembro de 2026.
+Fonte: Receita Federal / Gov.br — https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026
+Relevância: Todo pequeno negócio de serviço optante do Simples que estava correndo pra se adequar ao novo padrão de nota fiscal até setembro ganhou quase 2 meses a mais — mas ainda precisa se preparar, porque o prazo é real e não indefinido.
+Ressalva técnica: nenhuma (fonte oficial direta, Receita Federal).
+Possível contradição com roteiro anterior: nenhuma contradição — é obrigação distinta (emissão de nota fiscal) da tratada em 25/08 (Resolução CGSN nº 186/2026, sobre a janela de opção pelo regime tributário para 2027); ambas do mesmo comitê (CGSN), mas assuntos diferentes.
+Tese de gancho sugerida: Se sua empresa do Simples Nacional estava se apressando pra emitir nota fiscal de serviço no novo padrão nacional a partir de 1º de setembro, respira: o prazo virou 1º de novembro. São quase 2 meses a mais pra ajustar o sistema — mas quem já sabia da mudança original não pode usar esse tempo extra só pra esquecer de novo.
+
+============================================================
+
+RESUMO DE COTAS:
+- Itens internacionais (fonte 1.2): 2 de 6 (PwC e NFIB) — cumpre mínimo de 2 para dia de 6 itens, com 1 de grande consultoria (PwC).
+- Macroeconomia/índice: 1 item (RGF) — dentro do teto de 1-2.
+- Categoria "Livre" não foi necessária: as 5 categorias obrigatórias (Tecnologia, Notícia de empresa, Macro, Tendência internacional, Prazo de Ação) já renderam item de qualidade, e a 6ª vaga foi preenchida com um segundo item de Tendência internacional (NFIB) para reforçar a cota mínima internacional do dia, em vez de forçar um item fraco em "Livre".
+- Buscas feitas e descartadas por falta de qualidade/ineditismo: dados de franquia da ABF (dados de 1º tri/2026, muito antigos); "Loja do Futuro" do Sebrae-SP (agenda de eventos regionais, sem dado de negócio real); investimento em IA na América Latina via LAVCA/Distrito (não encontrei a estatística exata com fonte primária confiável); NR-1/riscos psicossociais (prazo de retomada das multas pelo STF ainda incerto/contraditório entre fontes — descartado por falta de data-limite exata e confiável); Novo Caged de julho/2026 (dados encontrados eram de julho/2025, por confusão de indexação — descartado, ver nota técnica no topo).
