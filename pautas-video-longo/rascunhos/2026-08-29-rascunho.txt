@@ -1,0 +1,74 @@
+RADAR DE REPERCUSSAO -- ETAPA 1 (PESQUISA E PONTUACAO) -- 2026-08-29
+
+CANDIDATO 1 -- Correios: rombo bilionario, Lula descarta privatizacao, PDV de ate 15 mil funcionarios
+Fato: O presidente dos Correios, Emmanoel Rondon, afirmou que a estatal pode fechar 2026 com desequilibrio financeiro de ate R$ 23 bilhoes se medidas nao forem adotadas -- no 1o semestre de 2026 a empresa ja registrou prejuizo de R$ 4,36 bi, o pior resultado da sua historia (despesas de pessoal consomem ~62% do orcamento, podendo chegar a 72% somando passivos judiciais). Em resposta, o governo descartou privatizacao -- Lula reafirmou isso publicamente em 28/8 -- e optou por um plano de reestruturacao com Programa de Demissao Voluntaria para ate 15 mil funcionarios (2026-2027), fechamento de cerca de 1.000 unidades deficitarias e venda de imoveis (~R$ 1,5 bi esperados).
+Fonte: Gazeta do Povo -- https://www.gazetadopovo.com.br/economia/correios-descartam-privatizacao-e-rombo-pode-chegar-a-r-23-bi-ano-que-vem/
+Fontes adicionais (mesmo fato, cobertura cruzada):
+- CNN Brasil -- https://www.cnnbrasil.com.br/economia/macroeconomia/presidente-dos-correios-descarta-privatizacao-e-fala-em-parcerias/
+- CTB (28/8, reafirmacao de Lula) -- https://www.ctb.org.br/2026/08/28/lula-reafirma-que-correios-nao-serao-privatizados-e-ctb-sp-cobra-fortalecimento-da-estatal/
+- Revista Oeste -- https://revistaoeste.com/economia/correios-podem-ter-rombo-de-ate-r-23-bilhoes-em-2026/
+- Poder360 (detalhe do plano: 15 mil demissoes, 1.000 unidades) -- https://www.poder360.com.br/poder-governo/correios-pretendem-demitir-15-000-e-fechar-1-000-unidades/
+- Metropoles -- https://www.metropoles.com/brasil/economia-br/rombo-bilionario-ameaca-os-correios-entenda-crise-e-solucoes-buscadas
+Score de Repercussao:
+- Frescor: 3/5 (a reafirmacao de Lula contra a privatizacao e de ontem, 28/8, mas o rombo e o plano de PDV de 15 mil ja vem sendo noticiados desde dez/2025 -- nao e fato 100% inedito)
+- Relevancia do protagonista: 5/5 (Correios e uma das marcas mais reconhecidas do pais, usada por praticamente todo mundo, inclusive PMEs que dependem dela pra logistica)
+- Gravidade: 5/5 (maior prejuizo semestral da historia da estatal, rombo projetado de R$ 23 bi, ate 15 mil demissoes -- nada rotineiro)
+- Polemica adjacente: 4/5 (encosta direto no debate politico de privatizacao de estatais, tema historicamente polarizado entre governo e oposicao, as vesperas de ano eleitoral)
+- Volume de cobertura: 4/5 (Gazeta do Povo, CNN Brasil, Revista Oeste, Poder360, Metropoles, CTB e sindicatos noticiaram nos ultimos dias)
+- Clareza do angulo: 3/5 (cadeia causal e boa -- prejuizo recorde -> decisao politica de nao privatizar -> corte de custos via demissao/fechamento -- mas o "porque" do rombo tem varios fatores concorrentes: concorrencia de courier privado, e-commerce, custo fixo de pessoal, que exigem simplificacao no roteiro)
+- Identificacao com audiencia: 4/5 (a licao de fundo -- decidir entre vender o negocio, demitir/cortar custos ou tentar se reinventar quando as contas nao fecham -- e algo que dono de PME sente na pele)
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+
+Alerta guardrail: o fator "Polemica adjacente" pesou porque o tema encosta no debate politico sobre privatizacao de estatais (Lula descartando a venda dos Correios). Isso NAO pode aparecer no roteiro final -- o angulo tem que ficar 100% em gestao/decisao de negocio (cortar custo vs. vender vs. se reinventar quando o caixa nao fecha), sem citar Lula, governo, partido ou tomar posicao sobre se a estatal deveria ou nao ser privatizada.
+
+CANDIDATO 2 -- Bancos batem lucro recorde de R$ 45,4 bi no semestre e ao mesmo tempo cortam 14.157 empregos e 837 agencias em 1 ano
+Fato: Itau, Bradesco e Santander somaram lucro liquido conjunto de R$ 45,4 bi no 1o semestre de 2026 (Bradesco +16,2%, Itau +9,1%, Santander -9,5%). No mesmo periodo de 1 ano, os tres bancos eliminaram 14.157 postos de trabalho (Santander 6.591, Itau 5.118, Bradesco 2.448) e fecharam 837 agencias (~16% da rede fisica), num movimento puxado por automacao e IA -- no Itau, o atendimento com IA deve saltar de 300 mil pra 3 milhoes de clientes ate o fim do ano.
+Fonte: Sindicato dos Bancarios de SP -- https://spbancarios.com.br/08/2026/bradesco-itau-e-santander-lucram-r-45-bilhoes-so-no-1o-semestre-de-2026-e-bancarios-cobram
+Score de Repercussao:
+- Frescor: 2/5 (dado consolidado do 1o semestre/2T26, replicado em nota de agosto/2026, mas nao e um fato pontual de hoje ou ontem)
+- Relevancia do protagonista: 5/5 (Itau, Bradesco e Santander sao marcas maximas, reconhecidas por qualquer brasileiro)
+- Gravidade: 3/5 (tendencia relevante mas nao e um evento dramatico e pontual -- e a continuacao de um movimento de fechamento de agencias ja conhecido)
+- Polemica adjacente: 2/5 (toca discussao social sobre automacao/IA substituindo emprego, mas sem carona direta em pauta politica/eleitoral quente)
+- Volume de cobertura: 2/5 (a nota se replicou em varios sindicatos regionais com o mesmo texto -- nao e cobertura jornalistica independente em multiplos veiculos)
+- Clareza do angulo: 5/5 (contraste direto e facil de explicar: lucro recorde x corte de vagas = eficiencia via automacao)
+- Identificacao com audiencia: 5/5 (fazer mais com menos, decisao de automatizar processos mesmo com resultado bom -- extremamente aplicavel a PME)
+TOTAL: 24/35
+Status: runner-up
+
+CANDIDATO 3 -- Fed sinaliza possivel alta de juros nos EUA por inflacao persistente, mercados reagem
+Fato: O novo presidente do Federal Reserve, Kevin Warsh, discursou ontem (28/8) no simposio de Jackson Hole e afirmou que a inflacao PCE de 12 meses esta em 3,7%, dizendo que o Fed "tem mais trabalho a fazer" -- sinalizando possibilidade de alta de juros ja em setembro, invertendo a expectativa recente de cortes. Mercados reagiram na hora: S&P 500 caiu 0,25%, Nasdaq caiu 0,52%, o titulo do Tesouro de 2 anos foi a maior taxa desde julho (~4,32%), o dolar se fortaleceu (indice DXY +0,50%) e o ouro recuou cerca de 3%, pra perto de US$ 4.455/onca.
+Fonte: CNBC -- https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html
+Fontes adicionais: Washington Post -- https://www.washingtonpost.com/business/2026/08/28/fed-chair-warsh-speaks-jackson-hole-conference/ ; NPR -- https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates ; Forbes -- https://www.forbes.com/sites/tylerroush/2026/08/28/fed-chair-kevin-warsh-says-inflation-still-too-high-in-first-jackson-hole-speech/
+Score de Repercussao:
+- Frescor: 5/5 (discurso e reacao de mercado foram ontem, 28/8)
+- Relevancia do protagonista: 3/5 (Fed e conhecido globalmente, mas Kevin Warsh, novo chairman, nao tem o reconhecimento de uma marca de consumo pro publico geral brasileiro)
+- Gravidade: 4/5 (possivel virada de rota da politica monetaria americana -- de corte pra alta -- e relevante pros mercados globais)
+- Polemica adjacente: 2/5 (e tema economico "quente" mas de natureza tecnica, sem carona direta em uma polemica social/eleitoral especifica no Brasil)
+- Volume de cobertura: 5/5 (cobertura maciça e simultanea: CNBC, Washington Post, NPR, PBS, Forbes, entre outros, todos em 28/8)
+- Clareza do angulo: 2/5 (a cadeia causal ate um efeito pratico pro dono de PME brasileiro e longa e tem varios fatores concorrentes -- juro dos EUA -> dolar mais forte -> cambio -> custo de importacao/insumo -- dificil de simplificar em 2 minutos sem parecer aula de macroeconomia)
+- Identificacao com audiencia: 2/5 (a ligacao com o dia a dia do dono de PME brasileiro e indireta, exige mais explicacao do que casos de empresas nacionais)
+TOTAL: 23/35
+Status: runner-up
+
+CANDIDATO 4 -- Confianca do comercio cai em agosto, puxada pelos juros altos (FGV Ibre / FecomercioSP)
+Fato: O Indice de Confianca do Comercio (ICOM) da FGV Ibre caiu 1,3 ponto em agosto ante julho, pra 84,2 pontos -- abaixo da linha dos 100 que separa otimismo de pessimismo -- puxado pelo peso dos juros altos sobre o consumo e o credito. Em paralelo, a FecomercioSP mostrou que a confianca do pequeno empresario paulistano (ate 50 funcionarios) esta no pior nivel desde junho de 2021.
+Fonte: Movimento Economico -- https://movimentoeconomico.com.br/economia/2026/08/28/confianca-do-comercio-cai-em-agosto-com-freio-nos-juros-altos-aponta-fgv-ibre/
+Score de Repercussao:
+- Frescor: 5/5 (divulgado ontem, 28/8)
+- Relevancia do protagonista: 1/5 (nao ha empresa ou marca -- e um indice de instituicao de pesquisa)
+- Gravidade: 2/5 (e dado de rotina mensal, sem evento dramatico unico)
+- Polemica adjacente: 2/5 (toca cenario economico geral de forma difusa, sem um gancho politico especifico)
+- Volume de cobertura: 3/5 (replicado por veiculos regionais/especializados, sem grande destaque na midia nacional de massa)
+- Clareza do angulo: 2/5 (e um numero/indice -- facil de citar, dificil de transformar em historia com gancho emocional)
+- Identificacao com audiencia: 5/5 (e literalmente sobre o publico do canal -- pequeno empresario, ate 50 funcionarios)
+TOTAL: 20/35
+Status: runner-up
+
+Observacao de repeticao: este candidato tem sobreposicao tematica forte com a pauta vencedora de 2026-08-27 (CNI: confianca do empresario industrial caindo ha 20 meses). Por isso, mesmo com bom score em alguns fatores, foi mantido apenas como runner-up de registro -- nao deve ser escolhido em dias seguintes por repetir o mesmo tema de "confianca empresarial em queda".
+
+RESUMO DO DIA
+Vencedor: Correios -- rombo bilionario e decisao de nao privatizar, com PDV de ate 15 mil funcionarios (28/35)
+Runners-up: Bancos: lucro recorde x corte de 14 mil vagas (24/35) | Fed sinaliza alta de juros nos EUA (23/35) | Confianca do comercio em queda -- FGV/FecomercioSP (20/35)
+
+Checagem de repeticao (ultimos 10 dias corridos, pautas-video-longo/saidas e rascunhos): Casas Bahia (20/8), inadimplencia recorde (21/8), recuperacoes judiciais recorde -- agro (22/8), tarifaco EUA-Brasil (23/8), Braskem (25/8), Oi (26/8), CNI confianca industrial (27/8), Shein IPO (28/8). Nenhum dos 4 candidatos de hoje repete assunto/empresa desses dias -- a unica sobreposicao e tematica (confianca empresarial, candidato 4 vs. CNI de 27/8), sinalizada acima.
