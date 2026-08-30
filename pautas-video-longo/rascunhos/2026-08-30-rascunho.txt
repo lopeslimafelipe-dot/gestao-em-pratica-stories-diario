@@ -1,0 +1,64 @@
+PAUTAS DO DIA -- 2026-08-30 (domingo)
+Radar de Repercussao -- Etapa 1 (Pesquisa e Pontuacao)
+
+OBSERVACAO GERAL: dia de cobertura fraca (domingo, fim de semana -- redacoes com pauta reduzida). Os assuntos com maior potencial de repercussao no noticiario de negocios continuam sendo desdobramentos de temas que ESTE MESMO PIPELINE ja usou como vencedor nos ultimos 10 dias corridos (Casas Bahia -- 20/08 e 26/08[Oi]; Braskem -- 25/08; Correios -- 29/08; Shein -- 28/08; Tarifaço EUA-Brasil -- 23/08). Por regra de nao-repeticao de assunto/empresa deste pipeline, esses foram desconsiderados como vencedor mesmo quando pontuaram alto -- ver Candidato 3 abaixo.
+
+CANDIDATO 1 -- Mercado de trabalho aquecido: desemprego no menor patamar da serie para trimestre ate julho
+Fato: O IBGE divulgou na quinta-feira (27/08) que a taxa de desocupacao ficou em 5,3% no trimestre movel encerrado em julho de 2026, o menor percentual ja registrado para um trimestre terminado em julho desde o inicio da serie historica da PNAD Continua (2012). A populacao ocupada chegou a 103,3 milhoes de pessoas, maior contingente da serie. E uma queda de 0,5 p.p. frente ao trimestre encerrado em abril (5,8%). O recorde absoluto da serie (todos os trimestres) segue sendo 5,1%, no trimestre encerrado em dezembro/2025 -- ou seja, e um recorde "de categoria" (trimestre terminado em julho), nao o piso historico geral.
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/macroeconomia/taxa-desemprego-pnad-hoje-27-agosto-2026/ (dado cruzado tambem com Revista Forum, Jornal Grande Bahia e Imirante, todos batendo 5,3% e 103,3 milhoes)
+Score de Repercussao:
+- Frescor: 2/5 (dado divulgado ha 3 dias, quinta-feira 27/08)
+- Relevancia do protagonista: 3/5 (IBGE/PNAD e instituicao respeitada, mas o "protagonista" e um indicador macro, nao uma marca)
+- Gravidade: 3/5 (recorde relevante, mas e um recorde "de categoria", nao o piso historico absoluto -- nao e uma crise)
+- Polemica adjacente: 3/5 (dado de emprego e usado politicamente pelo governo as vesperas do ciclo eleitoral, mas o video nao precisa comentar isso)
+- Volume de cobertura: 4/5 (repercutiu em varios veiculos generalistas no fim de semana)
+- Clareza do angulo: 3/5 (da pra explicar, mas causalidade macro (juros caindo, servicos aquecidos) e menos direta que um caso de empresa unica)
+- Identificacao com audiencia: 4/5 (mercado de trabalho apertado = mais dificuldade pra contratar/reter e mais pressao salarial -- dono de PME sente isso na pele ao tentar montar equipe)
+TOTAL: 22/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Nubank pode ultrapassar o Itau no lucro do varejo bancario ja em 2026
+Fato: Segundo relatorio do JPMorgan repercutido por varios portais de mercado nos ultimos dias, o Nubank fechou o 2T26 com lucro liquido de US$ 1,054 bilhao (excluindo Mexico), praticamente empatado com os US$ 1,087 bilhao do varejo do Itau -- 98% do resultado do concorrente. O indice de eficiencia do Nubank Brasil e de ~17% contra 41% no varejo do Itau, com ROA de 5%-6% ante ~2% do Itau. O JPMorgan projeta que o banco digital PODE ultrapassar o Itau em lucro de varejo ainda em 2026 -- e uma projecao de analista, nao um fato consumado.
+Fonte: Brazil Journal -- https://braziljournal.com/nubank-pode-lucrar-mais-que-o-itau-no-varejo-ja-este-ano-diz-jp-morgan/ (mesmo numero circulou tambem em Money Times, SpaceMoney, Guia do Investidor e Portal IN)
+Score de Repercussao:
+- Frescor: 2/5 (relatorio circula ha cerca de 2 semanas, com base em resultados do 2T26 divulgados em meados de agosto)
+- Relevancia do protagonista: 5/5 (Nubank e Itau sao marcas extremamente conhecidas do publico geral)
+- Gravidade: 2/5 (e uma projecao/opiniao de analista sobre o que "pode" acontecer, nao um fato ja concretizado)
+- Polemica adjacente: 1/5 (sem gancho politico ou de debate publico mais amplo)
+- Volume de cobertura: 3/5 (bem coberto, mas concentrado em portais de investimento/mercado, menos em veiculos generalistas)
+- Clareza do angulo: 4/5 (angulo redondo: banco digital com estrutura enxuta ameaca banco tradicional com estrutura pesada -- otima cadeia causa-efeito-licao)
+- Identificacao com audiencia: 4/5 (licao de eficiencia operacional e estrutura enxuta e muito aplicavel a gestao de PME)
+TOTAL: 21/35
+Status: runner-up
+
+CANDIDATO 3 -- Tarifaco Brasil-EUA: rodada tecnica marcada para segunda-feira (31/08), apos ligacao Lula-Trump
+Fato: Lula e Trump conversaram por telefone em 21/08 (1h20, tom cordial) sobre as tarifas de 25%-50% aplicadas a cerca de 4 mil produtos brasileiros. Trump propos retomar as negociacoes tecnicas. Diversos veiculos noticiaram que uma nova rodada entre equipes tecnicas dos dois paises (incluindo o representante comercial dos EUA, Jamieson Greer, e o ministro Marcio Elias Rosa) estaria marcada para esta segunda-feira, 31/08, as 14h30.
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/08/lula-e-trump-conversaram-por-telefone-e-discutem-tarifas/ (agenda da reuniao de 31/08 tambem noticiada por ND+ e outros veiculos regionais -- checar confirmacao em fonte de primeira linha antes de qualquer uso)
+Score de Repercussao:
+- Frescor: 3/5 (ligacao foi ha 9 dias; a novidade de hoje e so o agendamento da reuniao de amanha)
+- Relevancia do protagonista: 5/5 (Lula, Trump e a relacao comercial Brasil-EUA)
+- Gravidade: 4/5 (tarifaco afeta bilhoes em exportacoes e e tema estrutural para a economia)
+- Polemica adjacente: 5/5 (tema extremamente politico e polarizado, ano eleitoral)
+- Volume de cobertura: 5/5 (amplamente coberto por praticamente todos os grandes veiculos)
+- Clareza do angulo: 3/5 (multiplas camadas -- diplomacia, tarifas por setor, cronograma incerto -- dificulta angulo simples em 2 min)
+- Identificacao com audiencia: 4/5 (custo de exportar/importar afeta negocios, mas o efeito direto varia muito conforme o setor da PME)
+TOTAL: 29/35 (maior pontuacao do dia)
+Status: DESQUALIFICADO POR REPETICAO DE ASSUNTO -- "Tarifaço EUA-Brasil" ja foi o VENCEDOR deste pipeline em 23/08/2026 ("Tarifaço EUA-Brasil volta a mesa de negociacao, mercado reage"), dentro da janela de 10 dias corridos. Registrado aqui apenas para documentar que foi avaliado e por que foi descartado, apesar do score mais alto.
+[Nota de guardrail politico: caso este assunto venha a ser reavaliado em outro dia (fora da janela de repeticao), o fator "Polemica adjacente" pesa forte no score -- e o roteiro NUNCA deve comentar a disputa politica em si, citar partido ou figura politica de forma critica, nem tomar posicao. Angulo sempre em efeito pratico/gestao (custo de exportar, planejamento de caixa, diversificacao de mercado).]
+
+CANDIDATO 4 -- Franquias no Brasil acumulam R$ 308,4 bi em 12 meses, terceiro trimestre seguido de alta de 2 digitos
+Fato: Segundo a Pesquisa Trimestral de Desempenho da ABF (Associacao Brasileira de Franchising), o setor de franquias faturou R$ 308,4 bilhoes no acumulado de 12 meses ate o 1T26, alta de 10,7% -- terceiro trimestre consecutivo de crescimento de dois digitos, com presenca em quase 70% dos municipios brasileiros.
+Fonte: ABF -- https://abf.com.br/mercado-de-franquias-supera-os-r-300-bilhoes-em-2025-e-impulsiona-o-crescimento-da-economia-brasileira/ (dado do 1T26 divulgado em junho/2026, ainda repercutido em materias de agosto, ex.: Jornal do Comercio)
+Score de Repercussao:
+- Frescor: 1/5 (dado e do 1T26, divulgado ha quase 3 meses)
+- Relevancia do protagonista: 2/5 (ABF nao e marca de apelo popular; franquias como categoria sao fragmentadas)
+- Gravidade: 2/5 (crescimento positivo, mas e resultado de rotina do setor, nao um fato extraordinario)
+- Polemica adjacente: 1/5 (nenhuma)
+- Volume de cobertura: 2/5 (nichado -- portais de varejo/franquia)
+- Clareza do angulo: 3/5 (facil de explicar, mas sem gancho de urgencia)
+- Identificacao com audiencia: 4/5 (franquia e caminho comum de PME, tema relevante para o publico)
+TOTAL: 15/35
+Status: runner-up (mais fraco -- no limite do piso de relevancia; nao teria sido considerado se o dia tivesse mais opcoes fortes)
+
+RESUMO PARA A ETAPA 2:
+Vencedor do dia: Candidato 1 -- desemprego no menor patamar da serie para trimestre ate julho (22/35). Score moderado, tema macro, sem guardrail politico necessario (fator polemica pesou pouco). Dia de cobertura fraca (domingo); vencedor nao tem o mesmo "gancho" imediato de um caso como Casas Bahia/Braskem, mas e o mais solido entre os assuntos ainda nao usados por este pipeline nos ultimos 10 dias.
