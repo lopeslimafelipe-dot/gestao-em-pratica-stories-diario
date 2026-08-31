@@ -1,0 +1,39 @@
+ROTEIRO 1 — Google ensina IA de graça pra 12 mil pequenos negócios
+"O Google e o Sebrae-SP lançaram, em evento ao vivo em São Paulo, um 🟡`curso gratuito de inteligência artificial pra 12 mil pequenos empreendedores`🟡, ensinando a usar o Gemini e o Google Business Profile pra vender mais. Vale lembrar: 🟡`o Google também ganha com isso, quer mais gente usando as ferramentas dele`🟡. Mas a barreira que sobrava pro pequeno negócio não era falta de interesse em IA, era não saber por onde começar. Com curso de graça e vaga pra 12 mil pessoas, 🟡`essa desculpa perdeu a validade`🟡. Inscrição tá aberta, vale a pena dar uma olhada."
+Fonte: Agência Sebrae de Notícias São Paulo — https://sp.agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-sp-e-google-firmam-parceria-para-ensinar-uso-de-ia-para-pequenos-empreendedores/
+
+============================================================
+
+ROTEIRO 2 — Lei nova, farmácia dentro do maior atacarejo do país
+"Depois que uma lei de março passou a permitir farmácia dentro de supermercado, o Assaí não esperou: 🟡`já abriu de 5 a 6 farmácias em julho, mais 3 em agosto, com meta de chegar a 25 até dezembro`🟡. A projeção da própria empresa é 🟡`expandir pra mais de 250 das suas 300 lojas, ainda potencial, não promessa fechada`🟡. A lição aqui não é sobre farmácia: é que quando a regra do jogo muda, quem sai na frente não é quem discute se aquilo é ou não o seu ramo, 🟡`é quem já tá testando enquanto os outros ainda debatem`🟡."
+Fonte: SuperHiper (cobertura pública; matéria original é do Valor Econômico) — https://www.superhiper.com.br/assai-estreia-no-setor-farmaceutico-e-mira-expansao-para-mais-de-250-lojas/
+
+============================================================
+
+ROTEIRO 3 — Emprego ainda cresce, mas no ritmo mais lento em 7 anos
+"O Caged mostrou: o Brasil abriu 🟡`58.568 vagas formais em julho`🟡, saldo positivo, mas o 🟡`pior resultado pra um mês de julho em sete anos, queda de 56,3% nas contratações líquidas`🟡 frente a julho do ano passado. No acumulado do ano já são 972 mil vagas, alta de 2,06%. Não é uma crise chegando de uma vez, é 🟡`a desaceleração silenciosa que só fica óbvia quando alguém para pra comparar com o ano anterior`🟡. Se você contrata gente, esse é o tipo de sinal que vale acompanhar de perto."
+Fonte: Agência Brasil (EBC) — https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasil-cria-585-mil-postos-de-trabalho-em-julho-aponta-caged
+
+============================================================
+
+ROTEIRO 4 — Quanto mais IA, menos você confia no seu próprio taco
+"Um estudo com 🟡`228 avaliadores experientes, analisando 48 projetos de um desafio do MIT`🟡, achou algo que ninguém esperava: 🟡`depois de ouvir a IA, o avaliador passava a confiar menos no próprio julgamento, mesmo quando esse julgamento já estava certo`🟡. Publicado na Harvard Business Review, o artigo não diz que a IA erra mais. Diz que a ferramenta que devia turbinar sua decisão pode estar, na prática, 🟡`atrofiando o músculo que faz essa decisão valer alguma coisa`🟡. Se você consulta IA antes de decidir, vale parar e se perguntar: quem tá decidindo, você ou o software?"
+Fonte: Harvard Business Review — https://hbr.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it
+
+============================================================
+
+ROTEIRO 5 — 1 em cada 4 empresas familiares parou de crescer forte
+"A Pesquisa Global de Empresas Familiares da PwC, com mais de 1.300 entrevistas em 62 países, achou isso: 🟡`só 25% das empresas familiares do mundo cresceram dois dígitos no último ano, há dois anos eram 43%`🟡, o pior resultado do setor desde a pandemia. Mesmo assim, o executivo brasileiro tá otimista: 🟡`58% esperam aceleração no mercado doméstico, contra 48% na média global`🟡, embora só 42% confiem no próprio desempenho financeiro. Vale lembrar: 🟡`é pesquisa de uma consultoria que vende serviço pra empresa familiar`🟡. Fica a pergunta: visão de quem tá no chão de fábrica, ou otimismo de quem ainda não fez a conta?"
+Fonte: PwC, via Forbes Brasil — https://forbes.com.br/forbes-money/2026/08/empresas-familiares-crescimento-pwc/
+
+============================================================
+
+ROTEIRO 6 — Hoje é o último dia pra renegociar dívida com desconto
+"Lembra que eu falei, dia 26, que faltavam 5 dias pro prazo do Desenrola Empresas fechar? Pois é: 🟡`hoje é o último dia, sem prorrogação`🟡. O valor total renegociado por pequeno negócio 🟡`subiu de R$23,2 bilhões pra quase R$36 bilhões`🟡 nesse intervalo, 🟡`sendo R$33,8 bilhões pelo Pronampe e R$2,1 bilhões pelo Procred 360`🟡. Se você tem dívida bancária do seu negócio e ainda não procurou o banco, corre: 🟡`o prazo é pra fechar o acordo, não só pra dar entrada`🟡, e depois de hoje não tem mais prorrogação."
+Fonte: Terra — https://www.terra.com.br/economia/governo-prorroga-adesao-ao-desenrola-20-ate-31-de-agosto-veja-como-funciona,e5e9ebd35d54befe423703f09f66236adkuqf69m.html
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] "Você confia mais na sua decisão depois de consultar uma IA? Sim / Não"
+2. [Pergunta/Participação, Roteiro 2] "Me conta aqui: você já teve um concorrente que testou algo novo (tipo o Assaí virando farmácia) e te pegou de surpresa? Manda pra mim!"
+3. [Virar História, Roteiro 5 -> Comparativo] O Roteiro 5 tem dois contrastes numéricos lado a lado (25% hoje vs. 43% há dois anos; 58% Brasil vs. 48% mundo) — o estilo Comparativo mostra visualmente essa distância, reforçando a tensão "otimismo local vs. dado global" que já é o gancho do roteiro.
