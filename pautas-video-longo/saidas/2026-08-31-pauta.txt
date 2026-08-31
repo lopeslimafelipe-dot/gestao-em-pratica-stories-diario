@@ -1,0 +1,37 @@
+PAUTA DO DIA -- 2026-08-31
+Assunto: Negociacao sobre remuneracao de motoristas/entregadores de app trava -- plataformas propoem valor bem abaixo do piso do projeto do governo, categoria ameaca greve nacional em 12/09
+Score final: 28/35 (Frescor 4/5, Relevancia do protagonista 5/5, Gravidade 4/5, Polemica adjacente 4/5, Volume de cobertura 3/5, Clareza do angulo 4/5, Identificacao com audiencia 4/5)
+
+Fato central verificado: Em reuniao do grupo de trabalho tripartite (governo, empresas e trabalhadores), na terca-feira 29/08/2026, as associacoes que representam as plataformas -- Amobitec (Uber, 99) e MID (iFood, Rappi, Amazon e outras) -- apresentaram contrapropostas de remuneracao minima. A Amobitec propos R$ 21,22 por hora para motoristas de transporte de passageiros; a MID propos ganho minimo de R$ 17,00 por hora para motoristas de aplicativo. Os representantes dos trabalhadores recusaram e classificaram as propostas como "um absurdo e uma falta de respeito". As plataformas tem prazo ate 12 de setembro para apresentar uma proposta melhor; sem acordo ate la, a categoria ameaca convocar paralisacao nacional. Confirmado de forma cruzada em CNN Brasil, Hoje em Dia e Brasil 61, todos publicados a partir de 29-30/08/2026, com os mesmos valores e prazo.
+
+Cadeia causal (o que levou a isso):
+1) Em maio de 2023 o governo federal cria um grupo de trabalho tripartite (45 membros -- 15 do governo, 15 de trabalhadores, 15 de empresas/plataformas) pra desenhar uma regulamentacao do trabalho por aplicativo.
+2) Apos quase dois anos de negociacao entre essas tres partes, o desenho resultante -- o PLP 12/2024 -- fixa um piso de R$ 32,10 por hora efetivamente trabalhada (R$ 8,03 de remuneracao pelo servico + R$ 24,07 destinados a cobrir custos do motorista, como combustivel, manutencao e seguro). O projeto segue em tramitacao no Congresso, ainda sem votacao final.
+3) Enquanto a lei nao sai, o mesmo grupo tripartite negocia paralelamente um piso remuneratorio pratico. E nesse ponto que, em 29/08, as associacoes das plataformas colocam na mesa valores de R$ 21,22/h e R$ 17,00/h -- entre 34% e 47% abaixo do numero que o proprio processo negociador (com participacao das empresas) havia desenhado como referencia.
+4) O gap e grande demais pra ser absorvido em uma rodada: os representantes dos trabalhadores recusam de forma dura ("absurdo", "falta de respeito") e a negociacao trava.
+5) Fica marcado um prazo -- 12/09 -- pra as plataformas melhorarem a proposta. Sem avanco, a categoria (2,2 milhoes de trabalhadores em todo o Brasil) ameaca parada nacional.
+
+Por que esta repercutindo agora: fato novo (reuniao de terca-feira, 2 dias antes da divulgacao), protagonistas de reconhecimento maximo do publico (Uber, 99, iFood, Rappi), gravidade real (ameaca formal de greve nacional com data marcada) e um angulo causa-efeito muito claro (o tamanho do gap entre o que foi negociado como referencia e o que as empresas dizem que topam pagar) -- combinacao que fez o candidato vencer com folga de qualquer outro assunto do dia, num dia fraco pra casos de empresa unica.
+
+Angulo de gestao sugerido: o video NAO discute se o piso de R$ 32,10 e justo, nem se a regulamentacao do governo esta certa. O angulo e sobre o mecanismo de qualquer negociacao trabalhista -- com o Estado, com sindicato, ou internamente numa PME: quando uma das partes chega com um numero muito distante da referencia que a outra parte considera correta, a negociacao nao "aperta", ela trava e pode escalar pra conflito aberto (greve, saida em massa, processo). A licao pratica pro dono de empresa: antes de sentar pra negociar salario, reajuste ou beneficio -- seja com um funcionario, um sindicato ou uma categoria inteira -- calcule com rigor o que o caixa do negocio realmente aguenta pagar, e chegue com um numero que tenha alguma proximidade com a expectativa da outra parte. Prometer (ou contrapropor) um valor fora da realidade do orcamento so adia o problema e aumenta o risco de ele explodir depois, do jeito mais caro.
+
+Dados de apoio:
+- Piso desenhado no PLP 12/2024: R$ 32,10 por hora efetivamente trabalhada, sendo R$ 8,03 de remuneracao pelo servico e R$ 24,07 para cobertura de custos do motorista (fonte: tramitacao do PLP 12/2024, Camara dos Deputados -- https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2419243)
+- As contrapropostas das plataformas ficam 34% (Amobitec, R$ 21,22/h) e 47% (MID, R$ 17,00/h) abaixo desse piso de referencia (calculo proprio a partir dos valores confirmados nas fontes acima)
+- Categoria afetada: 2,2 milhoes de trabalhadores em plataformas no Brasil (1.721.614 motoristas + 455.621 entregadores), com o numero de motoristas crescendo 35% entre 2022 e 2024 (fonte: pesquisa Cebrap/Amobitec -- https://amobitec.org/cresce-35-o-numero-de-motoristas-e-18-os-entregadores-que-trabalham-com-apps-no-brasil-revela-cebrap/)
+- Renda liquida media hoje, segundo a mesma pesquisa: entre R$ 3.083 e R$ 4.400 por mes para motoristas, e entre R$ 2.669 e R$ 3.581 por mes para entregadores (fonte: Cebrap/Amobitec, link acima)
+
+Ressalva/limite: o fator "Polemica adjacente" pesou no score (4/5) porque o tema nasce de um projeto de lei do governo federal (PLP 12/2024) em tramitacao no Congresso, as vesperas do ciclo eleitoral. LEMBRETE EXPLICITO: o roteiro NUNCA deve comentar o merito da regulamentacao proposta pelo governo, nao deve citar Lula, ministro, partido ou parlamentar de forma critica ou elogiosa, e nao deve tomar posicao sobre quem esta certo entre governo, empresas ou trabalhadores nessa negociacao. Fique 100% no angulo de gestao/negocio descrito acima.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: o conflito especifico -- empresas oferecem ate 47% menos do que o piso que o proprio processo negociador desenhou, e a categoria ameaca parar o pais em data marcada
+- Contexto/causa raiz: como chegou a esse numero de referencia (quase 2 anos de negociacao tripartite, o que compoe o R$ 32,10/hora)
+- Desenvolvimento da cadeia causal: da contraproposta a recusa dura ate o prazo de 12/09 e a ameaca de paralisacao nacional -- usar o espaco extra do formato longo pra explicar por que um gap desse tamanho trava qualquer negociacao
+- Licao de gestao (a virada): antes de negociar remuneracao, calcule com rigor o que o caixa aguenta -- e chegue com um numero que tenha chance real de fechar acordo
+- Fechamento + CTA
+
+Fonte(s): CNN Brasil -- https://www.cnnbrasil.com.br/economia/macroeconomia/motoristas-de-app-rejeitam-proposta-das-plataformas-e-planejam-nova-greve-geral/ ; Hoje em Dia -- https://www.hojeemdia.com.br/economiaefinancas/sem-acordo-motoristas-de-aplicativos-ameacam-greve-em-todo-o-brasil-em-12-de-setembro-1.977694 ; Brasil 61 -- https://brasil61.com/n/sem-acordo-motoristas-de-aplicativos-prometem-greve-em-todo-o-brasil-no-dia-12-de-setembro-bras239423
+
+Runners-up do dia (registro/transparencia):
+- Tarifaco Brasil-EUA: rodada tecnica virtual Marcio Elias Rosa x Jamieson Greer (31/08) -- 28/35, mas desqualificado por repeticao (ja venceu o pipeline em 23/08/2026, dentro da janela de 10 dias)
+- FGV: Indice de Confianca Empresarial recua em agosto -- 19/35
