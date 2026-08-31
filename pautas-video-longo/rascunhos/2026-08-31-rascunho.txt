@@ -1,0 +1,51 @@
+PAUTAS DO DIA -- 2026-08-31 (segunda-feira)
+Radar de Repercussao -- Etapa 1 (Pesquisa e Pontuacao)
+
+OBSERVACAO GERAL: dia de cobertura fraca para casos de empresa unica -- segunda-feira de agenda dominada por indicadores macro (Boletim Focus, resultado primario de julho, PMI industrial e PIB do 2T26 saem so amanha/quarta). O assunto com maior potencial de repercussao pura (Tarifaco Brasil-EUA) foi desqualificado por repeticao -- ja venceu este pipeline em 23/08/2026, dentro da janela de 10 dias corridos. Varias "noticias" que pareciam fortes em buscas iniciais (Casas Bahia 3 mil demissoes, Nestle corta 16 mil vagas, Magazine Luiza x Havan) se mostraram, ao checar a fonte, fatos de 2 a 4 semanas atras sendo reciclados por agregadores de baixa relevancia -- descartados por falta de frescor genuino, nao viraram candidato formal.
+
+CANDIDATO 1 -- Negociacao sobre remuneracao de motoristas/entregadores de app trava: plataformas propoem valor bem abaixo do piso do projeto do governo, categoria ameaca greve nacional em 12/09
+Fato: Em reuniao do grupo de trabalho tripartite (governo, empresas e trabalhadores) na sede do Ministerio do Trabalho, na terca-feira (29/08), as associacoes que representam Uber, 99, iFood, Rappi e Amazon -- Amobitec e MID -- apresentaram contraproposta de remuneracao minima. A Amobitec propos R$ 21,22 por hora para motoristas de passageiros; a MID propos ganho minimo de R$ 17,00 por hora para motoristas de aplicativo. Ambos os valores ficam bem abaixo do piso de R$ 32,10 por hora ja desenhado no PLP 12/2024 (projeto do governo, negociado ao longo de quase 2 anos com Uber e 99Pop e centrais sindicais, ainda em tramitacao no Congresso). Representantes dos trabalhadores classificaram a contraproposta como "um absurdo e uma falta de respeito" e recusaram. As plataformas tem ate 12 de setembro para apresentar uma proposta melhor; sem acordo ate la, a categoria ameaca convocar paralisacao nacional.
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/macroeconomia/motoristas-de-app-rejeitam-proposta-das-plataformas-e-planejam-nova-greve-geral/ (fato cruzado tambem com Hoje em Dia, Brasil 61, DOL e GPC Noticias, todos publicados a partir de 29-30/08 e batendo os mesmos valores e prazo)
+Score de Repercussao:
+- Frescor: 4/5 (reuniao foi terca-feira 29/08, 2 dias atras -- ainda dentro da janela "hoje/ontem" de forma ampla)
+- Relevancia do protagonista: 5/5 (Uber, 99, iFood e Rappi sao marcas extremamente conhecidas do publico em geral)
+- Gravidade: 4/5 (impasse numa negociacao nacional que afeta uma categoria de milhoes de trabalhadores, com ameaca formal de greve geral e prazo definido -- nao e noticia de rotina)
+- Polemica adjacente: 4/5 (o tema encosta no debate sobre regulacao do trabalho por plataforma, uma pauta do governo federal em tramitacao no Congresso -- ver guardrail abaixo)
+- Volume de cobertura: 3/5 (coberto por varios veiculos nos ultimos 2 dias, mas ainda concentrado em portais economicos/politicos, sem ter virado manchete de capa nos grandes generalistas ainda)
+- Clareza do angulo: 4/5 (cadeia causa-efeito clara: gap enorme entre o que foi desenhado como "piso justo" e o que as empresas dizem que o modelo aguenta pagar sem quebrar -- otimo gancho para falar de custo real de mao de obra)
+- Identificacao com audiencia: 4/5 (todo dono de PME ja viveu a tensao entre "quanto eu gostaria/preciso pagar pra reter equipe" e "quanto o caixa do negocio realmente aguenta" -- e o risco de prometer um numero que depois nao se sustenta)
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+
+[GUARDRAIL POLITICO -- fator "Polemica adjacente" pesou no score: o tema nasce de um projeto de lei do governo federal (PLP 12/2024) em tramitacao no Congresso, as vesperas do ciclo eleitoral. O roteiro NUNCA deve comentar o merito da regulamentacao proposta pelo governo, nao deve citar Lula, ministro, partido ou parlamentar de forma critica ou elogiosa, e nao deve tomar posicao sobre quem esta certo entre governo, empresas ou trabalhadores. O angulo fica 100% em gestao/negocio: o que acontece quando uma negociacao trabalhista (seja com o Estado, com sindicato ou internamente numa PME) trava porque as contrapartes tem numeros de referencia muito distantes um do outro -- e como isso pode escalar pra greve/parada se ninguem calcular direito o que o negocio suporta pagar antes de sentar pra negociar.]
+
+CANDIDATO 2 -- Tarifaco Brasil-EUA: rodada tecnica virtual marcada para hoje (31/08, 14h30) entre Marcio Elias Rosa e Jamieson Greer
+Fato: Apos ligacao entre Lula e Trump em 21/08 (1h20, tom cordial), o ministro do Desenvolvimento, Industria, Comercio e Servicos, Marcio Elias Rosa, e o representante comercial dos EUA, Jamieson Greer, tem reuniao virtual marcada para esta segunda-feira (31/08), as 14h30 (horario de Brasilia), confirmada pelo ministerio a Agencia Brasil. E a retomada formal das negociacoes tecnicas sobre as tarifas de 25%-50% aplicadas a milhares de produtos brasileiros.
+Fonte: ND+ / Agencia Brasil (agenda confirmada pelo ministerio) -- referencia consolidada via Forbes Brasil: https://forbes.com.br/forbes-money/2026/08/lula-e-trump-conversaram-por-telefone-e-discutem-tarifas/
+Score de Repercussao:
+- Frescor: 5/5 (reuniao acontece hoje)
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5 (e uma rodada de negociacao, ainda sem resultado conhecido no momento da pesquisa -- nao e um fato consumado)
+- Polemica adjacente: 5/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 2/5 (sem resultado concreto disponivel ainda -- dificil montar causa->efeito->licao sem saber se houve avanco, impasse ou recuo)
+- Identificacao com audiencia: 4/5
+TOTAL: 28/35 (empate tecnico com o Candidato 1, mas nao venceria de qualquer forma)
+Status: DESQUALIFICADO POR REPETICAO DE ASSUNTO -- "Tarifaco Brasil-EUA" ja foi o VENCEDOR deste pipeline em 23/08/2026, dentro da janela de 10 dias corridos. Registrado aqui apenas para documentar que foi avaliado e por que foi descartado.
+
+CANDIDATO 3 -- FGV: Indice de Confianca Empresarial (agregado, todos os setores) recua em agosto -- divulgado hoje
+Fato: A FGV IBRE divulga hoje (31/08) o Indice de Confianca Empresarial (ICE), que consolida os indices setoriais ja divulgados na semana passada -- todos em queda: Industria (-3,5 pontos, a 93,7), Comercio (-1,3 ponto, a 84,2) e Construcao (-0,6 ponto, a 91,9). O cenario aponta desaceleracao da atividade e aumento de incerteza com a proximidade do ciclo eleitoral.
+Fonte: FGV IBRE -- https://portalibre.fgv.br/ (dados setoriais de origem: Jornal do Comercio, https://www.jornaldocomercio.com/economia/2026/08/1261214-indice-de-confianca-da-industria-cai-35-pontos-em-agosto-a-937-pontos-afirma-fgv.html)
+Score de Repercussao:
+- Frescor: 5/5 (divulgacao agregada e hoje, embora os componentes setoriais ja sejam de dias atras)
+- Relevancia do protagonista: 2/5 (indice tecnico, sem uma marca/empresa como protagonista)
+- Gravidade: 2/5 (queda incremental, tendencia ja conhecida, nao e um fato extraordinario isolado)
+- Polemica adjacente: 3/5 (mesmo pano de fundo eleitoral do CNI, ja usado como vencedor em 27/08)
+- Volume de cobertura: 2/5 (nichado em portais economicos)
+- Clareza do angulo: 2/5 (tema muito parecido com o que este pipeline ja cobriu ha 4 dias -- risco real de "mais do mesmo" pro publico)
+- Identificacao com audiencia: 3/5
+TOTAL: 19/35
+Status: runner-up fraco -- descartado tambem por sobreposicao tematica forte com o vencedor de 27/08 (confianca industrial CNI)
+
+RESUMO PARA A ETAPA 2:
+Vencedor do dia: Candidato 1 -- impasse na negociacao sobre remuneracao de motoristas/entregadores de app, com ameaca de greve nacional em 12/09 (28/35). Dia fraco para casos de empresa unica batendo recorde ou entrando em crise -- boa parte do que aparentava ser "noticia de hoje" em buscas iniciais era, na verificacao da fonte, fato reciclado de 2 a 4 semanas atras (Casas Bahia, Nestle, Magazine Luiza x Havan), descartado por falta de frescor genuino. O vencedor tem a vantagem de ser fato novo (reuniao de terca-feira, 29/08), envolver marcas de altissimo reconhecimento (Uber, 99, iFood, Rappi) e render um angulo de gestao bem aplicavel a PME (o custo real de mao de obra e o risco de negociar sem calcular o que o caixa aguenta) -- mas exige atencao redobrada ao guardrail politico, dado que nasce de um projeto de lei do governo federal.
