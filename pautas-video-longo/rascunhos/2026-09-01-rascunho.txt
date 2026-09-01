@@ -1,0 +1,110 @@
+PAUTA DO DIA -- 2026-09-01 (ETAPA 1: PESQUISA E PONTUACAO)
+
+NOTA METODOLOGICA IMPORTANTE SOBRE O DIA DE HOJE:
+A coleta foi feita na madrugada/inicio da manha (horario de Brasilia), antes dos dois eventos
+mais relevantes do noticiario de negocios previstos para hoje:
+- PIB do 2º trimestre de 2026 (IBGE), com divulgacao prevista para as 9h de hoje -- AINDA NAO
+  DIVULGADO no momento desta pesquisa (fontes so mostram projecoes de analistas, ex: FGV estimando
+  alta de ~0,3%). Fato nao pode ser usado ainda por falta de numero oficial confirmado na fonte
+  primaria.
+- PMI Industrial Brasil de agosto/2026 (S&P Global), com divulgacao esperada no 1º dia util do
+  mes -- tambem AINDA NAO DIVULGADO no momento da pesquisa.
+Qualquer um dos dois pode virar pauta forte ainda hoje ou amanha, mas nao ha como confirmar o
+fato agora. Recomenda-se que a proxima rodada (ou uma nova coleta mais tarde no dia) verifique
+esses dois indicadores antes de outra coisa.
+
+Alem disso, boa parte do que "bombou" nos ultimos dias (recuperacao judicial recorde, tarifaco
+Brasil-EUA, Correios, greve de motoristas de app) ja foi pauta VENCEDORA ou runner-up forte deste
+mesmo pipeline dentro da janela de 10 dias corridos -- ver descartes por repeticao abaixo.
+
+CANDIDATO 1 -- Correios fecham 1º semestre de 2026 com prejuizo de R$ 5,6 bilhoes
+Fato: Correios encerraram o primeiro semestre de 2026 com prejuizo de R$ 5,6 bilhoes, dando
+sequencia ao pior resultado da historia da estatal (que fechou 2025 com rombo recorde de R$ 8,5
+bilhoes).
+Fonte: ClipFM -- https://clipfm.com.br/2026/08/31/correios-fecham-o-primeiro-semestre-de-2026-com-prejuizo-de-r-56-bilhoes/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 27/35
+Status: DESQUALIFICADO POR REPETICAO DE ASSUNTO/EMPRESA -- "Correios" ja foi VENCEDOR deste
+pipeline em 29/08/2026 ("Correios: rombo bilionario, Lula descarta privatizacao, PDV de ate 15
+mil funcionarios"), dentro da janela de 10 dias corridos. O fato de hoje e uma atualizacao do
+mesmo assunto (resultado financeiro formal do semestre), nao um fato novo e distinto. Registrado
+aqui por ter o maior score bruto do dia, para documentar por que foi descartado apesar disso.
+
+CANDIDATO 2 -- Recuperacao judicial bate novo recorde no Brasil (6.341 empresas no 2º tri/26)
+Fato: O Brasil fechou o 2º trimestre de 2026 com recorde de 6.341 empresas em recuperacao
+judicial, alta de 6,2% frente ao fim de 2025; olhando 12 meses, o total de empresas+produtores
+rurais em RJ cresceu 20,5%. Agronegocio puxa a alta (+66%), seguido por comercio (+22%) e
+industria de transformacao (+9%).
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/recuperacoes-judiciais-brasil-juros-dividas-empresas-crise/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 5/5
+TOTAL: 20/35
+Status: DESCARTADO POR REPETICAO DE ANGULO -- e essencialmente o mesmo angulo (recorde nacional de
+RJ puxado pelo agro) que ja foi VENCEDOR deste pipeline em 22/08/2026 ("Recuperacoes judiciais
+batem recorde no Brasil, puxadas pelo agronegocio"), dentro da janela de 10 dias. So os numeros
+foram atualizados de um trimestre para o outro -- nao ha fato novo o suficiente para justificar
+repetir o mesmo angulo tao cedo, ainda mais depois de Braskem (25/08) e Oi (26/08) tambem terem
+explorado o tema "empresas quebrando por causa de juro alto" na mesma janela.
+
+CANDIDATO 3 -- Casas Bahia obtem suspensao ampliada de cobrancas por 180 dias
+Fato: A Justica de SP suspendeu acoes e execucoes contra Casas Bahia e outras 9 empresas do grupo
+(Ponto Frio, Extra.com, Bartira etc.) por 180 dias, restabeleceu o acesso a contas no BTG Pactual
+e proibiu Cielo/Getnet/Rede de reter recebiveis da empresa. Casas Bahia pediu recuperacao judicial
+em 16/08 para renegociar R$ 17,3 bilhoes em dividas.
+Fonte: Band -- https://www.band.com.br/noticias/justica-antecipa-periodo-de-suspensao-de-cobrancas-contra-casas-bahia-202608291742
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 21/35
+Status: DESCARTADO (frescor insuficiente) -- o fato principal e de 29/08 (3 dias atras, decisao
+que so formaliza uma protecao judicial que ja vinha desde o pedido de RJ de 16/08); nao ha gatilho
+novo de hoje/ontem. Alem disso, mais um caso de "varejista grande em recuperacao judicial por
+causa de divida/juros" empilharia um quinto angulo de RJ na mesma janela de 10 dias (depois do
+recorde nacional em 22/08, Braskem em 25/08, Oi em 26/08 e Estrela como runner-up em 27/08),
+com risco real de a audiencia sentir que "e sempre a mesma pauta".
+
+CANDIDATO 4 -- Tarifaco Brasil-EUA: negociacao retomada em 31/08 termina sem avanco concreto
+Fato: Brasil e EUA retomaram formalmente a negociacao sobre o tarifaco em 31/08/2026, apos ligacao
+entre Lula e Trump, mas a reuniao terminou sem reducao das sobretaxas (que continuam podendo
+chegar a 37,5% sobre parte das exportacoes brasileiras) nem definicao de concessoes.
+Fonte: Jornal Grande Bahia (JGB) -- https://jornalgrandebahia.com.br/2026/09/apos-conversa-com-lula-presidente-donald-trump-orienta-equipe-a-buscar-acordo-sobre-tarifaco-brasil-e-eua-retomam-negociacao-sem-avanco-concreto/
+Score de Repercussao: (nao pontuado em detalhe -- ver status)
+Status: DESQUALIFICADO POR REPETICAO DE ASSUNTO -- "Tarifaco Brasil-EUA" ja foi VENCEDOR deste
+pipeline em 23/08/2026 e ja havia sido descartado por repeticao em 30/08 e 31/08. Continua dentro
+da janela de 10 dias corridos.
+
+CANDIDATO 5 -- Greve de motoristas/entregadores de app marcada para 12/09: sem novidade hoje
+Fato: A rodada de negociacao entre plataformas (Amobitec/MID) e categoria segue marcada para
+12/09; nao ha desenvolvimento novo confirmado para 31/08 ou 01/09 alem do que ja era conhecido.
+Status: DESCARTADO POR REPETICAO -- este exato assunto foi VENCEDOR deste pipeline ontem
+(31/08/2026). Sem fato novo hoje, nao ha motivo para repetir.
+
+CONCLUSAO DO DIA:
+Nenhum candidato disponivel na hora da coleta atende ao criterio de "algo genuinamente
+bombando e inedito para este pipeline". O dia esta marcado por (a) dois indicadores potencialmente
+fortes (PIB 2T26 e PMI industrial de agosto) que ainda nao tinham sido divulgados no momento da
+pesquisa, e (b) uma sequencia de assuntos que dominaram o noticiario de negocios nos ultimos 10
+dias (recuperacao judicial de grandes empresas, tarifaco Brasil-EUA, Correios, greve de app) e que
+so tiveram atualizacoes incrementais hoje/ontem, sem fato novo forte o suficiente para justificar
+repetir o angulo tao cedo.
+NAO HA VENCEDOR DO DIA. Recomenda-se novo levantamento apos a divulgacao do PIB do 2º trimestre
+(9h de hoje) e do PMI industrial de agosto, que sao os dois eventos com maior potencial de gerar
+uma pauta forte e inedita ainda nesta terca-feira.
