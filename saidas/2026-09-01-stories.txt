@@ -1,0 +1,33 @@
+ROTEIRO 1 — OpenAI aposta tudo no Brasil
+"A OpenAI acabou de abrir seu primeiro escritório da América Latina — e foi aqui no Brasil, em São Paulo. O motivo não é cortesia: segundo números divulgados pela própria OpenAI, 🟡`o brasileiro já manda 215 milhões de mensagens por dia pro ChatGPT, e o número de usuários no país quase dobrou em um ano`🟡. A empresa fechou parceria com USP, ITA e a prefeitura de São Paulo. Isso não é hype, é prioridade estratégica de verdade. 🟡`A pergunta não é mais se seu concorrente vai usar IA — é se ele já está testando enquanto você ainda decide se vale a pena`🟡."
+Fonte: Olhar Digital — https://olhardigital.com.br/2026/08/27/pro/openai-abre-escritorio-em-sp-e-revela-brasil-envia-215-milhoes-de-mensagens-ao-chatgpt-por-dia/
+
+============================================================
+
+ROTEIRO 2 — O lucro escondido atrás da corrida de IA
+"Enquanto todo mundo fala em quanto vai economizar com inteligência artificial, uma notícia mostra o outro lado da moeda. 🟡`A CrowdStrike, empresa de cibersegurança, faturou US$1,47 bilhão no último trimestre — recorde, alta de 26% ante o ano anterior — e ainda subiu a projeção pro ano inteiro, citando o aumento de ataques ligados ao uso crescente de IA`🟡. A mesma corrida de IA que promete produtividade também está abrindo um mercado bilionário de proteção contra os riscos que ela cria. 🟡`Toda ferramenta nova que você adota no seu negócio também é uma porta nova`🟡. A pergunta que quase ninguém faz é: quem está cuidando dela?"
+Fonte: Bloomberg — https://www.bloomberg.com/news/articles/2026-08-26/crowdstrike-beats-annual-revenue-forecasts-as-ai-threats-rise
+
+============================================================
+
+ROTEIRO 3 — Consumidor brasileiro mais pessimista desde 2022
+"Se você viu o roteiro sobre o e-commerce batendo recorde, isso parece contradizer — mas não contradiz: um é venda registrada, o outro é o que o consumidor diz sentir sobre o futuro. 🟡`O Índice de Confiança do Consumidor da FGV caiu pela quarta vez seguida em agosto, para 84,7 pontos, o menor nível desde 2022`🟡. Segundo a FGV, o motivo não é falta de dinheiro, é dívida e juro alto pesando no orçamento: 🟡`o brasileiro não parou de comprar, só ficou mais seletivo com o que sobra no fim do mês`🟡. Seu produto está dentro ou fora dessa seleção?"
+Fonte: FGV/Ibre, via Forbes Brasil — https://forbes.com.br/forbes-money/2026/08/confianca-do-consumidor-no-brasil-cai-em-agosto-para-nivel-mais-baixo-desde-fim-de-2022-mostra-fgv/
+
+============================================================
+
+ROTEIRO 4 — Colaborar com o concorrente pode ser inteligência, não fraqueza
+"A Harvard Business Review acaba de publicar um artigo que contraria o que todo empresário aprende sobre concorrência. Frank Nagle, economista-chefe de IA da Microsoft, defende que 🟡`empresas rivais deveriam colaborar no núcleo do negócio — padrão técnico, infraestrutura, construção de categoria — e competir de verdade só nas bordas: produto, experiência, preço`🟡. É um framework de opinião do autor, não uma pesquisa de campo, mas a lógica é simples: 🟡`crescer o bolo junto com quem te ameaça pode valer mais do que brigar sozinho pela fatia que sobra`🟡. A pergunta não é colaborar ou competir — é saber onde uma coisa termina e a outra começa."
+Fonte: Harvard Business Review — https://hbr.org/2026/09/collaborate-on-the-core-compete-on-the-edges
+
+============================================================
+
+ROTEIRO 5 — O prazo que ninguém te contou: 23 de setembro
+"Você ganhou 90 dias de trégua nas multas da NR-1 sobre riscos psicossociais no trabalho — mas ninguém te contou quando essa trégua acaba: por volta de 23 de setembro. 🟡`Foi o STF quem decidiu: o Plenário confirmou, em 18 de agosto, a liminar que suspendeu as sanções por descumprimento das regras de saúde mental no ambiente de trabalho`🟡. 🟡`A obrigação em si nunca parou de valer — só a fiscalização de multas ficou pausada`🟡. Quem tratou os 90 dias como problema resolvido vai sentir a diferença bem na hora em que a cobrança voltar a bater na porta."
+Fonte: STF (Notícias STF) — https://noticias.stf.jus.br/postsnoticias/stf-suspende-sancoes-da-nr-1-e-abre-conciliacao-sobre-regras-de-riscos-psicossociais-no-trabalho/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] "O consumidor brasileiro está mais desconfiado do futuro. Isso também mudou o comportamento de compra dos SEUS clientes esse mês? Sim / Não"
+2. [Pergunta/Participação, Roteiro 5] "Sua empresa já ajustou o PGR pros riscos psicossociais antes do prazo de 23 de setembro? Me conta aqui embaixo!"
+3. [Virar História, Roteiro 2 -> Reação em Tela Dividida] O Roteiro 2 tem duas leituras opostas da mesma corrida de IA — economia de um lado, gasto bilionário em segurança do outro — a Reação em Tela Dividida encena visualmente esse contraste entre "todo mundo fala em economizar" e "CrowdStrike fatura recorde vendendo proteção".
