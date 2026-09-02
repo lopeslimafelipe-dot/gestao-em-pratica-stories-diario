@@ -1,0 +1,85 @@
+PAUTA DO DIA -- 2026-09-02
+Assunto: PIB do 2º trimestre de 2026 cresce 0,5% e confirma desaceleracao da economia sob juros altos
+Score final: 28/35 (Frescor 4/5, Relevancia do protagonista 3/5, Gravidade 4/5, Polemica adjacente 4/5, Volume de cobertura 5/5, Clareza do angulo 4/5, Identificacao com audiencia 4/5)
+
+Fato central verificado: O IBGE divulgou em 01/09/2026 que o PIB brasileiro cresceu 0,5% no 2º
+trimestre de 2026 frente ao 1º trimestre (serie com ajuste sazonal), atingindo R$ 3,4 trilhoes em
+valores correntes -- o maior patamar nominal da serie historica de Contas Nacionais do IBGE
+(iniciada em 1996). Na comparacao com o 2º trimestre de 2025, o PIB avancou 2,0%; no acumulado do
+1º semestre de 2026, o avanco foi de 1,9% frente a igual periodo de 2025. Por setor no trimestre:
+Agropecuaria +2,8% (alta de 6,8% frente ao 2º tri de 2025, puxada por soja e cafe), Servicos +0,2%
+e Industria +0,1% -- dentro da industria, a Industria de Transformacao efetivamente RECUOU 0,9% no
+trimestre (compensada por Extrativa +12%, puxada por petroleo e gas, e Construcao +1%). O consumo
+das familias caiu 0,4% no trimestre, revertendo a alta de 0,8% do 1º trimestre. Confirmado de forma
+cruzada e independente por multiplos veiculos (ND+, Diario do Comercio, Times Brasil/CNBC, Brasil
+247, Canal Rural, PortalN10, SpaceMoney, entre outros) -- todos reportam os mesmos numeros.
+Fonte principal: Agencia Gov (IBGE) -- https://agenciagov.ebc.com.br/noticias/202609/pib-cresce-0-5-no-segundo-trimestre-aponta-ibge
+
+Cadeia causal (o que levou a isso): (1) a Selic segue em patamar elevado ha varios trimestres --
+em torno de 14% ao ano em setembro/2026, apos cortes graduais recentes do Copom a partir de um pico
+bem mais alto -- encarecendo credito e financiamento para empresas e familias; (2) sob esse custo de
+capital alto, o consumo das familias, que ainda crescia 0,8% no 1º trimestre, virou queda de 0,4%
+no 2º trimestre, e a Industria de Transformacao (a industria que depende de demanda domestica e
+credito) recuou 0,9% no periodo; (3) Servicos praticamente estagnaram (+0,2%), com excecao pontual
+de Informacao e Comunicacao (+8,4%); (4) o unico motor forte do trimestre foi a Agropecuaria
+(+2,8%), puxada por uma safra favoravel de soja e cafe -- um fator sazonal/climatico, nao um sinal
+de fortalecimento da demanda interna; (5) o resultado consolidado (0,5%) veio abaixo do 1º trimestre
+de 2026 (que havia crescido 1,1%), confirmando uma trajetoria de desaceleracao -- nao um trimestre
+isolado fraco.
+
+Por que esta repercutindo agora: o numero foi divulgado ontem (01/09) e replicado no mesmo dia por
+dezenas de veiculos, com a manchete chamativa do "maior PIB nominal da historia" -- mas a leitura
+tecnica por tras do numero e de desaceleracao (0,5% no 2º tri contra 1,1% no 1º tri), com queda do
+consumo das familias e recuo da industria de transformacao, o que deu ao tema clareza de angulo alta
+(cadeia causal direta: juros altos -> consumo e industria de transformacao caem -> so o agro sustenta
+o numero) e forte identificacao com a dor de quem administra uma PME de servico ou industria.
+
+Angulo de gestao sugerido: NUNCA o angulo politico/eleitoral. O angulo e 100% pratico: o que
+significa, na rotina de quem administra uma PME, operar num trimestre em que o consumo das familias
+caiu e a industria de transformacao encolheu, mesmo com o pais batendo recorde nominal de PIB --
+cautela ao planejar expansao ou contratacao no curto prazo, atencao redobrada a sinais de demanda
+fraca (nao confiar so no "PIB recorde" da manchete), e gestao de caixa e de estoque pensada pra um
+cenario de credito caro e crescimento lento, especialmente pra quem depende de industria de
+transformacao ou de consumo das familias (varejo, servicos ao consumidor).
+
+Dados de apoio:
+- Selic em torno de 14% ao ano em setembro/2026, apos cortes graduais do Copom -- ainda um patamar
+  alto pra padroes historicos recentes. Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/copom-reduz-taxa-selic-para-1425-ao-ano
+- PIB do 1º trimestre de 2026 havia crescido 1,1% -- o 2º trimestre (0,5%) confirma desaceleracao
+  na comparacao trimestre a trimestre, nao so no acumulado do ano. Fonte: Safra -- https://oespecialista.safra.com.br/pib-brasil-cresce-segundo-trimestre-2026/
+- Consumo das familias caiu 0,4% no 2º trimestre, revertendo alta de 0,8% no 1º trimestre. Fonte:
+  PortalN10 -- https://portaln10.com.br/economia/impostos-tributos/pib-brasil-segundo-trimestre-2026-consumo-familias-352053/
+- Projecao Focus (Banco Central) para o PIB de 2026 inteiro: alta de 1,92% -- a menor taxa de
+  crescimento anual desde a pandemia (2020). Fonte: PortalN10 (mesma materia acima).
+- Setores da industria: Extrativa +12% (petroleo e gas) e Construcao +1% compensaram a queda de
+  0,9% da Industria de Transformacao. Fonte: ND+ -- https://ndmais.com.br/economia/pib-brasil-agro-cresce-28-porcento-segundo-trimestre-2026/
+
+Ressalva/limite: o fator "Polemica adjacente" pesou no score (4/5) porque o resultado do PIB e, no
+fundo, uma leitura sobre o desempenho da economia sob a atual gestao federal, as vesperas de um
+ciclo eleitoral -- LEMBRETE EXPLICITO: o video final nao deve comentar merito de governo, nao deve
+citar Lula, ministro, partido ou qualquer figura politica de forma critica ou elogiosa, e nao deve
+tomar posicao sobre se o resultado economico e bom ou ruim para o pais. Fique estritamente no efeito
+pratico de gestao (juros, consumo, industria de transformacao, cautela na PME). Nao ha aqui
+recomendacao de investimento pessoal.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e
+o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: "O PIB bateu recorde historico -- mas o consumo das familias caiu. Como isso é possível?"
+- Contexto/causa raiz: Selic ainda alta, custo de credito elevado ha meses
+- Desenvolvimento da cadeia causal: consumo caindo 0,4%, industria de transformacao recuando 0,9%,
+  so o agro (fator sazonal) segurando o numero -- o espaco extra do formato longo permite mostrar
+  esses tres blocos com dado por tras de cada um, em vez de so o headline do "maior PIB da historia"
+- Licao de gestao (a virada): recorde nominal nao significa demanda forte -- olhar pros seus proprios
+  numeros de vendas e caixa, nao pra manchete
+- Fechamento + CTA
+
+Fonte(s):
+- Agencia Gov (IBGE) -- https://agenciagov.ebc.com.br/noticias/202609/pib-cresce-0-5-no-segundo-trimestre-aponta-ibge
+- ND+ -- https://ndmais.com.br/economia/pib-brasil-agro-cresce-28-porcento-segundo-trimestre-2026/
+- PortalN10 -- https://portaln10.com.br/economia/impostos-tributos/pib-brasil-segundo-trimestre-2026-consumo-familias-352053/
+- Safra (O Especialista) -- https://oespecialista.safra.com.br/pib-brasil-cresce-segundo-trimestre-2026/
+- Agencia Brasil (Selic) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/copom-reduz-taxa-selic-para-1425-ao-ano
+
+Runners-up do dia (registro/transparencia):
+- Petrobras reajusta preco do QAV (querosene de aviacao) em 13,9%, alta acumulada de 53,3% no ano -- 26/35
+- PMI industrial de agosto/2026 cai a 46,3 pontos, pior contracao em 40 meses -- 25/35
