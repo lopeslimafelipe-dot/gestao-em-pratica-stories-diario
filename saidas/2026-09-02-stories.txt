@@ -1,0 +1,39 @@
+ROTEIRO 1 — Mercado Livre transforma o app em vitrine de venda ao vivo, de graça
+"O Mercado Livre lançou uma ferramenta de venda ao vivo dentro do app, 🟡`liberada de graça pra quem já vende, é afiliado ou criador — mais de 9 milhões de pessoas na América Latina`🟡. O Brasil é o primeiro país do mundo a receber isso, testando agora no Rock in Rio, ainda sem resultado comprovado por fora da empresa. Isso muda o que é vitrine boa: 🟡`não é mais a melhor foto parada, é estar ao vivo enquanto o cliente decide comprar`🟡 — e 🟡`31% dos brasileiros, segundo o CNDL/SPC, já compram assim`🟡. A pergunta não é mais se vale a pena, é quem aparece ao vivo primeiro."
+Fonte: Exame — https://exame.com/marketing/mercado-livre-lanca-live-shopping-e-transforma-app-em-canal-de-compras-ao-vivo/
+
+============================================================
+
+ROTEIRO 2 — Natura chama de volta o CEO que já tocou a empresa — e a ação disparou 8%
+"A Natura anunciou a volta de Alessandro Carlucci como CEO, o executivo que já tocou a empresa entre 2005 e 2014 — ele assume em outubro no lugar de João Paulo Ferreira, que sai depois de apostar em comprar marcas internacionais como Avon e The Body Shop, ambas depois desinvestidas. No dia do anúncio, 🟡`a ação da Natura disparou 8%`🟡, embora bancos como o Bradesco BBI apontem que é reação inicial, sem garantia de virada nos resultados. O mercado não recompensou uma ideia nova — 🟡`recompensou a empresa admitir que a aposta de expandir comprando marcas não deu certo, e trazer de volta quem sabia tocar o negócio original`🟡."
+Fonte: NeoFeed — https://neofeed.com.br/negocios/natura-anuncia-alessandro-carlucci-como-novo-ceo-e-destaca-transicao-sem-rupturas/ (reação de mercado corroborada por InfoMoney)
+
+============================================================
+
+ROTEIRO 3 — PIB sobe puxado pelo agro, enquanto o consumo das famílias encolhe
+"Ontem eu te falei que a confiança do consumidor caiu pro menor nível desde 2022 — hoje o IBGE confirmou isso com dado real, não pesquisa de opinião. 🟡`O PIB cresceu 0,5% no 2º trimestre, batendo recorde em valor, mas puxado quase sozinho pelo agro, que subiu 2,8%`🟡. Enquanto isso, 🟡`o consumo das famílias — o que sustenta a maioria dos negócios do país — encolheu 0,4% no trimestre`🟡. A economia brasileira ainda está crescendo, mas 🟡`cada vez mais como um carro puxado por um motor só`🟡. Quando só um setor está aquecido, dizer que a economia cresceu descreve cada vez menos gente."
+Fonte: Agência Gov (EBC), com dados do IBGE — https://agenciagov.ebc.com.br/noticias/202609/pib-cresce-0-5-no-segundo-trimestre-aponta-ibge
+
+============================================================
+
+ROTEIRO 4 — Pesquisa com 1.610 CFOs mostra: quase metade do tempo vai pra tarefa operacional
+"Uma pesquisa da consultoria EY com 🟡`1.610 CFOs de 28 países`🟡 — gente cuja função é pensar estrategicamente sobre dinheiro — mostra que 🟡`47% do tempo dessas equipes é engolido por tarefa operacional, não por decisão estratégica de fato`🟡; vale lembrar que a EY vende serviço justamente pra resolver esse tipo de gargalo. Se até quem tem uma equipe inteira de finanças só pra isso vive nesse aperto, 🟡`talvez o problema nunca tenha sido falta de tempo — é que ninguém tira esse tempo de propósito`🟡. E isso vale tanto pra multinacional quanto pra quem toca as próprias finanças sozinho."
+Fonte: EY — https://www.ey.com/en_pt/insights/finance/dna-of-the-cfo-survey
+
+============================================================
+
+ROTEIRO 5 — Margem de lucro das empresas americanas bate recorde desde os anos 1940
+"Isso pode parecer contradizer o que já te mostrei sobre inadimplência alta e pequeno negócio espremido — mas são universos diferentes de porte. Segundo a Bloomberg, com dados oficiais dos EUA, 🟡`a margem de lucro das empresas americanas bateu o maior recorde desde os anos 1940, subindo de 18,2% pra 19,4% no trimestre`🟡. Enquanto todo mundo reclama de inflação, 🟡`quem tem poder de repassar preço está lucrando mais do que nunca — quem não tem poder de negociação é quem está segurando essa conta`🟡. As duas coisas são verdadeiras ao mesmo tempo, só que pra públicos completamente diferentes."
+Fonte: Bloomberg — https://www.bloomberg.com/news/articles/2026-08-26/us-corporate-profit-margins-widen-to-highest-on-record
+
+============================================================
+
+ROTEIRO 6 — Simples Nacional tem até 30/09 pra escolher como recolher o novo imposto
+"Não confunda com o prazo de opção pelo Simples que te mostrei antes — aquele era sobre entrar ou não no regime, esse aqui é sobre como você paga o novo imposto. Se sua empresa é do Simples Nacional, 🟡`você tem até dia 30 de setembro pra escolher, segundo a Receita Federal, se recolhe o novo IBS e CBS dentro da guia unificada ou separado, por fora`🟡. Não é imposto novo caindo do céu sem aviso — 🟡`é uma escolha que pode afetar se cliente grande continua comprando de você, porque muda o crédito tributário que ele recebe`🟡. E quase ninguém sabe que essa decisão existe."
+Fonte: Receita Federal / Gov.br — https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-alerta-comeca-hoje-o-prazo-para-opcao-pelo-simples-nacional-e-para-a-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] "Você já comprou algo assistindo uma transmissão ao vivo (live)? 🅰️ Sim 🅱️ Não"
+2. [Pergunta/Participação, Roteiro 6] "Sua empresa é do Simples Nacional? Manda na caixinha: você já sabe como vai recolher o novo IBS/CBS, ou essa é a primeira vez que ouve falar disso?"
+3. [Virar História, Roteiro 5 -> Comparativo] O Roteiro 5 tem duas realidades numéricas opostas lado a lado — margem recorde das grandes empresas americanas de um lado, queixa geral de inflação do outro — o estilo Comparativo mostra visualmente essas duas pontas em vez de só narrar o contraste.
