@@ -1,0 +1,94 @@
+PAUTA DO DIA -- 2026-09-02 (ETAPA 1: PESQUISA E PONTUACAO)
+
+CONTEXTO DO DIA: janela de checagem de repeticao cobriu 2026-08-20 a 2026-09-01. Assuntos ja
+usados como VENCEDOR neste pipeline dentro dos ultimos 10 dias corridos e por isso descartados
+de saida: Tarifaco Brasil-EUA (23/08), Braskem/recuperacao extrajudicial (25/08), falencia da Oi
+(26/08), confianca do empresario industrial CNI (27/08), IPO da Shein (28/08), rombo dos Correios
+(29/08), desemprego/mercado de trabalho aquecido (30/08), negociacao de remuneracao de motoristas
+de app (31/08). Em 01/09 nao houve vencedor (nenhum candidato qualificado no momento da coleta).
+Nenhum dos candidatos de hoje repete esses temas.
+
+CANDIDATO 1 -- PIB do 2º trimestre de 2026 cresce 0,5% e confirma desaceleracao da economia sob juros altos
+Fato: O IBGE divulgou nesta terca-feira (01/09) que o PIB brasileiro cresceu 0,5% no 2º trimestre
+de 2026 frente ao 1º trimestre (serie com ajuste sazonal), atingindo R$ 3,4 trilhoes em valores
+correntes -- o maior patamar nominal da serie historica de Contas Nacionais do IBGE, iniciada em
+1996. Na comparacao com o 2º trimestre de 2025, o PIB avancou 2,0%; no acumulado do 1º semestre de
+2026, o avanco foi de 1,9% frente a igual periodo de 2025. Por setor no trimestre: Agropecuaria
++2,8%, Servicos +0,2%, Industria +0,1% -- ou seja, o crescimento do trimestre foi puxado quase
+inteiramente pelo agro, enquanto industria e servicos praticamente estagnaram. Cobertura da
+imprensa especializada enquadrou o resultado como confirmacao de desaceleracao da atividade
+economica sob o efeito da Selic em patamar elevado.
+Fonte: Agencia Gov (EBC) -- https://agenciagov.ebc.com.br/noticias/202609/pib-cresce-0-5-no-segundo-trimestre-aponta-ibge
+Fontes cruzadas: InfoMoney -- https://www.infomoney.com.br/economia/pib-brasil-segundo-tri-2026/ ;
+Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/pib-segundo-trimestre-2026/ ; ND+ --
+https://ndmais.com.br/economia/pib-brasil-agro-cresce-28-porcento-segundo-trimestre-2026/
+Score de Repercussao:
+- Frescor: 4/5 (divulgado ontem, 01/09, pela manha)
+- Relevancia do protagonista: 3/5 (nao e uma marca, mas PIB/IBGE e um indicador de reconhecimento nacional amplo)
+- Gravidade: 4/5 (maior patamar nominal da serie historica + confirmacao formal de desaceleracao)
+- Polemica adjacente: 4/5 (desempenho da economia sob o governo atual, as vesperas de ano eleitoral -- ver guardrail abaixo)
+- Volume de cobertura: 5/5 (dezenas de veiculos replicaram o mesmo numero no mesmo dia -- Forbes, InfoMoney, Agencia Gov, ND+, Jornal de Brasilia, Tribuna do Planalto, entre outros)
+- Clareza do angulo: 4/5 (cadeia causal direta: juros altos ha meses -> industria e servicos praticamente parados -> so o agro sustenta o crescimento -> licao de gestao sobre operar em cenario de crescimento lento)
+- Identificacao com audiencia: 4/5 (juro alto e demanda fraca sao dor direta de quem administra uma PME de servico ou industria)
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Petrobras reajusta preco do querosene de aviacao (QAV) em 13,9%, alta acumulada de 53,3% no ano
+Fato: A Petrobras anunciou nesta terca-feira (01/09) reajuste de 13,9% no preco medio de venda do
+QAV as distribuidoras, equivalente a R$ 0,68 a mais por litro em relacao a agosto -- o que leva a
+alta acumulada do combustivel a 53,3% em 2026 (R$ 1,94/litro a mais desde dezembro de 2025). A
+propria Petrobras atribuiu o reajuste a alta das cotacoes internacionais do combustivel de aviacao,
+pressionadas pela volatilidade dos mercados de energia por causa das tensoes geopoliticas no
+Oriente Medio. A empresa retoma em setembro um programa que permite as distribuidoras parcelar o
+valor do reajuste em ate 3 vezes.
+Fonte: Diario do Grande ABC -- https://www.dgabc.com.br/Noticia/4344414/petrobras-anuncia-reajuste-de-13-9-para-o-preco-do-querosene-de-aviacao
+Fontes cruzadas: Metropoles -- https://www.metropoles.com/brasil/petrobras-reajusta-preco-medio-do-querosene-de-aviacao-em-139 ;
+Jornal de Brasilia -- https://jornaldebrasilia.com.br/noticias/economia/petrobras-anuncia-reajuste-de-139-para-o-preco-do-querosene-de-aviacao/
+Score de Repercussao:
+- Frescor: 5/5 (anunciado ontem, 01/09)
+- Relevancia do protagonista: 5/5 (Petrobras, maxima marca reconhecida)
+- Gravidade: 3/5 (reajuste pontual moderado, mas acumulado de 53,3% no ano e relevante para o setor)
+- Polemica adjacente: 3/5 (tensao geopolitica no Oriente Medio como pano de fundo, sem envolvimento direto do canal)
+- Volume de cobertura: 5/5 (9+ veiculos replicaram o mesmo numero no mesmo dia)
+- Clareza do angulo: 3/5 (causa-efeito claro -- petroleo/cambio sobe, custo de insumo sobe, empresa repassa -- mas o assunto e tecnico/setorial)
+- Identificacao com audiencia: 2/5 (dor direta apenas para quem opera no setor aereo/logistico; para o dono de PME em geral o efeito e indireto, via preco de passagem)
+TOTAL: 26/35
+Status: runner-up
+
+CANDIDATO 3 -- PMI industrial de agosto/2026 cai a 46,3 pontos, pior contracao em 40 meses
+Fato: O indice PMI industrial do Brasil (S&P Global) caiu para 46,3 pontos em agosto, de 47,5 em
+julho -- menor nivel desde abril de 2023 e a contracao mais intensa em 40 meses. A producao
+industrial caiu pelo quarto mes consecutivo, no ritmo mais acelerado em mais de tres anos, puxada
+por queda no volume de pedidos, demanda fraca, pressao de custos e incerteza geopolitica. Segundo
+Pollyanna De Lima (S&P Global Market Intelligence), os proximos meses seguem desafiadores, com os
+fabricantes enfrentando incertezas ligadas as eleicoes presidenciais e a fragilidade da demanda --
+ainda que cerca de 61% das empresas seguam otimistas com a producao nos proximos 12 meses.
+Fonte: Diario do Grande ABC -- https://www.dgabc.com.br/Noticia/4344413/pmi-industrial-do-brasil-cai-em-agosto-ao-menor-nivel-desde-abril-de-2023-diz-s-p-global
+Fontes cruzadas: InfoMoney -- https://www.infomoney.com.br/economia/retracao-da-industria-brasileira-se-aprofunda-em-agosto-mostra-pmi/ ;
+BPMoney -- https://bpmoney.com.br/economia/pmi-industria-brasileira-tem-maior-contracao-em-40-meses/
+Score de Repercussao:
+- Frescor: 4/5 (divulgado ontem, 01/09)
+- Relevancia do protagonista: 2/5 ("industria brasileira" como setor, sem marca/empresa especifica)
+- Gravidade: 4/5 (pior contracao em 40 meses, 4º mes seguido de queda de producao)
+- Polemica adjacente: 3/5 (o proprio relatorio cita incerteza ligada as eleicoes presidenciais como fator de risco)
+- Volume de cobertura: 4/5 (varios veiculos economicos replicaram no mesmo dia)
+- Clareza do angulo: 4/5 (causa-efeito claro: juro alto e demanda fraca ha meses -> pedidos e producao caindo -> licao de gestao sobre ajustar estoque/producao em cenario de retracao)
+- Identificacao com audiencia: 4/5 (PME industrial sente na pele queda de pedidos e demanda fraca)
+TOTAL: 25/35
+Status: runner-up
+
+GUARDRAIL POLITICO (aplica-se ao vencedor, CANDIDATO 1 -- PIB): o fator "Polemica adjacente" pesou
+no score (4/5) porque o resultado do PIB e, no fundo, uma leitura sobre o desempenho da economia
+sob a atual gestao federal, as vesperas de um ciclo eleitoral. LEMBRETE EXPLICITO para a Etapa 2
+(roteiro/briefing): o video NAO deve comentar merito de governo, nao deve citar Lula, ministro,
+partido ou qualquer figura politica de forma critica ou elogiosa, e nao deve tomar posicao sobre
+se o resultado economico e bom ou ruim para o pais. O angulo fica 100% em gestao/negocio: o que a
+desaceleracao (juros altos, industria e servicos praticamente parados, so o agro puxando) significa
+na pratica para quem administra uma PME -- cautela em expansao, atencao a demanda fraca, gestao de
+caixa em cenario de crescimento lento.
+
+CONCLUSAO DO DIA: o PIB do 2º trimestre de 2026 (Candidato 1, 28/35) e a pauta com maior potencial
+de repercussao hoje -- fato fresco (divulgado ontem), volume de cobertura muito alto, protagonista
+de reconhecimento nacional amplo (ainda que nao seja uma marca) e um angulo causa-efeito-licao
+claro sobre os efeitos praticos dos juros altos na atividade economica, com identificacao direta
+com a dor do dono de PME. VENCEDOR DO DIA: Candidato 1.
