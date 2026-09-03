@@ -1,0 +1,33 @@
+ROTEIRO 1 — Meta AI audita seu negócio de graça
+"Direto ao ponto: a Meta lançou um Meta AI que se conecta ao seu Facebook, Instagram, Meta Ads e ao Google Workspace pra 🟡`comparar seu negócio com concorrentes parecidos e virar isso em relatório pronto — de graça`🟡. É claro que quem anuncia é a própria Meta, então filtre o hype, mas o recurso é real: 🟡`uma análise que antes só empresa grande com agência tinha virou acessível pra qualquer PME`🟡. Se seu concorrente já usa isso e você não, ele conhece o mercado dele melhor do que você conhece o seu."
+Fonte: Meta (Sobre a Meta) — https://about.fb.com/br/news/2026/08/novos-recursos-do-meta-ai-para-pequenas-empresas/
+
+============================================================
+
+ROTEIRO 2 — Magalu entra no delivery de comida pra brigar com o iFood
+"O Magalu, maior varejista do país, acabou de lançar delivery de comida pra brigar direto com o iFood — 🟡`já estreou em mais de 400 cidades, com 23 mil restaurantes cadastrados`🟡, usando a tecnologia da aiqfome. Repara: um varejista de eletrônico foi buscar receita num mercado que não é o dele de origem. 🟡`Às vezes crescer não é fazer melhor o que você já faz, é invadir o quintal do vizinho`🟡. Se seu concorrente de amanhã pode vir de outro setor, vale perguntar: qual quintal alheio o seu negócio poderia invadir também?"
+Fonte: Exame — https://exame.com/negocios/magalu-lanca-delivery-de-comida-em-mais-de-400-cidades-para-disputar-com-o-ifood/
+
+============================================================
+
+ROTEIRO 3 — Deflação de agosto tem uma trava escondida
+"A prévia da inflação de agosto veio negativa: 🟡`o IPCA-15 caiu 0,40%, segundo o IBGE — a maior deflação em quatro anos`🟡, puxada por Habitação, Transporte e Alimentação. Mas presta atenção: 🟡`boa parte dessa queda em Habitação veio de um efeito pontual, o Bônus de Itaipu na conta de luz, que sozinho explica mais da metade do resultado do grupo`🟡. 🟡`Não é a economia esfriando de vez, é um desconto que não se repete todo mês`🟡. Antes de usar esse número pra travar reajuste de preço, confira se ele se sustenta nos próximos meses."
+Fonte: IBGE (Agência de Notícias) — https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47847-ipca-15-e-de-0-40-em-agosto
+
+============================================================
+
+ROTEIRO 4 — Quase todo mundo usa IA, quase ninguém lucra com isso
+"A McKinsey entrevistou quase 1.700 executivos em 97 países e achou isso: 🟡`88% das empresas já usam inteligência artificial, mas só 37% conseguem dizer, com número na mão, que isso aumentou o lucro`🟡 — percentual que não sai do lugar desde o ano passado. Vale o filtro: é consultoria vendendo serviço de implementação de IA, então o alerta também é propaganda. Ainda assim o dado é real. 🟡`A pergunta que separa quem lucra de quem só gasta não é se você usa IA, é se você sabe medir o retorno dela`🟡."
+Fonte: McKinsey & Company — https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+
+============================================================
+
+ROTEIRO 5 — Rede de 96 lojas não resistiu e quebrou
+"A Justiça de São Paulo decretou falência do Grupo Ricoy, 🟡`rede que já teve 96 lojas e 5 mil funcionários — dívida de mais de 461 milhões de reais`🟡. Essa empresa passou quase um ano inteiro em recuperação judicial, pedindo tempo aos credores, tentando se salvar. Não foi suficiente: o plano foi rejeitado e a Justiça decretou o fim. 🟡`Recuperação judicial parece um alívio, mas às vezes é só o último capítulo antes do fim de verdade`🟡. Se sua empresa depende de fôlego dos credores pra sobreviver, o relógio já está correndo."
+Fonte: Exame — https://exame.com/negocios/justica-decreta-falencia-de-rede-que-chegou-a-ter-96-supermercados-e-5-000-funcionarios-em-sp/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] "Sua empresa já usa inteligência artificial no dia a dia? ✅ Sim / ❌ Ainda não"
+2. [Pergunta/Participação, Roteiro 2] "Me conta na caixinha: você já pediu comida pelo app do Magalu ou fica só no iFood mesmo? Por quê?"
+3. [Virar História, Roteiro 3 -> Comparativo] O Roteiro 3 (preço caindo) contrasta com a confiança do consumidor em queda mostrada em roteiro recente — o estilo Comparativo exibe lado a lado o dado objetivo (preço) e a percepção subjetiva (confiança), reforçando visualmente essa tensão que o texto sozinho explica mas não mostra.
