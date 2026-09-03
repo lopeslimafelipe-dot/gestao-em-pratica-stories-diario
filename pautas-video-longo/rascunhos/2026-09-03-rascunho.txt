@@ -1,0 +1,108 @@
+RADAR DE REPERCUSSAO -- 2026-09-03 (quinta-feira)
+Pipeline: Etapa 1 (Pesquisa e Pontuacao) -- 1 pauta para video longo explicativo (30s-2min)
+
+Checagem de nao-repeticao (ultimos 10 dias corridos deste pipeline, 2026-08-24 a 2026-09-02):
+vencedores no periodo -- Braskem/recuperacao extrajudicial (25/08), falencia da Oi (26/08),
+confianca do empresario industrial CNI (27/08), IPO da Shein em Hong Kong (28/08), rombo dos
+Correios/PDV (29/08), mercado de trabalho aquecido/desemprego (30/08), negociacao motoristas de
+app travada (31/08), sem vencedor em 01/09 (PIB aguardado), PIB do 2º tri (02/09). Nenhum dos
+candidatos de hoje repete esses assuntos/empresas.
+
+============================================================
+CANDIDATO 1 -- Uniao Europeia suspende importacao de carne bovina, de frango, pescado e mel do Brasil a partir de hoje
+Fato: a partir de hoje, quinta-feira (03/09), entra em vigor a suspensao das importacoes europeias
+de carne bovina, carne de frango, pescado e mel do Brasil. A Comissao Europeia alega que o Brasil
+nao apresentou garantias suficientes de que toda a cadeia produtiva animal esta livre do uso de
+antimicrobianos considerados criticos para a saude humana (regra ligada ao Regulamento (UE)
+2023/905). O veto foi oficializado em junho/2026, com prazo dado ate esta semana para o pais
+regularizar a situacao -- o que nao ocorreu a tempo para a carne bovina (para aves e mel, uma
+auditoria em andamento pode reverter a suspensao em poucas semanas se aprovada pelos paises-membros).
+Em 2025 esses produtos moveram US$ 1,8 bilhao em exportacoes brasileiras a UE; so a carne bovina
+somou US$ 1,05 bilhao (5,86% da receita brasileira de exportacao do produto), com o Brasil sendo o
+2º maior fornecedor do bloco. A ABIEC (associacao dos frigorificos exportadores) diz que o MAPA ja
+enviou as garantias oficiais; o proprio MAPA, em resposta ao Congresso, afirmou que a adaptacao as
+exigencias "dependia em grande medida" das empresas do setor -- ou seja, ha uma troca de acusacoes
+publica entre governo e industria sobre quem deixou o prazo escapar. No mercado, JBS, Marfrig/MBRF
+e Minerva ja estao no radar dos analistas por causa da exposicao a medida (Minerva ~3,4% da receita
+consolidada, mas consegue realocar abate para plantas fora do Brasil; JBS entre 0,5% e 1,5% da
+receita).
+Fonte: Forbes Brasil (Forbes Agro) -- https://forbes.com.br/forbes-agro/2026/09/ue-diz-que-suspendera-importacoes-de-carne-do-brasil-a-partir-de-3-de-setembro/
+Fontes cruzadas: CNN Brasil (Agro) -- https://www.cnnbrasil.com.br/agro/ue-mantem-suspensao-a-carne-brasileira-a-partir-de-quinta-feira/
+Agencia Brasil (fonte oficial do governo) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/uniao-europeia-oficializa-veto-carne-brasileira-partir-de-setembro
+InfoMoney (impacto em JBS/Marfrig/Minerva) -- https://www.infomoney.com.br/mercados/ue-fecha-portas-para-proteinas-brasileiras-veja-os-impactos-para-minerva-jbs-e-mbrf/
+Forbes Brasil (reacao dos exportadores) -- https://forbes.com.br/forbes-agro/2026/09/exportadores-de-carne-bovina-do-brasil-reagem-a-suspensao-imposta-pela-uniao-europeia/
+Score de Repercussao:
+- Frescor: 4/5 (veto oficializado em junho, mas a suspensao efetivamente ENTRA EM VIGOR hoje -- e o fato-gatilho do dia, com cobertura intensa hoje e ontem)
+- Relevancia do protagonista: 3/5 (Brasil como potencia do agronegocio e os frigorificos JBS/Marfrig/Minerva sao conhecidos, mas nao no nivel de fama de uma marca de varejo de consumo direto)
+- Gravidade: 4/5 (bloqueio de mercado de US$ 1,8 bi/ano para um setor inteiro, nao e fato de rotina)
+- Polemica adjacente: 3/5 (encosta no peso politico do agro/bancada ruralista e vira uma disputa publica de quem tem culpa entre governo e industria -- ver guardrail abaixo)
+- Volume de cobertura: 5/5 (Forbes, CNN Brasil, Agencia Brasil, InfoMoney, Canal Rural, Terra, Seu Dinheiro, Times Brasil, DeFato, entre outros, todos noticiando hoje/ontem)
+- Clareza do angulo explicativo: 4/5 (cadeia causa->efeito->licao direta: exigencia sanitaria conhecida ha anos -> prazo de adaptacao perdido -> perda de mercado bilionario -- da pra montar em 2 min)
+- Identificacao com audiencia: 4/5 (todo dono de PME convive com prazos de conformidade -- fiscal, sanitario, contratual -- e sabe o custo de deixar um prazo estourar)
+TOTAL: 27/35
+Status: VENCEDOR DO DIA
+
+>>> SINALIZACAO GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou porque o assunto encosta
+em dois pontos sensiveis -- (1) o peso politico do agronegocio no Brasil (bancada ruralista, pauta
+de interesse eleitoral) e (2) a troca publica de acusacoes entre o governo federal (MAPA) e as
+empresas do setor sobre quem falhou em cumprir o prazo da UE a tempo. O roteiro da Etapa 2 NAO
+deve tomar partido nessa disputa entre governo e industria, nao deve citar ministro, partido ou
+criticar/elogiar o governo, e nao deve entrar no debate sobre protecionismo comercial europeu ou
+politica externa. O angulo tem que ficar 100% em gestao/negocio: a licao universal de que uma
+exigencia de conformidade conhecida com anos de antecedencia (nesse caso, uma nova regra sanitaria
+anunciada em 2023, com vigencia definida ha meses) precisa ser tratada como prazo critico de
+negocio -- e nao como algo que "alguem mais" vai resolver -- porque o custo de deixar escapar pode
+ser perder um mercado inteiro, nao so uma multa. Serve tanto para quem exporta quanto para
+qualquer PME que lida com renovacao de licenca, certificacao ou adequacao regulatoria (ex:
+adaptacao a nova legislacao, LGPD, normas sanitarias, etc).
+
+------------------------------------------------------------
+CANDIDATO 2 -- Ibovespa dispara mais de 3% e bate 186 mil pontos com pesquisa eleitoral Quaest mostrando empate tecnico entre Lula e Flavio Bolsonaro
+Fato: nos ultimos dois pregoes (02 e 03/09), o Ibovespa subiu forte (a maior alta desde marco em um
+dos dias) e o dolar recuou, puxados pela pesquisa Quaest que mostrou o segundo turno simulado entre
+Lula (PT) e o senador Flavio Bolsonaro (PL) com a vantagem do presidente caindo de 3 para 1 ponto
+percentual -- tecnicamente empatado. A leitura do mercado e que uma disputa mais equilibrada
+aumenta a chance de mudanca de governo em 2027 e, com isso, de uma condução fiscal diferente da
+atual, o que investidores vem recebendo de forma positiva.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-02092026/
+Fontes cruzadas: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/ibovespa-salta-3-com-expectativa-sobre-eleicao-e-fluxo-estrangeiro-dolar-cai/
+Money Times -- https://www.moneytimes.com.br/trade-eleitoral-ibovespa-dispara-5-mil-pontos-apos-pesquisa-quaest-lils/
+Score de Repercussao:
+- Frescor: 3/5 (movimento comecou ontem, 02/09, e seguiu repercutindo hoje)
+- Relevancia do protagonista: 4/5 (Ibovespa/mercado financeiro brasileiro e amplamente conhecido)
+- Gravidade: 3/5 (alta de mais de 3% num pregao e expressiva, mas e volatilidade de mercado, nao um fato estrutural)
+- Polemica adjacente: 1/5 (aqui o proprio fato-gatilho JA E politico-eleitoral direto -- uma pesquisa nomeando os dois principais candidatos -- nao da pra chamar de "pano de fundo": ver alerta abaixo)
+- Volume de cobertura: 5/5 (manchete de praticamente todo veiculo de mercado no dia)
+- Clareza do angulo explicativo: 2/5 (explicar a causa raiz sem citar a pesquisa, os candidatos ou o cenario eleitoral e quase impossivel -- o angulo de negocio fica extremamente limitado)
+- Identificacao com audiencia: 2/5 (fala mais com quem tem investimento na bolsa do que com o dono de PME no dia a dia)
+TOTAL: 20/35
+Status: runner-up (DESCARTADO por risco politico -- ver nota)
+
+>>> ALERTA: diferente do Candidato 1 (onde a politica fica "de fundo" e da pra isolar o angulo de
+negocio), aqui o fato central em si e um resultado de pesquisa eleitoral com nomes de candidatos.
+E um caso-limite como o da ligacao Lula-Trump (23/08) -- por isso a nota deste radar e para NAO
+usar este candidato como pauta do dia, independente do volume de cobertura, porque nao ha como
+contar a historia sem esbarrar diretamente na disputa eleitoral.
+
+------------------------------------------------------------
+CANDIDATO 3 -- Prazo de setembro/2026 para empresas do Simples Nacional/MEI escolherem o regime tributario de 2027 (Reforma Tributaria)
+Fato: setembro de 2026 e o mes em que empresas do Simples Nacional e MEIs precisam optar se, em
+2027, continuam no regime favorecido ou migram para o novo sistema (CBS/IBS) criado pela Reforma
+Tributaria -- decisao que tambem inclui como recolher os novos tributos. E um prazo real e com
+efeito pratico direto sobre o caixa de milhoes de pequenos negocios, mas e um tema "de calendario"
+(vale o mes inteiro, nao um fato de hoje) e sem um protagonista ou furo de noticia -- a cobertura
+esta concentrada em portais de contabilidade/fiscal, nao no noticiario geral de negocios.
+Fonte: Grupo Modulos -- https://grupomodulos.com.br/simples-nacional-e-reforma-tributaria-o-que-muda-em-setembro-de-2026-para-empresas-e-contadores/
+Score de Repercussao:
+- Frescor: 2/5 (prazo se estende por todo o mes, sem gatilho especifico de hoje)
+- Relevancia do protagonista: 1/5 (nao ha empresa/marca especifica -- e uma obrigacao generica)
+- Gravidade: 2/5 (relevante para quem e afetado, mas nao e evento dramatico)
+- Polemica adjacente: 1/5 (baixo -- discussao tecnica, pouco carga polemica no estagio atual)
+- Volume de cobertura: 2/5 (concentrado em veiculos de contabilidade/fiscal, pouca presenca no noticiario geral)
+- Clareza do angulo explicativo: 4/5 (mensagem pratica e direta: decida antes do prazo ou fique preso a um regime pior)
+- Identificacao com audiencia: 5/5 (fala diretamente com o dono de PME do Simples Nacional)
+TOTAL: 17/35
+Status: runner-up (abaixo do vencedor, mas fica registrado como pauta de calendario/obrigacao que pode valer um formato diferente, tipo lembrete, fora deste radar de repercussao)
+
+============================================================
+NAO HA GUARDRAIL A SINALIZAR PARA O VENCEDOR ALEM DO JA DESCRITO ACIMA.
