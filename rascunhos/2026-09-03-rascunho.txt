@@ -1,0 +1,73 @@
+RASCUNHO DE PESQUISA — 2026-09-03
+Curador de Notícias para Stories — Etapa 1 (Pesquisa) — canal Entre Gestores
+
+===================================================================
+ITEM 1 — Meta AI ganha recursos que analisam e comparam o negócio de PMEs
+Categoria: Tecnologia
+Fato: Em 19/08/2026 a Meta lançou novos recursos do Meta AI voltados a pequenas empresas: o assistente passa a acessar (mediante autorização) dados de Instagram, Facebook, Meta Ads e ferramentas do Google Workspace (Gmail, Docs, Sheets, Slides) para auditar campanhas, comparar o desempenho da empresa com marcas semelhantes e transformar tudo isso em apresentações, planilhas e lembretes automáticos de acompanhamento. É gratuito e está disponível pelo site do Meta AI, pelo app mobile e pelo app de desktop recém-lançado.
+Fonte: Meta (Sobre a Meta, blog oficial) — https://about.fb.com/br/news/2026/08/novos-recursos-do-meta-ai-para-pequenas-empresas/ (detalhes corroborados por Fast Company Brasil — https://fastcompanybrasil.com/ia/meta-novas-ferramentas-ia-pequenos-negocios-como-funcionam/ — e TrendsCE — https://www.trendsce.com.br/2026/08/20/meta-lanca-recursos-de-ia-para-pequenas-empresas/)
+Relevância: É a democratização de um tipo de análise (auditoria de campanha, benchmark contra concorrente) que antes exigia agência ou analista dedicado — agora cabe num assistente de IA gratuito, o que muda o patamar mínimo de profissionalização esperado de qualquer negócio que anuncia online.
+Ressalva técnica: fonte é a própria empresa anunciando seu produto (Meta) — viés promocional esperado; dado de data é de 19/08, portanto já com ~15 dias, mas o lançamento em si (recurso ainda não coberto em nenhum roteiro anterior) permanece inédito para o canal.
+Possível contradição com roteiro anterior: nenhuma.
+Tese de gancho sugerida: você não precisa mais pagar um analista para saber se seu Instagram está indo bem ou mal perto do concorrente — a Meta acabou de dar de graça pra qualquer pequeno negócio o tipo de relatório que só empresa grande tinha.
+
+===================================================================
+ITEM 2 — Magalu lança serviço de delivery de comida para brigar com o iFood
+Categoria: Notícia de empresa
+Fato: Em 02/09/2026 o Magalu lançou o Magalu Delivery, serviço de entrega de comida integrado ao app principal da varejista, usando tecnologia da aiqfome. O serviço já estreou em mais de 400 cidades brasileiras, com cerca de 23 mil restaurantes cadastrados, numa disputa direta com o iFood.
+Fonte: Tecnoblog — https://tecnoblog.net/noticias/magalu-lanca-delivery-de-comida-para-rivalizar-com-o-ifood/ (números corroborados por Fast Company Brasil — https://fastcompanybrasil.com/news/magalu-lanca-delivery-comida-23-mil-restaurantes/ — e Exame — https://exame.com/negocios/magalu-lanca-delivery-de-comida-em-mais-de-400-cidades-para-disputar-com-o-ifood/)
+Relevância: Mostra até onde um varejista está disposto a esticar sua marca pra brigar por um mercado que não é o dele de origem — e é um lembrete de que "concorrente" hoje é qualquer empresa grande com base de usuários e apetite, não só quem já atua no seu setor.
+Ressalva técnica: nenhuma.
+Possível contradição com roteiro anterior: nenhuma — tema complementa (mas não repete) o item de 27/08 sobre Mercado Livre lançando live shopping: ambos mostram grandes plataformas de e-commerce brasileiras esticando o app para novas frentes de receita.
+Tese de gancho sugerida: o maior varejista do país olhou pro delivery de comida, que não é o negócio dele, e decidiu: "também quero essa fatia" — às vezes crescer não é fazer melhor o que você já faz, é invadir o quintal do vizinho.
+
+===================================================================
+ITEM 3 — Prévia da inflação surpreende e mostra preços em queda em agosto
+Categoria: Macroeconomia/índice
+Fato: O IPCA-15 (prévia oficial da inflação) registrou deflação de -0,40% em agosto/2026, divulgado pelo IBGE em 26/08/2026 — resultado mais forte que o esperado pelo mercado. A queda foi puxada por Habitação (-1,41%, com o efeito do Bônus de Itaipu nas contas de luz), Transportes (-1,00%) e Alimentação e bebidas (-0,57%). No acumulado do ano o índice soma alta de 3,09%; em 12 meses, 4,24%.
+Fonte: IBGE (Agência de Notícias) — https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47847-ipca-15-e-de-0-40-em-agosto (números corroborados por InfoMoney — https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-agosto-2026/ — e Poder360 — https://www.poder360.com.br/poder-economia/ipca-15-tem-deflacao-de-040-em-agosto-de-2026/)
+Relevância: Deflação muda a régua de precificação e reajuste de contrato/fornecedor no curto prazo — é dado concreto pra qualquer gestor decidir se seguro repassar aumento agora ou segurar preço.
+Ressalva técnica: nenhuma.
+Possível contradição com roteiro anterior: não é contradição, mas gera tensão interessante com o item de 01/09 (FGV/Ibre — confiança do consumidor caindo pelo 4º mês seguido): preço objetivo caindo e percepção do consumidor piorando ao mesmo tempo. São métricas diferentes — uma mede uma cesta de preços efetivamente pagos (IPCA-15/IBGE), a outra mede expectativa e sentimento do consumidor sobre o futuro (pesquisa de percepção da FGV) — por isso podem andar em direções opostas no mesmo mês.
+Tese de gancho sugerida: os preços caíram mais do que o mercado esperava em agosto — mas ninguém está comemorando, porque o consumidor continua com medo. Isso é uma oportunidade escondida pra quem vende.
+
+===================================================================
+ITEM 4 — McKinsey: quase toda empresa usa IA, quase nenhuma vê isso no lucro
+Categoria: Tendência internacional
+Fato: Segundo "The State of AI: Global Survey 2026", da McKinsey, divulgado em 25/08/2026 (pesquisa de campo com 1.719 executivos em 97 países, entre maio e junho/2026): 88% das organizações já usam IA em pelo menos uma função de negócio e 80% dos respondentes relatam ganho de produtividade individual — mas apenas 37% conseguem atribuir à IA algum impacto mensurável no EBIT (lucro operacional), percentual praticamente estagnado frente a 2025, e só 6% se qualificam como "AI high performers". 62% das empresas já experimentam agentes de IA, mas o uso em escala real continua concentrado em poucas funções, como TI.
+Fonte: McKinsey & Company — https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai (cobertura corroborada por The Register — https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388)
+Relevância: É o contraponto direto ao hype de IA — mostra que adoção não é o gargalo, medir e capturar retorno financeiro é. Serve como alerta pra qualquer gestor que está investindo em IA sem um jeito claro de medir se está valendo o dinheiro.
+Ressalva técnica: fonte é consultoria com interesse comercial em vender serviços de implementação de IA — o enquadramento da "lacuna de ROI" também funciona como argumento de venda de consultoria própria; usar o dado, mas com essa ressalva.
+Possível contradição com roteiro anterior: nenhuma contradição — reforça, com outro corte de dado, o mesmo alerta do item de 28/08 (PwC: "1 em cada 6 CEOs diz que IA ainda não paga a conta").
+Tese de gancho sugerida: quase 9 em cada 10 empresas do mundo já usam inteligência artificial. Só uma em cada três consegue dizer, com dado na mão, que isso trouxe mais lucro. A pergunta que separa quem lucra de quem só gasta não é "você usa IA", é "você sabe medir o retorno".
+
+===================================================================
+ITEM 5 — Rede com 96 lojas e 5 mil funcionários não resistiu e quebrou
+Categoria: Livre
+Fato: A Justiça de São Paulo decretou, em 28/08/2026, a falência de 33 empresas do Grupo Ricoy — rede de supermercados que chegou a ter 96 lojas em mais de 70 municípios paulistas e 5 mil funcionários (inclui também a operação do atacadista Vencedor). A dívida total soma mais de R$461 milhões, com 2.824 credores trabalhistas. O grupo pediu recuperação judicial em 29/10/2025, mas o plano foi rejeitado em 14/07/2026 por falta de aprovação da Classe III (credores sem garantia real), levando à falência.
+Fonte: Exame — https://exame.com/negocios/justica-decreta-falencia-de-rede-que-chegou-a-ter-96-supermercados-e-5-000-funcionarios-em-sp/ (detalhes corroborados por SuperVarejo — https://www.supervarejo.com.br/varejo/justica-decreta-falencia-do-grupo-ricoy — e ISTOÉ Dinheiro — https://istoedinheiro.com.br/falencia-grupo-ricoy-decretada-justica-sp)
+Relevância: É o desfecho mais duro que existe pra um negócio — mostra, em números concretos, que recuperação judicial não é uma rede de proteção garantida: sem aprovação dos credores, o caminho seguinte é o fim mesmo.
+Ressalva técnica: nenhuma.
+Possível contradição com roteiro anterior: não é contradição — aprofunda com um caso real o cenário mostrado no item de 28/08 (recuperação judicial no Brasil sobe 20,5% em um ano); mostra o desfecho mais severo (falência) de um caso concreto dentro dessa mesma tendência.
+Tese de gancho sugerida: essa rede teve quase um ano inteiro, pedindo tempo aos credores, tentando se salvar. Não foi suficiente. Recuperação judicial parece um alívio, mas às vezes é só o último capítulo antes do fim de verdade.
+
+===================================================================
+CATEGORIA 5 (PRAZO DE AÇÃO) — NENHUM ITEM ENCONTRADO
+Busca deliberada realizada e sem resultado aproveitável:
+- NR-1 (prazo 23/09) e Simples Nacional/IBS-CBS (prazo 30/09) já foram publicados nos roteiros de 01/09 e 02/09, sem informação nova (prorrogação, mudança de regra) que justifique repetição agora — ambos os prazos ainda estão a mais de 2 semanas de distância, não perto o suficiente para valer lembrete final.
+- Pesquisado: linha de crédito Sebrae-BNDES (sem prazo de adesão específico, é permanente), Desenrola Fies (prazo 16/09, mas é dívida de financiamento estudantil de pessoa física, fora do escopo de gestão/PME), editais Sebrae (nenhum com prazo relevante achado), eSocial/MEI (sem mudança de prazo nova).
+- Nenhum programa de vantagem/obrigação com prazo novo e verificável foi localizado hoje.
+
+===================================================================
+COTA DE FONTE INTERNACIONAL — JUSTIFICATIVA
+Dia fechou com 5 itens e apenas 1 de fonte internacional (McKinsey, categoria 4) — abaixo do mínimo de 2 exigido para dia de 5-6 itens.
+Busca extensa e deliberada foi feita em McKinsey, PwC, Deloitte, EY, World Economic Forum, Bloomberg, HBR, NFIB e Statista atrás de um segundo item internacional inédito e bem corroborado. Resultado:
+- PwC (CEO Survey), NFIB (small business optimism) e HBR já foram usados nos últimos 5 dias úteis sem dado novo disponível (NFIB de agosto ainda não foi divulgado; sai só por volta de 9-10/09).
+- WEF: os dados mais recentes e batidos encontrados (Global Risks Report 2026, pesquisa "43% acham mais difícil fazer negócio", Chief Economists Outlook) são todos de janeiro ou maio/2026 — velhos demais mesmo pela regra de "1-2 semanas+ se inédito".
+- Deloitte (Global Human Capital Trends) e EY (Global CEO Outlook) mais recentes encontrados são de março/2026 — mesmo problema de desatualização.
+- Bloomberg: o achado mais relevante (margem de lucro recorde nos EUA) já foi usado no roteiro de 02/09.
+Optou-se por não forçar um item velho ou fraco só para completar a cota — preferiu-se manter os 5 itens com qualidade e precisão verificadas.
+
+===================================================================
+DIVERSIFICAÇÃO DE FONTE — checagem
+Últimos 5 dias úteis (27/08 a 02/09) não usaram InfoMoney nem Agência Sebrae como fonte PRIMÁRIA em nenhum item (apenas como corroboração). G1 e Estadão Economia seguem com uso zero — tentativas de busca direta nesses veículos hoje não renderam item aproveitável nas categorias obrigatórias; Valor Econômico também não rendeu item hoje. Fontes primárias usadas hoje: Meta (about.fb.com/br), Tecnoblog, IBGE, McKinsey, Exame — todas diferentes das mais usadas recentemente.
