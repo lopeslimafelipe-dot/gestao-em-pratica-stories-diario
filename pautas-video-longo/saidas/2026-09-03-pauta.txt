@@ -1,0 +1,110 @@
+PAUTA DO DIA -- 2026-09-03
+Assunto: União Europeia suspende importação de carne bovina, de frango, pescado e mel do Brasil a partir de hoje
+Score final: 27/35 (Frescor 4/5, Relevância do protagonista 3/5, Gravidade 4/5, Polêmica adjacente 3/5, Volume de cobertura 5/5, Clareza do ângulo 4/5, Identificação com audiência 4/5)
+
+Fato central verificado: a partir de hoje, quinta-feira (03/09/2026), entrou em vigor a suspensão das
+importações europeias de carne bovina, carne de frango, ovos, pescados, mel, tripas e carne equina do
+Brasil. A base legal é o Regulamento Delegado (UE) 2023/905 (complementado pelo Regulamento 2019/6),
+que exige controle OFICIAL -- não apenas autodeclaração das empresas -- sobre o uso de antimicrobianos
+críticos (associados a promoção de crescimento ou reservados a tratamento humano) na cadeia pecuária de
+países exportadores, com aplicação integral a partir de 03/09/2026. A decisão de excluir o Brasil da
+lista de países aptos foi formalizada no Regulamento de execução (UE) 2026/1189, assinado em Bruxelas em
+04/06/2026 -- ou seja, o país teve quase 3 meses de aviso prévio oficial até a suspensão entrar em vigor.
+Para carne de aves e mel, uma auditoria técnica específica da UE concluiu nesta sexta-feira (04/09) e pode
+reverter a suspensão dessas duas categorias em poucas semanas, se aprovada pelos países-membros; para a
+carne bovina, a reversão tende a ser mais demorada.
+Fonte: Forbes Brasil (Forbes Agro) -- https://forbes.com.br/forbes-agro/2026/09/ue-diz-que-suspendera-importacoes-de-carne-do-brasil-a-partir-de-3-de-setembro/
+
+Cadeia causal (o que levou a isso):
+1) Em 2023, a UE publica o Regulamento Delegado 2023/905, estabelecendo que o controle de antimicrobianos
+   em países exportadores de proteína animal precisa ser verificado oficialmente, não apenas autodeclarado
+   pelas próprias empresas da cadeia produtiva.
+2) O Brasil recebe prazo para se adequar; em junho/2026 a UE formaliza (Regulamento 2026/1189) que vai
+   excluir o país da lista de fornecedores aptos a partir de 03/09/2026, porque a avaliação europeia
+   considerou que os controles brasileiros dependiam demais de autodeclaração do próprio setor, sem
+   verificação suficiente do serviço oficial de inspeção sanitária.
+3) Ao longo desses meses, ABIEC (associação dos frigoríficos exportadores) afirma que o MAPA já enviou às
+   autoridades europeias as garantias oficiais necessárias; já a Febrac (federação de criadores) aponta
+   que o próprio Ministério da Agricultura demorou a reorganizar a fiscalização e orientar os produtores --
+   ou seja, há uma disputa pública sobre em que elo da cadeia (governo x setor produtivo) o prazo escapou.
+   Essa disputa é registrada aqui apenas como contexto factual do "porquê perdeu o prazo" -- não é para o
+   roteiro entrar em julgamento de quem tem razão nela (ver ressalva abaixo).
+4) O prazo final (03/09/2026) chega sem que a UE considerasse as garantias suficientes para manter o
+   Brasil na lista -- pelo menos para carne bovina, que é a categoria com processo de reversão mais lento.
+5) Resultado: suspensão em vigor hoje, com US$ 1,8 bilhão/ano em exportações bloqueadas (sendo US$ 1,05
+   bilhão só de carne bovina) e frigoríficos brasileiros (JBS, Marfrig/MBRF, Minerva) entrando no radar de
+   analistas por causa da exposição de receita ao mercado europeu.
+
+Por que está repercutindo agora: o veto foi anunciado em junho, mas o fato-gatilho é a ENTRADA EM VIGOR
+efetiva hoje -- por isso a cobertura é maciça em praticamente todo veículo de economia/agro no mesmo dia
+(Forbes, CNN Brasil, Agência Brasil, InfoMoney, Terra, Canal Rural, entre outros), o valor bloqueado é
+bilionário e o assunto tem apelo de "prazo perdido" fácil de visualizar e comentar.
+
+Ângulo de gestão sugerido: a lição universal é que uma exigência de conformidade conhecida com anos (ou,
+neste caso, meses) de antecedência precisa ser tratada como prazo crítico de negócio -- e não como algo
+que "alguém mais" (fornecedor, órgão público, terceiro) vai resolver a tempo. O custo de deixar escapar
+não é só uma multa: pode ser perder um mercado inteiro da noite para o dia. Serve tanto para quem exporta
+quanto para qualquer PME que lida com renovação de licença, certificação ou adequação regulatória (LGPD,
+normas sanitárias, licenciamento ambiental, etc.) -- a pergunta prática para o espectador é "eu tenho
+algum prazo de adequação regulatória rodando agora que estou tratando como 'depois eu vejo'?".
+
+Dados de apoio:
+- Em 2025, o Brasil foi o 2º maior fornecedor de carne bovina ao bloco europeu, com mais de 92 mil
+  toneladas e mais de 713 milhões de euros -- fonte: Supply Chain Magazine, https://www.supplychainmagazine.pt/2026/09/01/ue-suspende-compra-de-carnes-provenientes-do-brasil-a-partir-de-3-de-setembro/
+- Só a carne bovina somou US$ 1,05 bilhão em exportações à UE em 2025 (5,86% da receita brasileira de
+  exportação do produto) -- fonte: InfoMoney, https://www.infomoney.com.br/mercados/ue-fecha-portas-para-proteinas-brasileiras-veja-os-impactos-para-minerva-jbs-e-mbrf/
+- Exposição de receita dos frigoríficos ao veto: Minerva ~3,4% da receita bruta dos últimos 12 meses (a
+  maior parte realocável para plantas fora do Brasil); Marfrig ~2,5% (a mais vulnerável, sendo 1% bovino e
+  1,5% aves); JBS ~0,5%-1% (mais protegida por ser mais internacionalizada, com metade da receita vinda
+  dos EUA) -- fonte: DeFato Online, https://defatoonline.com.br/veto-a-carne-brasileira-pela-uniao-europeia-traz-impactos-para-jbs-marfrig-e-minerva/ ; EuQueroInvestir, https://euqueroinvestir.com/acoes/o-quanto-sofrem-jbs-minerva-e-mbrf-com-as-restricoes-da-eu
+- A decisão está formalizada no Regulamento de execução (UE) 2026/1189, assinado em Bruxelas em
+  04/06/2026, com base no artigo 3º do Regulamento Delegado (UE) 2023/905 -- fonte: documento oficial via
+  Poder360, https://static.poder360.com.br/2026/06/regulamento-ue-carne-brasil.pdf
+- Análise de mercado (Genial/Seu Dinheiro) trata o impacto financeiro como administrável para os grandes
+  frigoríficos no curto prazo -- mais ruído de mercado do que mudança estrutural de negócio -- fonte: Seu
+  Dinheiro, https://www.seudinheiro.com/2026/economia/beef3-jbss32-e-mbrf3-veto-da-ue-para-carne-brasileira-traz-diferentes-impactos-para-acoes-aponta-genial-lvgb/
+
+Ressalva/limite: o fator "Polêmica adjacente" pesou (3/5) porque o assunto encosta em dois pontos
+sensíveis -- (1) o peso político do agronegócio no Brasil (bancada ruralista, pauta de interesse
+eleitoral) e (2) a disputa pública entre governo (MAPA) e representantes do setor (ABIEC x Febrac) sobre
+quem atrasou a adequação ao prazo europeu. Também existe, em parte da imprensa, um debate sobre se a
+exigência sanitária da UE seria "protecionismo disfarçado" -- esse debate NÃO deve ser trazido para o
+vídeo. O roteiro final NÃO deve: tomar partido nessa disputa entre governo e indústria, citar
+ministro/partido, criticar ou elogiar o governo, nem entrar no mérito de protecionismo comercial europeu
+ou política externa. O ângulo tem que ficar 100% em gestão/negócio -- prazo de conformidade regulatória
+como prioridade estratégica, não questão político-comercial.
+
+Estrutura sugerida pro roteiro (referência, não é o roteiro pronto -- quem escreve o roteiro final é o
+Copywriter do canal, seção 2.4 do conhecimento dele, adaptado pra duração maior):
+- Hook: hoje a Europa fechou a porta pra US$ 1,8 bilhão em carne, frango e mel brasileiro -- e o prazo pra
+  evitar isso já era conhecido há anos.
+- Contexto/causa raiz: a exigência de controle oficial de antimicrobianos criada em 2023, o prazo dado até
+  03/09/2026, e por que a garantia brasileira não convenceu a tempo.
+- Desenvolvimento da cadeia causal (o espaço extra do formato longo): do regulamento de 2023 até a
+  suspensão de hoje, passando pela disputa sobre quem atrasou (sem tomar partido) e o que ainda pode
+  reverter (aves/mel) versus o que não (bovina, por enquanto).
+- Lição de gestão (a virada): prazo de conformidade regulatória tratado como prioridade estratégica, não
+  como "depois eu vejo" -- com o gancho de perguntar ao espectador que prazo regulatório ele tem rodando
+  agora.
+- Fechamento + CTA.
+
+Fonte(s):
+- Forbes Brasil (Forbes Agro) -- https://forbes.com.br/forbes-agro/2026/09/ue-diz-que-suspendera-importacoes-de-carne-do-brasil-a-partir-de-3-de-setembro/
+- CNN Brasil (Agro) -- https://www.cnnbrasil.com.br/agro/ue-mantem-suspensao-a-carne-brasileira-a-partir-de-quinta-feira/
+- Agência Brasil (fonte oficial do governo) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/uniao-europeia-oficializa-veto-carne-brasileira-partir-de-setembro
+- InfoMoney (impacto em JBS/Marfrig/Minerva) -- https://www.infomoney.com.br/mercados/ue-fecha-portas-para-proteinas-brasileiras-veja-os-impactos-para-minerva-jbs-e-mbrf/
+- Forbes Brasil (reação dos exportadores) -- https://forbes.com.br/forbes-agro/2026/09/exportadores-de-carne-bovina-do-brasil-reagem-a-suspensao-imposta-pela-uniao-europeia/
+- Supply Chain Magazine -- https://www.supplychainmagazine.pt/2026/09/01/ue-suspende-compra-de-carnes-provenientes-do-brasil-a-partir-de-3-de-setembro/
+- Terra (contexto/causa raiz) -- https://www.terra.com.br/noticias/mundo/europa/o-que-levou-a-uniao-europeia-a-suspender-a-importacao-de-carne-brasileira,6c3506c54544bb24ac61014871cd9782sju8scxg.html
+- Poder360 (texto oficial do Regulamento de execução UE 2026/1189) -- https://static.poder360.com.br/2026/06/regulamento-ue-carne-brasil.pdf
+- DeFato Online e EuQueroInvestir (exposição de receita dos frigoríficos) -- https://defatoonline.com.br/veto-a-carne-brasileira-pela-uniao-europeia-traz-impactos-para-jbs-marfrig-e-minerva/ ; https://euqueroinvestir.com/acoes/o-quanto-sofrem-jbs-minerva-e-mbrf-com-as-restricoes-da-eu
+- Agrolink e SpaceMoney (posição ABIEC/Febrac) -- https://www.agrolink.com.br/noticias/carne-bovina-brasileira--regra-da-ue-sobre-antimicrobianos-pode-restringir-exportacoes-em-setembro_517836.html ; https://www.spacemoney.com.br/economia/restricao-europeia-carne-brasileira-abiec-prazo/
+- Seu Dinheiro (avaliação de mercado/analistas) -- https://www.seudinheiro.com/2026/economia/beef3-jbss32-e-mbrf3-veto-da-ue-para-carne-brasileira-traz-diferentes-impactos-para-acoes-aponta-genial-lvgb/
+
+Runners-up do dia (registro/transparência):
+- Ibovespa dispara mais de 3% e bate 186 mil pontos com pesquisa eleitoral Quaest mostrando empate técnico
+  entre Lula e Flávio Bolsonaro -- 20/35 (descartado por risco político: fato-gatilho é diretamente
+  eleitoral, sem como isolar ângulo de negócio)
+- Prazo de setembro/2026 para empresas do Simples Nacional/MEI escolherem o regime tributário de 2027
+  (Reforma Tributária) -- 17/35 (tema de calendário, sem gatilho específico do dia; registrado como
+  possível pauta de formato "lembrete" fora deste radar de repercussão)
