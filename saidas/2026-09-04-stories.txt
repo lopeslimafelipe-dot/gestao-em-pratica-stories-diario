@@ -1,0 +1,39 @@
+ROTEIRO 1 — GPT-6 Astra: OpenAI fala em "era da AGI"
+"A OpenAI lançou o GPT-6 Astra essa semana e o presidente da empresa, Greg Brockman, disse que 🟡`ele pode marcar a chegada da era da inteligência artificial geral`🟡. Mas antes de chegar ao público, 🟡`o modelo foi liberado primeiro pra empresas parceiras, dentro de um programa de segurança cibernética`🟡 — vale o filtro de que é a própria OpenAI vendendo os méritos do próprio produto. Se até quem fabrica a ferramenta trata isso como grande demais pra soltar de uma vez, talvez seja hora de parar de tratar IA como brinquedo novo."
+Fonte: Exame — https://exame.com/inteligencia-artificial/gpt-6-astra-openai-lanca-modelo-mais-inteligente-da-historia-do-chatgpt/
+
+============================================================
+
+ROTEIRO 2 — Azzas 2154 desfaz fusão Arezzo-SOMA
+"A Azzas 2154, dona da Arezzo e da SOMA, anunciou que vai desfazer a própria fusão — menos de dois anos depois de ter juntado as duas empresas prometendo sinergia e escala. A notícia saiu na quarta-feira e 🟡`a ação disparou mais de 12% no mesmo dia`🟡, batendo o Ibovespa. 🟡`Às vezes juntar duas empresas parece ganho na teoria e vira perda de foco na prática`🟡 — e o mercado premiou quem admitiu isso rápido, em vez de insistir no erro."
+Fonte: Forbes Brasil — https://forbes.com.br/forbes-money/2026/09/azzas-2154-azza3-vai-separar-arezzo-e-soma-dois-anos-apos-fusao/
+
+============================================================
+
+ROTEIRO 3 — Indústria para de cair, mas IBGE pede cautela
+"A produção industrial brasileira parou de cair em julho, 🟡`subindo 0,2% ante junho`🟡, segundo o IBGE — a primeira alta depois de duas quedas seguidas. Mas o próprio instituto avisou: 🟡`o resultado não muda a trajetória, só interrompe a sequência negativa`🟡, com a Selic em 14% ao ano ainda travando investimento e consumo. Quando o dado bom já vem com o aviso 'não comemore ainda', talvez a lição não seja sobre a indústria, e sim sobre como interpretar rápido demais qualquer notícia econômica boa demais."
+Fonte: Agência Brasil (EBC) — https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/producao-industrial-interrompe-2-meses-de-queda-e-sobe-02-em-julho
+
+============================================================
+
+ROTEIRO 4 — 1 em cada 4 empresas já bota IA no organograma
+"Uma pesquisa da Harvard Business Review, com mais de 1.200 executivos de RH e finanças, mostrou que 🟡`23% das empresas já listam formalmente um agente de inteligência artificial no organograma`🟡 — com papel definido, do lado dos nomes de gente. Antes de achar isso exagero, vale perguntar: 🟡`se um 'funcionário' de IA já tem cargo, ele também já devia ter meta, avaliação e prestação de contas`🟡 — ou sua empresa só copiou o hype sem copiar a responsabilidade que vem junto?"
+Fonte: Harvard Business Review — https://hbr.org/2026/09/research-roundup-ai-on-org-charts-job-hoppers-skillsets-elite-board-seats-and-more
+
+============================================================
+
+ROTEIRO 5 — Empresas já tratam tarifa como "novo normal"
+"Uma pesquisa da Deloitte no Reino Unido, com 750 líderes empresariais — vale o filtro de que a Deloitte vende consultoria nessa área —, mostrou que 🟡`56% já apontam tarifas altas como principal barreira pra vender pros EUA, contra 33% em 2024`🟡, e 🟡`83% acham que a incerteza comercial dura pelo menos mais 1 a 2 anos`🟡. Quase metade, 48%, já mudou preço, fornecedor ou mercado por causa disso. A pergunta que fica pra qualquer negócio exposto a câmbio ou importação: você está tratando a instabilidade como fase passageira, ou já aceitou que virou a nova regra do jogo?"
+Fonte: Deloitte Reino Unido — https://www.deloitte.com/uk/en/about/press-room/deloittes-attitudes-to-trade-survey-2026-uncertainty-has-become-the-new-normal.html
+
+============================================================
+
+ROTEIRO 6 — Nestlé aposta R$600 milhões numa fábrica que só abre em 2028
+"A Nestlé anunciou uma fábrica de fórmulas infantis em Ituiutaba, Minas Gerais, com investimento de R$600 milhões — mas 🟡`ela só começa a funcionar em 2028`🟡, quase dois anos a partir de agora. É parte de um plano maior de R$2 bilhões em Nutrição e Saúde até 2028. 🟡`Empresa grande também aposta no longo prazo quando decide onde investir de verdade`🟡. A pergunta que fica pra quem administra negócio pequeno: seu plano de investimento tem horizonte de dois anos, ou só de mês que vem?"
+Fonte: Jornal do Comércio — https://www.jornaldocomercio.com/economia/2026/09/1262147-nestle-anuncia-nova-fabrica-no-brasil-para-formulas-infantis-e-promete-investir-rs-2-bilhoes-ate-2028.html
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] "Na sua empresa, algum agente de IA já é tratado como 'colega de equipe' ou tem função definida? Sim / Não"
+2. [Pergunta/Participação, Roteiro 6] "Comenta aqui: seu planejamento de investimento hoje olha pra quantos meses (ou anos) à frente?"
+3. [Virar História, Roteiro 3 -> Quadro Branco] Desenhar ao vivo a curva de queda-queda-leve alta da produção industrial ajuda a mostrar por que o IBGE pede cautela mesmo com o número positivo — o gráfico entrega em segundos o que a fala levaria uma frase inteira pra explicar.
