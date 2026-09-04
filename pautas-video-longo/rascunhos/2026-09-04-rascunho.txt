@@ -1,0 +1,152 @@
+RADAR DE REPERCUSSAO -- 2026-09-04 (sexta-feira)
+Pipeline: Etapa 1 (Pesquisa e Pontuacao) -- 1 pauta para video longo explicativo (30s-2min)
+
+Checagem de nao-repeticao (ultimos 10 dias corridos deste pipeline, 2026-08-25 a 2026-09-03):
+vencedores no periodo -- Braskem/recuperacao extrajudicial (25/08), falencia da Oi (26/08),
+confianca do empresario industrial CNI (27/08), IPO da Shein em Hong Kong/taxa das blusinhas (28/08),
+rombo dos Correios/PDV (29/08), mercado de trabalho aquecido/desemprego (30/08), negociacao de
+motoristas de app travada/ameaca de greve em 12/09 (31/08), sem vencedor em 01/09 (PIB aguardado),
+PIB do 2º tri (02/09), suspensao da UE a carne bovina/frango/pescado/mel brasileiros (03/09).
+Nenhum dos candidatos de hoje repete esses assuntos/empresas -- em especial, o desenrolar da
+negociacao dos motoristas de app (proxima rodada marcada para 12/09) NAO foi reavaliado hoje por
+ja ter sido o vencedor ha so 4 dias (31/08), dentro da janela de repeticao.
+
+============================================================
+CANDIDATO 1 -- Escandalo do Banco Master: Lula cobra STF e PGR, liquidacoes batem recorde de 24 anos
+Fato: o Banco Master, cuja liquidacao extrajudicial foi decretada pelo Banco Central em 18/11/2025
+(com o dono, Daniel Vorcaro, preso por lavagem de dinheiro), continua se desdobrando em 2026 e
+voltou ao centro do noticiario nesta semana. O Banco Central ja decretou a liquidacao de pelo menos
+8 instituicoes financeiras ligadas ao grupo Master (entre elas CBSF DTVM, Will Bank, Will
+Financeira e Advanced Corretora de Cambio) e no total ja liquidou 17 instituicoes financeiras em
+2026 -- o maior numero em um unico ano desde 2002 (quando foram 24), com a maior parte dessas
+liquidacoes ligada aos desdobramentos do caso Master. O Fundo Garantidor de Creditos (FGC) fez o
+maior acionamento da sua historia por causa do caso, com cerca de R$ 41 bilhoes reservados para
+pagamentos a correntistas/investidores. Em 01/09, a revista Piaui divulgou dados de um relatorio do
+Coaf mostrando mais uma remessa de US$ 1,6 milhao enviada por Vorcaro ao exterior; nos primeiros
+dias de setembro tambem veio a tona que o ministro do STF Andre Mendonca teve contato com Vorcaro
+em 2025. Em 03/09, o presidente Lula falou publicamente cobrando do STF e da PGR uma solucao para
+o caso, classificou o escandalo como "o maior roubo da historia do Brasil", pediu investigacao "a
+quem doer" (sem blindagem a nenhum envolvido) e criticou vazamentos seletivos nas investigacoes --
+declaracao que manteve o assunto no topo do noticiario nesta semana.
+Fonte: Reuters via Investing.com -- https://br.investing.com/news/general-news/lula-pede-investigacoes-a-quem-doer-no-caso-master-e-defende-reforma-nos-sistemas-politico-e-judiciario-2057068
+Fontes cruzadas: InfoMoney (liquidacoes/impacto financeiro) -- https://www.infomoney.com.br/mercados/banco-central-ja-decretou-liquidacao-de-8-instituicoes-financeiras-ligadas-ao-master/
+Jornal Opcao (recorde de 17 liquidacoes em 24 anos) -- https://www.jornalopcao.com.br/ultimas-noticias/banco-central-liquida-17-instituicoes-em-2026-maior-numero-em-24-anos-864811/
+Wikipedia PT (linha do tempo consolidada do escandalo) -- https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master
+Score de Repercussao:
+- Frescor: 5/5 (fala do presidente em 03/09 e revelacoes do Coaf em 01/09 mantem o assunto quente
+  hoje; e um caso ainda em desdobramento ativo, nao um fato fechado)
+- Relevancia do protagonista: 4/5 (Banco Master nao era um banco de varejo massivamente conhecido
+  antes do escandalo, mas hoje o nome ja e amplamente reconhecido pelo publico geral por causa da
+  repercussao nacional do caso)
+- Gravidade: 5/5 (maior acionamento da historia do FGC, ~R$ 41 bi, recorde de liquidacoes do BC em
+  24 anos, dono preso -- nao e fato de rotina, e o maior caso do genero em muito tempo)
+- Polemica adjacente: 5/5 (o caso encosta forte no debate institucional/politico do momento --
+  STF, PGR, ministro do STF citado, ano pre-eleitoral -- sem que o video precise entrar nisso: ver
+  GUARDRAIL abaixo)
+- Volume de cobertura: 5/5 (Reuters, InfoMoney, Forbes, Jornal Opcao, Finsiders, alem de dezenas de
+  portais regionais replicando a fala do presidente e os dados do Coaf nos ultimos dias)
+- Clareza do angulo explicativo: 3/5 (o mecanismo tecnico do esquema -- DPGEs, uso de DTVM pra
+  mascarar prejuizo -- e complexo; mas a cadeia simplificada "prometeu retorno bom demais /
+  escondeu buraco no balanco / estourou e quebrou recorde de prejuizo pros correntistas" da pra
+  contar em ate 2 min sem entrar no tecnicismo)
+- Identificacao com audiencia: 4/5 (todo dono de PME que tem caixa aplicado ou negocia credito com
+  uma instituicao financeira sente na pele a licao de desconfiar de retorno "bom demais pra ser
+  verdade" e de checar a saude de quem guarda o dinheiro do seu negocio)
+TOTAL: 31/35
+Status: VENCEDOR DO DIA
+
+>>> GUARDRAIL POLITICO (fator "Polemica adjacente" pesou no score): o angulo do roteiro final deve
+ficar 100% no terreno de gestao/risco financeiro -- como um esquema que prometia retornos
+artificialmente altos escondeu um rombo bilionario ate a bolha estourar, e o que isso ensina sobre
+concentracao de risco, red flags de "juro bom demais" e due diligence antes de deixar caixa do
+negocio parado numa unica instituicao. O roteiro NAO deve citar ou comentar a fala do presidente
+Lula, nao deve mencionar STF, PGR, o ministro citado, nem qualquer outra figura politica de forma
+critica, e nao deve tomar posicao sobre a disputa institucional em torno das investigacoes -- essa
+parte do noticiario so serve aqui para explicar por que o assunto esta tao quente esta semana
+(fator de pontuacao), nunca como conteudo do video.
+
+------------------------------------------------------------
+CANDIDATO 2 -- CSN troca de comando: Benjamin Steinbruch passa o cargo de CEO para ex-presidente da Vale
+Fato: em 02/09, a Companhia Siderurgica Nacional (CSN) anunciou que Fabio Schvartsman, ex-CEO da
+Vale, assumiria a partir de 03/09 o cargo de diretor-presidente da empresa, no lugar de Benjamin
+Steinbruch, que comandava a CSN havia mais de duas decadas (desde 2002) e agora se concentra na
+presidencia do conselho de administracao (posicao que ja ocupou por 28 anos). A troca acontece
+num momento em que a CSN negocia a venda da CSN Cimentos e de uma fatia do seu braco de logistica
+para reduzir uma divida de cerca de R$ 42 bilhoes. No dia do anuncio da efetivacao (03/09), as
+acoes da CSN (CSNA3) dispararam quase 20% na bolsa, reacao forte do mercado a mudanca.
+Fonte: Brazil Journal -- https://braziljournal.com/benjamin-deixa-o-comando-da-csn-schvartsman-e-o-novo-ceo/
+Fontes cruzadas: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/csn-csna3-dispara-fabio-schvartsman-novo-ceo-benjamin-steinbruch/
+NeoFeed -- https://neofeed.com.br/negocios/benjamin-steinbruch-passa-o-bastao-de-ceo-da-csn-para-fabio-schvartsman/
+Score de Repercussao:
+- Frescor: 5/5 (anuncio em 02/09, efetivacao e reacao do mercado em 03/09 -- fato desta semana)
+- Relevancia do protagonista: 4/5 (CSN e marca industrial muito conhecida, Steinbruch e um dos
+  empresarios mais midiaticos do pais e Schvartsman, ex-CEO da Vale, tambem e nome reconhecido)
+- Gravidade: 4/5 (mudanca de controle/comando depois de mais de 20 anos no mesmo cargo -- exemplo
+  classico do que o proprio criterio de gravidade considera evento significativo por si so)
+- Polemica adjacente: 1/5 (pouca ligacao com debate politico ou economico mais amplo do pais)
+- Volume de cobertura: 4/5 (Brazil Journal, Forbes, NeoFeed, Diario do Comercio cobriram o mesmo
+  fato no mesmo dia, com destaque para a alta forte da acao)
+- Clareza do angulo explicativo: 5/5 (cadeia direta: empresa endividada -> dono histórico decide
+  trazer um executivo de fora especializado em vez de manter tudo na familia -> mercado reage bem
+  -> licao de gestao sobre sucessao e sobre saber a hora de profissionalizar o comando)
+- Identificacao com audiencia: 4/5 (sucessao e uma das dores mais reais de dono de PME/empresa
+  familiar -- quando passar o bastao, e para quem)
+TOTAL: 27/35
+Status: runner-up
+
+------------------------------------------------------------
+CANDIDATO 3 -- Magalu lanca delivery de comida em mais de 400 cidades para brigar com o iFood
+Fato: em 02/09, o Magazine Luiza lancou o "Magalu Delivery", operado pela aiqfome (adquirida pelo
+grupo em 2020), oferecendo pedidos de comida, supermercado, farmacia e conveniencia dentro do app
+da varejista em mais de 400 cidades. A fase inicial concentra municipios de SP, MG e PR com
+populacao entre 80 mil e 120 mil habitantes, com cerca de 23 mil restaurantes ja disponiveis no
+novo canal. O movimento e uma tentativa explicita de disputar mercado com iFood, 99Food e Keeta,
+usando a base de usuarios do super-app do Magalu.
+Fonte: Exame -- https://exame.com/negocios/magalu-lanca-delivery-de-comida-em-mais-de-400-cidades-para-disputar-com-o-ifood/
+Fonte cruzada: TMC -- https://tmc.com.br/economia/magalu-delivery-400-cidades-aiqfome-ifood/
+Score de Repercussao:
+- Frescor: 4/5 (lancamento em 02/09, ainda noticia da semana)
+- Relevancia do protagonista: 5/5 (Magalu e uma das marcas de varejo/e-commerce mais conhecidas do
+  Brasil, protagonista de peso)
+- Gravidade: 3/5 (movimento estrategico relevante, mas e uma decisao de expansao, nao uma crise ou
+  fato abrupto)
+- Polemica adjacente: 1/5 (praticamente nenhuma ligacao com debate politico/economico mais amplo)
+- Volume de cobertura: 3/5 (Exame e outros portais de negocios cobriram, mas sem o volume dos
+  outros candidatos de hoje)
+- Clareza do angulo explicativo: 5/5 (cadeia simples: gigante do varejo usa base de clientes ja
+  fidelizada pra entrar num mercado adjacente e competir de frente com quem domina o delivery --
+  otimo gancho pra falar de diversificacao/uso de ativos existentes pra crescer)
+- Identificacao com audiencia: 4/5 ("devo entrar num mercado adjacente pra crescer ou foco no que
+  ja funciona?" e um dilema comum de dono de PME em expansao)
+TOTAL: 25/35
+Status: runner-up
+
+------------------------------------------------------------
+CANDIDATO 4 -- Payroll dos EUA de agosto sai hoje e pode destravar corte de juros do Fed
+Fato: hoje (04/09), as 9h30 (horario de Brasilia), sai o relatorio oficial de emprego dos EUA
+(payroll) referente a agosto/2026 -- o principal indicador internacional da semana. O mercado
+espera criacao modesta de vagas (nas casas de dezenas de milhares, bem abaixo da media historica),
+o que reforcaria a leitura de um mercado de trabalho americano esfriando e aumentaria a chance de
+corte de juros pelo Federal Reserve na reuniao de setembro. Um payroll fraco tende a pressionar o
+dolar para baixo e a beneficiar moedas e bolsas de mercados emergentes, incluindo o Brasil; um
+payroll forte faz o caminho inverso.
+Fonte: Rio Times Online (Brazil's Financial Morning Call) -- https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-september-4-2026/
+Fonte cruzada: CNBC (August 2026 jobs report) -- https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html
+Score de Repercussao:
+- Frescor: 5/5 (dado sai hoje mesmo, as 9h30)
+- Relevancia do protagonista: 2/5 (nao ha marca/empresa/pessoa protagonista -- e um indicador
+  macroeconomico)
+- Gravidade: 3/5 (mercado inteiro monitora, mas e uma divulgacao mensal de calendario, nao um
+  evento excepcional por si so)
+- Polemica adjacente: 2/5 (esbarra de leve no debate sobre politica de juros do Fed, mas quase
+  nao toca a discussao politica brasileira)
+- Volume de cobertura: 5/5 (cobertura maci ça em todo o mercado financeiro nacional e internacional)
+- Clareza do angulo explicativo: 2/5 (a cadeia payroll -> expectativa de juros do Fed -> dolar ->
+  reflexo no Brasil e abstrata e tem fatores concorrentes demais pra caber com clareza em 2 min)
+- Identificacao com audiencia: 2/5 (efeito indireto e diferido sobre cambio/juros -- dono de PME
+  nao sente isso "na pele" no mesmo dia)
+TOTAL: 21/35
+Status: runner-up
+
+============================================================
+NAO HA GUARDRAIL ADICIONAL A SINALIZAR ALEM DO JA DESCRITO NO CANDIDATO 1 (VENCEDOR).
