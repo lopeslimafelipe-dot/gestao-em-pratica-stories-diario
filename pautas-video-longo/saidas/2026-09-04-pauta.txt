@@ -1,0 +1,106 @@
+PAUTA DO DIA -- 2026-09-04
+Assunto: Escandalo do Banco Master -- recorde de liquidacoes do Banco Central e maior acionamento da historia do FGC
+
+Score final: 31/35
+(Frescor: 5/5 | Relevancia do protagonista: 4/5 | Gravidade: 5/5 | Polemica adjacente: 5/5 |
+Volume de cobertura: 5/5 | Clareza do angulo explicativo: 3/5 | Identificacao com audiencia: 4/5)
+
+Fato central verificado: o Banco Central decretou a liquidacao extrajudicial do Banco Master em
+18/11/2025, um dia depois de anunciada uma tentativa de venda da instituicao ao Grupo Fictor; o dono
+do banco, Daniel Vorcaro, foi preso pela Policia Federal no dia anterior (17/11/2025) no Aeroporto de
+Guarulhos, quando tentava embarcar num jato particular rumo a Dubai com escala em Malta. Os
+desdobramentos do caso seguem ativos em 2026: o Banco Central ja decretou a liquidacao extrajudicial
+de 17 instituicoes financeiras neste ano (a mais recente, Trustee e Banvox, em 03/09, ligadas a um
+ex-socio de Vorcaro) -- o maior numero em um unico ano desde 2002, quando foram 24 -- e boa parte
+delas esta conectada aos desdobramentos do caso Master. O Fundo Garantidor de Creditos (FGC) fez o
+maior acionamento da sua historia por causa do caso: cerca de R$ 41 bilhoes reservados para reembolsar
+aproximadamente 1,6 milhao de credores (correntistas e investidores), superando de longe o recorde
+anterior (o caso Bamerindus, em 1997, de R$ 3,7 bilhoes).
+Fontes confirmadas: InfoMoney -- https://www.infomoney.com.br/mercados/banco-central-liquida-17-instituicoes-em-2026-maior-numero-desde-2002/
+| Jornal Opcao -- https://www.jornalopcao.com.br/ultimas-noticias/banco-central-liquida-17-instituicoes-em-2026-maior-numero-em-24-anos-864811/
+| CNN Brasil (linha do tempo da prisao de Vorcaro) -- https://www.cnnbrasil.com.br/economia/macroeconomia/vorcaro-preso-relembre-crise-que-levou-a-liquidacao-do-banco-master/
+
+Cadeia causal (o que levou a isso):
+1) Banco Master cresceu de forma acelerada emitindo CDBs (Certificados de Deposito Bancario) com
+   juros muito acima do mercado -- enquanto a maioria dos bancos remunera CDBs perto de 100% do CDI,
+   o Master chegou a oferecer ate 140% do CDI, atraindo boa parte dos pequenos e medios investidores
+   com a "seguranca" psicologica de que o FGC cobre ate R$ 250 mil por CPF/CNPJ.
+2) Pra sustentar esses juros, o banco usava como lastro ativos de baixissima liquidez, sobretudo
+   precatorios (dividas judiciais do poder publico com pagamento incerto e distante no tempo) --
+   ativos dificeis de vender rapido e que nao geram caixa no curto prazo, mas que entravam no balanco
+   como se tivessem valor pronto pra uso.
+3) Quando o banco precisava de caixa pra pagar os investidores que venciam, passou a emitir CDBs
+   novos para pagar CDBs antigos -- um padrao que investigadores classificam como proximo de uma
+   piramide financeira: o modelo so se sustenta enquanto entra dinheiro novo.
+4) A partir do momento em que cresceram as suspeitas sobre a credibilidade do banco, a captacao de
+   novos investidores secou, o fluxo de caixa quebrou e o rombo que estava escondido no balanco veio
+   a tona -- levando a intervencao do Banco Central, a prisao de Vorcaro e ao acionamento recorde do
+   FGC.
+Fonte: CartaCapital (mecanismo do esquema) -- https://www.cartacapital.com.br/economia/como-funcionava-o-esquema-que-inflou-a-liquidez-do-banco-master/
+| JOTA (precatorios como lastro de CDBs) -- https://www.jota.info/tributos-e-empresas/mercado/como-o-banco-master-transformou-precatorios-em-cdbs-e-pos-em-xeque-o-sistema-financeiro
+
+Por que esta repercutindo agora: o caso voltou ao topo do noticiario nesta semana por tres motivos que
+se somaram -- (1) o Banco Central bateu, em 03/09, o recorde de 17 liquidacoes em 2026 (maior numero
+desde 2002), reforcando o tamanho sem precedentes do estrago; (2) vieram a tona, nos primeiros dias de
+setembro, novas revelacoes de orgaos de controle sobre movimentacoes financeiras internacionais de
+Vorcaro anteriores a liquidacao, alimentando a cobertura continua do caso; e (3) em 03/09 o presidente
+Lula se manifestou publicamente cobrando uma solucao das autoridades competentes para o caso e
+classificando o episodio como o "maior roubo da historia do Brasil", o que levou o assunto para o
+noticiario politico alem do economico e ampliou o volume de cobertura. NOTA: os itens (2) e (3) tem
+componentes politicos sensiveis (envolvem nomes de autoridades e uma disputa institucional em curso)
+-- eles explicam por que o assunto esta quente, mas nao devem aparecer no video (ver ressalva abaixo).
+
+Angulo de gestao sugerido: o video deve tratar o caso como um estudo de caso de risco financeiro e due
+diligence para quem administra o caixa de uma empresa -- por que um retorno muito acima do mercado
+(no caso, ate 140% do CDI) e sempre um sinal de alerta antes de ser uma oportunidade; como avaliar a
+qualidade real dos ativos por tras de uma promessa de rentabilidade (o problema do Master nao foi so
+pagar juro alto, foi lastrear isso em ativos que nao viravam dinheiro rapido); por que concentrar todo
+o caixa do negocio numa unica instituicao financeira -- mesmo com garantia do FGC ate um teto -- e uma
+decisao de risco que merece ser revista; e como o rombo so aparece quando o fluxo de caixa novo para
+de entrar, uma licao valida pra qualquer negocio que carrega uma estrutura financeira dependente de
+captacao continua.
+
+Dados de apoio:
+- O FGC garante ate R$ 250 mil por CPF/CNPJ por instituicao financeira -- limite que todo dono de
+  negocio deveria conhecer antes de deixar caixa aplicado. Fonte: Barbieri Advogados -- https://www.barbieriadvogados.com/fundo-garantidor-creditos-fgc-limite-liquidacao/
+- O caso Bamerindus (1997), ate entao o maior acionamento historico do FGC, envolveu R$ 3,7 bilhoes --
+  ou seja, o caso Master superou o recorde anterior por uma margem de mais de dez vezes, dimensionando
+  o tamanho do problema. Fonte: reportagens que recuperam a serie historica do FGC (ver fontes acima).
+- Sob a atual gestao do Banco Central (desde 2025), o numero de intervencoes/liquidacoes ja soma 21 --
+  sinal de que o orgao regulador intensificou a fiscalizacao apos o estouro do caso Master. Fonte:
+  Finsiders Brasil -- https://finsidersbrasil.com.br/regulamentacao/bc-liquida-16-instituicoes-entre-2025-e-2026/
+
+Ressalva/limite: o fator "Polemica adjacente" pesou forte no score (5/5) porque o caso hoje tem uma
+camada politica ativa -- declaracoes do presidente da Republica, mencao a ministros do STF e a PGR, e
+uma disputa institucional em curso sobre a conducao das investigacoes, alem de revelacoes ligadas a
+movimentacoes financeiras de figuras politicas que NAO fazem parte deste briefing por serem estranhas
+ao angulo de gestao. O roteiro final NAO deve, em nenhuma hipotese: (a) comentar ou reproduzir a fala
+do presidente Lula; (b) citar STF, PGR, ou qualquer ministro ou autoridade politica de forma critica
+ou elogiosa; (c) tomar posicao sobre a disputa institucional em torno da investigacao. Toda essa camada
+serve apenas para explicar, neste briefing interno, por que o assunto esta em alta esta semana -- o
+video deve tratar exclusivamente do mecanismo financeiro, da gestao de risco e da licao pratica para
+quem administra uma empresa.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o
+Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: um banco oferecia quase o dobro do juro dos concorrentes -- e ninguem perguntou por que
+- Contexto/causa raiz: como o Master cresceu vendendo CDBs a 140% do CDI lastreados em precatorios
+- Desenvolvimento da cadeia causal: de "juro bom demais" a piramide disfarcada a colapso de caixa
+  quando a captacao nova secou (usar o espaco extra do formato longo pra explicar o mecanismo sem
+  jargao)
+- Licao de gestao (a virada): due diligence antes de aplicar caixa da empresa, o limite real do FGC,
+  e por que concentrar tudo numa instituicao so e um risco que a maioria ignora
+- Fechamento + CTA
+
+Fonte(s):
+- InfoMoney -- https://www.infomoney.com.br/mercados/banco-central-liquida-17-instituicoes-em-2026-maior-numero-desde-2002/
+- Jornal Opcao -- https://www.jornalopcao.com.br/ultimas-noticias/banco-central-liquida-17-instituicoes-em-2026-maior-numero-em-24-anos-864811/
+- CNN Brasil -- https://www.cnnbrasil.com.br/economia/macroeconomia/vorcaro-preso-relembre-crise-que-levou-a-liquidacao-do-banco-master/
+- CartaCapital -- https://www.cartacapital.com.br/economia/como-funcionava-o-esquema-que-inflou-a-liquidez-do-banco-master/
+- JOTA -- https://www.jota.info/tributos-e-empresas/mercado/como-o-banco-master-transformou-precatorios-em-cdbs-e-pos-em-xeque-o-sistema-financeiro
+- Barbieri Advogados (limite do FGC) -- https://www.barbieriadvogados.com/fundo-garantidor-creditos-fgc-limite-liquidacao/
+
+Runners-up do dia (registro/transparencia):
+- CSN troca de comando: Benjamin Steinbruch passa o cargo de CEO para ex-presidente da Vale -- 27/35
+- Magalu lanca delivery de comida em mais de 400 cidades para brigar com o iFood -- 25/35
+- Payroll dos EUA de agosto sai hoje e pode destravar corte de juros do Fed -- 21/35
