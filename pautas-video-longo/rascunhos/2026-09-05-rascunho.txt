@@ -1,0 +1,130 @@
+RADAR DE REPERCUSSAO -- 2026-09-05 (sabado)
+Pipeline: Etapa 1 (Pesquisa e Pontuacao) -- 1 pauta para video longo explicativo (30s-2min)
+
+Checagem de nao-repeticao (ultimos 10 dias corridos deste pipeline, 2026-08-26 a 2026-09-04):
+vencedores/temas no periodo -- falencia definitiva da Oi (26/08), confianca do empresario
+industrial CNI (27/08), IPO da Shein em Hong Kong (28/08), rombo dos Correios/PDV (29/08),
+mercado de trabalho aquecido/desemprego (30/08), negociacao de motoristas de app travada -- greve
+marcada p/ 12/09 (31/08), sem vencedor em 01/09 (PIB aguardado), PIB do 2o tri (02/09), suspensao
+da UE a carne/frango/pescado/mel brasileiros (03/09), escandalo do Banco Master (04/09, vencedor)
+-- e como runners-up registrados em 04/09: troca de CEO da CSN (Steinbruch -> Schvartsman), Magalu
+Delivery (aiqfome, 400+ cidades) e o payroll dos EUA de agosto.
+Hoje (sabado, pouco fato novo do dia -- volume de noticiario mais fraco de fim de semana) tres
+candidatos ficaram de fora por repeticao dentro da janela: (1) payroll dos EUA de agosto -- mesmo
+fato ja registrado como runner-up ontem (04/09), sem desdobramento novo hoje; (2) CSN/troca de CEO
+-- ja registrado como runner-up ontem; (3) o "recorde de 9,1 milhoes de CNPJs inadimplentes,
+R$232,9 bi" que voltou ao noticiario nesta semana puxado pelo debate politico da "quebradeira" --
+e o MESMO dado (mesma serie da Serasa, mes-base junho/2026) que ja foi VENCEDOR deste pipeline em
+21/08/2026 ("Inadimplencia das empresas bate recorde historico"); como nao ha fato novo (numero nao
+foi atualizado, so reaproveitado em novo contexto politico), foi descartado como candidato de hoje
+por repeticao de assunto, apesar de tecnicamente fora da janela de 10 dias.
+
+============================================================
+CANDIDATO 1 -- Azzas 2154 desfaz fusao: Arezzo&Co e SOMA voltam a ser empresas independentes
+Fato: em 02/09, a Azzas 2154 (fusao entre Arezzo&Co e Grupo SOMA formada ha apenas 2 anos) anunciou
+acordo para se dividir em duas companhias abertas independentes, ambas no Novo Mercado da B3. A
+Arezzo&Co (bloco Birman) fica com o portfolio de calcados/bolsas -- marcas Arezzo, Schutz, Vans,
+Anacapri, Alexandre Birman e Hering. A SOMA (bloco Jatahy) fica com Animale, Reserva, Cris Barros,
+Maria Filo e NV. A marca Farm Rio vira uma holding a parte, com 57,4% da Arezzo&Co e 42,6% da SOMA.
+O acordo veio depois de meses de divergencias entre os blocos de acionistas sobre governanca,
+gestao e estrategia -- as sinergias esperadas da fusao (compartilhamento de fabricas, canais,
+clientes, estrutura administrativa) nao se materializaram como previsto. As acoes da Azzas (AZZA3)
+saltaram mais de 14% no dia do anuncio; o JP Morgan estimou a marca Farm sozinha em R$4,4-5,5 bi,
+proximo do valor de mercado de toda a Azzas (~R$3,46 bi) antes do anuncio, e o Citi projetou ate
+40% de valorizacao potencial para as acoes com o "destravamento de valor". Falta aprovacao do
+Conselho, dos acionistas, do Cade e listagem da SOMA no Novo Mercado.
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/azzas-2154-azza3-vai-separar-arezzo-e-soma-dois-anos-apos-fusao/
+Fontes cruzadas: Exame -- https://exame.com/invest/mercados/azzas-2154-sera-dividida-arezzoco-e-soma-voltam-a-ser-empresas-independentes/
+| Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/o-divorcio-saiu-azzas-2154-azza3-sera-dividida-entre-arezzoco-e-soma-e-farm-fica-no-meio-da-separacao-bdap/
+| Money Times (reacao das acoes) -- https://www.moneytimes.com.br/muito-pessimismo-ja-estava-no-preco-azzas-2154-azza3-salta-14-com-divorcio-de-birman-e-jatahy-apsa/
+| Times Brasil/CNBC (projecao Citi) -- https://timesbrasil.com.br/empresas-e-negocios/moda-textil/citi-alta-acoes-azzas-separacao-arezzo-soma/
+Score de Repercussao:
+- Frescor: 3/5 (anuncio em 02/09, ha 3 dias -- nao e do dia/ontem, mas segue em repercussao ativa
+  com novas analises de banco saindo a cada dia desde entao)
+- Relevancia do protagonista: 5/5 (Arezzo, Schutz, Vans, Hering, Animale, Reserva, Farm Rio -- marcas
+  de moda amplamente conhecidas do publico em geral, nao so de quem acompanha o setor)
+- Gravidade: 4/5 (desfazer uma fusao de bilhoes de reais formada ha so 2 anos e um evento societario
+  significativo, nao e noticia de rotina)
+- Polemica adjacente: 1/5 (disputa societaria privada entre dois grupos de socios -- nao encosta em
+  nenhum debate publico/politico mais amplo do pais)
+- Volume de cobertura: 5/5 (Forbes, Exame, Suno, Safra, Seu Dinheiro, ADVFN, Money Times, CNBC
+  Brasil, SpaceMoney, Status Invest, Renova Invest e varejodemoda cobriram o mesmo fato)
+- Clareza do angulo explicativo: 5/5 (cadeia direta e facil de contar em ate 2 min: dois grupos se
+  juntam prometendo sinergia -> sinergia nao vem -> divergencias de gestao se acumulam -> vale mais
+  separado do que junto -> desfazem a sociedade)
+- Identificacao com audiencia: 5/5 (qualquer dono de PME que ja teve socio reconhece na hora "a
+  sociedade nao funcionou" -- tema universal de gestao, independente do tamanho do negocio)
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+
+Nota: o fator "Polemica adjacente" NAO pesou no score do vencedor de hoje (1/5) -- portanto o
+guardrail politico do briefing nao se aplica a esta pauta; nao ha risco de o assunto tocar em
+discussao politica/polarizada, e o angulo de gestao (fusao, sinergia, sociedade) pode ser
+desenvolvido livremente.
+
+------------------------------------------------------------
+CANDIDATO 2 -- Chilli Beans: divida de R$600 milhoes, franquias em queda e novo co-CEO de turnaround
+Fato: por volta de 31/08-01/09, veio a tona que a Chilli Beans (rede de oculos) acumula divida de
+cerca de R$600 milhoes (contra R$216 mi em dez/2023 e R$290 mi em 2024) e teve queda de 12,3% na
+receita repassada pelos franqueados em 2026. A empresa negou estar discutindo pedido formal de
+recuperacao judicial, mas confirmou negociacao avancada com bancos credores para estender prazos e
+reduzir juros, com fontes indicando possivel recuperacao extrajudicial. Em meio a isso, anunciou
+Andre Dela Togna -- ex-socio da Galeazzi & Associados, consultoria com mais de cem processos de
+reestruturacao de grandes empresas -- como novo vice-presidente/co-CEO a partir de 1/10, para tocar
+a operacao enquanto o fundador Caito Maia foca em clientes e franqueados. A empresa projeta 10% de
+crescimento em 2026.
+Fonte: InfoMoney -- https://www.infomoney.com.br/business/chilli-beans-busca-acordo-com-credores-e-novo-executivo-e-nega-recuperacao-judicial/
+Fontes cruzadas: NeoFeed -- https://neofeed.com.br/negocios/exclusivo-chilli-beans-analisa-recuperacao-judicial-e-anuncia-novo-ceo/
+| ND+ -- https://ndmais.com.br/economia/chilli-beans-divida-reestruturacao-novo-ceo-recuperacao-judicial/
+| Meio & Mensagem -- https://www.meioemensagem.com.br/marketing/dividas-e-nova-lideranca-o-que-acontece-com-a-chilli-beans
+Score de Repercussao:
+- Frescor: 2/5 (fato veio a tona ha 4-5 dias, 31/08-01/09 -- ja nao e do dia/ontem)
+- Relevancia do protagonista: 4/5 (marca de oculos muito presente em shoppings/ruas no Brasil,
+  bastante reconhecida do publico em geral, embora nao seja de porte "gigante nacional")
+- Gravidade: 3/5 (divida relevante e especulacao de recuperacao judicial, mas a empresa nega o
+  pedido formal -- ainda nao e um evento consumado como uma RJ decretada)
+- Polemica adjacente: 1/5 (nenhuma ligacao com debate publico/politico mais amplo)
+- Volume de cobertura: 4/5 (InfoMoney, NeoFeed, CNBC Brasil, Meio & Mensagem, ND+, Fique de Olho,
+  Sentido Horario e outros cobriram o mesmo fato em poucos dias)
+- Clareza do angulo explicativo: 5/5 (cadeia bem simples: crescimento acelerado via franquia sem
+  disciplina de margem -> receita dos franqueados cai -> divida se acumula -> precisa trazer um
+  especialista de fora pra arrumar a casa)
+- Identificacao com audiencia: 5/5 (franquia, fluxo de caixa apertado, divida bancaria e a decisao
+  de "quando trazer ajuda profissional" sao vividos por qualquer dono de PME em expansao)
+TOTAL: 24/35
+Status: runner-up
+
+------------------------------------------------------------
+CANDIDATO 3 -- Justica decreta falencia do Grupo Ricoy, rede que teve 96 supermercados e 5 mil funcionarios em SP
+Fato: em 28/08, a Justica de SP decretou a falencia de 33 empresas do Grupo Ricoy (bandeiras Ricoy e
+Vencedor Atacadista), convertendo a recuperacao judicial iniciada em novembro/2025 apos os credores
+rejeitarem o plano de reestruturacao. A rede, com mais de 40 anos de historia e ate 96 lojas/5 mil
+funcionarios no auge, acumula cerca de R$461 milhoes em dividas com mais de 4,6 mil credores. O
+proprio grupo atribuiu a crise ao avanco dos atacarejos e grandes redes, reducao de margem, impacto
+fiscal da incorporacao do Grupo Russi e alta dos juros/custo do capital de giro. Segundo a
+administradora judicial, nenhuma unidade operava regularmente em agosto.
+Fonte: Exame -- https://exame.com/negocios/justica-decreta-falencia-de-rede-que-chegou-a-ter-96-supermercados-e-5-000-funcionarios-em-sp/
+Fontes cruzadas: ISTOE Dinheiro -- https://istoedinheiro.com.br/falencia-grupo-ricoy-decretada-justica-sp
+| ND+ -- https://ndmais.com.br/economia/justica-decreta-falencia-de-megarede-de-supermercados-com-33-empresas-afetadas-em-meio-a-dividas-que-chegam-a-r-461-milhoes/
+Score de Repercussao:
+- Frescor: 1/5 (decretada em 28/08, ha 8 dias -- fato ja frio)
+- Relevancia do protagonista: 2/5 (rede regional forte em SP/Cotia, mas sem reconhecimento de marca
+  nacional fora do estado)
+- Gravidade: 5/5 (falencia decretada -- nao e so recuperacao, e o fim definitivo -- de 33 empresas,
+  5 mil empregos no auge, 40+ anos de historia)
+- Polemica adjacente: 1/5 (nenhuma ligacao com debate publico/politico mais amplo)
+- Volume de cobertura: 3/5 (coberto por varios veiculos regionais/de negocios -- Giro News, BPMoney,
+  Exame, IstoE Dinheiro, ND+, Jornal Cotia Agora -- mas sem grande destaque na midia nacional de massa)
+- Clareza do angulo explicativo: 3/5 (varias causas concorrentes -- concorrencia de atacarejo, queda
+  de margem, aquisicao mal digerida do Grupo Russi, juros altos -- dificulta simplificar tudo em
+  menos de 2 min sem escolher so uma frente)
+- Identificacao com audiencia: 4/5 (concorrencia de grandes redes, aperto de margem e uma aquisicao
+  que pesou no caixa sao dores reais de varejo PME)
+TOTAL: 19/35
+Status: runner-up
+
+============================================================
+NAO HA GUARDRAIL POLITICO A APLICAR HOJE -- nenhum dos 3 candidatos teve o fator "Polemica
+adjacente" como relevante no score (todos pontuaram 1/5 nesse fator). O unico assunto do radar
+desta semana com carga politica forte (recorde de inadimplencia/"quebradeira") foi descartado por
+repeticao de dado, conforme nota no topo deste arquivo.
