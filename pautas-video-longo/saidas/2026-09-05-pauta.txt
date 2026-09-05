@@ -1,0 +1,105 @@
+PAUTA DO DIA -- 2026-09-05
+Assunto: Azzas 2154 desfaz fusao -- Arezzo&Co e SOMA voltam a ser empresas independentes
+
+Score final: 28/35
+(Frescor: 3/5 | Relevancia do protagonista: 5/5 | Gravidade: 4/5 | Polemica adjacente: 1/5 |
+Volume de cobertura: 5/5 | Clareza do angulo explicativo: 5/5 | Identificacao com audiencia: 5/5)
+
+Fato central verificado: em 02/09/2026, a Azzas 2154 (a companhia formada pela fusao entre
+Arezzo&Co e Grupo SOMA) anunciou acordo vinculante entre os blocos de acionistas liderados por
+Alexandre Birman e Roberto Jatahy para dividir o conglomerado em duas companhias abertas
+independentes, ambas destinadas ao Novo Mercado da B3. A Arezzo&Co (bloco Birman) fica com
+calcados/bolsas -- marcas Arezzo, Schutz, Vans, Anacapri, Alexandre Birman e Hering. A SOMA (bloco
+Jatahy) fica com Animale, Reserva, Cris Barros, Maria Filo e NV. A marca Farm Rio vira uma terceira
+estrutura, reunindo Farm, Farm Brasil, Farm Internacional e Fabula, com participacao dividida entre
+os dois grupos. As acoes da Azzas (AZZA3) saltaram mais de 14% no dia do anuncio (confirmado por
+multiplas fontes de mercado). Falta aprovacao do Conselho, dos acionistas, do Cade e a listagem da
+SOMA no Novo Mercado.
+Fontes confirmadas: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/azzas-2154-azza3-vai-separar-arezzo-e-soma-dois-anos-apos-fusao/
+| Money Times (salto de 14% na acao) -- https://www.moneytimes.com.br/muito-pessimismo-ja-estava-no-preco-azzas-2154-azza3-salta-14-com-divorcio-de-birman-e-jatahy-apsa/
+| Exame -- https://exame.com/invest/mercados/azzas-2154-sera-dividida-arezzoco-e-soma-voltam-a-ser-empresas-independentes/
+
+Cadeia causal (o que levou a isso):
+1) Em fevereiro de 2024, Arezzo&Co e Grupo SOMA anunciaram uma fusao com a promessa de gerar ate
+   R$ 4,5 bilhoes em sinergias (compartilhamento de fabricas, canais de distribuicao, base de
+   clientes e estrutura administrativa) -- a operacao foi concluida em agosto de 2024, dando origem
+   a Azzas 2154.
+2) Ao longo de 2024-2026, essas sinergias prometidas nunca se materializaram na intensidade
+   esperada -- a integracao operacional entre os dois times de gestao avancou mais devagar do que
+   o mercado precificou.
+3) Em paralelo, comecaram a se acumular divergencias entre os blocos de acionistas Birman e Jatahy
+   sobre governanca, estilo de gestao e direcao estrategica da companhia unificada -- ou seja, alem
+   do problema operacional, havia um desalinhamento crescente entre os dois grupos de socios sobre
+   como administrar o negocio conjunto.
+4) Dois anos depois da fusao, o conglomerado havia perdido mais de R$ 6 bilhoes em valor de mercado
+   combinado -- o proprio mercado precificando que a soma das partes separadas valia mais do que a
+   empresa unificada.
+5) Diante do impasse, os dois blocos de socios chegaram a conclusao de que desfazer a sociedade e
+   devolver a cada marca sua gestao independente destravaria mais valor do que manter a fusao --
+   resultando no acordo de cisao anunciado em 02/09.
+Fonte: InvestNews (perda de valor em 2 anos) -- https://investnews.com.br/negocios/cisao-azzas-fusao-perde-valor-farm-venda/
+| Seu Dinheiro (fusao de 2024 e promessa de sinergia) -- https://www.seudinheiro.com/2024/empresas/azzas-2154-fusao-de-arezzo-e-soma-deve-adicionar-r-11-bilhao-em-receita-a-nova-gigante-do-varejo-ate-2027-mcss/
+
+Por que esta repercutindo agora: o anuncio de 02/09 concentra tres fatores de score ao mesmo tempo --
+gravidade (desfazer, em apenas 2 anos, uma fusao bilionaria que era vendida como estrategica),
+volume de cobertura (praticamente toda a imprensa de mercado e negocios do pais publicou sobre o
+tema, com analises de bancos saindo dia apos dia) e clareza de angulo (a historia tem inicio, meio e
+fim faceis de acompanhar: promessa de sinergia -> sinergia nao vem -> socios brigam -> vale mais
+separado -> desfazem a sociedade). O fator "Polemica adjacente" pontuou baixo (1/5): trata-se de uma
+disputa societaria privada entre dois grupos de acionistas, sem nenhuma conexao com debate
+politico/economico mais amplo do pais.
+
+Angulo de gestao sugerido: o video deve tratar o caso como um estudo pratico sobre os limites de uma
+fusao ou sociedade quando a integracao de gestao nao acompanha a promessa financeira -- por que
+"somar dois negocios" no papel e muito mais facil do que integrar culturas, processos e decisorios
+no dia a dia; como um dono de PME que esta avaliando trazer um socio, fundir operacoes ou vender
+parte do negocio deve testar antes se ha alinhamento real de visao de gestao entre as partes, nao so
+alinhamento financeiro; e por que, quando as sinergias prometidas nao aparecem e as divergencias de
+governanca se acumulam, reconhecer o erro e desfazer a sociedade pode gerar mais valor do que
+insistir numa fusao que nao funciona na pratica -- inclusive com o mercado recompensando essa
+decisao (a alta de 14% na acao no dia do anuncio mostra que investidores viam mais valor nas partes
+separadas do que na empresa unida).
+
+Dados de apoio:
+- A fusao original (2024) prometia ate R$ 4,5 bilhoes em sinergias; dois anos depois, o grupo havia
+  perdido mais de R$ 6 bilhoes em valor de mercado combinado -- a distancia entre a promessa e o
+  resultado real e o nucleo da licao de gestao. Fonte: InvestNews -- https://investnews.com.br/negocios/cisao-azzas-fusao-perde-valor-farm-venda/
+- O JP Morgan estimou a marca Farm Rio isoladamente entre R$ 4,4 e R$ 5,5 bilhoes -- valor proximo ao
+  de toda a Azzas 2154 (~R$ 3,46-3,6 bi) antes do anuncio de cisao, evidenciando o quanto o valor das
+  marcas estava "escondido" dentro da estrutura fundida. Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/sozinha-a-farm-rio-deve-valer-mais-que-a-propria-dona-azzas-2154-e-a-venda-pode-ditar-rumos-de-azza3-em-meio-a-guerra-de-socios-bdap/
+- O Citi projetou potencial de valorizacao de ate 40% para as acoes da Azzas com o "destravamento de
+  valor" da separacao (visao de curto prazo, horizonte de 90 dias, apesar de rating neutro de longo
+  prazo). Fonte: Times Brasil/CNBC -- https://timesbrasil.com.br/empresas-e-negocios/moda-textil/citi-alta-acoes-azzas-separacao-arezzo-soma/
+
+Ressalva/limite: o fator "Polemica adjacente" NAO pesou no score desta pauta (1/5) -- e uma disputa
+societaria privada, sem qualquer ligacao com debate politico ou economico mais amplo do pais.
+Portanto o guardrail politico do briefing nao se aplica aqui: nao ha risco de o assunto tocar em
+discussao politica/polarizada, e o angulo de gestao (fusao, sinergia, sociedade, governanca) pode
+ser desenvolvido livremente, sem necessidade de nenhuma ressalva adicional nesse sentido. Unico
+cuidado tecnico: a operacao ainda depende de aprovacao do Conselho, dos acionistas, do Cade e da
+listagem da SOMA no Novo Mercado -- ou seja, e um acordo anunciado, ainda nao 100% consumado
+juridicamente, o que vale mencionar no video para precisao factual (nao e recomendacao de compra ou
+venda de nenhuma acao).
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e
+o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: uma fusao de bilhoes que durou so 2 anos -- e o mercado comemorou o divorcio
+- Contexto/causa raiz: a promessa de R$ 4,5 bi em sinergias na fusao Arezzo-SOMA de 2024
+- Desenvolvimento da cadeia causal: sinergia que nao vem -> divergencias de gestao entre os socios
+  -> perda de valor de mercado -> decisao de desfazer a sociedade (usar o espaco extra do formato
+  longo pra explicar por que integrar operações e mais dificil do que parece no papel)
+- Licao de gestao (a virada): antes de fundir negocios ou aceitar um socio, teste o alinhamento de
+  gestao, nao so o financeiro -- e saiba reconhecer quando desfazer e a decisao certa
+- Fechamento + CTA
+
+Fonte(s):
+- Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/azzas-2154-azza3-vai-separar-arezzo-e-soma-dois-anos-apos-fusao/
+- Exame -- https://exame.com/invest/mercados/azzas-2154-sera-dividida-arezzoco-e-soma-voltam-a-ser-empresas-independentes/
+- Money Times -- https://www.moneytimes.com.br/muito-pessimismo-ja-estava-no-preco-azzas-2154-azza3-salta-14-com-divorcio-de-birman-e-jatahy-apsa/
+- Times Brasil/CNBC -- https://timesbrasil.com.br/empresas-e-negocios/moda-textil/citi-alta-acoes-azzas-separacao-arezzo-soma/
+- InvestNews -- https://investnews.com.br/negocios/cisao-azzas-fusao-perde-valor-farm-venda/
+- Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/sozinha-a-farm-rio-deve-valer-mais-que-a-propria-dona-azzas-2154-e-a-venda-pode-ditar-rumos-de-azza3-em-meio-a-guerra-de-socios-bdap/
+
+Runners-up do dia (registro/transparencia):
+- Chilli Beans: divida de R$ 600 milhoes, franquias em queda e novo co-CEO de turnaround -- 24/35
+- Justica decreta falencia do Grupo Ricoy, rede que teve 96 supermercados e 5 mil funcionarios em SP -- 19/35
