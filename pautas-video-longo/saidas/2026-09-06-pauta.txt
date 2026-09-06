@@ -1,0 +1,47 @@
+PAUTA DO DIA -- 2026-09-06
+Assunto: Trump confirma que a carne bovina sem tarifa para os EUA vem principalmente do Brasil e da Argentina
+Score final: 31/35 (Frescor 5/5, Relevancia do protagonista 5/5, Gravidade 4/5, Polemica adjacente 5/5, Volume de cobertura 5/5, Clareza do angulo 4/5, Identificacao com audiencia 3/5)
+
+Fato central verificado: na sexta-feira 04/09/2026, no Salao Oval, o presidente Donald Trump confirmou publicamente que a carne bovina extra que os EUA vao importar com tarifa reduzida/isenta vem "da Argentina" e "do Brasil", alem de "alguns outros lugares". A declaracao foi cruzada em multiplas fontes independentes com a mesma citacao direta (Forbes Brasil, CNN Brasil, Metropoles, Brasil247), todas publicadas entre 04 e 05/09. O mecanismo por tras: proclamacao assinada por Trump em 26/08 ("Further Ensuring Affordable Beef for the American Consumer"), que amplia em 300 mil toneladas metricas a cota de aparas de carne bovina magra livre da tarifa extra-cota (26,5%) sobre volumes acima do limite normal, valida de 01/09 a 30/11/2026, em tres parcelas mensais de 100 mil toneladas, por ordem de chegada ("first come, first served"). Confirmado: CNBC, Fox Business, The Hill e MercoPress noticiaram o mesmo desenho da medida.
+
+Cadeia causal (o que levou a isso):
+1) O rebanho bovino dos EUA caiu para 86,2 milhoes de cabecas em 01/01/2026 -- o menor nivel em 75 anos -- resultado de anos de seca nas regioes produtoras (Planicies e Oeste americano), que forcou pecuaristas a vender gado (inclusive vacas reprodutoras) antes da hora, o que compromete a recuperacao do rebanho ate 2028-2029 segundo analistas do setor.
+2) Com oferta domestica menor, o preco da carne bovina nos EUA disparou -- o corte "Choice" foi de US$ 8,51/libra em agosto de 2024 para US$ 10,49/libra em julho de 2026, alta de ~23% -- e virou tema politico de inflacao as vesperas das eleicoes de meio de mandato (midterms) de 2026.
+3) Trump assina, em 26/08, a proclamacao que abre a cota emergencial de 300 mil toneladas livres da tarifa extra, alocada tecnicamente para a categoria "outros paises" -- o que, na pratica, exclui paises que ja tem cota fixa propria nos EUA (Argentina, Uruguai, Australia, Nova Zelandia, Reino Unido) e beneficia estruturalmente Brasil e Paraguai, que nao tinham tratamento preferencial antes.
+4) Em 04/09, publicamente, Trump nomeia Brasil e Argentina como as principais origens do produto -- gerando reacao imediata do setor pecuarista americano, que ja vinha pressionado pelo cenario descrito no passo 1.
+5) Analistas brasileiros passam a mapear JBS, Marfrig/MBRF e Minerva como beneficiarios potenciais, com efeito estimado em ate US$ 500 milhoes em tarifa poupada pelo setor.
+
+Por que esta repercutindo agora: a declaracao de Trump e fresca (04/09, materias saindo continuamente desde entao), tem como protagonista uma das figuras mais reconhecidas do planeta, gera racha politico dentro do proprio Partido Republicano nos EUA (pecuaristas e parlamentares proprios criticando o presidente as vesperas de eleicao), e tem cobertura ampla e simultanea em veiculos brasileiros e internacionais -- combinacao que empurrou o score para 31/35, o mais alto entre os candidatos do dia.
+
+Angulo de gestao sugerido: o video NAO discute a politica comercial de Trump em si -- foca em como uma janela de mercado externo pode se abrir (ou fechar) do dia para a noite por decisao de terceiros, fora do controle da empresa exportadora. O contraste com o proprio pipeline deste canal e didatico: na mesma semana em que a Uniao Europeia fechava a porta para a carne bovina brasileira (pauta vencedora deste canal em 03/09, por exigencia sanitaria), os EUA abriam uma cota emergencial para o mesmo produto, por um motivo completamente diferente (inflacao domestica americana). A licao pratica pro dono de PME: quem depende de fornecedor ou cliente estrangeiro precisa ter plano de contingencia e capacidade de resposta rapida -- diversificar mercados, manter margem de manobra operacional/financeira e monitorar sinais regulatorios de fora, porque a regra pode mudar sem aviso e sem que a empresa tenha qualquer influencia sobre a decisao.
+
+Dados de apoio:
+- Rebanho bovino dos EUA: 86,2 milhoes de cabecas em 01/01/2026, menor patamar em 75 anos (fonte: NPR e USDA via reportagens setoriais, maio/2026).
+- Preco do corte "Choice" nos EUA: alta de ~23% entre agosto/2024 (US$ 8,51/lb) e julho/2026 (US$ 10,49/lb).
+- Estrutura tecnica da cota: 300 mil toneladas, tres parcelas de 100 mil toneladas/mes, 01/09 a 30/11/2026, categoria "outros paises" -- que tecnicamente EXCLUI a Argentina desta cota especifica (Argentina ja tem cota fixa propria, ampliada em 80 mil toneladas em fevereiro/2026) e beneficia principalmente Brasil e Paraguai. Ou seja: a fala publica de Trump citando os dois paises e verdadeira e amplamente registrada, mas o desenho tecnico da medida favorece o Brasil de forma mais direta que a Argentina -- ponto util para aprofundar a cadeia causal no video, sem contradizer o fato central.
+- Reacao do setor pecuarista americano: quatro entidades (National Cattlemen's Beef Association, American Farm Bureau Federation, Livestock Marketing Association e United States Cattlemen's Association) pediram a reversao da medida; a NCBA (via CEO Colin Woodall) disse estar "decepcionada" com o anuncio de Trump; a fazenda Meriwether Farms, do Wyoming, chamou a decisao de "traicao"; a deputada republicana Ashley Hinson (candidata ao Senado por Iowa) chamou a medida de "ideia ruim" -- mesmo assim, aparece a frente na disputa pelo Senado em pesquisa divulgada apos o rompimento publico com Trump nesse tema.
+- Efeito estimado sobre frigorificos brasileiros: como a medida isenta a tarifa extra-cota de 26,5%, o beneficio potencial para exportadores e estimado em ate US$ 500 milhoes; entre os listados, a Minerva tende a ser a mais beneficiada por nao ter operacao industrial nos EUA (so exporta), enquanto JBS e Marfrig/MBRF tem efeito misto, por operarem fabricas tanto no Brasil quanto nos EUA.
+
+Ressalva/limite: o fator "Polemica adjacente" pesou forte (5/5) no score porque o fato nasce de uma briga politica interna nos EUA (Trump x pecuaristas e parlamentares do proprio partido) e encosta no pano de fundo da guerra tarifaria Brasil-EUA. GUARDRAIL OBRIGATORIO: o roteiro final nao pode comentar o merito da politica comercial de Trump, nao pode tomar partido entre Trump e os pecuaristas/parlamentares republicanos americanos, nao pode opinar sobre a guerra tarifaria Brasil-EUA em si, e nao pode citar nenhum politico brasileiro (Lula, ministros etc.) de forma critica ou elogiosa -- o fato nem envolve diretamente o governo brasileiro. O angulo fica 100% em gestao/negocio: capacidade de reagir a mudancas de regra ditadas por terceiros, fora do controle da empresa.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: Trump diz publicamente que a carne "esta vindo do Brasil" -- e isso e uma virada de mercado em tempo real
+- Contexto/causa raiz: rebanho americano no menor nivel em 75 anos + inflacao de alimentos pressiona o governo dos EUA
+- Desenvolvimento da cadeia causal: da proclamacao tecnica (que privilegia o Brasil sobre a Argentina) a reacao do setor pecuarista americano, passando pelo contraste com a UE fechando a porta pra carne brasileira na mesma semana
+- Licao de gestao (a virada): empresa que depende de mercado externo precisa ter plano B e velocidade de reacao, porque a regra do jogo pode mudar por decisao de terceiros, sem aviso previo
+- Fechamento + CTA
+
+Fonte(s):
+- Forbes Brasil (Forbes Agro) -- https://forbes.com.br/forbes-agro/2026/09/trump-confirma-que-carne-bovina-sem-tarifas-vira-do-brasil-e-da-argentina/
+- CNN Brasil -- https://www.cnnbrasil.com.br/agro/trump-diz-que-carne-importada-dos-eua-vira-sobretudo-de-brasil-e-argentina/
+- Exame -- https://exame.com/agro/por-que-pecuaristas-dos-eua-estao-furiosos-com-trump-por-importacao-de-carne/
+- MercoPress -- https://en.mercopress.com/2026/08/28/the-us-waives-beef-tariffs-for-brazil-and-paraguay-but-not-for-argentina-and-uruguay
+- Newsweek -- https://www.newsweek.com/trump-appears-to-exclude-argentina-cheap-beef-imports-plan-12376199
+- NCBA (nota oficial) -- https://www.ncba.org/news-media/news/details/50285/ncba-statement-on-president-trumps-truth-social-post
+- Newsweek (Ashley Hinson / Senado Iowa) -- https://www.newsweek.com/ashley-hinson-chances-iowa-senate-beef-poll-12408759
+- InvestNews (efeito sobre JBS, Marfrig e Minerva) -- https://investnews.com.br/negocios/porque-a-tarifa-de-50-sobre-a-carne-beneficia-jbs-e-marfrig-e-pouco-afeta-a-minerva/
+
+Runners-up do dia (registro/transparencia):
+- Motoristas/entregadores de app: impasse na negociacao segue sem solucao, greve nacional ameacada para 12/09 -- desqualificado por repeticao de assunto (ja foi vencedor deste pipeline em 31/08, sem fato novo)
+- Casas Bahia: prejuizo contabil recorde de R$ 10,1 bi no 2T26, fechamento de 298 lojas e possivel nova recuperacao judicial -- desqualificado por repeticao de assunto/empresa (ja foi candidato em 01/09, mesmo fato de fundo)
+- Industria brasileira tem maior contracao em 40 meses, PMI cai a 46,3 em agosto -- 16/35, score baixo e sobreposicao tematica com a pauta da CNI de 27/08
