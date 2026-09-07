@@ -1,0 +1,25 @@
+ROTEIRO 1 -- A cooperativa gaúcha que batizou sua IA com nome de personagem de livro
+"Trinta cooperativas do Rio Grande do Sul, 🟡`donas de metade da soja do estado`🟡, resolveram um problema clássico de gestão: informação espalhada em mil sistemas diferentes. A solução foi um agente de IA batizado de Ana, nome de personagem gaúcha de Erico Verissimo, apresentado na semana passada num evento da AWS em São Paulo. Hoje 🟡`mais de 13 mil produtores`🟡 conversam com ela direto do campo pra tirar dúvida sobre a própria propriedade, economia estimada pela própria empresa que criou a ferramenta em 🟡`20 mil horas por ano`🟡. Enquanto se debate se IA é coisa de escritório grande, o produtor rural já resolveu isso há meses."
+Fonte: Infomach -- https://www.infomach.com.br/case-ia-smartcoop/
+
+ROTEIRO 2 -- Dez anos só em São Paulo, agora mirando R$2 bi fora dela
+"Uma empresa que passou dez anos inteiros vendendo só dentro de São Paulo acabou de abrir a primeira operação fora do estado. A Shopper, supermercado 100% online, inaugurou seu primeiro centro de distribuição em Brasília, com 🟡`R$25 milhões de investimento`🟡, e anunciou a meta pública, ainda não realizada, de chegar a 🟡`R$2 bilhões de receita em 2027`🟡. Às vezes a hora certa de sair da zona de conforto não é quando falta opção dentro dela, é quando a base já está sólida o bastante pra bancar o risco de fora."
+Fonte: InfoMoney -- https://www.infomoney.com.br/business/shopper-investe-r-25-milhoes-em-primeiro-centro-de-distribuicao-fora-de-sp/
+
+ROTEIRO 3 -- Menor desemprego da história, consumo em queda no mesmo período
+"Contei aqui há poucos dias que o consumo das famílias caiu no PIB do segundo trimestre. Pois o IBGE também divulgou, no mesmo período, que o desemprego caiu pra 🟡`5,3%, a menor taxa já registrada`🟡 pra um trimestre até julho, com recorde de gente ocupada e de carteira assinada. São pesquisas diferentes: uma mede vínculo de trabalho, outra mede volume de consumo. E dá pra conviver: 🟡`ter emprego virou o normal, ter dinheiro sobrando no fim do mês, não`🟡. A pergunta pra quem vende pro consumidor final: seu produto sobrevive numa economia onde as pessoas têm salário mas não têm folga?"
+Fonte: IBGE (PNAD Contínua), via Ric.com.br -- https://ric.com.br/economia/taxa-desemprego-recua-menor-nivel-ate-julho-serie-historica-do-ibge/
+
+ROTEIRO 4 -- O verdadeiro limite da estratégia nunca foi inteligência
+"Por décadas, o motivo de uma empresa não conseguir avaliar todas as opções estratégicas possíveis nunca foi falta de inteligência do time, era simplesmente 🟡`não ter cabeça, nem tempo, suficiente pra isso`🟡. Um pesquisador de Michigan argumenta, na Harvard Business Review deste mês, que esse limite acabou: 🟡`a IA não te faz mais esperto, ela tira o teto de quantas alternativas sua empresa consegue realmente considerar antes de decidir`🟡. A pergunta não é mais se você tem uma boa estratégia, é quantas você nem chegou a considerar."
+Fonte: Harvard Business Review -- https://hbr.org/2026/09/ai-is-revolutionizing-strategic-decision-making
+
+ROTEIRO 5 -- O lucro que veio na hora da ameaça de multa
+"O TikTok gastou anos, e 🟡`mais de US$2 bilhões em prejuízo acumulado`🟡, só pra operar fora dos Estados Unidos e da China. Segundo a Forbes, no ano em que a Europa mais ameaçou multar a empresa, a conta finalmente fechou no positivo: primeiro lucro histórico dessa operação, 🟡`US$702,5 milhões em 2025`🟡, com receita subindo quase 46%, segundo números divulgados pela própria empresa. Às vezes o prejuízo não é sinal de que o negócio não funciona, é o preço de comprar posição num mercado que ainda não decidiu se vai deixar você ficar."
+Fonte: Forbes -- https://www.forbes.com/sites/iainmartin/2026/08/20/tiktoks-international-revenues-boom-to-91-billion-despite-looming-europe-fines/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] Você tem emprego garantido, mas sente que o dinheiro não sobra no fim do mês? Sim / Não
+2. [Pergunta/Participacao, Roteiro 1] Você já testou alguma ferramenta de IA no dia a dia do seu negócio? Me conta aqui embaixo qual foi e se funcionou.
+3. [Virar Historia, Roteiro 5 -> Quadro Branco] O roteiro 5 tem uma sequência numérica clara de três anos (prejuízo grande, prejuízo menor, lucro) — perfeita pra desenhar ao vivo uma linha crescente no quadro branco, mostrando visualmente a virada de chave em vez de só falar os números.
