@@ -1,0 +1,39 @@
+ROTEIRO 1 — Fintech brasileira encolhe prazo de lançamento de 3 meses pra horas
+"Uma fintech brasileira apresentou ao vivo, pro setor bancário inteiro, uma tecnologia que 🟡`reduz de 3 meses pra poucas horas o tempo de tirar um produto financeiro do papel`🟡. É a Celcoin, com a plataforma cel_agents, lançada no Febraban Tech — os números são estimativa da própria empresa, sem auditoria independente, mas o feito foi mostrado ao vivo pro setor inteiro de bancos. Se ainda existe empresa tratando 3 meses como prazo normal pra lançar algo novo, 🟡`a régua do que é rápido acabou de mudar de novo`🟡. Quanto tempo a sua empresa ainda gasta com isso?"
+Fonte: Finsiders Brasil — https://finsidersbrasil.com.br/inovacao/cel_agents-acelera-desenvolvimento-de-produtos-financeiros-com-ia/
+
+===================================================================
+ROTEIRO 2 — Magalu e Mercado Livre, de rivais a sócios na mesma vitrine
+"Duas empresas que brigaram pelo mesmo cliente por mais de dez anos acabaram de virar sócias na mesma vitrine. O Magalu fechou parceria com o Mercado Livre pra vender 🟡`27 mil produtos`🟡 — Magazine Luiza, KaBuM! e Época Cosméticos — dentro do marketplace do rival histórico, com entrega pela logística própria do Magalu. A ação disparou com força no pregão seguinte, com porcentuais que variam bastante de fonte pra fonte. Não foi fusão nem trégua branca — 🟡`foi as duas olharem pra conta e perceberem que dividir alcance vale mais que continuar sozinhas na guerra`🟡. Às vezes o concorrente que você mais teme é o parceiro que faltava."
+Fonte: Brazil Journal — https://braziljournal.com/magalu-faz-parceria-com-o-mercado-livre-para-vender-seus-produtos/
+
+===================================================================
+ROTEIRO 3 — Confiança do comerciante cai ao menor nível do ano — mas aposta no futuro sobe
+"O comerciante brasileiro está pior agora do que em qualquer mês de 2026 até aqui. O Índice de Confiança do Empresário do Comércio, da CNC, 🟡`caiu 0,6% em agosto, pra 101,3 pontos`🟡 — o menor nível do ano, puxado pela avaliação das condições atuais. Mesmo assim, a expectativa pro futuro subiu. Isso não é otimismo ingênuo nem pessimismo puro: 🟡`é o empresário apostando mais alto no futuro do que na própria realidade presente`🟡. A pergunta que fica: até quando dá pra tocar o negócio nessa aposta?"
+Fonte: PB Agora — https://www.pbagora.com.br/noticia/economia/confianca-do-comercio-recua-06-em-agosto/
+
+===================================================================
+ROTEIRO 4A — Sucessão familiar: o problema não é achar herdeiro, é largar o comando
+"Já falei de empresa familiar aqui, mas hoje é outro ângulo: não é sobre vender mais, é sobre passar o comando. Numa pesquisa global da Deloitte com quase 1.600 empresas familiares, o maior obstáculo pra sucessão não foi falta de herdeiro — 🟡`foi a própria liderança relutante em largar o controle, admitido por 32% dos entrevistados`🟡; a expectativa de CEO vindo de fora da família deve dobrar, de 13% pra 26%. 🟡`Talvez o plano de sucessão que falta na sua empresa não seja sobre seu filho estar pronto — seja sobre você estar pronto pra sair`🟡."
+Fonte: Deloitte Global — https://www.deloitte.com/global/en/about/press-room/global-report-reveals-succession-preparedness-gaps.html
+
+===================================================================
+ROTEIRO 4B — Quando o agente de IA da sua empresa negocia com o agente de IA da outra
+"Chegou o momento em que a cotação ou o fechamento de um contrato pode estar acontecendo entre o agente de IA da sua empresa e o agente de IA de outra empresa, 🟡`sem ninguém digitando nada em tempo real`🟡. É o que mostra um estudo da Harvard Business Review: 🟡`dar mais autonomia pra esses agentes negociarem sozinhos fecha mais negócio do que travar tudo em regra rígida`🟡 — mas informação clara e sinal de reputação ainda fazem diferença. A pergunta que fica: sua empresa já decidiu até onde deixa a própria IA fechar negócio sozinha?"
+Fonte: Harvard Business Review — https://hbr.org/2026/09/what-happens-when-ai-starts-doing-business-with-ai
+
+===================================================================
+ROTEIRO 5 — Prazo da nova nota fiscal do Simples foi empurrado pra novembro, sem alarde
+"Se você estava correndo pra se adequar à nova nota fiscal eletrônica até 1º de setembro, relaxa: a Receita Federal 🟡`empurrou o prazo pra 1º de novembro`🟡, sem alarde nenhum. A prorrogação da NFS-e Nacional pro Simples Nacional foi confirmada pela Resolução CGSN 191, publicada em agosto. 🟡`São dois meses reais de folga`🟡 pra quem estava se estressando à toa — ou, pior, quem nem sabe da mudança e pode se atrasar achando que o prazo já passou. Alguém no seu escritório de contabilidade já te avisou que a data mudou?"
+Fonte: Receita Federal / Gov.br — https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026
+
+===================================================================
+ROTEIRO 6 — Enquanto todo mundo fala de IA, a maior aposta recente do Brasil é em ovo
+"Enquanto todo mundo discute IA e o próximo unicórnio, uma das maiores apostas recentes de investimento no Brasil foi em... ovo. A Mantiqueira, com participação da JBS, vai investir 🟡`R$565 milhões pra ampliar em 50% a produção`🟡 — de 4 bilhões pra 6 bilhões de ovos por ano até 2028. Meio bilhão de reais pra vender mais do mesmo produto de sempre, só que maior e mais moderno. 🟡`Às vezes o crescimento mais garantido não é o mais badalado — é o produto que ninguém mais está prestando atenção`🟡."
+Fonte: Poder360 — https://www.poder360.com.br/poder-agro/empresa-da-jbs-investira-r-565-milhoes-para-ampliar-producao-de-ovos/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] "Sua confiança no PRÓPRIO negócio hoje é maior ou menor que no início do ano? 📈 Maior / 📉 Menor"
+2. [Pergunta/Participação, Roteiro 1] "Quanto tempo você leva hoje pra tirar uma ideia nova do papel na sua empresa? Conta aqui nos comentários 👇"
+3. [Virar História, Roteiro 4A -> Duplo Eu] O roteiro fala do dono relutante em largar o controle vs. o dono pronto pra sair — o formato Duplo Eu encena esse conflito interno na tela, tornando visível a dúvida que 32% admitiram numa pesquisa.
