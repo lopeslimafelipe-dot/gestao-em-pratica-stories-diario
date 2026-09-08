@@ -1,0 +1,46 @@
+PAUTA DO DIA -- 2026-09-08
+Assunto: Greve nacional dos bancarios da Caixa e do Banco do Brasil se espalha pelo pais
+Score final: 28/35 (Frescor 5/5, Relevancia do protagonista 5/5, Gravidade 4/5, Polemica adjacente 2/5, Volume de cobertura 3/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: a Campanha Salarial 2026 dos bancarios chegou a 13 rodadas de negociacao entre o Comando Nacional dos Bancarios e a Fenaban. Nos bancos privados, a proposta final (reposicao do INPC + 0,60% de aumento real em 2026 e 2027) foi aprovada (67,3% em nivel nacional; 66,10% em SP). Na Caixa Economica Federal e no Banco do Brasil, porem, a proposta especifica foi rejeitada: 93,5% dos votantes da Caixa e 81% dos votantes do BB votaram contra o acordo (em bases locais como Goias, a rejeicao chegou a 96,5%). Como consequencia, 93 bases sindicais da Caixa e 27 do BB aprovaram indicativo de greve por tempo indeterminado. As paralisacoes comecaram escalonadas por estado desde 04/09 (Para foi o primeiro), e nesta terca-feira (08/09) e a vez de Goias e Rio Grande do Norte pararem, dois dias antes da data adotada pela maioria das bases. A greve nacional por tempo indeterminado esta marcada para comecar 0h de quinta-feira, 10/09, com fechamento de agencias da Caixa e do BB projetado para varias regioes do pais.
+Fontes cruzadas e confirmadas: DCI, APCEF/SP, Sindicato dos Bancarios de SP, Metropoles/MG, O Tempo/BH, Diario de Goias, Jornal Opcao/GO, Bancarios-BH, Bancarios-DF, SEEB/CE, FEEB-PR -- todas publicadas entre 04/09 e 07/09/2026, com os mesmos percentuais de rejeicao e o mesmo calendario de datas.
+
+Cadeia causal (o que levou a isso):
+1) A Campanha Salarial 2026 dos bancarios se arrastou por 13 rodadas de negociacao entre o Comando Nacional dos Bancarios e a Fenaban -- no meio do caminho, a mobilizacao da categoria chegou a forcar os bancos a retirar uma proposta anterior de reajuste diferenciado por faixa salarial, que a categoria via como uma tentativa de dividir os trabalhadores.
+2) A proposta final de reajuste (INPC + 0,60% real) foi aceitavel para os bancos privados, mas nao resolveu o principal ponto de atrito especifico da Caixa: mudancas no Saude Caixa, o plano de saude dos empregados, que a categoria considera uma tentativa de transferir custo do beneficio para o bolso do trabalhador -- alem de pendencias em carreira e condicoes de trabalho.
+3) Com o pacote rejeitado por esmagadora maioria em assembleias na Caixa (93,5%) e no BB (81%), as bases regionais aprovaram greve por tempo indeterminado e comecaram a escalonar a paralisacao estado por estado a partir de 04/09, em vez de esperar uma data unica -- o que fez o movimento crescer todos os dias e ganhar visibilidade progressiva.
+4) O calendario convergiu numa data nacional (10/09), quando a maioria das bases restantes deve aderir simultaneamente, fechando agencias da Caixa e do BB de forma sincronizada em varias regioes do pais.
+
+Por que esta repercutindo agora: o fato esta em curso neste exato momento (frescor maximo -- Goias e RN param hoje, 08/09), tem como protagonistas duas das marcas mais reconhecidas e onipresentes do pais (Caixa e Banco do Brasil), envolve disrupcao operacional real e crescente (agencias fechadas, greve escalando estado por estado), e a escalada para greve nacional por tempo indeterminado esta marcada para depois de amanha (10/09) -- o que da ao tema uma trajetoria clara de "vai piorar antes de estabilizar", reforcando o interesse do publico nos proximos dias.
+
+Angulo de gestao sugerido: o video NAO discute o merito da negociacao salarial nem toma partido entre bancarios e bancos -- foca no que o dono de PME precisa fazer NA PRATICA quando o parceiro bancario que ele usa no dia a dia (deposito, saque, negociacao de credito, fechamento de folha de pagamento) fica indisponivel sem aviso. A licao central: negocio que concentra toda a operacao financeira numa unica instituicao (mesmo sendo Caixa ou BB, os "bancos mais seguros do pais" na cabeca do empresario) fica refem de uma decisao que nao esta sob seu controle. A recomendacao pratica, ja mapeada por especialistas cobrindo o episodio: antecipar pagamentos a fornecedores, salarios e tributos, priorizar canais digitais e agendamento eletronico, e ter ao menos um canal alternativo (correspondente bancario, outra instituicao) para nao travar a operacao quando o parceiro principal para.
+
+Dados de apoio:
+- Reajuste aprovado nos bancos privados: INPC (reposicao total da inflacao) + 0,60% de aumento real em 2026 e novamente em 2027, aprovado por 67,3% da categoria nacionalmente (66,10% em SP) -- fonte: Sindicato dos Bancarios de SP.
+- Rejeicao na Caixa: 93,5% dos votantes nacionalmente; em Goias, especificamente, o indice de rejeicao chegou a 96,5% -- fontes: Diario de Goias, OHoje/GO.
+- Rejeicao no BB: 81% dos votantes nacionalmente -- fonte: Sindicato dos Bancarios de SP / APCEF-SP.
+- Abrangencia do movimento: 93 bases sindicais da Caixa e 27 bases do BB aprovaram o indicativo de greve por tempo indeterminado a partir de 10/09 -- fonte: cobertura consolidada de sindicatos regionais (Bancarios-BH, Bancarios-DF, SEEB/CE).
+- Ponto de atrito especifico da Caixa: mudancas propostas no Saude Caixa (plano de saude dos empregados), apontado pelos sindicatos como o principal obstaculo remanescente na mesa de negociacao, alem de carreira e condicoes de trabalho -- fonte: Sindicato dos Bancarios de SP (cobertura da 13a rodada da Campanha Nacional).
+- Impacto operacional esperado sobre PMEs: pressao no fluxo de caixa de micro e pequenas empresas que dependem de recebimento em especie ou compensacao de boleto/cheque, com atraso em depositos, compensacoes e contratacao de linhas de credito presenciais -- recomendacao do mercado e antecipar pagamentos e priorizar canais digitais -- fonte: BM&C News, Associacao Comercial e Industrial de Aracatuba (ACIARA).
+
+Ressalva/limite: o fator "Polemica adjacente" pesou baixo no score (2/5) porque este e um caso classico de negociacao trabalhista/sindical, sem carga politico-eleitoral relevante -- nao ha crise de governo nem debate partidario embutido no fato. Mesmo assim, por padrao do canal: o roteiro final nao deve tomar posicao sobre o merito da greve (se a categoria tem razao ou nao, se o reajuste e justo ou nao) nem sobre o movimento sindical em si -- o angulo fica 100% restrito ao efeito pratico de gestao (dependencia de canal bancario unico e planejamento de fluxo de caixa/folha de pagamento diante de uma interrupcao de servico).
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: agencia da Caixa ou do BB fechada bem no dia em que a PME precisa fechar a folha de pagamento
+- Contexto/causa raiz: 13 rodadas de negociacao travadas no Saude Caixa e no reajuste, categoria rejeita em massa (93,5% e 81%)
+- Desenvolvimento da cadeia causal: da rejeicao da proposta a escalada estado por estado desde 04/09 ate a greve nacional marcada pra 10/09
+- Licao de gestao (a virada): nunca concentrar toda a operacao financeira num unico banco -- ter plano B e antecipar pagamentos evita que a empresa fique refem de uma negociacao que nao esta sob seu controle
+- Fechamento + CTA
+
+Fonte(s):
+- DCI -- https://www.dci.com.br/dci-mais/noticias/brasil/greve-dos-bancarios-continua-na-terca-feira-apos-o-feriado/
+- Sindicato dos Bancarios de SP -- https://spbancarios.com.br/09/2026/bancarios-de-bancos-privados-e-do-bb-aprovam-cct-e-act-na-caixa-greve-partir-do-dia-10
+- APCEF/SP -- https://www.apcefsp.org.br/campanhanacional/em-sao-paulo-bancarios-de-bancos-privados-e-do-bb-aprovam-cct-e-act-na-caixa-greve-a-partir-do-dia-10
+- Diario de Goias -- https://diariodegoias.com.br/greve-na-caixa-bancarios-rejeitam-proposta-e-paralisam-funcionamento-das-agencias-em-goias-a-partir-desta-terca-8/546562/
+- O Tempo/BH -- https://www.otempo.com.br/economia/2026/9/7/bancarios-da-caixa-e-bb-de-bh-e-regiao-entram-em-greve-a-partir-de-quinta-agencias-ficarao-fechadas
+- BM&C News (impacto sobre clientes/PMEs) -- https://bmcnews.com.br/economia/greve-dos-bancarios-2026-negociacao-trava-perto-da-data-base-veja-o-que-o-cliente-precisa-saber/
+
+Runners-up do dia (registro/transparencia):
+- Correios: indicativo de greve nacional aprovado para 10/09, em meio a crise financeira grave (prejuizo de R$ 6 bi, plano de fechar 1.000 agencias e demitir ate 15 mil) -- 27/35
+- Brasil bate recorde historico de empresas em recuperacao judicial no 1o semestre de 2026 (6.382 empresas, alta de 22% em 12 meses) -- 24/35
+- Magazine Luiza fecha parceria com Mercado Livre para vender 27 mil produtos proprios no marketplace, acao disparou ~17% -- 20/35
