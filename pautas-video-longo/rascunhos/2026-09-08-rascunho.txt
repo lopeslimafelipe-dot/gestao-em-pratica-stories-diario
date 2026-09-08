@@ -1,0 +1,130 @@
+RADAR DE REPERCUSSAO -- 2026-09-08 (terca-feira)
+Etapa 1: Pesquisa e Pontuacao -- pauta para video explicativo longo (30s-2min)
+
+Checagem de repeticao: revisados os ultimos 10 dias corridos de pautas-video-longo/rascunhos
+(30/08 a 07/09). Temas ja usados nesse periodo e evitados hoje: mercado de trabalho/desemprego,
+motoristas de app/greve 12/09, PIB 2T26, UE suspende carne brasileira, Banco Master/liquidacoes,
+Azzas 2154 (Arezzo/SOMA), tarifa de carne Trump Brasil/Argentina, guerra Ira-EUA/petroleo.
+
+CANDIDATO 1 -- Greve nacional dos bancarios (Caixa e Banco do Brasil) se espalha pelo pais
+Fato: Apos a categoria rejeitar a proposta da Fenaban na Campanha Salarial 2026 (na Caixa, 93,5%
+rejeitaram a proposta e 68,2% votaram por greve; no BB, rejeicao de 81%), paralisacoes comecaram
+de forma escalonada por estado desde 04/09 e continuam hoje (08/09) -- casos como Goias e Rio
+Grande do Norte iniciando greve hoje, dois dias antes da data adotada pela maioria das bases --,
+com data marcada para greve nacional por tempo indeterminado a partir de 10/09. Agencias da Caixa
+e do BB fechadas em varias regioes do pais nesta semana.
+Fonte: DCI -- https://www.dci.com.br/dci-mais/noticias/brasil/greve-dos-bancarios-continua-na-terca-feira-apos-o-feriado/
+Fontes adicionais: Sindicato dos Bancarios (SP) -- https://spbancarios.com.br/09/2026/bancarios-de-bancos-privados-e-do-bb-aprovam-cct-e-act-na-caixa-greve-partir-do-dia-10 ;
+APCEF/SP -- https://www.apcefsp.org.br/campanhanacional/em-sao-paulo-bancarios-de-bancos-privados-e-do-bb-aprovam-cct-e-act-na-caixa-greve-a-partir-do-dia-10
+Score de Repercussao:
+- Frescor: 5/5 (greve em curso e se espalhando hoje, com data de escalada nacional em 2 dias)
+- Relevancia do protagonista: 5/5 (Caixa Economica Federal e Banco do Brasil sao duas das marcas
+  mais reconhecidas do pais, presentes na vida de praticamente todo brasileiro e toda PME)
+- Gravidade: 4/5 (greve nacional por tempo indeterminado, com fechamento de agencias em varios
+  estados -- disrupcao operacional real, ainda que nao seja um colapso financeiro de empresa)
+- Polemica adjacente: 2/5 (e uma negociacao trabalhista/sindical clássica, sem carga
+  politico-eleitoral forte como em pautas anteriores -- nao ha necessidade de ressalva reforcada)
+- Volume de cobertura: 3/5 (coberto por veiculos economicos como DCI e por uma rede ampla de
+  sindicatos regionais em quase todos os estados, mas ainda nao virou manchete de capa nos
+  grandes portais generalistas)
+- Clareza do angulo explicativo: 4/5 (cadeia causa->efeito->licao direta: negociacao salarial
+  travada -> greve fecha agencias -> PME nao consegue fazer deposito, sacar, negociar credito ou
+  fechar folha de pagamento -> licao sobre risco de depender de um unico canal/parceiro bancario
+  e sobre gestao de negociacao salarial)
+- Identificacao com audiencia: 5/5 (todo dono de PME depende de banco pra fluxo de caixa, credito
+  e folha de pagamento -- agencia fechada e dor direta e imediata)
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Correios: indicativo de greve nacional aprovado para 10/09, em meio a crise financeira grave
+Fato: Assembleias em pelo menos 17 dos 33 sindicatos filiados a Findect rejeitaram proposta de
+reajuste de 0,87% (bem abaixo da inflacao, que a Findect calcula em 4,85%) e aprovaram indicativo
+de greve nacional a partir de 0h de 10-11/09. O pano de fundo e uma crise financeira profunda da
+estatal: prejuizo acumulado de R$ 6 bilhoes, plano de fechar 1.000 agencias e demitir ate 15 mil
+funcionarios (PDV) ate 2027, e um emprestimo de R$ 12 bilhoes junto a 5 bancos. Mediacao do TST
+terminou sem acordo.
+Fonte: ISTOE -- https://istoe.com.br/greve-correios-indicativo-paralisacao-setembro
+Fontes adicionais: CNN Brasil -- https://www.cnnbrasil.com.br/economia/macroeconomia/trabalhadores-dos-correios-resistem-a-proposta-e-mantem-indicativo-de-greve/ ;
+Gazeta do Povo (contexto financeiro) -- https://www.gazetadopovo.com.br/economia/correios-devem-fechar-mil-agencias-e-demitir-de-15-mil-funcionarios/
+Score de Repercussao:
+- Frescor: 4/5 (assembleias e indicativo aprovados nos ultimos dias, greve efetiva ainda nao
+  comecou -- e um "indicativo", nao a paralisacao em si)
+- Relevancia do protagonista: 5/5 (Correios e uma marca historica e onipresente, reconhecida por
+  qualquer brasileiro)
+- Gravidade: 3/5 (ainda e ameaca/indicativo, nao greve confirmada -- mas o pano de fundo de
+  prejuizo bilionario e plano de fechar 1.000 agencias/demitir 15 mil e grave por si so)
+- Polemica adjacente: 3/5 (encosta no debate sobre gestao de estatais e reestruturacao no servico
+  publico, tema sensivel mas sem viés eleitoral direto no angulo do fato)
+- Volume de cobertura: 4/5 (ISTOE, CNN Brasil, Gazeta do Povo, Poder360, Metropoles, alem de
+  dezenas de sindicatos regionais -- boa cobertura nacional)
+- Clareza do angulo explicativo: 4/5 (cadeia causa->efeito->licao clara: empresa em crise
+  financeira grave oferece reajuste abaixo da inflacao -> categoria rejeita e ameaca greve ->
+  risco de paralisar entregas -> licao sobre gestao de crise e negociacao em empresa que perde
+  competitividade pra concorrencia privada de logistica)
+- Identificacao com audiencia: 4/5 (PME que depende dos Correios pra despachar produto de
+  e-commerce sente na pele o risco de atraso -- e a licao sobre "empresa que nao se adapta perde
+  espaco pra concorrente" e universal)
+TOTAL: 27/35
+Status: runner-up
+
+CANDIDATO 3 -- Brasil bate recorde historico de empresas em recuperacao judicial
+Fato: O Brasil fechou o 1o semestre de 2026 com 6.382 empresas em recuperacao judicial (recorde
+da serie), alta de 6,5% no semestre e de 22% em 12 meses -- ante 4.014 no 1o trimestre de 2023
+(alta de quase 58% em pouco mais de 3 anos). Metade das empresas em RJ e do varejo (Pao de
+Acucar, Casas Bahia, Habib's, Tok&Stok entre os nomes conhecidos); agronegocio puxa a expansao
+com alta setorial de 66%. Causas apontadas: juros elevados, credito seletivo e queda no consumo.
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/recuperacoes-judiciais-brasil-juros-dividas-empresas-crise/
+Fonte adicional: TV Brasil -- https://tvbrasil.ebc.com.br/reporter-brasil/2026/09/em-2026-12-grandes-empresas-pediram-recuperacao-judicial-no-pais
+Score de Repercussao:
+- Frescor: 2/5 (materia de analise publicada em setembro, mas baseada em dado consolidado do
+  1o semestre -- nao e um fato/evento pontual de hoje ou ontem)
+- Relevancia do protagonista: 4/5 (nao ha um unico protagonista, mas a lista inclui marcas muito
+  conhecidas do varejo nacional)
+- Gravidade: 4/5 (recorde historico da serie, com alta expressiva em 12 meses)
+- Polemica adjacente: 3/5 (encosta no debate sobre juros altos e situacao economica do pais, mas
+  este pipeline ja cobriu angulo proximo em 02/09 -- PIB -- e em 04/09 -- Banco Master)
+- Volume de cobertura: 3/5 (Forbes, TV Brasil, Conjur, Gazeta do Povo, Brasil em Folhas -- bom
+  volume, mas concentrado em materias de analise, nao cobertura de fato do dia)
+- Clareza do angulo explicativo: 3/5 (cadeia causal correta -- juros altos + credito seletivo +
+  consumo fraco -> recorde de RJ -- mas e um angulo macro ja explorado recentemente pelo canal)
+- Identificacao com audiencia: 5/5 (gestao de divida e fluxo de caixa em cenario de juros altos e
+  a dor mais direta de qualquer dono de PME)
+TOTAL: 24/35
+Status: runner-up
+
+CANDIDATO 4 -- Magazine Luiza fecha parceria com Mercado Livre, acao dispara ~17%
+Fato: Magalu anunciou que vai vender cerca de 27 mil produtos proprios (1P, incluindo KaBuM! e
+Epoca Cosmeticos) no marketplace do Mercado Livre. MGLU3 disparou 16,88% no dia do anuncio (02/09)
+e mais 2,96% no pregao seguinte. A empresa estima que 75% dos novos clientes virao da base do
+Mercado Livre.
+Fonte: Brazil Journal -- https://braziljournal.com/magalu-faz-parceria-com-o-mercado-livre-para-vender-seus-produtos/
+Fonte adicional: CNN Brasil (via Diario do Grande ABC) -- https://www.dgabc.com.br/Noticia/4344642/magazine-luiza-fecha-parceria-com-mercado-livre-para-vender-produtos-1p-no-marketplace
+Score de Repercussao:
+- Frescor: 1/5 (fato de 02/09, ja com quase uma semana -- repercussao mais forte ja passou)
+- Relevancia do protagonista: 5/5 (Magazine Luiza e Mercado Livre estao entre as marcas de
+  varejo/e-commerce mais reconhecidas do Brasil)
+- Gravidade: 3/5 (movimento estrategico relevante e forte reacao de mercado, mas nao e uma crise)
+- Polemica adjacente: 1/5 (sem carga politica ou de debate publico maior)
+- Volume de cobertura: 3/5 (bem coberto em imprensa de mercado/investidores -- Brazil Journal,
+  CNN Brasil, ADVFN, BPMoney -- mas pouco em portais generalistas)
+- Clareza do angulo explicativo: 4/5 (otimo gancho de gestao: concorrentes historicos que cooperam
+  quando a pressao de mercado supera a rivalidade -- facil de explicar em 2 min)
+- Identificacao com audiencia: 3/5 (menos direto que os demais, mas ha licao aplicavel sobre
+  avaliar parcerias estrategicas mesmo com concorrentes)
+TOTAL: 20/35
+Status: runner-up
+
+GUARDRAIL POLITICO: o vencedor do dia (greve dos bancarios) teve Polemica Adjacente baixa (2/5) --
+e uma negociacao salarial/sindical sem carga politico-eleitoral relevante, entao o guardrail nao
+precisa de ressalva reforcada hoje. Ainda assim, reforcando por padrao: o roteiro da Etapa 2 deve
+tratar exclusivamente do angulo de gestao/negocio (dependencia de canal bancario, planejamento de
+folha de pagamento e credito, licao de negociacao salarial) -- nunca comentar politica partidaria,
+nunca criticar governo/oposicao, nunca tomar posicao sobre o merito da greve ou do movimento
+sindical em si.
+
+CONCLUSAO DO DIA: a greve nacional dos bancarios da Caixa e do Banco do Brasil (Candidato 1,
+28/35) e a pauta com maior potencial de repercussao hoje -- fato em curso e se espalhando neste
+exato momento, protagonistas de reconhecimento nacional maximo, escalada para greve por tempo
+indeterminado marcada para depois de amanha, e uma licao de gestao muito direta e sentida na pele
+por qualquer dono de PME: dependencia excessiva de um unico canal bancario para operacoes do dia
+a dia. VENCEDOR DO DIA: Candidato 1.
