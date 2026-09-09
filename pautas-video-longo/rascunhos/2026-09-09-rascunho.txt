@@ -1,0 +1,150 @@
+RADAR DE REPERCUSSAO -- 2026-09-09 (quarta-feira)
+Etapa 1: Pesquisa e Pontuacao -- pauta para video explicativo longo (30s-2min)
+
+Checagem de repeticao: revisados os ultimos 10 dias corridos de PAUTAS VENCEDORAS publicadas em
+pautas-video-longo/saidas (30/08 a 08/09). Temas ja escolhidos como vencedores nesse periodo e
+evitados hoje: mercado de trabalho/desemprego (30/08), motoristas de app/greve 12/09 (31/08),
+PIB 2T26 (02/09), UE suspende carne (03/09), Banco Master/liquidacoes recorde (04/09), Azzas
+2154/Arezzo-SOMA (05/09), Trump/tarifa de carne Brasil-Argentina (06/09), greve dos bancarios
+Caixa e Banco do Brasil (08/09) -- este ultimo especialmente relevante hoje porque a greve
+nacional dos bancarios comeca oficialmente a 0h desta quinta (10/09), mas como ja foi o VENCEDOR
+de ontem, o tema fica de fora da disputa de hoje para nao repetir assunto/empresa dentro da
+janela de 10 dias. (Nos dias 01/09 e 07/09 nao houve pauta final em saidas/; os candidatos
+levantados nesses rascunhos -- Correios, recuperacao judicial recorde, Casas Bahia -- nunca
+chegaram a virar video, entao nao contam como repeticao de pauta ja feita, apenas como contexto.)
+
+CANDIDATO 1 -- Correios as vesperas de assembleia nacional decisiva: "ou negocia, ou paramos" a
+partir de amanha (10/09)
+Fato: A Campanha Salarial 2026/2027 dos Correios chegou a um impasse: a maioria dos sindicatos
+filiados a Findect rejeitou, em assembleias no fim de agosto, a proposta de reajuste de 0,87%
+(bem abaixo da inflacao) e outros pontos como mudancas no plano de saude. O calendario nacional
+de mobilizacao marcou o dia 10/09 (amanha) como "Dia de Assembleia Geral" em todo o pais: se ate
+la a direcao dos Correios nao apresentar uma proposta melhor, a categoria decide nessa assembleia
+deflagrar greve nacional a partir de 0h do dia 11/09. O pano de fundo e uma crise financeira
+severa da estatal: prejuizo acumulado de R$ 6 bilhoes, plano de fechar 1.000 agencias e demitir
+ate 15 mil funcionarios (PDV) ate 2027, e emprestimo de R$ 12 bilhoes junto a 5 bancos para
+cobrir caixa. Mediacao anterior no TST terminou sem acordo.
+Fonte: SINTECT-GO -- https://sintectgo.org.br/todos-a-luta-dia-10-e-dia-de-assembleia-geral-ou-negocia-ou-paramos/
+Fontes adicionais: FINDECT -- https://findect.org.br/trabalhadores-lotam-assembleias-preparam-greve-nacional/ ;
+ISTOE -- https://istoe.com.br/greve-correios-indicativo-paralisacao-setembro ;
+Gazeta do Povo (contexto financeiro) -- https://www.gazetadopovo.com.br/economia/correios-devem-fechar-mil-agencias-e-demitir-de-15-mil-funcionarios/
+Score de Repercussao:
+- Frescor: 4/5 (a assembleia geral decisiva e amanha, e a mobilizacao/pressao esta no pico hoje,
+  mas formalmente o fato ainda e um "indicativo" -- a greve em si so seria confirmada amanha)
+- Relevancia do protagonista: 5/5 (Correios e uma marca centenaria e onipresente, unico operador
+  postal universal do pais, reconhecida por qualquer brasileiro)
+- Gravidade: 4/5 (por tras do impasse salarial ha uma crise financeira grave -- prejuizo
+  bilionario, plano de fechar 1.000 agencias e demitir ate 15 mil -- mas a paralisacao efetiva
+  ainda depende da assembleia de amanha, entao nao e um fato consumado hoje)
+- Polemica adjacente: 3/5 (encosta no debate sobre gestao de estatais e reestruturacao do servico
+  publico -- tema sensivel, mas sem viés eleitoral direto no angulo do fato em si)
+- Volume de cobertura: 3/5 (forte cobertura de sindicatos regionais em quase todos os estados e
+  veiculos como ISTOE, Gazeta do Povo, CTB, Brasil de Fato -- mas ainda nao e manchete de capa dos
+  grandes portais generalistas)
+- Clareza do angulo explicativo: 4/5 (cadeia causa->efeito->licao direta: estatal em crise
+  financeira grave oferece reajuste abaixo da inflacao -> categoria rejeita e ameaca greve ->
+  risco real de atraso em entregas e correspondencias -> licao sobre gestao de crise e adaptacao
+  competitiva de uma empresa que perde espaco para logistica privada)
+- Identificacao com audiencia: 4/5 (qualquer PME que despacha produto via Correios -- muito comum
+  em e-commerce de pequeno porte -- sente na pele o risco de atraso; a licao sobre "empresa que
+  nao se adapta e perde competitividade" e universal para quem gerencia negocio)
+TOTAL: 27/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Producao de veiculos tem o melhor agosto desde 2013, mas vendas caem
+Fato: A Anfavea divulgou nesta terca (08/09) que a producao de veiculos cresceu 9,4% em agosto
+ante agosto de 2025, para 271,2 mil unidades -- o melhor agosto desde 2013, puxado por
+exportacoes e producao para estoque. No acumulado do ano (jan-ago), a producao soma 1,90 milhao
+de unidades (+8,5%). Ja as vendas no mercado interno caeram 1,6% em agosto ante agosto de 2025,
+para 275,1 mil unidades, mesmo com o acumulado do ano ainda positivo (+18,4%). Veiculos
+eletrificados atingiram 24,4% de participacao nas vendas.
+Fonte: Diario do Comercio -- https://diariodocomercio.com.br/economia/producao-veiculos-cresce-agosto-anfavea/
+Fonte adicional: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/producao-veiculos-brasil-anfa-vea-agosto-2026/
+Score de Repercussao:
+- Frescor: 3/5 (dado divulgado ontem, 08/09, ainda recente mas nao e fato de hoje)
+- Relevancia do protagonista: 3/5 (nao ha uma marca unica -- e o setor automotivo como um todo,
+  representado pela Anfavea)
+- Gravidade: 2/5 (e um recorde setorial positivo, mas e dado de rotina mensal, nao um evento
+  disruptivo)
+- Polemica adjacente: 1/5 (sem carga politica ou de debate publico maior)
+- Volume de cobertura: 3/5 (replicado em varios portais economicos e regionais)
+- Clareza do angulo explicativo: 3/5 (producao sobe puxada por exportacao/estoque enquanto venda
+  interna cai -- angulo interessante sobre gestao de estoque e ler o mercado real vs. producao,
+  mas exige mais contexto tecnico para explicar em pouco tempo)
+- Identificacao com audiencia: 2/5 (relevante sobretudo para quem esta no setor automotivo ou
+  cadeia de fornecedores -- menos direto para a maioria das PMEs de servicos/comercio)
+TOTAL: 17/35
+Status: runner-up
+
+CANDIDATO 3 -- Agronegocio brasileiro bate recorde de exportacao no semestre (US$ 87 bi), soja
+renova maximo para agosto
+Fato: As exportacoes do agronegocio brasileiro somaram recorde de US$ 87 bilhoes no primeiro
+semestre de 2026, puxadas por carnes (bovina +15%), soja e algodao. Na parcial do ano (jan-ago),
+o Brasil exportou 89,86 milhoes de toneladas de soja em grao, recorde para o periodo, com o preco
+da commodity em dolar no maior patamar desde agosto de 2023. A China segue como principal
+destino, respondendo por 35,1% das exportacoes do setor (US$ 30,5 bi, +10,5%).
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/agro/agro-bate-recorde-de-exportacao-no-semestre-impulsionado-por-carnes-e-soja/
+Fonte adicional: Farmnews -- https://farmnews.com.br/mercado/exportacao-de-soja-renova-recorde-para-agosto-em-2026/
+Score de Repercussao:
+- Frescor: 2/5 (dado consolidado do semestre/acumulado do ano, divulgado ao longo da semana, nao
+  e um fato pontual de hoje)
+- Relevancia do protagonista: 2/5 (nao ha uma empresa ou marca especifica -- e um setor inteiro)
+- Gravidade: 3/5 (recorde historico e significativo por si so)
+- Polemica adjacente: 2/5 (leve conexao com o tarifaco Brasil-EUA e a disputa por mercados como a
+  China, mas conexao fraca -- o pipeline ja cobriu tarifa de carne em 06/09)
+- Volume de cobertura: 3/5 (bem coberto em veiculos especializados em agro e economia, mas pouco
+  em portais generalistas de grande publico)
+- Clareza do angulo explicativo: 3/5 (cambio favoravel + demanda da China -> recorde de
+  exportacao -> licao sobre diversificar mercado e nao depender de um unico comprador -- mas e um
+  angulo mais macro e distante do publico principal do canal)
+- Identificacao com audiencia: 2/5 (publico do canal e majoritariamente PME urbana de servicos e
+  comercio -- agro e relevante, mas menos identificavel no dia a dia de quem nao esta no setor)
+TOTAL: 17/35
+Status: runner-up
+
+CANDIDATO 4 -- Braskem fecha a maior recuperacao extrajudicial da historia do Brasil (US$ 10,9 bi)
+Fato: O conselho da Braskem aprovou em 24/08 e protocolou em 28/08 um pedido de recuperacao
+extrajudicial para renegociar cerca de US$ 10,9 bilhoes (~R$ 56 bi) em dividas financeiras sem
+garantia -- a maior operacao desse tipo ja registrada no pais. A empresa tem ate 90 dias para
+apresentar o plano final, que precisa de aprovacao de mais de 50% dos credores para ser
+homologado. O pedido tem escopo estritamente financeiro: fornecedores, clientes e operacoes
+seguem funcionando normalmente. A Fitch rebaixou o rating da empresa para "RD" (default
+restrito) apos a companhia deixar de pagar juros de dividas dentro do prazo.
+Fonte: Exame -- https://exame.com/invest/mercados/conselho-da-braskem-aprova-pedido-de-recuperacao-extrajudicial-para-divida-de-us-109-bi/
+Fonte adicional: Brazil Journal -- https://braziljournal.com/breaking-braskem-entra-em-recuperacao-extrajudicial-e-ganha-90-dias-contra-uma-rj/
+Score de Repercussao:
+- Frescor: 1/5 (fato de 24-28/08, ja com quase duas semanas -- a repercussao mais forte ja passou)
+- Relevancia do protagonista: 4/5 (Braskem e a maior petroquimica da America Latina, mas e mais
+  conhecida por quem acompanha o setor industrial do que pelo publico em geral)
+- Gravidade: 5/5 (a maior recuperacao extrajudicial da historia do Brasil, ~R$ 56 bi em divida)
+- Polemica adjacente: 2/5 (envolve os controladores Novonor -- ex-Odebrecht -- e Petrobras, mas o
+  angulo do fato em si nao e politico)
+- Volume de cobertura: 3/5 (bem coberto pela imprensa de mercado e investidores -- Exame, Brazil
+  Journal, XP, ADVFN -- mas pouco nos portais generalistas de grande publico)
+- Clareza do angulo explicativo: 3/5 (divida em dolar + queda no preco do petroquimico +
+  alavancagem excessiva -> maior recuperacao extrajudicial do pais -> licao sobre risco de
+  endividamento em moeda estrangeira, mas e um tema mais tecnico para explicar em 2 minutos)
+- Identificacao com audiencia: 2/5 (empresa industrial gigante, distante da realidade operacional
+  da PME, ainda que a licao sobre gestao de divida seja universal)
+TOTAL: 20/35
+Status: runner-up
+
+GUARDRAIL POLITICO: o vencedor do dia (Correios) teve Polemica Adjacente moderada (3/5) -- o tema
+encosta no debate sobre gestao de estatais e reestruturacao do servico publico, mas sem carga
+politico-eleitoral direta no fato em si (nao ha crise de governo ou embate partidario explicito
+no episodio). Mesmo assim, por padrao do canal: o roteiro da Etapa 2 deve tratar exclusivamente
+do angulo de gestao/negocio -- crise financeira de uma empresa que perde competitividade,
+negociacao salarial em cenario de caixa apertado, e o efeito pratico sobre PMEs que dependem da
+logistica dos Correios -- nunca comentar politica partidaria, nunca criticar governo/oposicao,
+nunca tomar posicao sobre o merito da greve ou do movimento sindical em si, e nunca opinar sobre
+quem indicou a atual diretoria da estatal.
+
+CONCLUSAO DO DIA: nenhum fato isolado de hoje teve a forca do "fato consumado" que caracterizou
+pautas recentes (a greve dos bancarios, por exemplo, ja tem agencias fechadas e greve escalando
+desde a semana passada). O tema com maior potencial de repercussao hoje e o impasse dos Correios
+(Candidato 1, 27/35): a estatal chega a vespera de uma assembleia nacional decisiva marcada para
+amanha (10/09) -- "ou negocia, ou paramos" -- com uma crise financeira grave de pano de fundo
+(prejuizo de R$ 6 bi, plano de fechar 1.000 agencias e demitir ate 15 mil). E um protagonista de
+reconhecimento maximo, um angulo de gestao claro (empresa que nao se adapta perde espaco para a
+concorrencia privada) e identificacao direta com qualquer PME que despacha produto pelos
+Correios. VENCEDOR DO DIA: Candidato 1.
