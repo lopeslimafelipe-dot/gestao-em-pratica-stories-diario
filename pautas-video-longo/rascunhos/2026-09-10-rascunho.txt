@@ -1,0 +1,125 @@
+RADAR DE REPERCUSSAO -- 2026-09-10 (quinta-feira)
+Etapa 1: Pesquisa e Pontuacao -- pauta para video explicativo longo (30s-2min)
+
+Checagem de repeticao: revisados os ultimos 10 dias corridos de PAUTAS VENCEDORAS publicadas em
+pautas-video-longo/saidas (31/08 a 09/09). Temas ja escolhidos como vencedores nesse periodo e
+EXCLUIDOS hoje mesmo que ainda estejam bombando: motoristas de app/greve 12/09 (31/08), PIB 2T26
+(02/09), UE suspende carne (03/09), Banco Master/liquidacoes recorde (04/09), Azzas 2154/Arezzo-
+SOMA (05/09), Trump/tarifa de carne Brasil-Argentina (06/09), greve dos bancarios Caixa e Banco do
+Brasil (08/09), Correios -- vesperas de assembleia decisiva (09/09).
+
+Duas exclusoes relevantes hoje por causa dessa janela de 10 dias:
+1) CORREIOS: a assembleia de ontem realmente resultou em greve nacional, com paralisacao
+   confirmada em pelo menos 9 estados a partir da meia-noite de hoje (fontes: Sind-REDE/BH --
+   https://sindrede.org.br/greve-nacional-dos-correios-comeca-em-sete-estados-e-pode-se-ampliar-nos-proximos-dias/
+   ; CNN Brasil -- https://www.cnnbrasil.com.br/nacional/brasil/trabalhadores-dos-correios-entram-em-greve-em-9-estados/).
+   Seria, de longe, o fato mais forte do dia (fato consumado, marca de reconhecimento maximo,
+   efeito pratico direto sobre PME que despacha produto) -- mas e a MESMA empresa/assunto que foi
+   VENCEDOR ontem (09/09), entao fica fora da disputa hoje para nao repetir.
+2) BANCO MASTER: a CVM multou Daniel Vorcaro em R$ 20 milhoes e o Banco Master em R$ 12,5 milhoes
+   por fraude num fundo imobiliario (Brazil Realty), decisao divulgada em 09/09 (fonte: Portal
+   Gilberto Silva -- https://portalgilbertosilva.com.br/09/09/2026/cvm-multa-vorcaro-em-r-20-milhoes-por-fraude-em-fundo-imobiliario/).
+   E um desdobramento novo, mas e a mesma empresa/escandalo que foi VENCEDOR em 04/09 -- tambem
+   fica fora por repeticao.
+Ambos os casos seguem a logica ja registrada no rascunho de 09/09: excluir por repeticao de
+empresa/assunto, nao por falta de forca.
+
+CANDIDATO 1 -- Ranking Forbes dos bilionarios do varejo: Havan lidera enquanto Magazine Luiza tem
+o pior trimestre da historia e Casas Bahia segue em recuperacao judicial
+Fato: A Forbes Brasil divulgou (08/09) o ranking dos bilionarios do varejo nacional: Luciano Hang,
+dono da Havan, lidera com fortuna estimada em R$ 11,9 bilhoes -- a frente de Michael Klein (grupo
+Casas Bahia, que pediu recuperacao judicial em agosto com divida de R$ 17,3 bilhoes e fechou quase
+300 lojas), Flavio Rocha (Riachuelo/Guararapes) e Fernando Trajano (Magazine Luiza). No mesmo
+periodo, a Magazine Luiza (MGLU3) reportou prejuizo liquido de R$ 72,5 milhoes no 2o trimestre de
+2026 -- quase 3x maior que a perda do mesmo periodo de 2025 (R$ 24,4 milhoes) e o pior resultado
+trimestral da historia da varejista, com vendas totais recuando 5,1% e o e-commerce caindo 11,9%.
+Enquanto isso, a Havan segue em expansao fisica agressiva, inclusive erguendo uma megaestrutura em
+um condominio de alto padrao. Ou seja: no mesmo ranking e no mesmo momento, tres grandes nomes do
+varejo brasileiro mostram tres trajetorias opostas -- expansao agressiva, prejuizo recorde e
+recuperacao judicial.
+Fonte: ND+ (ranking Forbes) -- https://ndmais.com.br/economia/luciano-hang-lidera-lista-bilionarios-varejo-forbes-2026/
+Fontes adicionais: Money Times (prejuizo Magalu 2T26) -- https://www.moneytimes.com.br/magazine-luiza-mglu3-tem-prejuizo-de-r-725-milhoes-no-2t26-estamos-fazendo-tudo-para-voltar-a-dar-lucro-sem-depender-dos-juros-diz-cfo-lmrs/ ;
+Diario de Pernambuco (contraste Havan x Magalu) -- https://diariodepernambuco.com.br/dptrends/enquanto-dono-da-havan-constroi-imperio-magazine-luiza-toma-prejuizo-de-r-72-milhoes/
+Score de Repercussao:
+- Frescor: 2/5 (o ranking saiu ha 2 dias, e o resultado trimestral do Magalu ja e de algumas
+  semanas atras -- nao e fato de hoje, mas o contraste ainda esta sendo comentado agora)
+- Relevancia do protagonista: 4/5 (Havan e Magazine Luiza sao marcas de reconhecimento nacional
+  fortissimo no varejo popular)
+- Gravidade: 3/5 (nao e um evento disruptivo isolado, mas expoe uma divergencia de resultado e de
+  estrategia muito grande entre concorrentes diretos do mesmo setor)
+- Polemica adjacente: 1/5 (sem carga politica ou eleitoral)
+- Volume de cobertura: 2/5 (replicado em varios portais de varejo/negocios, mas nao e manchete de
+  capa dos grandes portais generalistas)
+- Clareza do angulo explicativo: 4/5 (contraste direto e didatico -- 3 estrategias, 3 resultados:
+  expansao agressiva sem divida excessiva x prejuizo recorde x recuperacao judicial -- facil de
+  visualizar em pouco tempo)
+- Identificacao com audiencia: 4/5 (qualquer dono de loja/comercio se identifica com o dilema
+  "expandir, segurar ou frear" num cenario de juro alto e consumo fraco)
+TOTAL: 20/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Uber corta 10% da forca de trabalho global para eliminar camadas hierarquicas
+Fato: A Uber anunciou em 02/09 o corte de cerca de 3.300 postos de trabalho corporativos (10% do
+quadro global, que era de ~34 mil funcionarios) como parte de uma reestruturacao para eliminar
+niveis hierarquicos, consolidar equipes e redefinir a estrategia de localizacao global. A empresa
+reduziu em 20% o numero de funcionarios sete ou mais niveis abaixo do CEO e cortou quase 50% das
+"microequipes" de gerentes. E o maior corte da Uber desde a pandemia (quando eliminou ~25% do
+quadro em 2020), num momento em que as acoes da empresa caem quase 8% no ano em meio ao temor de
+concorrencia de carros autonomos (Waymo).
+Fonte: Diario do Comercio -- https://diariodocomercio.com.br/negocios/uber-demite-equipe-custos/
+Fonte adicional: IHU -- https://www.ihu.unisinos.br/670496-a-uber-anunciou-a-demissao-de-10-de-sua-forca-de-trabalho-global-cerca-de-3-300-funcionarios
+Score de Repercussao:
+- Frescor: 1/5 (anuncio de 02/09, ja com mais de uma semana)
+- Relevancia do protagonista: 4/5 (Uber e marca globalmente reconhecida, inclusive por quem nao
+  acompanha o setor de tecnologia)
+- Gravidade: 3/5 (maior corte da empresa desde a pandemia, mas e um evento pontual de uma unica
+  empresa, nao um movimento setorial mais amplo)
+- Polemica adjacente: 1/5 (sem carga politica direta, ainda que toque no debate mais amplo sobre
+  IA substituindo empregos)
+- Volume de cobertura: 3/5 (bem coberto por veiculos de economia e tecnologia no Brasil e no
+  exterior)
+- Clareza do angulo explicativo: 4/5 (empresa acha que cresceu gerencialmente inchada, enxuga
+  camadas de chefia para ganhar velocidade -- licao direta sobre estrutura organizacional enxuta)
+- Identificacao com audiencia: 2/5 (e um caso de gigante multinacional, mais distante da realidade
+  operacional imediata da PME, ainda que a licao sobre excesso de camadas de gestao seja util)
+TOTAL: 18/35
+Status: runner-up
+
+CANDIDATO 3 -- Confianca do consumidor paulistano recua em setembro, aponta FecomercioSP
+Fato: A FecomercioSP divulgou que o Indice de Confianca do Consumidor (ICC) na capital paulista
+caiu 1,5% em setembro ante agosto, e 10,6% na comparacao com setembro de 2025, chegando a 110,2
+pontos. O subindice que mais pesou foi o de Condicoes Atuais (ICEA), que recuou 2,1% no mes (a
+105,8 pontos) e 9,3% no ano. A entidade associa o resultado a desaceleracao do ritmo de
+crescimento da economia e ao aumento da percepcao de risco ligado a tensoes comerciais e
+geopoliticas internacionais, que limitam a recuperacao domestica.
+Fonte: FecomercioSP -- https://www.fecomercio.com.br/public/noticia/confianca-do-consumidor-recua-em-setembro-e-ultimo-trimestre-do-ano-deve-ter-ritmo-mais-moderado-no-comercio
+Score de Repercussao:
+- Frescor: 4/5 (pesquisa divulgada agora em setembro, dado bem recente)
+- Relevancia do protagonista: 1/5 (nao ha uma empresa ou marca especifica -- e um indicador
+  agregado de confianca do consumidor)
+- Gravidade: 2/5 (e um dado de pesquisa mensal de rotina, nao um evento disruptivo)
+- Polemica adjacente: 2/5 (encosta de leve no debate sobre desaceleracao economica e tensoes
+  comerciais internacionais, mas sem carga eleitoral direta)
+- Volume de cobertura: 2/5 (repercute principalmente em veiculos de economia, pouco nos portais
+  generalistas de grande publico)
+- Clareza do angulo explicativo: 3/5 (juro alto + cenario externo tenso -> consumidor mais
+  cauteloso -> licao sobre gerir estoque/expectativa de venda num trimestre mais fraco -- mas e um
+  angulo mais abstrato, sem um fato concreto e visual para ancorar o video)
+- Identificacao com audiencia: 4/5 (qualquer comerciante sente na pele quando o consumidor fica
+  mais retraido, e o 4o trimestre -- reta final do ano -- e critico para o varejo)
+TOTAL: 18/35
+Status: runner-up
+
+CONCLUSAO DO DIA: hoje foi um dia fraco em termos de fato NOVO e isolado -- o assunto que de fato
+esta bombando (a greve nacional dos Correios, que comecou hoje em pelo menos 9 estados) fica de
+fora da disputa por ja ter sido o VENCEDOR de ontem, e o desdobramento do caso Banco Master (multa
+da CVM a Vorcaro) tambem fica de fora pelo mesmo motivo. Entre os candidatos que sobraram, nenhum
+tem a forca de um fato consumado e isolado -- sao, na maioria, desdobramentos de dados ja
+conhecidos ha dias ou semanas. Mesmo assim, o Candidato 1 (ranking Forbes do varejo, contrastando
+Havan, Magazine Luiza e Casas Bahia) passa do piso de qualidade minima por oferecer um angulo de
+gestao claro, didatico e com forte identificacao para o publico do canal (donos de comercio/PME),
+mesmo com frescor e gravidade apenas medianos. VENCEDOR DO DIA: Candidato 1 (20/35).
+
+GUARDRAIL POLITICO: nao se aplica com peso relevante hoje -- o vencedor (Candidato 1) teve
+Polemica Adjacente baixa (1/5) e nao ha necessidade de alerta especial para o roteiro alem do
+padrao do canal (focar sempre em gestao/negocio, nunca em politica partidaria).
