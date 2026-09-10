@@ -1,0 +1,39 @@
+ROTEIRO 1 — OpenAI abre seu primeiro escritório na América Latina — e aposta no pequeno empreendedor
+"A OpenAI acabou de abrir seu primeiro escritório oficial fora dos Estados Unidos aqui nas Américas — e escolheu o Brasil. Segundo o Poder360, dentro do pacote de parcerias tem um 🟡`programa chamado Estímulo, de capacitação gratuita em IA pra micro e pequeno empreendedor`🟡. O Brasil já manda cerca de 🟡`215 milhões de mensagens por dia pro ChatGPT`🟡 — um dos maiores mercados do mundo. Tem também um estudo, encomendado pela própria OpenAI, prevendo 🟡`quase R$1 trilhão a mais no PIB até 2030`🟡. Uma empresa que vale centenas de bilhões olhou pro Brasil e apostou até no pequeno negócio — você já percebeu que essa aposta é em você?"
+Fonte: Poder360 — https://www.poder360.com.br/poder-tech/openai-inicia-operacao-no-brasil-e-anuncia-parcerias/
+
+============================================================
+
+ROTEIRO 2 — Depois de 45 anos só de caminhão, a Volkswagen entra no mercado de vans de mãos dadas com uma chinesa
+"Depois de 45 anos fabricando caminhão e ônibus no Brasil, a Volkswagen Caminhões e Ônibus decidiu entrar num mercado que nunca tinha disputado: vans. Segundo a Exame, a VWCO vai investir 🟡`R$300 milhões`🟡 nisso — sem desenvolver produto do zero. Pegou pronta a plataforma Maxus Deliver da chinesa SAIC Motor e adaptou pro Brasil, com cerca de 🟡`250 modificações`🟡. A meta é 🟡`20% desse mercado, projeção da própria empresa, ainda não testada`🟡 — primeiros veículos chegam só em 2027. Às vezes a entrada mais esperta num mercado novo não é criar do zero — é adaptar rápido o que já funciona em outro lugar."
+Fonte: Exame — https://exame.com/negocios/volkswagen-caminhoes-e-onibus-investira-r-300-milhoes-em-novo-segmento-no-brasil/
+
+============================================================
+
+ROTEIRO 3 — Indústria melhora um pouco, mas segue pessimista há 20 meses
+"Faz alguns dias eu trouxe o dado de produção industrial de julho, resultado positivo mas com o IBGE pedindo cautela. Hoje é outro termômetro: a confiança declarada do próprio empresário. Segundo a CNI, 🟡`o ICEI subiu 1,9 ponto em agosto, de 44,4 para 46,3`🟡 — mas 🟡`segue abaixo dos 50 pontos, linha que separa otimismo de pessimismo, pelo 20º mês seguido`🟡. Melhorar um pouco depois de quase 2 anos ruins não é a mesma coisa que voltar a confiar. 🟡`Às vezes o dado mais importante não é se a linha subiu no mês — é há quantos meses seguidos ela ainda está do lado errado da média`🟡."
+Fonte: Agência de Notícias da Indústria (CNI) — https://noticias.portaldaindustria.com.br/noticias/economia/falta-de-confianca-chega-a-25-setores-industriais-em-agosto-mostra-cni/
+
+============================================================
+
+ROTEIRO 4 — A partir de outubro, nota fiscal de serviço sem IBS e CBS vira documento fora de conformidade
+"Semana passada eu falei de quem emite a nota fiscal de serviço pro Simples. Hoje é sobre o que precisa estar dentro dela. 🟡`A partir de 1º de outubro, pro regime normal, e 1º de dezembro pras plataformas digitais, TI e afins`🟡, a nota sem os campos de IBS e CBS destacados 🟡`não é rejeitada pelo sistema — mas passa a ser considerada em desconformidade fiscal`🟡. 🟡`Não tem cobrança de imposto novo em 2026, mas já tem cobrança de disciplina`🟡. Quem não ajustar o sistema a tempo só descobre o problema na fiscalização — e aí já é tarde."
+Fonte: Portal da NFS-e (Gov.br/CGNFS-e) — https://www.gov.br/nfse/pt-br/noticias/cgnfs-e-orienta-sobre-os-prazos-para%20destaque-de-ibs-cbs-nas-notas-fiscais-de-servico
+
+============================================================
+
+ROTEIRO 5 — Enquanto grande empresa trata parceria como exceção, quase todo empreendedor americano já fez uma
+"Uma pesquisa da EY, encomendada pela própria consultoria, ouviu 500 empreendedores americanos de porte médio e achou isso: 🟡`97% deles fizeram pelo menos uma parceria estratégica em 2025 ou 2026`🟡. Entre CEOs de empresa grande, 🟡`só 11% fizeram o mesmo no mesmo período`🟡. Crescimento já é prioridade número 1 pra esses empreendedores, à frente até de resiliência financeira. 🟡`Não é a empresa grande que está inovando em como crescer — é quem tem menos recurso e precisa ser mais esperto com ele`🟡. Sua empresa ainda trata parceria como plano B, ou já virou plano A?"
+Fonte: EY (EY US Newsroom) — https://www.ey.com/en_us/newsroom/2026/07/ey-survey-nearly-half-of-us-entrepreneurs-are-prioritizing-growth-embracing-a-new-playbook-for-uncertainty
+
+============================================================
+
+ROTEIRO 6 — O Fórum Econômico Mundial avisa: não corte a vaga de estagiário só porque a IA faz o trabalho dele
+"Há alguns dias eu trouxe um dado da HBR: quase 1 em cada 4 empresa já bota agente de IA formalmente no organograma. Hoje o Fórum Econômico Mundial mostra o outro lado dessa mesma tensão. Segundo o WEF, em parceria com a PwC — que também vende consultoria de RH —, 🟡`mais de 1 em cada 3 jovens trabalhadores no mundo já está numa função sendo mudada por dentro pela IA`🟡. A recomendação não foi 'prepare-se pra ter menos estagiário' — foi o contrário: 🟡`cortar vaga de entrada agora achando que está economizando estraga a fábrica de gestor sênior que sua própria empresa vai precisar depois`🟡."
+Fonte: World Economic Forum — https://www.weforum.org/publications/artificial-intelligence-and-the-future-of-entry-level-work-a-framework-for-safeguarding-and-reinventing-early-career-pathways/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] "Sua contabilidade já te avisou sobre o novo campo obrigatório de IBS/CBS na nota fiscal? Sim / Ainda não"
+2. [Pergunta/Participação, Roteiro 2] "Você já 'pegou pronto e adaptou' em vez de criar do zero no seu negócio? Conta aqui como foi."
+3. [Virar História, Roteiro 5 -> Comparativo] O contraste 97% dos empreendedores vs 11% dos CEOs de grande empresa rende um Comparativo lado a lado — o número pequeno de um lado, o grande do outro, reforça visualmente quem está realmente inovando em crescimento.
