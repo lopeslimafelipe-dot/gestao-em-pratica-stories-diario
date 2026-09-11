@@ -1,0 +1,175 @@
+RADAR DE REPERCUSSAO -- 2026-09-11 (sexta-feira)
+Etapa 1: Pesquisa e Pontuacao -- pauta para video explicativo longo (30s-2min)
+
+Checagem de repeticao: revisados os ultimos 10 dias corridos de PAUTAS VENCEDORAS publicadas em
+pautas-video-longo/saidas (01/09 a 10/09). Temas ja escolhidos como vencedores nesse periodo e
+EXCLUIDOS hoje mesmo que ainda estejam bombando: PIB 2T26 (02/09), UE suspende carne (03/09),
+Banco Master/liquidacoes recorde (04/09), Azzas 2154/Arezzo-SOMA (05/09), Trump/tarifa de carne
+Brasil-Argentina (06/09), greve dos bancarios Caixa e Banco do Brasil (08/09), Correios --
+assembleia geral/inicio da greve nacional (09/09), ranking Forbes bilionarios do varejo
+Havan/Magalu/Casas Bahia (10/09).
+
+Nota sobre a greve dos Correios: a paralisacao nacional realmente comecou hoje (confirmada em
+varios estados desde a meia-noite), o que a tornaria, isoladamente, o fato mais forte do dia --
+mas segue fora da disputa por ter sido o VENCEDOR de anteontem (09/09), dentro da janela de 10
+dias.
+
+Nota sobre Candidato 3 (recuperacao judicial): o tema toca de raspao no mesmo pano de fundo do
+vencedor de ontem (Casas Bahia citada no ranking Forbes), mas o angulo aqui e outro -- e um
+indicador agregado nacional (recorde de empresas em RJ), nao a mesma noticia -- por isso nao foi
+tratado como repeticao, apenas registrado como ponto de atencao.
+
+CANDIDATO 1 -- Petroleo dispara com guerra no Oriente Medio e governo amplia subsidio a diesel e
+gasolina para conter repasse ao consumidor
+Fato: A escalada de ataques a petroleiros e a instalacoes no Golfo/Estreito de Ormuz (EUA x Ira,
+houthis atacando ativos sauditas) levou o petroleo Brent de volta a casa dos US$ 100-101/barril
+nesta semana (alta de mais de 3% em um unico pregao, dia 09/09) -- maior patamar em semanas -- com
+o Goldman Sachs alertando que o barril pode chegar a US$ 120 se os ataques se intensificarem. Em
+resposta, o governo brasileiro anunciou nesta quinta-feira (10/09) um pacote de contencao: subsidio
+inicial de R$ 1,00 por litro de diesel e reducao de PIS/Cofins na gasolina em R$ 0,63/litro (e
+zeragem temporaria de tributos federais no etanol hidratado, -R$ 0,19/litro) -- impacto fiscal
+estimado em R$ 7 bilhoes/mes (R$ 5 bi em subvencao ao diesel, R$ 2 bi em desoneracao de gasolina e
+etanol). A propria Petrobras confirmou que nao havera reajuste na gasolina para as distribuidoras.
+Mesmo com a contencao, desde fevereiro a gasolina no Brasil ja acumula alta de 3,3% e o diesel de
+7,3% -- bem abaixo da media global (20,8% e 30%, respectivamente), mas em direcao de alta.
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/subsidios-gasolina-e-ao-diesel-sao-ampliados-apos-alta-do-petroleo
+Fontes adicionais: Agencia Brasil (impacto fiscal R$ 7 bi) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/novas-medidas-para-combustiveis-terao-impacto-de-r-7-bilhoes-por-mes ;
+Suno (alerta Goldman Sachs sobre Ormuz) -- https://www.suno.com.br/noticias/goldman-sachs-petroleo-brent-120-estreito-ormuz-setembro-2026-go/ ;
+ClimaInfo (petroleo supera US$ 100) -- https://climainfo.org.br/2026/09/09/petroleo-volta-a-superar-us-100-com-novos-ataques-no-oriente-medio/ ;
+replicado tambem em Imirante, Tribuna do Sertao, Perfil News, A Onca, Acessa, Jornale, Mais Minas,
+ABCD News, Site da Serra, Portal Bella FM e Jornal Aurora (mesma nota da Agencia Brasil).
+Score de Repercussao:
+- Frescor: 4/5 (escalada e alta do petroleo em 09/09, pacote do governo anunciado em 10/09 --
+  fato bem recente, ainda em desenvolvimento)
+- Relevancia do protagonista: 3/5 (nao ha uma unica marca -- envolve petroleo/Petrobras/governo --
+  mas Petrobras e o proprio combustivel sao referencia de reconhecimento nacional imediato)
+- Gravidade: 4/5 (pacote fiscal de R$ 7 bi/mes em resposta a um choque internacional de precos,
+  medida excepcional, nao rotina)
+- Polemica adjacente: 3/5 (encosta na guerra no Oriente Medio -- tema de grande repercussao
+  internacional -- e na politica de subsidios do governo, mas sem vinculo direto com a disputa
+  eleitoral domestica; e mais tensao geopolitica global do que polarizacao politica brasileira)
+- Volume de cobertura: 5/5 (a mesma nota da Agencia Brasil foi replicada em dezenas de portais
+  regionais e nacionais simultaneamente -- volume de cobertura muito alto)
+- Clareza do angulo explicativo: 4/5 (guerra sobe o preco do petroleo -> governo subsidia para
+  segurar o repasse -> efeito direto no custo de frete/logistica de qualquer negocio -> licao
+  sobre gestao de custo variável, precificacao e cenario de instabilidade de insumo importado)
+- Identificacao com audiencia: 5/5 (qualquer PME que despacha mercadoria, usa entrega propria ou
+  depende de frete sente na pele o custo de combustivel -- e um dos itens de custo mais sensiveis
+  do dia a dia de quem tem negocio fisico ou logistica propria)
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Lula sanciona fim definitivo da "taxa das blusinhas": importacao de ate US$ 50 fica
+com Imposto de Importacao zerado, a 24 dias da eleicao
+Fato: Nesta quinta-feira (10/09), o presidente Lula sancionou o PLV 13/2026, convertendo em lei
+permanente a Medida Provisoria que zerou o Imposto de Importacao de 20% sobre compras
+internacionais de ate US$ 50 feitas por sites certificados no programa Remessa Conforme (regra
+que ja vinha vigorando na pratica desde maio de 2026, mas dependia de aprovacao do Congresso ate
+22/09 para nao caducar e voltar a cobranca de 20%). A mudanca afeta diretamente compras em Shein,
+Shopee e AliExpress -- plataformas que concorrem de frente com o varejo fisico e o e-commerce
+nacional de pequeno porte. O ICMS estadual (17% a 20%, variando por estado) continua sendo
+cobrado normalmente. Diversos veiculos destacaram que a sancao ocorreu a 24 dias da eleicao
+presidencial, no mesmo dia em que pesquisas AtlasIntel e PoderData foram divulgadas.
+Fonte: TechTudo -- https://www.techtudo.com.br/guia/2026/09/lula-sanciona-fim-da-taxa-das-blusinhas-de-ate-us-50-veja-o-que-muda-edsoftwares.ghtml
+Fontes adicionais: Gazeta da Amazonia -- https://gazetadaamazonia.com.br/10/09/2026/taxa-das-blusinhas-isencao/ ;
+Jornal de Brasilia (contexto eleitoral) -- https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-assina-sancao-da-lei-do-fim-da-taxa-das-blusinhas-a-24-dias-da-eleicao/
+Score de Repercussao:
+- Frescor: 4/5 (sancao ocorreu ontem, 10/09)
+- Relevancia do protagonista: 4/5 (Shein, Shopee e AliExpress sao marcas de reconhecimento amplo
+  mesmo fora do setor de e-commerce)
+- Gravidade: 3/5 (e a confirmacao permanente de uma regra que ja vigorava na pratica desde maio --
+  significativo por tornar definitiva uma mudanca tributaria, mas o efeito pratico no dia a dia ja
+  vinha ocorrendo ha 4 meses, entao nao e um fato totalmente inedito)
+- Polemica adjacente: 5/5 (a propria cobertura jornalistica amarra o fato ao calendario eleitoral
+  -- "a 24 dias da eleicao" -- alem do debate mais amplo sobre protecao da industria/comercio
+  nacional versus concorrencia internacional barata)
+- Volume de cobertura: 3/5 (bem coberto por veiculos de tecnologia, tributario e alguns politicos,
+  mas menos replicado em massa do que o Candidato 1)
+- Clareza do angulo explicativo: 3/5 (importacao sem imposto federal -> preco final mais baixo em
+  plataformas estrangeiras -> pressao de concorrencia sobre lojista local -> licao sobre
+  diferenciacao e precificacao frente a concorrente sem a mesma carga tributaria -- mas exige
+  explicar o historico da MP para nao soar como noticia velha)
+- Identificacao com audiencia: 5/5 (concorrencia com Shein/Shopee/AliExpress e uma dor real e
+  constante para lojista de vestuario, utilidades e variedades -- tema classico de "como competir
+  com quem vende mais barato")
+TOTAL: 27/35
+Status: runner-up (ver GUARDRAIL POLITICO reforcado abaixo)
+
+CANDIDATO 3 -- Brasil bate recorde: quase 8 mil empresas em recuperacao judicial no 1o semestre de
+2026
+Fato: Levantamento da consultoria RGF Bizdoc, divulgado na primeira semana de setembro, mostrou que
+o Brasil fechou o 1o semestre de 2026 com 7.980 empresas em recuperacao judicial -- recorde da
+serie historica, alta de 8% frente a dezembro de 2025 e de 21,2% em 12 meses. Comercio, industria
+de transformacao e agronegocio sao os setores mais afetados (agro com alta de 66% no numero de
+pedidos). Entre os nomes conhecidos que entraram em RJ ou recuperacao extrajudicial em 2026 estao
+Casas Bahia, Marabraz, Tok&Stok, Mobly, St. Marche, Braskem, Raizen, Grupo Pao de Acucar e Habib's.
+Fonte: Revista Oeste -- https://revistaoeste.com/economia/brasil-chega-a-quase-8-mil-empresas-em-recuperacao-judicial/
+Fonte adicional: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/recuperacoes-judiciais-brasil-juros-dividas-empresas-crise/
+Score de Repercussao:
+- Frescor: 2/5 (levantamento divulgado ha cerca de uma semana, nao e fato de hoje)
+- Relevancia do protagonista: 3/5 (e um indicador agregado, mas cita varias marcas conhecidas do
+  varejo nacional)
+- Gravidade: 4/5 (recorde historico da serie, com alta expressiva em 12 meses)
+- Polemica adjacente: 2/5 (toca no debate sobre juro alto e credito seletivo, sem carga eleitoral
+  direta)
+- Volume de cobertura: 3/5 (replicado em varios portais de economia, mas nao e manchete de capa
+  generalista no dia de hoje)
+- Clareza do angulo explicativo: 3/5 (juro alto + credito seletivo + consumo fraco -> recorde de
+  empresas em RJ -> licao sobre gestao de caixa e alavancagem -- mas e um dado agregado, sem um
+  fato unico e visual para ancorar os primeiros segundos do video)
+- Identificacao com audiencia: 5/5 (o medo de "quebrar por divida" e universal entre donos de
+  PME, tema de gestao financeira central para o publico do canal)
+TOTAL: 22/35
+Status: runner-up
+
+CANDIDATO 4 -- IPCA-15 de agosto tem deflacao de 0,40%, melhor resultado em anos
+Fato: O IPCA-15 (previa oficial da inflacao) caiu 0,40% em agosto de 2026 -- resultado melhor que
+o esperado pelo mercado (projecao Reuters era de -0,30%) e a maior queda mensal em anos, puxada por
+Habitacao (-1,41%, com peso do desconto do bonus de Itaipu na conta de luz), Transportes (-1,00%,
+por passagens aereas e combustiveis) e Alimentacao (-0,57%, com quedas de tomate, batata, cenoura e
+cafe). No ano, o indice acumula alta de 3,09% e, em 12 meses, de 4,24% -- abaixo dos 4,52% do
+periodo anterior.
+Fonte: InfoMoney -- https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-agosto-2026/
+Fonte adicional: Poder360 -- https://www.poder360.com.br/poder-economia/ipca-15-tem-deflacao-de-040-em-agosto-2026/
+Score de Repercussao:
+- Frescor: 1/5 (divulgado em 26/08, ja com quase 2 semanas)
+- Relevancia do protagonista: 1/5 (indicador macro, sem empresa ou marca associada)
+- Gravidade: 3/5 (melhor resultado em anos, relevante para a trajetoria de juros, mas e dado de
+  rotina mensal)
+- Polemica adjacente: 2/5 (leve conexao com a trajetoria de queda de juros e o cenario eleitoral,
+  mas sem carga direta)
+- Volume de cobertura: 3/5 (bem coberto por veiculos de economia)
+- Clareza do angulo explicativo: 3/5 (queda de preco de insumos/energia -> alivio de custo -> pode
+  abrir espaco para corte de Selic -> licao sobre repasse de preco e planejamento financeiro --
+  angulo mais abstrato, dado macro sem fato concreto unico)
+- Identificacao com audiencia: 3/5 (todo mundo sente preco, mas o angulo de "indice de inflacao"
+  e mais distante do dia a dia operacional do que um fato concreto envolvendo uma empresa)
+TOTAL: 16/35
+Status: runner-up (fraco -- proximo do piso minimo de qualidade)
+
+GUARDRAIL POLITICO: hoje o guardrail pesa em DOIS candidatos, com intensidade diferente.
+No VENCEDOR (Candidato 1), o fator Polemica Adjacente teve peso moderado (3/5) por causa da guerra
+no Oriente Medio e da politica de subsidio do governo -- mas e um tema de tensao geopolitica
+internacional, sem vinculo direto com a eleicao brasileira. Ainda assim, o roteiro da Etapa 2 deve
+tratar exclusivamente do angulo pratico: petroleo mais caro por conflito internacional -> impacto
+no custo de combustivel/frete -> licao de gestao de custo variavel e precificacao -- nunca opinar
+sobre a guerra em si, nunca elogiar ou criticar a politica de subsidio do governo brasileiro, nunca
+comentar Lula, ministros ou qualquer ator politico nomeado nas fontes.
+Ja no Candidato 2 (runner-up), o fator Polemica Adjacente foi o mais alto do dia (5/5) justamente
+porque a propria imprensa amarrou o fato ao calendario eleitoral ("a 24 dias da eleicao"). Caso
+esse candidato venha a ser usado em outro dia (por exemplo, se o Candidato 1 for descartado na
+Etapa 2 por qualquer motivo), o roteiro NUNCA deve mencionar a eleicao, pesquisas eleitorais,
+Lula ou qualquer partido -- o angulo deve ficar estritamente em: importacao mais barata sem
+imposto federal -> pressao de concorrencia sobre o lojista local -> licao sobre diferenciacao e
+precificacao frente a concorrente internacional.
+
+CONCLUSAO DO DIA: o dia teve um concorrente forte e dois fatos de governo anunciados na mesma
+quinta-feira (10/09) -- o pacote de subsidio a combustiveis e a sancao do fim da taxa das
+blusinhas -- ambos com angulo de gestao solido e alta identificacao com o publico do canal. O
+Candidato 1 (petroleo e subsidio a combustiveis) leva a melhor por ter volume de cobertura muito
+superior (a mesma nota oficial replicada em dezenas de portais simultaneamente), por afetar um
+custo mais universal e mais sentido no dia a dia de qualquer PME com logistica (frete/combustivel
+pesa em quase qualquer negocio fisico, enquanto a concorrencia de importados pesa mais
+especificamente sobre varejo de vestuario/utilidades), e por ter um vinculo politico mais distante
+(guerra internacional) do que o Candidato 2 (explicitamente amarrado a eleicao pela propria
+imprensa, o que pede cautela redobrada). VENCEDOR DO DIA: Candidato 1 (28/35).
