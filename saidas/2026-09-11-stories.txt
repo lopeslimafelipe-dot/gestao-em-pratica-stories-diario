@@ -1,0 +1,45 @@
+ROTEIRO 1 — De 2 meses pra 5 dias: o case da M. Dias Branco com IA
+"Até pouco tempo atrás, uma fabricante de massas e biscoitos com mais de 10 bilhões de faturamento só descobria se cada produto dava lucro 🟡`dois meses depois de vendê-lo`🟡. A M. Dias Branco contou essa história num evento da própria fornecedora de tecnologia, a SAP, mas quem deu os números foi a diretora financeira da empresa: depois de trocar 120 sistemas antigos por um só, com IA analisando os dados, 🟡`esse prazo caiu pra cinco dias úteis`🟡. A pergunta que fica: seu negócio tem um atraso escondido desses — e quanto ele já te custou sem você perceber?"
+Fonte: ConvergenciaDigital — https://convergenciadigital.com.br/especial/sap/grupo-m-dias-branco-avanca-com-ia-para-se-tornar-uma-empresa-autonoma/
+
+===================================================================
+
+ROTEIRO 2 — O dono da Amil recusou R$17 bilhões pela própria empresa
+"Ontem, o dono da Amil, José Seripieri Filho, encerrou a negociação pra vender a operadora de saúde pros fundos Bain Capital e Advent, que 🟡`ofereciam até R$17 bilhões pela empresa inteira`🟡. Não foi sobre dinheiro: 🟡`ele queria manter uma fatia e continuar no comando, os fundos só toparam comprar 100%`🟡. A lição não é acerto ou erro na decisão dele — é que antes de sonhar em vender seu negócio, você precisa saber 🟡`o que está disposto a abrir mão: o dinheiro, ou o controle`🟡. Os dois raramente vêm juntos."
+Fonte: Poder360 — https://www.poder360.com.br/poder-economia/amil-encerra-negociacao-com-bain-e-advent/
+
+===================================================================
+
+ROTEIRO 3 — O setor de serviços parou de crescer, mas está a um passo do recorde histórico
+"O IBGE divulgou ontem que o setor de serviços no Brasil ficou parado em julho — 🟡`variação zero em relação a junho`🟡. Mas olha o detalhe: esse resultado está a 🟡`apenas 0,2% do maior volume já registrado na história da série`🟡, batido em outubro do ano passado. Ou seja, parou de crescer bem no topo, não numa crise. Se você vende serviço e está pensando em expandir agora, 🟡`esse platô é o sinal pra olhar dois números ao mesmo tempo: o ritmo que desacelerou e o patamar que segue recorde`🟡."
+Fonte: Agência Brasil — https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/setor-de-servicos-fica-estavel-em-julho-e-sobe-24-em-12-meses
+
+===================================================================
+
+ROTEIRO 4 — Deloitte: o buraco de 15 pontos entre discurso e prática em cibersegurança
+"Uma pesquisa da Deloitte com mais de mil líderes de negócio e tecnologia em 43 países achou um buraco de 15 pontos percentuais entre o discurso e a prática em cibersegurança: 🟡`85% dizem confiar na estratégia da própria empresa`🟡, mas 🟡`só cerca de 70% confiam que ela está de fato bem implementada na prática`🟡. Isso não é só sobre TI. 🟡`É sobre qualquer área do seu negócio onde você diz 'está tudo sob controle' sem nunca ter testado de verdade`🟡. Qual é o seu 15%?"
+Fonte: Deloitte Global — https://www.deloitte.com/global/en/about/press-room/deloitte-global-future-cyber-survey.html
+
+===================================================================
+
+ROTEIRO 5 — Jaguar Land Rover corta 1 em cada 10 empregos pra sobreviver às tarifas e à China
+"A Jaguar Land Rover, dona de duas marcas de luxo do grupo indiano Tata, anunciou o 🟡`corte de 4 mil empregos no mundo — 1 em cada 10 do quadro global`🟡 — 🟡`buscando 1,7 bilhão de libras em economia`🟡. Motivo: tarifas dos Estados Unidos, um ciberataque que parou a produção meses atrás, e a concorrência crescente das montadoras chinesas de elétricos. 🟡`Os cortes miram cargos administrativos, não fábrica`🟡, porque o dinheiro economizado vai virar investimento em eletrificação. Se uma marca desse tamanho está cortando estrutura pra proteger o futuro, seu negócio já tem um plano pro próximo choque externo?"
+Fonte: CNBC — https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html
+
+===================================================================
+
+ROTEIRO 6 — Sindicato pressiona rede sul-africana a recuar de fechar 280 lojas
+"Essa semana, o sindicato sul-africano Cosatu foi a público pressionar a rede de moda TFG a recuar do plano de 🟡`fechar 280 lojas na África nos próximos três anos`🟡. O motivo por trás do fechamento: enquanto 🟡`as vendas nas lojas físicas cresceram só 0,2%, o site da empresa cresceu 54% no mesmo período`🟡. 🟡`É o retrato do dilema que todo varejista tradicional enfrenta hoje: proteger a loja física custe o que custar, ou seguir o cliente pra onde ele já foi`🟡 — o online."
+Fonte: BusinessTech — https://businesstech.co.za/news/business/873425/major-retailer-in-south-africa-closing-280-stores/
+
+===================================================================
+
+ROTEIRO 7 — De açougue quase falido a fábrica de R$70 milhões: o case da Berna
+"A Berna começou como um açougue em São Paulo montado pela família Häfeli, e quase quebrou na hiperinflação dos anos 80 — a saída foi 🟡`vender a fazenda e hipotecar a própria casa pra manter a fábrica de pé`🟡. Hoje, na terceira geração da família, a empresa 🟡`projeta faturar 70 milhões de reais em 2026 com mais de 500 produtos`🟡. A lição não é sobre coragem: 🟡`é sobre o preço real que se paga pra atravessar um ciclo ruim até a gestão profissionalizar na geração seguinte`🟡."
+Fonte: Exame — https://exame.com/negocios/eles-comecaram-com-um-acougue-em-sp-quase-faliram-e-hoje-faturam-r-70-milhoes/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] Sua empresa já TESTOU de verdade a segurança que você acha que tem, ou só acredita que está tudo sob controle? Sim, já testei / Não, só acredito
+2. [Pergunta/Participação, Roteiro 7] Conta pra gente: qual foi o momento mais difícil que sua empresa já atravessou — e o que você teve que arriscar pra sobreviver a ele?
+3. [Virar História, Roteiro 6 -> Comparativo] O contraste "loja física +0,2%" vs "online +54%" rende um Comparativo lado a lado muito mais forte visualmente do que falado — o dado já é o choque, a tela só precisa deixar isso óbvio.
