@@ -1,0 +1,46 @@
+PAUTA DO DIA -- 2026-09-11
+Assunto: Petroleo dispara para US$ 101 com guerra no Oriente Medio e governo amplia subsidio a diesel e gasolina para conter repasse ao consumidor
+Score final: 28/35 (Frescor 4/5, Relevancia do protagonista 3/5, Gravidade 4/5, Polemica adjacente 3/5, Volume de cobertura 5/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: o petroleo Brent fechou em alta de 3,36% no dia 09/09/2026, a US$ 101,21 o barril (WTI a US$ 96,05, +3,25%), no maior patamar em semanas, em meio a escalada de ataques no Estreito de Ormuz (EUA x Ira) e no Golfo. O Goldman Sachs, em relatorio de 08/09, projetou Brent a US$ 85 em dezembro/2026 no cenario-base, mas alertou que o preco pode passar de US$ 120 se o bloqueio de Ormuz se intensificar e se espalhar geograficamente. Em resposta, o governo brasileiro anunciou nesta quinta-feira (10/09) um pacote de contencao valido de 10/09 a 09/10: subsidio de R$ 1,00/litro ao diesel rodoviario pago a produtores e importadores (custo de R$ 5 bi em setembro), reducao de R$ 0,63/litro em PIS/Cofins na gasolina e zeragem dos tributos federais no etanol hidratado (-R$ 0,19/litro) -- os dois ultimos com custo conjunto de R$ 2 bi/mes. Impacto fiscal total: R$ 7 bi/mes, dentro de um programa de contencao de combustiveis que soma R$ 37,5 bi acumulados em 2026, segundo o ministro do Planejamento, Bruno Moretti. No mesmo dia (09/09 a noite), a propria Petrobras havia anunciado um reajuste de R$ 0,63/litro na gasolina A para distribuidoras (R$ 0,44 pelo fim de um desconto anterior + R$ 0,19 de reajuste proprio) -- mas o corte de tributos do governo, no mesmo valor, anulou o efeito liquido: o preco para as distribuidoras ficou em R$ 3,05/litro a partir de 10/09, sem repasse para o consumidor final.
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/subsidios-gasolina-e-ao-diesel-sao-ampliados-apos-alta-do-petroleo
+
+Cadeia causal (o que levou a isso):
+1) Desde 28/02/2026 EUA e Ira mantem um conflito ja com mais de 6 meses em torno do Estreito de Ormuz, rota por onde passa cerca de um quinto do petroleo mundial.
+2) No fim de semana de 5-6/09, houve pelo menos tres ataques dos EUA a petroleiros iranianos, e houthis aliados do Ira atacaram instalacoes petroliferas sauditas -- uma escalada concreta, nao apenas retorica.
+3) Essa escalada jogou o Brent para US$ 101,21 no pregao de 09/09 (+3,36% no dia), e o Goldman Sachs passou a citar abertamente o risco de US$ 120 se o bloqueio de Ormuz se agravar.
+4) Com o custo internacional do barril subindo, a Petrobras anunciou, na noite de 09/09, reajuste de R$ 0,63/litro na gasolina para distribuidoras -- o mecanismo padrao de repassar custo internacional ao preco domestico.
+5) O governo, para evitar que esse reajuste chegasse ao consumidor as vesperas de um ciclo de alta mais longo, reagiu no dia seguinte com o pacote de R$ 7 bi/mes (corte de tributos em gasolina e etanol, subsidio direto ao diesel) -- neutralizando, no papel, o proprio reajuste que a Petrobras tinha acabado de anunciar.
+6) Resultado liquido: mesmo com a Petrobras reajustando e revertendo no mesmo ciclo, o preco aos consumidores nao mudou nesta rodada -- mas o mecanismo (subsidio bancado pelo Tesouro) so segura o repasse enquanto o governo sustentar o custo fiscal crescente, nao remove a pressao de custo que continua vindo do mercado internacional.
+
+Por que esta repercutindo agora: a nota da Agencia Brasil foi replicada em dezenas de portais regionais e nacionais no mesmo dia (volume de cobertura 5/5), o pacote fiscal de R$ 7 bi/mes e uma medida excepcional e nao rotina (gravidade 4/5), e o tema atinge um dos custos mais sentidos por qualquer negocio com logistica propria ou dependente de frete (identificacao com audiencia 5/5) -- uma combinacao que supera os outros candidatos do dia mesmo com frescor apenas moderado (o fato central e de ontem, nao de hoje).
+
+Angulo de gestao sugerido: o video NAO comenta a guerra no Oriente Medio nem avalia a politica de subsidio do governo -- o angulo e estritamente pratico: quando um insumo essencial do seu negocio (aqui, combustivel/frete) depende de um mercado internacional instavel e de decisoes de terceiros (petroleo, cambio, tributacao), a gestao de custo variavel nao pode ser reativa. A licao para o dono de PME: (a) nao repassar preco no primeiro susto -- o proprio caso mostra que ate a Petrobras anunciou e revogou um reajuste no mesmo dia; (b) ter uma politica clara de quando e como reajustar precos para o cliente final diante de choque de custo, em vez de decidir "no calor da noticia"; (c) mapear o peso real do combustivel/frete na estrutura de custo do negocio para saber, com numero na mao, quanto de alta consegue absorver antes de precisar repassar.
+
+Dados de apoio:
+- Brent fechou a US$ 101,21 (+3,36%) e WTI a US$ 96,05 (+3,25%) no pregao de 09/09/2026 -- fonte: Diario do Grande ABC -- https://www.dgabc.com.br/Noticia/4345981/petroleo-sobe-e-brent-atinge-uss-101-com-escalada-no-oriente-medio-e-ataques-da-ucrania
+- Goldman Sachs projeta Brent a US$ 85 em dezembro/2026 no cenario-base, com risco de superar US$ 120 se o bloqueio de Ormuz se intensificar -- fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/internacional/brent-pode-passar-de-us-120-o-barril-se-bloqueio-de-ormuz-persistir-diz-goldman/
+- Desde fevereiro/2026, a gasolina acumula alta de 3,3% no Brasil e o diesel de 7,3% -- ante uma media global de 20,8% (gasolina) e 30% (diesel) no mesmo periodo, segundo dados do GlobalPetrolPrices.com citados pela Agencia Brasil -- fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/subsidios-gasolina-e-ao-diesel-sao-ampliados-apos-alta-do-petroleo
+- Pacote de contencao de combustiveis soma R$ 37,5 bi acumulados em 2026, segundo o ministro do Planejamento e Orcamento, Bruno Moretti -- fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/novas-medidas-para-combustiveis-terao-impacto-de-r-7-bilhoes-por-mes
+- Petrobras reajustou e no mesmo ciclo o preco para distribuidoras ficou em R$ 3,05/litro a partir de 10/09, sem repasse liquido -- fonte: Poder360 -- https://www.poder360.com.br/poder-economia/petrobras-volta-atras-em-reajuste-da-gasolina/
+
+Ressalva/limite: o fator "Polemica adjacente" pesou 3/5 no score por causa da guerra no Oriente Medio e da politica de subsidio do governo -- mas e tensao geopolitica internacional, sem vinculo direto com a eleicao brasileira. Mesmo assim, o roteiro deve tratar exclusivamente do angulo pratico de gestao de custo/precificacao: NUNCA opinar sobre a guerra em si, NUNCA elogiar ou criticar a politica de subsidio do governo brasileiro, NUNCA comentar Lula, ministros ou qualquer ator politico nomeado nas fontes. Se em algum momento do roteiro a explicacao comecar a soar como avaliacao da politica economica do governo (por exemplo, se o subsidio "e correto" ou "e populista"), pare e reescreva focado so no efeito pratico para quem gerencia um negocio.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: a mesma noite em que o combustivel ficou mais caro por uma guerra do outro lado do mundo, a conta quase chegou ate voce -- e quase ninguem percebeu
+- Contexto/causa raiz: conflito EUA-Ira no Estreito de Ormuz ha mais de 6 meses, escalada recente empurra o petroleo para US$ 101 e acende alerta de US$ 120
+- Desenvolvimento da cadeia causal: petroleo mais caro -> Petrobras reajusta preco de atacado -> governo neutraliza com corte de tributo no mesmo valor -> preco final nao muda desta vez, mas o custo continua vindo
+- Licao de gestao (a virada): negocio que depende de frete/combustivel precisa de politica de repasse de preco definida antes do susto, nao decidida durante ele
+- Fechamento + CTA
+
+Fonte(s):
+- Agencia Brasil (pacote de subsidios) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/subsidios-gasolina-e-ao-diesel-sao-ampliados-apos-alta-do-petroleo
+- Agencia Brasil (impacto fiscal R$ 7 bi/mes) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/novas-medidas-para-combustiveis-terao-impacto-de-r-7-bilhoes-por-mes
+- Diario do Grande ABC (cotacao Brent/WTI 09/09) -- https://www.dgabc.com.br/Noticia/4345981/petroleo-sobe-e-brent-atinge-uss-101-com-escalada-no-oriente-medio-e-ataques-da-ucrania
+- Bloomberg Linea (alerta Goldman Sachs US$ 120) -- https://www.bloomberglinea.com.br/internacional/brent-pode-passar-de-us-120-o-barril-se-bloqueio-de-ormuz-persistir-diz-goldman/
+- Poder360 (reversao do reajuste da Petrobras) -- https://www.poder360.com.br/poder-economia/petrobras-volta-atras-em-reajuste-da-gasolina/
+
+Runners-up do dia (registro/transparencia):
+- Lula sanciona fim definitivo da "taxa das blusinhas" (importacao ate US$ 50 sem Imposto de Importacao), a 24 dias da eleicao -- 27/35
+- Brasil bate recorde: quase 8 mil empresas em recuperacao judicial no 1o semestre de 2026 -- 22/35
+- IPCA-15 de agosto tem deflacao de 0,40%, melhor resultado em anos -- 16/35
