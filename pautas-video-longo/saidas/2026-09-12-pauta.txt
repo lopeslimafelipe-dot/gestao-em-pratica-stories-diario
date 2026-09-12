@@ -1,0 +1,103 @@
+PAUTA DO DIA -- 2026-09-12
+Assunto: Nubank estreia oficialmente nos EUA e lança conta global (Nu Global) com remessas internacionais
+Score final: 28/35 (Frescor 5/5, Relevancia do protagonista 5/5, Gravidade 4/5, Polemica adjacente 1/5,
+Volume de cobertura 4/5, Clareza do angulo 5/5, Identificacao com audiencia 4/5)
+
+Fato central verificado: em evento no Nu Stadium, em Miami, no dia 10/09/2026, os fundadores David
+Velez (CEO) e Cristina Junqueira anunciaram o inicio das operacoes do Nubank nos Estados Unidos e o
+lancamento simultaneo de dois produtos: a "Nu Account", conta em dolar com deposito custodiado no
+parceiro Lead Bank, rendimento de 3,5% ao ano (podendo chegar a 4,5% com metas de poupanca) e cartao
+de credito sem anuidade com 1,5% de cashback; e o "Nu Global", conta multimoeda pensada para operar
+em mais de 35 paises sem depender de licenca bancaria local em cada um, com os depositos convertidos
+em stablecoins (dolar digital USDC e euro digital EURC), rendendo 3,5% e 2,2% ao ano, respectivamente,
+mais um cartao Mastercard virtual para gastos internacionais sem tarifa. As remessas internacionais
+comecam por transferencias instantaneas e sem taxas para Brasil, Mexico e Colombia -- paises onde o
+Nubank ja opera --, com integracao entre os quatro mercados prevista para os proximos meses. Fato
+confirmado de forma consistente por multiplas fontes independentes (Bloomberg Linea, Seu Dinheiro,
+Tecnoblog, Canaltech, O Tempo, InvestNews, blog oficial do Nubank), sem divergencia nos numeros.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/2026/09/11/nubank-busca-seguir-o-exemplo-do-pix-com-iniciativa-voltada-para-remessas-nos-eua/
+
+Cadeia causal (o que levou a isso): Nubank chega ao Mexico em 2019 e a Colombia em 2020, consolidando-se
+como a maior fintech da America Latina (mais de 140 milhoes de clientes ao fim do 2o trimestre de 2026,
+somando Brasil, Mexico e Colombia) -> na teleconferencia de resultados do 4o trimestre de 2024, David
+Velez apresenta publicamente a "Estrategia dos Tres Atos": Ato 1 (consolidar lideranca na America
+Latina), Ato 2 (expandir para novas verticais dentro dos mercados ja atendidos) e Ato 3 (virar um banco
+digital global, com IA, operando fora da America Latina) -> a empresa executa os Atos 1 e 2 ao longo de
+2025, chegando a resultados financeiros recordes (lucro liquido de US$871 milhoes no 1o trimestre de
+2026 e US$1,06 bilhao no 2o trimestre, alta de 49% na comparacao anual, com retorno sobre patrimonio -
+ROE - acima de 32%) -> com caixa e credibilidade financeira reforcados, a empresa usa esse momento para
+lancar o Ato 3: entrada plena nos EUA (mercado financeiro mais competitivo e regulado do mundo) e o
+produto global Nu Global, testando se a formula que funcionou na America Latina (simplicidade, tarifa
+zero, experiencia digital) se sustenta fora de casa.
+
+Por que esta repercutindo agora: o anuncio e de 10/09/2026 (dois dias antes da checagem) e seguia sendo
+manchete em varios portais de economia e mercado no dia seguinte e no dia da checagem -- alta relevancia
+do protagonista (Nubank/"roxinho" e marca de reconhecimento maximo e simbolo de sucesso empresarial
+brasileiro), volume de cobertura amplo (Bloomberg Linea, Seu Dinheiro, Tecnoblog, Canaltech, O Tempo,
+InvestNews, NeoFeed, Forbes Brasil cobrindo no mesmo periodo) e um angulo de gestao muito claro e facil
+de contar (empresa que cresceu com uma formula simples aposta a mesma formula no mercado mais dificil do
+mundo).
+
+Angulo de gestao sugerido: a licao central e sobre expansao internacional estruturada e testada em
+fases -- o Nubank nao foi direto da America Latina para o mercado mais competitivo do planeta; seguiu
+uma sequencia deliberada (consolidar -> diversificar -> so entao globalizar), e so deu o passo mais
+arriscado depois de comprovar solidez financeira (lucro recorde, ROE alto). Para o dono de PME, a licao
+pratica e dupla: (1) testar e consolidar a formula de sucesso no proprio quintal antes de expandir para
+terrenos mais dificeis; e (2) usar um momento de solidez financeira -- nao um momento de aperto -- como
+a janela certa para apostas arriscadas de crescimento. NUNCA o angulo politico-tarifario americano (ver
+ressalva abaixo).
+
+Dados de apoio:
+- Mais de 140 milhoes de clientes do Nubank na America Latina (Brasil, Mexico e Colombia) ao final do
+  2o trimestre de 2026. Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/08/nubank-cresce-49-no-2o-trimestre-geramos-mais-de-us-1-bilhao-em-lucro-por-trimestre-diz-velez/
+- Lucro liquido de US$1,06 bilhao no 2o trimestre de 2026 (alta de 49% ano a ano, 17% sobre o trimestre
+  anterior), ROE acima de 32%. Fonte: Forbes Brasil (mesma materia acima).
+- Lucro liquido de US$871 milhoes no 1o trimestre de 2026 (alta de 41% ano a ano, ex-efeito cambial).
+  Fonte: Times Brasil/CNBC -- https://timesbrasil.com.br/empresas-e-negocios/lucro-liquido-do-nubank-atinge-us-871-milhoes-no-inicio-de-2026/
+- Chegada do Nubank ao Mexico em 2019 (mais de 10 milhoes de clientes ate 2024) e a Colombia em 2020
+  (2,5 milhoes de clientes ate 2024). Fonte: Nu International (materiais institucionais) --
+  https://international.nubank.com.br/company/with-3-3-billion-in-deposits-and-8-million-customers-mexico-already-stands-out-among-nus-operations/
+- "Estrategia dos Tres Atos" apresentada por David Velez na teleconferencia de resultados do 4o
+  trimestre de 2024. Fonte: NeoFeed -- https://neofeed.com.br/negocios/o-ultimo-ato-do-nubank-a-cartada-de-david-velez-para-avancar-nos-eua-e-no-mundo/
+- Nu Global disponivel para mais de 35 paises via conversao em stablecoins. Fonte: Canaltech --
+  https://canaltech.com.br/mercado/nubank-lanca-nu-global-para-movimentar-dinheiro-em-mais-de-35-paises/
+
+Ressalva/limite: o fator Polemica adjacente ficou baixo (1/5) na pontuacao da Etapa 1 -- e um tema
+puramente de estrategia de negocios/expansao, sem carga politico-eleitoral relevante no fato em si.
+Mesmo assim, por guardrail padrao do canal: o roteiro NUNCA deve entrar em temas adjacentes sensiveis
+como politica tarifaria americana, tarifas de Trump, politica monetaria dos EUA ou o debate sobre
+regulacao de fintechs/criptoativos (stablecoins) nos EUA -- o angulo fica estritamente em estrategia de
+expansao, consistencia de marca e gestao financeira da empresa. Nao ha recomendacao de investimento
+pessoal envolvida (rendimentos citados sao caracteristica do produto, nao indicacao de aplicacao).
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o
+Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: a fintech que virou "queridinha" do brasileiro decidiu jogar o jogo mais dificil do mundo -- o
+  mercado financeiro americano.
+- Contexto/causa raiz: como o Nubank virou a maior fintech da America Latina (Mexico em 2019, Colombia
+  em 2020, 140 milhoes de clientes) e por que, so agora, decidiu ir para os EUA.
+- Desenvolvimento da cadeia causal (espaco extra do formato longo): a "Estrategia dos Tres Atos"
+  anunciada em 2024 -- consolidar, diversificar, globalizar --, os resultados financeiros recordes que
+  deram musculo pra essa aposta, e o que sao na pratica a Nu Account e o Nu Global.
+- Licao de gestao (a virada): expandir em fases testadas, e usar um momento de solidez financeira --
+  nao de aperto -- para bancar o proximo salto de crescimento.
+- Fechamento + CTA.
+
+Fonte(s):
+- Bloomberg Linea -- https://www.bloomberglinea.com.br/2026/09/11/nubank-busca-seguir-o-exemplo-do-pix-com-iniciativa-voltada-para-remessas-nos-eua/
+- Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/nubank-estreia-nos-eua-com-conta-em-dolar-e-lanca-aposta-para-dinheiro-sem-fronteiras-e-testa-se-a-formula-do-roxinho-pode-ganhar-o-mundo-miql/
+- Tecnoblog -- https://tecnoblog.net/noticias/nubank-cria-conta-global-e-entra-no-mercado-dos-eua/
+- Canaltech -- https://canaltech.com.br/mercado/nubank-lanca-nu-global-para-movimentar-dinheiro-em-mais-de-35-paises/
+- O Tempo -- https://www.otempo.com.br/economia/2026/9/10/nubank-anuncia-conta-global-para-35-paises-apos-iniciar-operacao-nos-eua
+- NeoFeed -- https://neofeed.com.br/negocios/o-ultimo-ato-do-nubank-a-cartada-de-david-velez-para-avancar-nos-eua-e-no-mundo/
+- Forbes Brasil -- https://forbes.com.br/forbes-money/2026/08/nubank-cresce-49-no-2o-trimestre-geramos-mais-de-us-1-bilhao-em-lucro-por-trimestre-diz-velez/
+- Times Brasil/CNBC -- https://timesbrasil.com.br/empresas-e-negocios/lucro-liquido-do-nubank-atinge-us-871-milhoes-no-inicio-de-2026/
+
+Runners-up do dia (registro/transparencia):
+- Correios entram em greve nacional por tempo indeterminado -- 31/35 bruto, mas DESQUALIFICADO por
+  repeticao de pauta (mesmo assunto/empresa foi VENCEDOR DO DIA em 09/09/2026, dentro da janela de 10
+  dias -- ver Etapa 1).
+- Raizen: reestruturacao bilionaria entra em fase decisiva, credores podem tirar Rubens Ometto do
+  comando -- 21/35.
+- Big techs globais cortam quase 100 mil empregos em 2026 substituindo por IA, mesmo com lucro recorde
+  -- 21/35.
