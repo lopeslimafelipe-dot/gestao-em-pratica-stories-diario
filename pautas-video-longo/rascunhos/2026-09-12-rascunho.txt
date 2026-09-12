@@ -1,0 +1,143 @@
+RADAR DE REPERCUSSAO -- ETAPA 1 (PESQUISA E PONTUACAO)
+Data: 12/09/2026 (sabado)
+
+Verificacao de repeticao (ultimos 10 dias corridos, pautas-video-longo/saidas e rascunhos deste
+pipeline, 02/09 a 11/09): PIB do 2o trimestre (02/09), UE suspende importacao de carne/frango/
+pescado/mel do Brasil (03/09), escandalo Banco Master (04/09), Azzas 2154 desfaz fusao Arezzo/SOMA
+(05/09), sem vencedor forte em 06-07/09 (petroleo/Ormuz com ressalva), greve dos bancarios Caixa/BB
+(08/09), impasse dos Correios as vesperas de assembleia decisiva (09/09 -- VENCEDOR), Forbes
+bilionarios do varejo/Uber corta 10% (10/09), petroleo dispara e subsidio ao diesel/fim da taxa das
+blusinhas/recuperacao judicial recorde (11/09). Agronegocio recorde de exportacao no semestre
+(US$87 bi) e o tema "recuperacao judicial bate recorde" ja apareceram como candidatos/vencedores
+nesta janela -- descartados hoje por repeticao de assunto. O caso mais sensivel desta checagem e o
+dos Correios: o VENCEDOR de 09/09 foi exatamente o impasse Correios-Findect as vesperas da
+assembleia -- ver nota no Candidato 1 abaixo.
+
+CANDIDATO 1 -- Correios entram em greve nacional por tempo indeterminado
+Fato: apos a assembleia de 10/09 rejeitar a proposta da empresa (principal ponto de atrito: mudanca
+no plano de saude), os trabalhadores dos Correios, filiados a Findect, entraram em greve nacional
+por tempo indeterminado a partir da noite de sexta-feira (11/09), com paralisacao ainda em curso
+hoje. A greve afeta agencias, atendimento e prazos de Sedex, PAC, encomendas e documentos em todo o
+pais; a estatal acionou um Plano de Continuidade de Negocios para tentar minimizar o impacto. Pano
+de fundo: a empresa acumula 15 trimestres consecutivos de prejuizo, com resultado negativo de
+R$5,6 bilhoes so no 1o semestre de 2026.
+Fonte: O Tempo -- https://www.otempo.com.br/economia/2026/9/11/funcionarios-dos-correios-entram-em-greve-por-tempo-indeterminado-em-todo-o-brasil
+Fonte adicional: FINDECT -- https://findect.org.br/correios-rejeitam-proposta-aprovam-greve/
+Score de Repercussao:
+- Frescor: 5/5 (greve comecou ontem a noite e segue em curso hoje)
+- Relevancia do protagonista: 5/5 (Correios e uma das marcas publicas mais reconhecidas do pais)
+- Gravidade: 4/5 (greve nacional indeterminada de estatal em crise financeira grave)
+- Polemica adjacente: 3/5 (encosta no debate sobre gestao de estatais/reforma administrativa, sem
+  carga politico-eleitoral direta no fato em si)
+- Volume de cobertura: 5/5 (dezenas de veiculos regionais e nacionais cobrindo simultaneamente)
+- Clareza do angulo: 4/5 (crise financeira -> impasse salarial -> greve -> atraso nas entregas ->
+  licao sobre dependencia de canal logistico unico e prevencao de crise trabalhista)
+- Identificacao com audiencia: 5/5 (qualquer PME que despacha produto pelos Correios sente o
+  impacto direto e imediato)
+TOTAL: 31/35
+Status: MAIOR PONTUACAO BRUTA, PORE DESQUALIFICADO POR REPETICAO -- este e o mesmo assunto/empresa
+que foi VENCEDOR DO DIA em 09/09/2026 (ha 3 dias, dentro da janela de 10 dias), quando a pauta ja
+era o impasse Correios-Findect as vesperas da assembleia. O fato evoluiu (de ameaca para greve
+efetivamente em curso), mas e essencialmente a mesma pauta e o mesmo protagonista ja explorados
+recentemente pelo canal. Mantido aqui apenas para registro -- nao pode ser o vencedor de hoje.
+
+CANDIDATO 2 -- Nubank estreia oficialmente nos EUA com conta global e remessas internacionais
+Fato: em evento no Nu Stadium (Miami), no dia 10/09/2026, os fundadores David Velez (CEO) e
+Cristina Junqueira (presidente das operacoes nos EUA) anunciaram a entrada plena do Nubank no
+mercado americano. A estrategia combina duas frentes: uma operacao bancaria propria nos EUA e o
+lancamento do "Nu Global", servico de remessas internacionais instantaneas e sem taxas, comecando
+por transferencias para Brasil, Mexico e Colombia, com expansao prevista para outros paises. A
+nova conta em dolar (Nu Account, com depositos custodiados no parceiro Lead Bank) oferece
+rendimento de 3,5% ao ano. E o teste mais ambicioso da empresa ate hoje: replicar a formula que
+funcionou no Brasil (a maior fintech da America Latina) no mercado financeiro mais competitivo do
+mundo.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/2026/09/11/nubank-busca-seguir-o-exemplo-do-pix-com-iniciativa-voltada-para-remessas-nos-eua/
+Fonte adicional: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/nubank-estreia-nos-eua-com-conta-em-dolar-e-lanca-aposta-para-dinheiro-sem-fronteiras-e-testa-se-a-formula-do-roxinho-pode-ganhar-o-mundo-miql/
+Score de Repercussao:
+- Frescor: 5/5 (anuncio de 10/09, repercutindo com forca ainda hoje 12/09)
+- Relevancia do protagonista: 5/5 (Nubank/"roxinho" e uma das marcas mais reconhecidas e queridas
+  do Brasil, simbolo maximo de sucesso empresarial nacional)
+- Gravidade: 4/5 (nao e uma crise, mas e um movimento estrategico historico -- primeira entrada
+  plena da empresa no mercado mais dificil e competitivo do mundo)
+- Polemica adjacente: 1/5 (tema puramente de negocios/expansao, sem carga politica)
+- Volume de cobertura: 4/5 (Bloomberg Linea, Seu Dinheiro, Noticias ao Minuto, Arevista e outros
+  portais de mercado no mesmo dia)
+- Clareza do angulo: 5/5 (empresa que cresceu com confianca e simplicidade no Brasil aposta a
+  mesma formula no terreno mais duro do mundo -> licao direta sobre expansao, branding e adaptacao
+  cultural, facil de contar em ate 2 minutos)
+- Identificacao com audiencia: 4/5 (todo dono de PME sonha em crescer/expandir para novos mercados;
+  a licao de "testar sua formula onde e mais dificil" e universal, mesmo a escala sendo bem maior)
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 3 -- Raizen: reestruturacao bilionaria entra em fase decisiva, credores podem tirar
+Rubens Ometto do comando
+Fato: a Raizen (joint venture entre Cosan e Shell, uma das maiores produtoras de etanol e
+distribuidoras de combustivel do mundo) apresentou aos credores, em 02/09/2026, uma proposta final
+de reestruturacao de sua divida de R$65 bilhoes, apos pedido de recuperacao extrajudicial. O plano
+em negociacao prevê a conversao de cerca de 45% da divida em acoes -- os bancos credores passariam
+a deter quase 80% da empresa -- e a substituicao de Rubens Ometto na presidencia do conselho. A
+Shell ja se comprometeu a injetar R$3,5 bilhoes, e a familia Ometto pode aportar mais R$500 milhoes
+na tentativa de manter influencia na companhia apos o 1o trimestre de 2027. A negociacao segue em
+fase decisiva nesta semana.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/raizen-credores-bancarios-teriam-apresentado-plano-de-reestruturacao-veja-medidas/
+Fonte adicional: Seu Dinheiro -- https://www.seudinheiro.com/2026/renda-fixa/raizen-raiz4-abre-plano-de-reestruturacao-e-oferece-tres-caminhos-aos-credores-mlim/
+Score de Repercussao:
+- Frescor: 2/5 (proposta final apresentada ha cerca de 10 dias; sem fato pontual novo hoje, ainda
+  que a negociacao continue em curso)
+- Relevancia do protagonista: 4/5 (Raizen e menos familiar ao consumidor comum que Correios/
+  Nubank, mas Cosan, Shell e o bilionario Rubens Ometto sao nomes de peso no mundo dos negocios)
+- Gravidade: 5/5 (divida de R$65 bi, fundador podendo perder o controle da empresa que ajudou a
+  criar -- evento raro e grave)
+- Polemica adjacente: 1/5 (sem carga politica ou eleitoral)
+- Volume de cobertura: 3/5 (bem coberto pela imprensa de mercado -- InfoMoney, Seu Dinheiro, Money
+  Times, XP -- mas pouco nos portais generalistas de grande publico)
+- Clareza do angulo: 3/5 (tema mais tecnico -- conversao de divida em acoes, covenants, disputa de
+  controle -- exige mais simplificacao para caber em 2 minutos)
+- Identificacao com audiencia: 3/5 (licao universal sobre risco de alavancagem e perda de controle
+  por divida, mas protagonista distante da realidade operacional de uma PME)
+TOTAL: 21/35
+Status: runner-up
+
+CANDIDATO 4 -- Big techs globais cortam quase 100 mil empregos em 2026 substituindo por IA, mesmo
+com lucro recorde
+Fato: reportagens desta semana consolidam que big techs como Microsoft, Meta e Oracle demitiram
+juntas quase 100 mil funcionarios em 2026 -- a Microsoft ofereceu aposentadoria antecipada a cerca
+de 7% dos seus 150 mil funcionarios nos EUA (1a vez em 51 anos de historia que a empresa faz algo
+assim), e a Oracle anunciou corte de ate 30 mil pessoas -- no mesmo periodo em que reportavam os
+melhores resultados financeiros da propria historia (caso da Meta: receita de US$56,3 bi, alta de
+33%, com previsao de investimento em infraestrutura de IA elevada para US$125-145 bi em 2026). O
+mercado, que antes via demissao em massa como sinal de empresa em apuros, passou a aplaudir os
+cortes.
+Fonte: Times Brasil/CNBC -- https://timesbrasil.com.br/colunas/ai-451/big-techs-demitem-100-mil-2026-mercado-aplaude/
+Score de Repercussao:
+- Frescor: 2/5 (e uma consolidacao de tendencia do ano, nao um fato pontual de hoje ou ontem)
+- Relevancia do protagonista: 5/5 (Microsoft, Meta e Oracle tem reconhecimento global maximo)
+- Gravidade: 3/5 (tendencia relevante, mas nao e um evento unico e datado)
+- Polemica adjacente: 2/5 (toca no debate global sobre IA e desemprego, mas sem gancho politico
+  brasileiro especifico)
+- Volume de cobertura: 2/5 (mais uma analise/coluna consolidando dados do ano do que um furo
+  replicado amplamente hoje por varios veiculos)
+- Clareza do angulo: 3/5 (tema rico, mas com angulos concorrentes -- IA, lucro recorde, desemprego
+  -- dificil de condensar em 2 minutos sem perder nuance)
+- Identificacao com audiencia: 4/5 (a decisao de automatizar/cortar custos com tecnologia e um
+  dilema real de qualquer gestor de PME)
+TOTAL: 21/35
+Status: runner-up
+
+GUARDRAIL POLITICO: o vencedor do dia (Nubank nos EUA) teve Polemica Adjacente muito baixa (1/5) --
+e um tema puramente de expansao de negocios, sem carga politico-eleitoral relevante, entao o
+guardrail nao exige ressalva reforcada hoje. Ainda assim, por padrao do canal: o roteiro da Etapa 2
+deve tratar exclusivamente do angulo de gestao/negocio -- estrategia de expansao internacional,
+consistencia de marca, adaptacao a um mercado mais competitivo e regulado -- sem entrar em debates
+sobre politica monetaria americana, tarifas de Trump ou qualquer tema partidario.
+
+CONCLUSAO DO DIA: o fato isolado com maior pontuacao bruta hoje foi a greve nacional dos Correios
+(31/35), mas ele repete o mesmo assunto/empresa que ja foi VENCEDOR DO DIA em 09/09/2026 (dentro da
+janela de 10 dias) -- por isso fica desqualificado da disputa de hoje, ainda que seja o fato mais
+"bombando" do noticiario neste sabado. Descontado esse candidato, a pauta com maior potencial de
+repercussao genuinamente nova e a estreia do Nubank nos Estados Unidos (Candidato 2, 28/35): fato
+fresco (anunciado ha 2 dias, ainda repercutindo), protagonista de reconhecimento maximo no Brasil,
+angulo de gestao muito claro (testar a formula de sucesso em terreno mais dificil) e identificacao
+direta com o sonho de expansao de qualquer dono de PME -- sem nenhum risco de viés politico no
+angulo do video. VENCEDOR DO DIA: Candidato 2.
