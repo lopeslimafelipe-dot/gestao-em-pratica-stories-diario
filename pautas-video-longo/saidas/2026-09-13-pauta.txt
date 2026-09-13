@@ -1,0 +1,40 @@
+PAUTA DO DIA -- 2026-09-13
+Assunto: Light sai da recuperacao judicial apos cumprir o plano e homologar aumento de capital
+Score final: 22/35 (Frescor: 2/5, Relevancia do protagonista: 3/5, Gravidade: 4/5, Polemica adjacente: 1/5, Volume de cobertura: 4/5, Clareza do angulo: 5/5, Identificacao com audiencia: 3/5)
+
+Fato central verificado: em 09/09/2026, o juiz Leonardo de Castro Gomes, da 3a Vara Empresarial da Comarca da Capital do Rio de Janeiro, decretou o encerramento da recuperacao judicial da Light S.A. (holding da distribuidora de energia do Rio), declarando cumpridas todas as obrigacoes previstas no plano aprovado com os credores em 2024. A decisao levou em conta pareceres favoraveis da Administracao Judicial e do Ministerio Publico do Rio de Janeiro. No mesmo ciclo, a empresa homologou (em 15/07/2026) um aumento de capital de R$1.500.000.000,72, com emissao de 238.473.768 novas acoes ordinarias a R$6,29 cada -- valor que superou a subscricao minima de R$1 bilhao prevista no plano. Fontes confirmam de forma consistente: InfoMoney, CNN Brasil, Suno, ADVFN, Amplo Juridico e Agencia Brasil.
+
+Cadeia causal (o que levou a isso):
+1) Em 12/05/2023, a Light S.A. protocolou pedido de recuperacao judicial citando piora da situacao economico-financeira, com divida de cerca de R$11 bilhoes -- majoritariamente R$7 bilhoes com debenturistas e R$3,1 bilhoes em titulos emitidos no exterior (bonds). A distribuidora Light Servicos de Eletricidade nao entrou diretamente no processo porque a legislacao impede concessionarias de servico publico de recorrer a esse instrumento.
+2) Os credores aprovaram um plano de recuperacao em 2024, que passou a ser fiscalizado judicialmente entre 18/06/2024 e 18/06/2026.
+3) Ao longo da fiscalizacao, a empresa cumpriu marcos-chave do plano, com destaque para o pagamento a vista de mais de 27 mil credores que detinham creditos de ate R$30 mil cada -- ou seja, priorizou quitar rapido os credores menores antes mesmo de fechar a reestruturacao maior com debenturistas e detentores de bonds.
+4) Em 15/07/2026, a empresa homologou o aumento de capital de R$1,5 bilhao previsto no plano, superando a subscricao minima exigida.
+5) Com os marcos cumpridos, a Administracao Judicial e o Ministerio Publico do RJ deram parecer favoravel ao encerramento, e a Justica decretou o fim da recuperacao judicial em 09/09/2026 -- cerca de 3 anos e 4 meses apos o pedido inicial.
+
+Por que esta repercutindo agora: o fato central e de 4 dias atras (09/09), entao nao e "furo do dia" -- mas segue sendo noticiado nesta semana (InfoMoney, CNN Brasil, Suno, ADVFN, Exame) porque contrasta com uma onda de empresas ENTRANDO em recuperacao judicial ou em crise financeira aguda no noticiario recente (Casas Bahia, Habib's, Raizen, Correios). Light e o raro "final feliz" desse ciclo: uma empresa que cumpriu o plano riscado ate o fim, em vez de apenas anuncia-lo. Some a isso o efeito pratico imediato -- reacao positiva do mercado -- que mantem o tema vivo.
+
+Angulo de gestao sugerido: a licao central NAO e sobre o mercado de energia, e sim sobre disciplina de execucao. Negociar uma divida ou anunciar um plano de recuperacao e o passo facil; o que realmente tira uma empresa da crise e cumprir o cronograma ponto a ponto, ate o fim -- inclusive fazendo escolhas dificeis de prioridade, como a Light fez ao pagar primeiro (e a vista) os mais de 27 mil credores pequenos, mesmo com a negociacao maior (debenturistas, bonds) ainda em curso. Para o dono de PME que reestrutura uma divida com fornecedores ou banco: o combinado no papel so vale alguma coisa se for cumprido mes a mes -- e cumprir os compromissos menores primeiro pode ser o que sustenta a credibilidade pra fechar o resto.
+
+Dados de apoio:
+- Divida original de ~R$11 bilhoes, sendo ~R$7 bilhoes com debenturistas e ~R$3,1 bilhoes em bonds no exterior -- fonte: Agencia Brasil (https://agenciabrasil.ebc.com.br/economia/noticia/2023-05/light-pede-recuperacao-judicial-e-estima-dividas-de-r11-bilhoes)
+- Pedido de recuperacao judicial protocolado em 12/05/2023 -- mesma fonte acima
+- Fiscalizacao judicial do plano rodou de 18/06/2024 a 18/06/2026 -- fonte: Suno (https://www.suno.com.br/noticias/light-ligt3-encerramento-recuperacao-judicial-setembro-2026-go/)
+- Mais de 27 mil credores com creditos de ate R$30 mil pagos a vista -- fonte: Amplo Juridico (https://amplojuridico.com.br/justica-encerra-recuperacao-judicial-light-sa/)
+- Aumento de capital homologado em 15/07/2026: R$1.500.000.000,72, com 238.473.768 novas acoes a R$6,29 -- fonte: Atlas Publico (https://atlaspublico.com.br/cvm/noticias/light-homologa-aumento-de-capital-de-rs-1-5-bi-e-pede-72239)
+- Com a saida da RJ, a Light recupera capacidade juridica plena pra contratar, participar de licitacoes e leiloes de concessao, e captar recursos no mercado sem as restricoes vigentes desde 2023 -- fonte: InfoMoney (https://www.infomoney.com.br/mercados/light-ligt3-sai-da-recuperacao-judicial-apos-decisao-da-justica/)
+- Reacao do mercado: acoes LIGT3 subiram 0,55% no pregao seguinte a decisao (10/09), cotadas a R$3,66, com alta acumulada superior a 18% no mes -- fonte: sintese de mercado consolidada a partir da cobertura InfoMoney/Exame (nao usar como recomendacao de investimento, so como contexto de repercussao)
+
+Ressalva/limite: nenhuma ressalva de guardrail politico e necessaria -- o tema teve Polemica Adjacente minima (1/5) no score da Etapa 1 e e puramente juridico-financeiro, sem carga politico-eleitoral: NAO ha nada a evitar aqui alem do cuidado padrao de nao fazer recomendacao de investimento pessoal ao mencionar a reacao das acoes. Ressalva editorial: o fato central e de 4 dias atras (09/09), nao de hoje -- enquadrar no video como "o caso que se consolidou nesta semana", nao como noticia do dia, pra nao soar desatualizado.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: uma empresa com R$11 bilhoes em divida sai da recuperacao judicial -- nao com um acordo assinado no papel, mas cumprindo tudo ate o fim, 3 anos depois
+- Contexto/causa raiz: Light protocola RJ em 2023, com dividas majoritarias em debentures e bonds; credores aprovam plano em 2024
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo): a fiscalizacao de 2 anos, a escolha de pagar primeiro os 27 mil credores pequenos, o aumento de capital que supera a meta minima, e so entao o encerramento formal com aval da Justica e do MP
+- Licao de gestao (a virada): plano no papel nao tira ninguem da crise -- e a execucao disciplinada, mes a mes, priorizando os compromissos certos, que faz a diferenca
+- Fechamento + CTA: pergunta pro publico -- se sua empresa tivesse que reestruturar uma divida hoje, voce teria disciplina pra cumprir o plano ate o fim, ou só assinaria o acordo e relaxaria?
+
+Fonte(s): InfoMoney -- https://www.infomoney.com.br/mercados/light-ligt3-sai-da-recuperacao-judicial-apos-decisao-da-justica/ | CNN Brasil -- https://www.cnnbrasil.com.br/infra/light-pede-fim-da-recuperacao-judicial-e-anuncia-aumento-de-capital/ | Suno -- https://www.suno.com.br/noticias/light-ligt3-encerramento-recuperacao-judicial-setembro-2026-go/ | Amplo Juridico -- https://amplojuridico.com.br/justica-encerra-recuperacao-judicial-light-sa/ | Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2023-05/light-pede-recuperacao-judicial-e-estima-dividas-de-r11-bilhoes | Atlas Publico -- https://atlaspublico.com.br/cvm/noticias/light-homologa-aumento-de-capital-de-rs-1-5-bi-e-pede-72239
+
+Runners-up do dia (registro/transparencia):
+- Big techs globais cortam quase 140 mil empregos em 2026 apostando em IA, mesmo com lucro recorde -- 21/35 (mesma pontuacao do rascunho de 12/09, sem fato novo)
+- Raizen: reestruturacao bilionaria segue em negociacao, sem desfecho novo -- 21/35 (sem fato novo desde 12/09)
