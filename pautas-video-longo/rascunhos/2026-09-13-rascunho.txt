@@ -1,0 +1,113 @@
+RADAR DE REPERCUSSAO -- ETAPA 1 (PESQUISA E PONTUACAO)
+Data: 13/09/2026 (domingo)
+
+Verificacao de repeticao (ultimos 10 dias corridos, pautas-video-longo/saidas e rascunhos deste
+pipeline, 03/09 a 12/09) -- VENCEDORES DO DIA nesta janela, todos excluidos hoje: Uniao Europeia
+suspende importacao de carne/frango/pescado/mel do Brasil (03/09), escandalo Banco Master (04/09),
+Azzas 2154 desfaz fusao Arezzo/SOMA (05/09), Trump confirma cota de carne bovina sem tarifa para
+Brasil/Argentina (06/09), guerra Ira-EUA no Estreito de Ormuz disparando o petroleo (07/09), greve
+nacional dos bancarios Caixa/BB (08/09), impasse dos Correios as vesperas de assembleia decisiva
+(09/09), ranking Forbes dos bilionarios do varejo -- Havan/Magazine Luiza (10/09), petroleo dispara
+com a guerra no Oriente Medio + ampliacao do subsidio ao diesel (11/09), e Nubank estreia
+oficialmente nos EUA com o Nu Global (12/09 -- VENCEDOR DE ONTEM). Como consequencia direta: o
+proprio caso Correios (que hoje seguiria em greve, com a empresa recorrendo ao TST) fica fora da
+disputa por ser o mesmo assunto do vencedor de 09/09, dentro da janela de 10 dias; e o Nubank nos
+EUA, que continua repercutindo hoje, tambem fica fora por ter sido o vencedor de ontem mesmo (12/09).
+
+Pesquisa de hoje (domingo, noticiario de negocios mais fraco que em dia de semana -- nao ha
+divulgacao de indicador oficial (IBGE/CNI/FecomercioSP) marcada para hoje, e os mercados estao
+fechados): nao foi encontrado nenhum fato NOVO de hoje ou de ontem com forca de repercussao que
+ja nao estivesse coberto pelos vencedores dos ultimos dias. Os candidatos abaixo sao os mais fortes
+disponiveis, mas nenhum tem o "furo do dia" que os vencedores recentes tiveram.
+
+CANDIDATO 1 -- Light sai da recuperacao judicial apos cumprir plano e homologar aumento de capital
+Fato: em 09/09/2026, a 3a Vara Empresarial do Rio de Janeiro decretou o encerramento da recuperacao
+judicial da Light (distribuidora de energia do Rio), declarando cumpridas as obrigacoes do plano
+aprovado em 2024 para uma divida de cerca de R$11 bilhoes (pedido de RJ protocolado em maio de
+2023). No mesmo movimento, a empresa homologou um aumento de capital de R$1,5 bilhao, com emissao
+de 238,4 milhoes de novas acoes a R$6,29. E um raro "final feliz" num noticiario dominado por
+empresas ENTRANDO em recuperacao judicial (Casas Bahia, Habib's, Raizen, Correios em crise
+financeira) -- aqui e uma empresa que cumpriu o plano riscado e saiu da UTI financeira.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/light-ligt3-sai-da-recuperacao-judicial-apos-decisao-da-justica/
+Fonte adicional: CNN Brasil -- https://www.cnnbrasil.com.br/infra/light-pede-fim-da-recuperacao-judicial-e-anuncia-aumento-de-capital/
+Score de Repercussao:
+- Frescor: 2/5 (decisao e de 09/09, ha 4 dias -- fora da janela "hoje/ontem", mas ainda recente)
+- Relevancia do protagonista: 3/5 (Light e conhecida por qualquer morador/empresa do Rio que paga a
+  conta de luz, mas tem menos apelo de marca nacional do que Correios, Nubank ou Casas Bahia)
+- Gravidade: 4/5 (encerrar uma recuperacao judicial de R$11 bi de uma concessionaria de servico
+  essencial e um evento raro e significativo, nao rotina)
+- Polemica adjacente: 1/5 (tema puramente de gestao financeira/juridica, sem carga politica)
+- Volume de cobertura: 4/5 (InfoMoney, CNN Brasil, Money Times e ADVFN cobriram no mesmo dia)
+- Clareza do angulo: 5/5 (contraste direto com toda a onda recente de empresas quebrando -- aqui a
+  licao e sobre disciplina para cumprir um plano de recuperacao at ate o fim, nao so anunciar um)
+- Identificacao com audiencia: 3/5 (poucos donos de PME operam na escala de uma distribuidora de
+  energia, mas a experiencia de reestruturar divida e cumprir compromisso ate sair da crise e
+  universal para quem ja passou por aperto financeiro no negocio)
+TOTAL: 22/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Big techs globais cortam quase 140 mil empregos em 2026 apostando em IA, mesmo com
+lucro recorde
+Fato: levantamentos que cruzam dados da Challenger, Gray & Christmas com bases WARN nos EUA mostram
+o setor de tecnologia eliminando cerca de 140 mil vagas em 2026 (dado consolidado ate inicio de
+junho), com 61% dos cortes (cerca de 85 mil) explicitamente ligados a reestruturacao por
+Inteligencia Artificial. Amazon, Oracle, Meta e Microsoft respondem por quase 50 mil desses cortes
+-- no mesmo periodo em que anunciam os melhores resultados financeiros da propria historia e
+planejam investir centenas de bilhoes de dolares em infraestrutura de IA.
+Fonte: Executive Digest/Sapo -- https://executivedigest.sapo.pt/tecnologicas-cortam-quase-140-mil-empregos-em-2026/
+Fonte adicional: Times Brasil/CNBC -- https://timesbrasil.com.br/colunas/ai-451/big-techs-demitem-100-mil-2026-mercado-aplaude/
+Score de Repercussao:
+- Frescor: 1/5 (e um dado consolidado de meses (referencia a junho/2026), sem fato pontual de hoje
+  ou ontem; o mesmo tema ja apareceu como candidato (nao vencedor) no rascunho de 12/09)
+- Relevancia do protagonista: 5/5 (Amazon, Meta, Microsoft, Oracle -- reconhecimento global maximo)
+- Gravidade: 4/5 (140 mil demissoes simultaneas a lucro e investimento recorde e uma contradicao
+  forte)
+- Polemica adjacente: 2/5 (toca no debate global sobre IA e emprego, mas de forma mais evergreen do
+  que aguda -- nao ha um gatilho politico ou eleitoral especifico nesta semana)
+- Volume de cobertura: 2/5 (fontes majoritariamente agregadoras/colunas, sem confirmacao direta em
+  veiculo brasileiro de primeira linha (G1/InfoMoney/Exame) especificamente para o numero de 140 mil)
+- Clareza do angulo: 3/5 (tema rico mas com causas concorrentes -- IA, desaceleracao, custo -- exige
+  simplificacao para caber em 2 minutos)
+- Identificacao com audiencia: 4/5 (o dilema "cortar gente por causa de IA ou repensar processo
+  antes de precisar cortar" e real para qualquer gestor, inclusive de PME)
+TOTAL: 21/35
+Status: runner-up (mesma pontuacao e ressalvas do rascunho de 12/09 -- sem fato novo hoje que
+justifique promover o tema a vencedor)
+
+CANDIDATO 3 -- Raizen: reestruturacao bilionaria segue em negociacao, sem desfecho novo
+Fato: a Raizen (joint venture Cosan/Shell) continua negociando com credores a reestruturacao de
+R$65 bilhoes em divida, com proposta que converteria ~45% da divida em acoes e poderia tirar
+Rubens Ometto do comando da companhia. Nao foi encontrado nenhum desdobramento novo (nova decisao,
+assembleia ou assinatura) entre a apresentacao da proposta final e hoje.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/raizen-credores-bancarios-teriam-apresentado-plano-de-reestruturacao-veja-medidas/
+Score de Repercussao: nao repontuado em detalhe -- mesma situacao e mesma pontuacao (21/35) do
+rascunho de 12/09, sem fato novo.
+Status: runner-up fraco (sem frescor -- tema em compasso de espera, candidato apenas para registro)
+
+CANDIDATO 4 (para registro, DESQUALIFICADO) -- Correios: greve completa dias sem acordo, caso
+parado no TST
+Fato: a greve nacional dos Correios, iniciada na noite de 10/09, segue em curso; a empresa acionou
+o Tribunal Superior do Trabalho (TST) em 11/09 pedindo que a paralisacao seja declarada abusiva e
+que o servico seja mantido, mas o TST ainda nao julgou o caso ate o momento desta pesquisa.
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/correios-recorrem-ao-tst-para-tentar-encerrar-greve/
+Status: DESQUALIFICADO POR REPETICAO -- e o mesmo assunto/empresa que foi VENCEDOR DO DIA em
+09/09/2026 (dentro da janela de 10 dias). Sem decisao do TST ou outro fato realmente novo hoje
+(a greve apenas "continua"), nao ha motivo para reabrir o angulo. Se o TST decidir e a greve for
+suspensa/declarada abusiva em algum dia futuro, isso pode voltar a ser candidato forte com fato
+novo genuino.
+
+GUARDRAIL POLITICO: o vencedor do dia (Light) teve Polemica Adjacente minima (1/5) -- e um tema
+puramente juridico-financeiro, sem carga politico-eleitoral. Nao ha ressalva de guardrail politico
+a sinalizar para a Etapa 2 hoje.
+
+CONCLUSAO DO DIA: dia de noticiario de negocios fraco (domingo, sem divulgacao de indicador oficial
+e sem furo relevante nas fontes pesquisadas). O fato com maior potencial de repercussao pura seria
+a continuidade do caso Nubank/Correios, mas ambos ficam fora da disputa por repeticao (vencedor de
+ontem e vencedor de ha 4 dias, respectivamente). Descontados esses, o candidato mais solido e
+genuinamente novo na janela de 10 dias e a saida da Light da recuperacao judicial (Candidato 1,
+22/35): fato bem noticiado por fontes confiaveis (InfoMoney, CNN Brasil), sem risco politico, e com
+um angulo de gestao raro e forte -- o contraponto positivo (disciplina para cumprir um plano de
+recuperacao) a onda de empresas quebrando que este pipeline vem cobrindo nas ultimas semanas.
+Nenhum candidato de hoje chega ao nivel de frescor/gravidade dos ultimos vencedores (nota media
+proxima de 21-22/35, contra 28-31/35 recentes) -- e um dia de pauta modesta, nao de pauta forte,
+mas ainda acima do patamar de "nao publicar" (~15/35). VENCEDOR DO DIA: Candidato 1.
