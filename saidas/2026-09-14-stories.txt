@@ -1,0 +1,57 @@
+ROTEIRO 1 — 12 milhões dizem usar IA, só 6% tem agente autônomo
+"Um estudo da AWS, apresentado em setembro no AWS Summit São Paulo, mostrou que 12 milhões de empresas brasileiras dizem já usar Inteligência Artificial — mas só 6% implementaram agentes de IA autônomos. 🟡`A maioria, 58%, ainda está no estágio básico, usando IA só pra ganhos pequenos de eficiência.`🟡 Vale lembrar: o estudo foi encomendado pela própria AWS, que vende essa tecnologia. 🟡`Mas o dado importa: usar IA não é o mesmo que ter resultado de verdade.`🟡 Se sua empresa ainda não saiu do básico, você não está atrasado — está na maioria. A pergunta é: você já sabe medir o retorno antes de investir mais?"
+Fonte: ConvergênciaDigital — https://convergenciadigital.com.br/mercado/doze-milhoes-de-empresas-usam-ia-no-brasil-mas-somente-6-ja-usam-agentes-ia/
+
+===================================================================
+
+ROTEIRO 2 — A Light saiu da recuperação judicial levantando R$1,5 bi a mais
+"Em 09 de setembro, a Justiça do Rio decretou o fim da recuperação judicial da Light, depois de dois anos comprovando que a distribuidora cumpriu o plano com os credores — incluindo pagamento à vista pra mais de 27 mil deles. 🟡`Como parte do plano, a empresa homologou um aumento de capital de R$1,5 bilhão, acima do R$1 bilhão mínimo exigido.`🟡 🟡`Recuperação judicial não é sinônimo de fim de linha: pra quem cumpre o plano à risca, pode virar prova de crédito e reabrir a porta do mercado.`🟡 Sua empresa trata dívida como crise ou como plano a ser executado?"
+Fonte: Money Times — https://www.moneytimes.com.br/light-ligt3-homologa-aumento-de-capital-de-r-15-bilhao-e-pede-fim-da-recuperacao-judicial/
+
+===================================================================
+
+ROTEIRO 3 — Os preços caíram de novo no Brasil, e a inflação despencou
+"O IPCA de agosto, divulgado pelo IBGE, registrou deflação de 0,32% — a queda mais forte em quatro anos. 🟡`A inflação em 12 meses caiu de 4,44% pra 4,22%.`🟡 🟡`Boa parte do resultado veio da energia elétrica, que caiu 7,63% por causa do Bônus Itaipu — um efeito temporário, não estrutural.`🟡 🟡`É a segunda queda de preços seguida no Brasil, e isso reforça a expectativa de novo corte da Selic nesta semana.`🟡 Antes de comemorar: seu preço de venda já foi repensado pra esse cenário novo, ou você ainda cobra como se a inflação de ontem valesse hoje?"
+Fonte: IBGE — https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48015-ipca-fica-em-0-32-em-agosto
+
+===================================================================
+
+ROTEIRO 4A — A McKinsey achou o problema por trás do hype de IA
+"A McKinsey ouviu mais de 10 mil líderes seniores em 15 países pro relatório State of Organizations 2026: 88% das empresas já estão implementando IA. 🟡`Mas menos de 20% de quem tentou viu impacto tangível de verdade nas operações — e 75% ainda dizem ter dificuldade pra construir uma cultura de alta performance.`🟡 🟡`O problema não é falta de ferramenta, é decidir o que fazer com ela antes de comprar.`🟡 Quase 9 em cada 10 empresas já estão fazendo alguma coisa com IA — menos de 1 em cada 5 transformou isso em resultado."
+Fonte: McKinsey & Company — https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-state-of-organizations
+
+===================================================================
+
+ROTEIRO 4B — Fusões e aquisições voltaram a bombar nos EUA
+"As fusões e aquisições voltaram a bombar nos Estados Unidos. 🟡`Segundo a EY, as grandes negociações — de US$100 milhões ou mais — cresceram 58% em valor e 21% em volume entre maio e julho, puxadas por megadeals em IA, infraestrutura e life sciences.`🟡 🟡`Não é só gigante comprando gigante: é empresa madura comprando capacidade que não teria tempo de construir sozinha.`🟡 Pra quem nunca pensou em M&A: você já mapeou o que compraria, se pudesse, pra crescer mais rápido do que construindo do zero?"
+Fonte: EY — https://www.ey.com/en_us/insights/mergers-acquisitions/m-and-a-activity-report
+
+===================================================================
+
+ROTEIRO 5 — Faltam 9 dias pra multa da saúde mental no trabalho voltar
+"Faltam 9 dias pra fiscalização de saúde mental no trabalho voltar a multar de verdade. 🟡`A liminar que suspendeu as multas da NR-1 sobre riscos psicossociais foi confirmada por unanimidade pelo Plenário do STF, e o prazo de 90 dias termina em 23 de setembro.`🟡 🟡`A obrigação de mapear esses riscos nunca deixou de existir — só a multa estava suspensa.`🟡 Se sua empresa tem CLT e ainda não colocou o risco psicossocial no papel, o relógio deixou de ser teórico."
+Fonte: STF — https://noticias.stf.jus.br/postsnoticias/plenario-do-stf-confirma-suspensao-de-sancoes-sobre-riscos-psicossociais-no-trabalho/
+
+===================================================================
+
+ROTEIRO 6 — O HSBC não demitiu em massa: fechou uma linha aos poucos
+"O HSBC não demitiu em massa — encerrou uma linha de negócio inteira aos poucos. 🟡`O banco vai fechar sua unidade de transaction services na Alemanha, eliminando pouco mais de 320 vagas, com desligamentos graduais até 2028.`🟡 🟡`Às vezes cortar bem não é cortar rápido, é cortar com plano.`🟡 Seu negócio já sabe identificar a linha que não compensa mais manter, antes que ela vire prejuízo?"
+Fonte: MarketScreener — https://www.marketscreener.com/news/hsbc-to-wind-down-german-business-for-transaction-services-over-300-jobs-to-be-phased-out-ce785bd9da8ef227
+
+===================================================================
+
+ROTEIRO 7 — 86 de 111 lojas fechadas: o retrato de uma rede sem caixa
+"A rede de móveis Marabraz, que já teve 135 lojas, pediu à Justiça de São Paulo proteção de 180 dias contra credores. 🟡`Hoje a empresa diz ter 111 lojas — das quais 86 estão temporariamente fechadas por falta de caixa.`🟡 🟡`O passivo é de R$140 milhões, em cinco empresas do grupo.`🟡 🟡`A recuperação judicial não quebrou a Marabraz da noite pro dia: foi a falta de fôlego financeiro que foi fechando as portas, loja por loja.`🟡"
+Fonte: Diário do Grande ABC — https://www.dgabc.com.br/Noticia/4345896/marabraz-pede-protecao-de-180-dias-contra-credores
+
+===================================================================
+
+ROTEIRO 8 — Uma escola de balé está usando IA para criar coreografia
+"Uma escola de balé está usando Inteligência Artificial pra ajudar a criar coreografia. 🟡`A São Paulo Escola de Dança, em parceria com a SAP, usou IA pela primeira vez pra testar movimentos e adaptar uma coreografia da bailarina Ingrid Silva pra diferentes palcos — com estreia marcada pra novembro.`🟡 🟡`Mesmo assim, a decisão artística final continuou 100% humana.`🟡 Vale lembrar: o projeto foi divulgado pela própria SAP, parceira dele. Se até no lugar mais humano possível a tecnologia já entrou como apoio, a pergunta não é se ela chega no seu negócio — é em que etapa você quer manter o controle."
+Fonte: Sala de Imprensa SAP Brasil — https://news.sap.com/brazil/2026/09/sao-paulo-escola-de-danca-e-sap-unem-inteligencia-artificial-e-coreografia-em-projeto-inedito/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] Você já revisou seu preço de venda depois da inflação cair de novo? Sim, já ajustei / Ainda não
+2. [Pergunta/Participação, Roteiro 7] Você já passou um aperto de caixa que quase fechou as portas do seu negócio? Me conta aqui 👇
+3. [Virar História, Roteiro 4A -> Comparativo] O contraste "88% adotando IA" vs "menos de 20% com resultado tangível" rende um Comparativo lado a lado muito mais forte do que falado — o gap entre discurso e prática já é o choque, a tela só precisa deixar isso óbvio.
