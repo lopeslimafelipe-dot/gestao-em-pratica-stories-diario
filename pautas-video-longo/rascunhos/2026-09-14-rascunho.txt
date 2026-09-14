@@ -1,0 +1,188 @@
+RADAR DE REPERCUSSAO -- ETAPA 1 (PESQUISA E PONTUACAO)
+Canal: Entre Gestores | Data: 14/09/2026 (segunda-feira)
+
+Verificacao de repeticao (ultimos 10 dias corridos, pautas-video-longo/saidas e rascunhos deste
+pipeline, 04/09 a 13/09) -- VENCEDORES DO DIA nesta janela, todos excluidos hoje: escandalo Banco
+Master/liquidacoes recorde do BC (04/09), Azzas 2154 desfaz fusao Arezzo/SOMA (05/09), Trump
+confirma cota de carne bovina sem tarifa Brasil/Argentina (06/09), escalada da guerra Ira-EUA no
+Estreito de Ormuz disparando o petroleo (07/09), greve nacional dos bancarios Caixa/BB (08/09),
+impasse dos Correios as vesperas de assembleia decisiva (09/09), ranking Forbes bilionarios do
+varejo -- Havan/Magalu/Casas Bahia (10/09), petroleo dispara de novo com a guerra no Oriente Medio +
+ampliacao do subsidio ao diesel/gasolina (11/09), Nubank estreia oficialmente nos EUA (12/09), Light
+sai da recuperacao judicial (13/09).
+
+OBSERVACAO GERAL: segunda-feira de noticiario de negocios genuinamente fraco em fatos NOVOS e
+isolados. O motivo principal e o calendario: o mercado brasileiro inteiro esta em modo de
+"posicionamento pre-Copom" -- o Comite de Politica Monetaria se reune terca e quarta (15-16/09) e
+so decide a Selic amanha a noite, no mesmo dia da decisao do Federal Reserve americano
+("Superquarta"). Isso concentra a atencao do noticiario de negocios em expectativa (o que o mercado
+acha que vai acontecer quarta), nao em fato consumado (o que aconteceu hoje) -- e este pipeline
+prioriza fato consumado. Pela mesma razao, nao houve nenhum pedido novo de recuperacao judicial,
+troca de comando, fusao/aquisicao ou fato especifico de uma empresa/marca de peso divulgado hoje nas
+fontes pesquisadas (Bloomberg Linea, InfoMoney, Exame, Forbes Brasil, CNN Brasil, Agencia Brasil,
+Valor, Estadao Economia, alem de buscas diretas por Petrobras, Vale, JBS, Magalu, Renner, C&A,
+Natura, Ambev, franquias/ABF e startups).
+
+Nota sobre o assunto que realmente esta "bombando" hoje: o petroleo (Brent > US$ 107) segue em alta
+por causa dos Houthis tomando o porto de Mokha e a ilha de Perim no Mar Vermelho (fato de 10-11/09,
+ainda repercutindo com forca) -- mas e o MESMO tema de fundo (guerra no Oriente Medio elevando o
+petroleo) que ja foi VENCEDOR deste pipeline duas vezes na janela de 10 dias (07/09 e 11/09), entao
+fica de fora da disputa de hoje por repeticao de assunto, mesmo sendo, isoladamente, o fato com maior
+forca bruta do noticiario internacional.
+
+Nota metodologica: para o Candidato 2 (ICEI-CNI), a divulgacao oficial de hoje (14h) nao estava
+plenamente indexada nas fontes de busca no momento desta pesquisa -- o numero exato de setembro nao
+pode ser confirmado com seguranca, apenas a existencia da divulgacao e a tendencia recente da serie.
+Isso pesa contra o candidato (ver ressalva no proprio item) e reforca a leitura de dia fraco.
+
+============================================================
+CANDIDATO 1 -- "Panorama do Comercio" da FecomercioSP: varejo perdeu R$44,7 bi no semestre e fechou
+quase 14 mil vagas
+Fato: o boletim mensal "Panorama do Comercio", da FecomercioSP, divulgado em 10/09, aponta uma
+combinacao de estoques cheios (no maior nivel desde marco de 2023), juros ainda altos, familias e
+empresas endividadas e confianca do consumidor em queda como sinais de uma crise no varejo maior do
+que os numeros isolados sugerem. Como efeito direto dessa combinacao, o comercio perdeu R$44,7
+bilhoes em faturamento no primeiro semestre de 2026 e, para se ajustar, fechou quase 14 mil vagas
+formais no periodo (cortando custo/investimento/emprego para compensar a queda de receita).
+Fonte: Perfil News -- https://www.perfilnews.com.br/2026/09/10/panorama-do-comercio-de-setembro-o-varejo-emite-sinais-de-alerta-ao-pais/
+Score de Repercussao:
+- Frescor: 2/5 (boletim divulgado ha 4 dias, 10/09 -- nao e fato de hoje/ontem, mas segue sendo o
+  dado mais concreto e recente disponivel sobre a saude do varejo nesta janela)
+- Relevancia do protagonista: 1/5 (nao ha uma empresa ou marca especifica -- e um indicador setorial
+  agregado, o varejo brasileiro como um todo)
+- Gravidade: 3/5 (R$44,7 bi perdidos em 6 meses e quase 14 mil vagas fechadas sao numeros
+  concretos e fortes, ainda que seja um retrato acumulado, nao um evento pontual e disruptivo)
+- Polemica adjacente: 1/5 (tema tecnico de gestao/economia, sem carga politico-eleitoral relevante)
+- Volume de cobertura: 2/5 (replicado por poucos veiculos ate agora -- Perfil News e a fonte
+  primaria mais clara encontrada; e um boletim setorial, nao um furo de grande imprensa)
+- Clareza do angulo explicativo: 4/5 (cadeia direta e facil de contar em ate 2 min: estoque parado +
+  juro alto + consumidor mais cauteloso -> faturamento cai -> empresa corta vaga para sobreviver --
+  licao classica de gestao de estoque e caixa num trimestre mais fraco)
+- Identificacao com audiencia: 5/5 (estoque encalhado e a decisao de cortar posto de trabalho para
+  fechar a conta sao dores extremamente diretas e reconheciveis para qualquer dono de comercio/PME)
+TOTAL: 18/35
+Status: VENCEDOR DO DIA (ver CONCLUSAO abaixo sobre a forca deste "vencedor" num dia fraco)
+
+------------------------------------------------------------
+CANDIDATO 2 -- ICEI da CNI de setembro e divulgado hoje: industria segue em sequencia recorde de
+pessimismo
+Fato: a Confederacao Nacional da Industria (CNI) tinha divulgacao agendada para hoje (14/09), as
+14h, do Indice de Confianca do Empresario Industrial (ICEI) de setembro. RESSALVA IMPORTANTE: as
+fontes disponiveis nesta pesquisa confirmam a agenda de divulgacao de hoje, mas NAO trazem ainda o
+numero exato de setembro (divulgacao muito recente para as buscas realizadas). O que se sabe com
+seguranca pela serie historica: em julho, o ICEI marcou 46,2 pontos, completando 20 meses
+consecutivos abaixo da linha de 50 pontos (que separa confianca de falta de confianca) -- a
+sequencia mais longa de pessimismo industrial da serie historica da CNI.
+Fonte (agenda de divulgacao de hoje): Agencia CNI -- https://noticias.portaldaindustria.com.br/noticias/economia/agenda-cni-indice-de-confianca-do-empresario-industrial-por-setor/
+Fonte adicional (tendencia/historico, julho): Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/06/1252596-empresarios-da-industria-estao-pessimistas-ha-18-meses-consecutivos-diz-cni.html
+Score de Repercussao:
+- Frescor: 3/5 (a divulgacao e hoje, mas sem o numero exato confirmado em fonte, o "fato" fica
+  incompleto para efeito de pontuacao de frescor)
+- Relevancia do protagonista: 1/5 (indicador agregado, sem marca ou empresa por tras)
+- Gravidade: 2/5 (mais um mes de uma tendencia ja longa e conhecida -- nao e um evento disruptivo)
+- Polemica adjacente: 2/5 (leve conexao com o debate sobre juros altos, incerteza fiscal e o
+  calendario eleitoral que pressionam a industria, mas fator fraco)
+- Volume de cobertura: 2/5 (cobertura tecnica, concentrada em veiculos de industria/economia)
+- Clareza do angulo explicativo: 3/5 (juros altos + incerteza -> empresario industrial pessimista ha
+  quase 2 anos seguidos -> licao sobre planejar investimento num cenario de confianca baixa e
+  prolongada -- mas sem um numero fechado de hoje, o gancho fica mais fraco)
+- Identificacao com audiencia: 3/5 (relevante sobretudo para PME industrial; menos direto para
+  comercio/servicos, que sao maioria do publico do canal)
+TOTAL: 17/35
+Status: runner-up (com ressalva de dado nao confirmado -- se for usado, a Etapa 2 deve primeiro
+confirmar o numero exato de setembro na fonte oficial da CNI antes de roteirizar)
+
+------------------------------------------------------------
+CANDIDATO 3 -- Vespera do Copom: mercado precifica 95% de corte da Selic para 13,75% na quarta-feira
+Fato: nesta segunda-feira (14/09), a um dia da reuniao do Copom (15-16/09), o mercado de opcoes da
+B3 precificava cerca de 95% de probabilidade de um corte de 0,25 ponto percentual na Selic, de 14%
+para 13,75% ao ano -- decisao que sai quarta-feira a noite, no mesmo dia da decisao do Federal
+Reserve americano ("Superquarta"). A precificacao reflete sinais de perda de ritmo da economia
+brasileira: o PIB do 2o trimestre cresceu apenas 0,5%, o consumo das familias recuou 0,4% e o setor
+de servicos cresceu so 0,2% no periodo.
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/mercado-chance-selic-cair-1375-copom-setembro/
+Fonte adicional: SpaceMoney -- https://www.spacemoney.com.br/economia/macroeconomia/opcoes-copom-95-corte-selic-setembro
+Score de Repercussao:
+- Frescor: 3/5 (a expectativa vem se consolidando ha dias; a decisao real, que seria o fato forte,
+  so acontece amanha a noite -- hoje e apenas antecipacao)
+- Relevancia do protagonista: 1/5 (Banco Central/Selic, indicador macro, sem marca especifica)
+- Gravidade: 2/5 (seria mais um corte dentro de um ciclo de afrouxamento ja em curso havia meses,
+  nao uma surpresa ou mudanca de rota)
+- Polemica adjacente: 2/5 (leve conexao com o desempenho economico do governo as vesperas do
+  periodo eleitoral, mas sem carga forte no fato em si)
+- Volume de cobertura: 4/5 (amplamente coberto por Forbes, SpaceMoney, B3, Safra, Gazeta Mercantil e
+  praticamente todo o noticiario financeiro do dia)
+- Clareza do angulo explicativo: 2/5 (o problema estrutural deste candidato: e uma expectativa sobre
+  um fato que ainda vai acontecer, nao um fato consumado -- dificil abrir um video de "o que
+  aconteceu" sobre uma decisao que so sai amanha)
+- Identificacao com audiencia: 4/5 (o custo do juro -- para caixa, credito e parcelamento -- e dor
+  ou alivio direto e imediato de qualquer dono de PME endividada)
+TOTAL: 18/35
+Status: runner-up (empatou em pontuacao com o Candidato 1, mas perdeu no criterio de desempate por
+GRAVIDADE -- ver CONCLUSAO. Se a decisao antecipar corte for confirmada quarta, este tema pode voltar
+mais forte e com fato consumado nos proximos dias)
+
+------------------------------------------------------------
+CANDIDATO 4 -- Confianca do comercio (Icec, CNC) recua ao menor nivel do ano
+Fato: o Indice de Confianca do Empresario do Comercio (Icec), da Confederacao Nacional do Comercio
+(CNC), teria recuado ao menor nivel de 2026, puxado principalmente por uma queda de 2,5% na
+avaliacao das Condicoes Atuais; as intencoes de investimento tambem cairiam 0,3%. Apesar da queda, o
+indice seguiria acima da marca de 100 pontos (zona de otimismo), com o subindice de Expectativas
+Futuras a 128,2 pontos. RESSALVA: nao foi possivel confirmar com seguranca, nas fontes acessadas
+nesta pesquisa, se o dado se refere ao mes de agosto ou setembro de 2026 -- por isso a pontuacao de
+frescor fica baixa e o candidato deve ser tratado com cautela.
+Fonte: Sincomavi -- https://sincomavi.org.br/?p=16989
+Score de Repercussao:
+- Frescor: 2/5 (mes de referencia incerto nas fontes disponiveis)
+- Relevancia do protagonista: 1/5 (indicador agregado, sem marca ou empresa)
+- Gravidade: 2/5 (e um dado de pesquisa mensal de rotina, ainda que aponte piora)
+- Polemica adjacente: 1/5 (sem carga politica relevante)
+- Volume de cobertura: 2/5 (replicacao regional limitada nas fontes encontradas)
+- Clareza do angulo explicativo: 3/5 (juro alto + condicoes atuais piores, mas expectativa futura
+  ainda otimista -> licao sobre navegar o curto prazo apertado sem perder a visao de medio prazo --
+  angulo possivel, mas pouco visual/concreto)
+- Identificacao com audiencia: 4/5 (confianca do proprio comerciante no presente x no futuro e um
+  termometro que qualquer dono de loja reconhece)
+TOTAL: 15/35
+Status: runner-up mais fraco (no piso minimo de qualidade, com ressalva adicional de data incerta)
+
+------------------------------------------------------------
+CANDIDATO 5 (para registro, DESQUALIFICADO POR REPETICAO) -- Petroleo dispara com Houthis tomando o
+porto de Mokha e a ilha de Perim no Mar Vermelho
+Fato: em 10-11/09, forcas houthis (apoiadas pelo Ira) tomaram o porto iemenita de Mokha e a
+estrategica ilha de Perim, na entrada sul do Mar Vermelho -- abrindo uma nova frente na guerra e
+ameacando ainda mais o Estreito de Bab-el-Mandeb, por onde passa cerca de 10% do petroleo mundial. O
+Brent disparou para acima de US$ 105-107 o barril (alta de mais de 4% num unico pregao) e segue
+pressionado hoje. E, isoladamente, o fato com maior forca bruta do noticiario internacional desta
+segunda-feira.
+Fonte: CNBC -- https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html
+Fonte adicional: NPR -- https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port
+Status: DESQUALIFICADO POR REPETICAO DE ASSUNTO -- e o mesmo tema de fundo (escalada da guerra no
+Oriente Medio disparando o preco do petroleo) que ja foi VENCEDOR deste pipeline duas vezes dentro da
+janela de 10 dias corridos: em 07/09 (primeira escalada no Estreito de Ormuz) e em 11/09 (nova alta
+do petroleo + pacote de subsidio do governo brasileiro ao diesel/gasolina). Mantido aqui apenas para
+registro -- nao pode ser o vencedor de hoje.
+
+============================================================
+GUARDRAIL POLITICO: nenhum dos candidatos pontuados teve o fator "Polemica adjacente" como
+determinante para o resultado (todos entre 1/5 e 2/5) -- portanto nao ha ressalva reforcada alem do
+padrao do canal para hoje. Ainda assim, por padrao: o roteiro da Etapa 2, se usar o Candidato 1
+(Panorama do Comercio) ou qualquer runner-up, deve tratar exclusivamente do angulo de gestao/negocio
+-- estoque, fluxo de caixa, corte de custo e planejamento em cenario de juro alto -- sem citar
+governo, eleicao ou qualquer ator politico.
+
+CONCLUSAO DO DIA: hoje foi, isoladamente, o dia mais fraco em fatos NOVOS e concretos desta janela de
+pesquisa -- nao por falta de noticiario (o petroleo dispara, o Copom se aproxima, a CNI divulga
+indicador), mas porque o fato mais forte do dia (petroleo/Mar Vermelho) repete tema ja coberto duas
+vezes na janela de 10 dias, o segundo mais forte (Selic) ainda nao aconteceu de fato (decisao so sai
+amanha), e o terceiro (ICEI) teve a divulgacao de hoje sem numero confirmavel nas fontes acessadas.
+Descontados esses problemas estruturais, o Candidato 1 -- Panorama do Comercio da FecomercioSP (R$44,7
+bi perdidos no semestre, quase 14 mil vagas fechadas) -- fica como o mais defensavel: nao e um fato de
+hoje, mas e o unico com numero concreto, confirmado e com angulo de gestao pratico e de altissima
+identificacao para o publico de PME do canal. Ainda assim, com 18/35 (empate tecnico com o Candidato
+3, resolvido por maior gravidade), fica muito abaixo da faixa de 27-31/35 que caracterizou os
+vencedores mais fortes desta janela (Correios, bancarios, petroleo/subsidio, Banco Master, Trump/
+carne). RECOMENDACAO: se a producao preferir nao publicar um video de repercussao hoje por essa
+fraqueza geral, e uma decisao defensavel -- o dia de amanha (decisao efetiva do Copom, quarta-feira)
+tende a trazer um fato consumado bem mais forte e fresco que qualquer candidato de hoje. VENCEDOR DO
+DIA (se a producao decidir seguir mesmo assim): Candidato 1 (18/35).
