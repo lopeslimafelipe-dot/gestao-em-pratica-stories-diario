@@ -1,0 +1,39 @@
+PAUTA DO DIA -- 2026-09-14
+Assunto: Varejo perdeu R$44,7 bi no semestre e fechou quase 14 mil vagas ("Panorama do Comercio", FecomercioSP)
+Score final: 18/35 (Frescor 2/5, Relevancia do protagonista 1/5, Gravidade 3/5, Polemica adjacente 1/5, Volume de cobertura 2/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: o boletim mensal "Panorama do Comercio", da FecomercioSP (Federacao do Comercio de Bens, Servicos e Turismo do Estado de Sao Paulo), divulgado em 10/09/2026, mostra que o comercio brasileiro perdeu R$44,7 bilhoes em faturamento no primeiro semestre de 2026 e, para se ajustar, fechou quase 14 mil vagas formais no periodo. Confirmado via busca (WebSearch) contra a materia original da Perfil News -- o numero de R$44,7 bi e a cifra de quase 14 mil vagas aparecem de forma consistente em multiplas buscas independentes. Fonte: Perfil News -- https://www.perfilnews.com.br/2026/09/10/panorama-do-comercio-de-setembro-o-varejo-emite-sinais-de-alerta-ao-pais/ (WebFetch direto bloqueado pela politica de rede deste ambiente; verificacao feita por WebSearch, conferindo se os trechos retornados batiam com o rascunho -- bateram).
+
+Cadeia causal (o que levou a isso):
+1. Estoques acumulados: comerciantes paulistas relatam mercadoria parada nas prateleiras no maior nivel desde marco de 2023 (FecomercioSP).
+2. Juros ainda altos: Selic em 14% ao ano (decisao do Copom so sai na quarta-feira, 16/09), encarecendo capital de giro e credito ao consumidor.
+3. Familias e empresas endividadas: 82% das familias brasileiras estavam endividadas em junho/2026, o maior patamar da serie historica (CNC/PEIC); o comprometimento de renda com dividas esta em quase 30%, o maior nivel desde 2019 (Banco Central).
+4. Resultado: consumidor mais cauteloso, confianca em queda -> vendas nao escoam o estoque -> faturamento cai R$44,7 bi no semestre.
+5. Reacao das empresas: para equilibrar a conta sem receita suficiente, o setor cortou quase 14 mil vagas formais no periodo -- corte de custo como resposta direta a queda de caixa, nao um evento isolado.
+
+Por que esta repercutindo agora: e o unico candidato do dia com numero concreto, oficial e confirmado (Frescor 2/5 porque o boletim e de 10/09, nao de hoje, mas segue sendo o dado mais solido disponivel numa segunda-feira fraca em fatos novos -- o noticiario de negocios esta em compasso de espera pelo Copom de terca/quarta). O que mais pesa no score e a Identificacao com audiencia (5/5): estoque encalhado e a decisao de cortar posto de trabalho para fechar a conta sao dores diretas e reconheciveis para qualquer dono de comercio/PME. A Clareza do angulo explicativo (4/5) tambem ajuda -- a cadeia estoque -> juro -> consumo -> caixa -> corte e facil de contar em 30s-2min.
+
+Angulo de gestao sugerido: como evitar que estoque parado vire corte de gente -- planejamento de compras/reposicao mais conservador num cenario de juro alto e consumo fraco, giro de estoque como metrica de sobrevivencia (nao so de vendas), e a logica de proteger caixa ANTES de cortar equipe (o corte de vagas e o ultimo recurso, nao o primeiro). Nunca o angulo politico, fiscal ou eleitoral por tras dos juros/Selic.
+
+Dados de apoio:
+- Faturamento do varejo paulista caiu 8,8% no 1o semestre de 2026 (Pesquisa Conjuntural do Comercio Varejista -- PCCV/FecomercioSP, via Sindilojas-SP) -- https://sindilojas-sp.org.br/faturamento-do-varejo-paulistano-tem-queda-de-88-no-1-semestre-de-2026/ -- segmentos mais atingidos: eletrodomesticos/eletronicos/lojas de departamento (-25,0%), materiais de construcao (-15,5%), supermercados (-6,9%).
+- Endividamento das familias brasileiras chegou a 82% em junho/2026, maior patamar da serie historica (CNC, Pesquisa de Endividamento e Inadimplencia do Consumidor -- PEIC).
+- Comprometimento de renda das familias com dividas em quase 30%, o maior nivel desde 2019 (Banco Central).
+- Estoques no comercio paulista no maior nivel desde marco de 2023 (FecomercioSP, Panorama do Comercio).
+
+Ressalva/limite: o fato-base e de 10/09 (4 dias antes da publicacao), nao um acontecimento do proprio dia -- apresentar como "o retrato mais recente e concreto do varejo nesta janela", nao como noticia de hoje. O fator "Polemica adjacente" pontuou baixo (1/5) e NAO foi determinante para o resultado -- ainda assim, por padrao do canal, o roteiro deve tratar exclusivamente do angulo de gestao (estoque, fluxo de caixa, corte de custo, planejamento em juro alto), sem citar governo, eleicao, Copom como decisao politica ou qualquer ator politico. Os juros/Selic entram so como fator economico objetivo (o preco do dinheiro), nunca como debate sobre politica monetaria do governo.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: "o comercio brasileiro perdeu R$44,7 bilhoes em 6 meses -- e fechou quase 14 mil vagas pra sobreviver"
+- Contexto/causa raiz: estoque parado no maior nivel desde 2023 + juro alto + consumidor endividado (82% das familias)
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo): como estoque parado vira problema de caixa, e como caixa apertado vira corte de gente -- passo a passo, com os dados de apoio
+- Licao de gestao (a virada): giro de estoque como metrica de sobrevivencia; proteger caixa antes de cortar equipe
+- Fechamento + CTA
+
+Fonte(s): Perfil News -- https://www.perfilnews.com.br/2026/09/10/panorama-do-comercio-de-setembro-o-varejo-emite-sinais-de-alerta-ao-pais/
+
+Runners-up do dia (registro/transparencia):
+- Candidato 2 -- ICEI da CNI de setembro (divulgacao de hoje, numero exato nao confirmado nas fontes disponiveis): 17/35
+- Candidato 3 -- Vespera do Copom, mercado precifica 95% de corte da Selic para 13,75% na quarta-feira: 18/35 (empatou com o vencedor, perdeu no desempate por Gravidade)
+- Candidato 4 -- Confianca do comercio (Icec/CNC) recua ao menor nivel do ano, com ressalva de mes de referencia incerto: 15/35
+- Candidato 5 (desqualificado por repeticao de assunto, fora da disputa) -- petroleo dispara com Houthis tomando porto de Mokha e ilha de Perim no Mar Vermelho -- ja foi vencedor deste pipeline em 07/09 e 11/09
