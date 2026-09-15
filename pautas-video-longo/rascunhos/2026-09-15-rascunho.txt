@@ -1,0 +1,130 @@
+RADAR DE REPERCUSSAO -- ETAPA 1 (PESQUISA E PONTUACAO)
+Canal: Entre Gestores -- 15/09/2026 (terca-feira)
+
+Candidatos levantados hoje em fontes de negocios (G1, InfoMoney, Exame, Jornal do Comercio,
+ND Mais, CNI direto, Estadao/Valor via buscas, agregadores usados so pra medir volume de
+cobertura). Checagem de repeticao feita contra os ultimos 10 dias corridos deste PROPRIO
+pipeline (pautas-video-longo/rascunhos e /saidas), ignorando o que o Curador de Noticias
+publicou nas pastas da raiz.
+
+------------------------------------------------------------
+
+CANDIDATO 1 -- CNI: industria brasileira completa 21 meses seguidos sem confianca na atividade
+economica, o maior periodo de pessimismo desde 2015
+Fato: O ICEI (Indice de Confianca do Empresario Industrial), divulgado pela propria CNI
+ontem (14/09), caiu 1,4 ponto em setembro, de 46,3 para 44,9 pontos -- 21o mes consecutivo
+abaixo da linha dos 50 pontos (que separa confianca de falta de confianca), o maior periodo
+de pessimismo do indicador desde 2015/2016 (anos da pior recessao recente do pais). A
+percepcao dos empresarios sobre a economia brasileira caiu ainda mais forte: de 36,6 para 33
+pontos. A pesquisa ouviu 1.186 empresas (475 pequenas, 441 medias, 270 grandes) entre
+1o e 8/09/2026.
+Fonte: Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/09/1263286-cni-industria-completa-21-meses-sem-confiar-na-atividade-maior-periodo-desde-2015.html
+(mesmo fato replicado por Diario do Grande ABC, GMC Online, Perfil News e ADVFN News, o que
+confirma volume de cobertura -- fato confirmado tambem no calendario/pesquisas da propria CNI)
+Score de Repercussao:
+- Frescor: 4/5 (divulgado ontem, 14/09)
+- Relevancia do protagonista: 3/5 (CNI e instituicao respeitada, mas o "protagonista" real e
+  algo mais abstrato -- "a industria brasileira" -- nao uma marca que o publico leigo reconhece
+  de cara como reconheceria uma Correios ou Casas Bahia)
+- Gravidade: 4/5 (recorde de pessimismo desde 2015 e dado serio, ainda que seja um indicador,
+  nao um evento isolado e visivel como uma quebra ou demissao em massa)
+- Polemica adjacente: 3/5 (o pessimismo empresarial encosta na discussao maior sobre a conducao
+  da politica economica e dos juros no pais, sem que o video precise entrar nesse merito)
+- Volume de cobertura: 3/5 (replicado em varios veiculos regionais e especializados no mesmo
+  dia, mas nao virou manchete de capa dos grandes portais nacionais)
+- Clareza do angulo: 4/5 (cadeia direta: confianca despenca -> empresario trava investimento e
+  contratacao -> licao de gestao sobre como decidir e planejar mesmo num cenario de baixa
+  confianca, em vez de simplesmente paralisar o negocio)
+- Identificacao com audiencia: 5/5 (e exatamente o que o dono de PME sente no dia a dia --
+  duvida se investe, se contrata, se expande, com juro alto e cenario incerto)
+TOTAL: 4+3+4+3+3+4+5 = 26/35
+Status: VENCEDOR DO DIA
+
+>>> SINALIZACAO GUARDRAIL POLITICO (fator "Polemica adjacente" pesou de forma moderada -- 3/5 --
+no score do vencedor): o roteiro final NAO deve comentar o merito da politica economica do
+governo, nao deve citar Lula, ministros ou qualquer figura politica de forma critica ou
+elogiosa, nem tomar posicao sobre se os juros estao certos ou errados. O angulo fica 100% em
+gestao/negocio: o que fazer com o proprio negocio quando o empresariado como um todo esta
+pessimista ha quase 2 anos -- planejamento em cenario de incerteza prolongada, sem contar com
+"o cenario vai melhorar" pra sustentar decisao.
+
+------------------------------------------------------------
+
+CANDIDATO 2 (para registro, DESQUALIFICADO POR REPETICAO) -- Correios: emprestimo de R$7 bi
+com aval do Tesouro deve ser assinado hoje, em meio a greve nacional por tempo indeterminado
+Fato: Correios devem fechar hoje (15/09) contrato de emprestimo de R$7 bilhoes com quatro
+bancos privados (Banco ABC, Citibank, Deutsche Bank e JPMorgan), com aval do Tesouro Nacional,
+taxa de 114,26% do CDI e 15 anos de prazo (3 de carencia). A estatal acumula 15 trimestres
+seguidos de prejuizo (R$5,6 bi so no 1o semestre de 2026) e segue em greve nacional por tempo
+indeterminado desde 11/09 (5o dia hoje), com julgamento do dissidio marcado para 21/09 no TST.
+Fonte: Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/09/1262922-correios-formalizam-pedido-de-novo-emprestimo-de-rs-7-bi-com-quatro-bancos.html
+e NSC Total (greve) -- https://www.nsctotal.com.br/economia/greve-dos-correios-nao-tem-previsao-para-acabar-veja-como-ficam-as-entregas
+Score de Repercussao (calculado so pra registro):
+- Frescor: 4/5 | Relevancia do protagonista: 5/5 | Gravidade: 4/5 | Polemica adjacente: 3/5 |
+  Volume de cobertura: 4/5 | Clareza do angulo: 4/5 | Identificacao com audiencia: 3/5
+TOTAL: 27/35 (maior score bruto do dia)
+Status: DESQUALIFICADO POR REPETICAO -- Correios ja foi VENCEDOR DO DIA deste mesmo pipeline em
+09/09/2026 (as vesperas da assembleia/greve) e novamente em 09/12/2026 (entrada em greve por
+tempo indeterminado), ambos dentro da janela de 10 dias corridos. O fato de hoje (fechamento do
+emprestimo bilionario) e uma evolucao real da mesma historia, mas e essencialmente o mesmo
+protagonista e o mesmo pano de fundo (crise financeira + greve dos Correios) ja explorado duas
+vezes recentemente -- mesmo criterio ja aplicado pelo proprio pipeline em 13/09/2026. Mantido
+aqui apenas como registro, nao concorre ao titulo de vencedor.
+
+------------------------------------------------------------
+
+CANDIDATO 3 -- Sodimac reduz rede no Brasil em quase 14%, fecha 7 megalojas e demite
+Fato: A varejista chilena de material de construcao Sodimac (grupo Falabella) fechou 7
+megalojas no interior e litoral de Sao Paulo (Santos, Mogi Guacu, Guaratingueta e Santa Barbara
+d'Oeste), reduzindo a rede brasileira de 51 para 44 lojas -- a maior contracao desde a expansao
+em 2013 -- e cortou pessoal nas unidades fechadas. A empresa atribui a decisao a queda nas
+vendas causada pelos juros em dois digitos desde 2022, e diz nao ter previsao de novos
+fechamentos.
+Fonte: ND Mais -- https://ndmais.com.br/economia/materiais-de-construcao-sodimac-fecha-megalojas-demite-funcionarios-sp/
+Score de Repercussao:
+- Frescor: 1/5 (fato ja vinha sendo noticiado desde 10-11/09, quase uma semana atras)
+- Relevancia do protagonista: 2/5 (marca conhecida por quem frequenta loja de material de
+  construcao, mas sem o alcance de uma Casas Bahia ou Correios)
+- Gravidade: 3/5 (queda de 14% na rede e significativa pro setor, mas nao e falencia/RJ)
+- Polemica adjacente: 1/5 (sem conexao com debate publico maior)
+- Volume de cobertura: 3/5 (varios portais regionais cobriram, pouca presenca nos grandes
+  veiculos nacionais)
+- Clareza do angulo: 4/5 (juro alto -> vendas caem -> reduz operacao fisica -> licao sobre
+  redimensionar o negocio a tempo, antes que o caixa force a decisao)
+- Identificacao com audiencia: 4/5 (juro alto travando vendas e dor real de qualquer varejista)
+TOTAL: 1+2+3+1+3+4+4 = 18/35
+Status: runner-up (fraco, principalmente por falta de frescor -- fato ja "requentado")
+
+------------------------------------------------------------
+
+CANDIDATO 4 -- Copom se reune hoje e amanha; mercado espera 5o corte seguido da Selic, a 13,75%
+Fato: O Copom se reune nesta segunda (15) e terca (16) de setembro para decidir sobre a Selic.
+Casas como a XP projetam corte de 0,25 p.p., levando a taxa basica de 14% para 13,75% ao ano --
+5o corte consecutivo no ciclo, em meio a desaceleracao da atividade e da inflacao. A decisao so
+sai amanha a noite, apos o segundo dia de reuniao.
+Fonte: Remessa Online -- https://www.remessaonline.com.br/blog/reuniao-copom-setembro-2026/
+Score de Repercussao:
+- Frescor: 2/5 (reuniao comeca hoje, mas o fato concreto -- a decisao -- so sai amanha; hoje e
+  so expectativa de mercado)
+- Relevancia do protagonista: 3/5 (Banco Central/Selic afeta todo empresario, mas nao e "marca"
+  no sentido de fama de empresa)
+- Gravidade: 2/5 (ajuste dentro de um ciclo ja bem sinalizado pelo mercado, sem ruptura)
+- Polemica adjacente: 2/5 (juros sempre tem viés politico de fundo, mas o corte ja e amplamente
+  esperado, pouca tensao nova)
+- Volume de cobertura: 3/5 (cobertura ampla, mas e evento recorrente e ja precificado)
+- Clareza do angulo: 3/5 (da pra explicar o que juro em queda muda pro credito da PME, mas o
+  fato principal ainda nao aconteceu hoje)
+- Identificacao com audiencia: 4/5 (juro e o assunto no 1 de qualquer dono de negocio)
+TOTAL: 2+3+2+2+3+3+4 = 19/35
+Status: runner-up (fraco -- fato principal ainda nao se consumou hoje, decisao so sai amanha)
+
+------------------------------------------------------------
+
+CONCLUSAO: Dia com poucos fatos realmente novos e estrondosos batendo hoje (nada como uma
+recuperacao judicial subita ou uma demissao em massa anunciada agora). O vencedor -- CNI/ICEI
+-- passa folgado do piso de ~15/35 e e o unico candidato do dia sem problema de frescor
+requentado nem de repeticao de assunto/empresa deste pipeline nos ultimos 10 dias. Correios
+teria o maior score bruto (27/35), mas foi desqualificado por repeticao (ja venceu 2x na janela
+de 10 dias). Vale considerar Correios de novo apenas se, em dias futuros, houver um fato
+qualitativamente diferente (ex.: fim da greve, ou o emprestimo nao sair e a estatal entrar em
+colapso de caixa) -- nao a mera continuacao do enredo ja coberto.
