@@ -1,0 +1,57 @@
+ROTEIRO 1 — 71% dizem usar tecnologia. Só 6% integram de ponta a ponta
+"Uma pesquisa da Pipefy com 148 empresas do Brasil e dos EUA mostrou que 71% das empresas já usam alguma tecnologia de automação. 🟡`Mas só 6% aplicam isso de ponta a ponta nos processos — o resto trava na integração com sistema legado ou na costura manual entre uma etapa e outra.`🟡 Vale lembrar: a pesquisa é da própria Pipefy, que vende automação. 🟡`Mesmo assim, o dado é real: ter ferramenta não é o mesmo que ter processo integrado.`🟡 A pergunta não é se sua empresa 'tem' automação — é quantas etapas ainda dependem de alguém copiar e colar informação de um sistema pro outro."
+Fonte: TI Inside — https://tiinside.com.br/14/09/2026/71-das-empresas-usam-a-tecnologia-mas-so-6-a-aplicam-de-ponta-a-ponta-no-brasil-aponta-pipefy/
+
+===================================================================
+
+ROTEIRO 2 — De R$500 milhões a 25 lojas novas: a aposta da Mundo Verde no Norte e Nordeste
+"🟡`A Mundo Verde, rede carioca de produtos saudáveis, faturou R$500 milhões em 2025 e projeta chegar a 25 novas lojas até 2027, com 10 já abertas neste ano, segundo a Exame.`🟡 Em vez de brigar mais um pouco pelo Sul e Sudeste, já saturados de concorrente, a rede está mirando o Norte e o Nordeste. 🟡`Às vezes crescer rápido não é ir pra onde todo mundo já está — é chegar primeiro onde quase ninguém chegou ainda.`🟡 Sua empresa está brigando por mercado disputado, ou olhando pra onde ainda dá pra chegar na frente?"
+Fonte: Exame — https://exame.com/negocios/apos-alcancar-meio-bilhao-loja-de-produtos-saudaveis-prepara-abertura-de-25-novas-unidades/
+
+===================================================================
+
+ROTEIRO 3 — A confiança do consumidor paulistano caiu — e o motivo não é só o bolso apertado
+"O Índice de Confiança do Consumidor da FecomercioSP, que mede a confiança de quem compra em São Paulo, caiu 1,5% em setembro e foi a 110,2 pontos — uma queda de 10,6% em um ano. 🟡`O motivo, segundo a própria Fecomercio, não é só o bolso apertado agora: é estoque cheio, juro alto e famílias e empresas endividadas ao mesmo tempo.`🟡 🟡`Quem monta estoque pro fim de ano sem olhar esse dado pode estar apostando num otimismo que o próprio consumidor já não tem.`🟡 Seu planejamento de outubro a dezembro já considerou isso, ou ainda parte do otimismo de anos anteriores?"
+Fonte: FecomercioSP — https://fecomercio.com.br/public/noticia/confianca-do-consumidor-recua-em-setembro-e-ultimo-trimestre-do-ano-deve-ter-ritmo-mais-moderado-no-comercio
+
+===================================================================
+
+ROTEIRO 4A — A Deloitte projeta o Natal mais caro (e mais digital) da história dos EUA
+"A Deloitte projeta o Natal mais caro da história dos Estados Unidos: as vendas de fim de ano devem crescer entre 4% e 4,8%, batendo recorde de US$1,70 a US$1,71 trilhão. 🟡`Só que o comércio digital deve crescer entre 7,5% e 8,4% — quase o dobro do ritmo da loja física.`🟡 🟡`Se o seu plano de fim de ano ainda trata o site ou o WhatsApp de vendas como canal secundário, os números dizem que essa conta pode estar errada.`🟡 Vale lembrar que quem faz a previsão vende consultoria pro varejo — mas é a referência do setor nos EUA há anos."
+Fonte: Deloitte, via PR Newswire — https://www.prnewswire.com/news-releases/deloitte-forecasts-holiday-retail-sales-to-reach-1-70-trillion-to-1-71-trillion-302874356.html
+
+===================================================================
+
+ROTEIRO 4B — Os EUA criaram mais vagas que o esperado — mas ninguém contrata na mesma proporção que cresce
+"Os Estados Unidos criaram 162 mil vagas em agosto, bem mais que o esperado — e o desemprego ficou estável em 4,1%, segundo o governo americano. 🟡`Mesmo assim, economistas da EY-Parthenon descrevem esse crescimento como 'morno, porém estável': empresas estão ganhando eficiência, com automação e IA, em vez de simplesmente contratar mais gente.`🟡 🟡`A pergunta pra qualquer gestor: quando a empresa cresce e o quadro não acompanha na mesma proporção, isso é eficiência de verdade ou é conta que ainda vai chegar?`🟡 Vale lembrar: o número de vagas é dado oficial do governo — a leitura sobre eficiência é da consultoria EY."
+Fonte: EY — https://www.ey.com/en_us/insights/strategy/macroeconomics/employment-report
+
+===================================================================
+
+ROTEIRO 5 — Empresa endividada com a União tem até 30/9 pra negociar dívida de até R$45 milhões
+"Se sua empresa deve pra União, tem até 30 de setembro, às 19h, pra negociar essa dívida com desconto — vale pra qualquer CNPJ ou CPF com débito de até R$45 milhões, pelo Portal Regularize. 🟡`O desconto pode chegar a 65% do valor total da dívida — ou 70% se a empresa estiver em recuperação judicial.`🟡 É um programa diferente do Desenrola MEI, que atende só microempreendedor com dívida de até R$20 mil — este vale pra empresa de porte médio também. 🟡`Não é perdão automático, é negociação com prazo real — quem não sabe que ela existe vai continuar pagando a dívida cheia depois que a janela fechar.`🟡"
+Fonte: PGFN / Gov.br — https://www.gov.br/pgfn/pt-br/servicos/orientacoes-contribuintes/acordo-de-transacao/edital-no-6-2026/transacao-de-pequeno-valor-edital-ndeg-06-2026
+
+===================================================================
+
+ROTEIRO 6 — A Hugo Boss perdeu o presidente do conselho pra um investidor que queria mais poder
+"A Hugo Boss anunciou que o presidente do conselho de administração, Stephan Sturm, vai deixar o cargo, depois de meses de pressão do grupo britânico Frasers, que já detém 47,89% da marca alemã e quer o controle total. Vale lembrar: Sturm era presidente do conselho, não CEO — a empresa não trocou de comando executivo. 🟡`Ele nem discordava dos números da empresa — discordava de vender o controle pro comprador errado.`🟡 🟡`Às vezes o maior risco de gestão não é o mercado — é quem está comprando silenciosamente a sua própria cadeira.`🟡 Você sabe quem hoje tem poder de voto suficiente pra mudar o comando da sua empresa?"
+Fonte: Bloomberg — https://www.bloomberg.com/news/articles/2026-09-14/hugo-boss-chairman-sturm-to-step-down-amid-frasers-pressure
+
+===================================================================
+
+ROTEIRO 7 — Canal de TV britânico corta 28% do quadro pra tirar camada de gestão do meio
+"A CEO da emissora pública britânica Channel 4, Priya Dogra, confirmou o corte de 340 vagas até o fim do ano — 28% de todo o quadro de funcionários. 🟡`O motivo, segundo a própria empresa, não é crise financeira: é excesso de camada de gestão atravancando decisão simples — a emissora até foi chamada ao Parlamento britânico pra explicar o plano.`🟡 🟡`Antes de contratar mais um nível de gerência pra organizar melhor, vale perguntar se ele vai ajudar a decidir mais rápido ou só vai virar mais uma camada pra atravessar.`🟡"
+Fonte: BroadbandTVNews — https://www.broadbandtvnews.com/2026/09/09/channel-4-confirms-340-job-cuts-as-part-of-transformation-strategy/
+
+===================================================================
+
+ROTEIRO 8 — Recorde: quase 20 mil vagas abertas pra pessoas com deficiência no Brasil
+"A plataforma Inclui PcD, da startup Egalite, anunciou um recorde de 19.586 vagas ativas para pessoas com deficiência no Brasil neste mês de setembro — o maior número desde o início do projeto, em 2020. 🟡`São vagas de empresas como Raia Drogasil, Petrobras, PepsiCo, Klabin e Heineken, e todo o processo — do cadastro à contratação — é gratuito pro candidato.`🟡 🟡`Não é uma empresa fazendo campanha de inclusão por uma semana — é dado de contratação real, em escala.`🟡 Sua empresa trata inclusão como processo de RH de verdade, ou só lembra que ela existe perto de uma data comemorativa?"
+Fonte: ESG Inside — https://esginside.com.br/2026/09/09/mes-da-inclusao-grandes-empresas-oferecem-mais-de-19-mil-vagas-para-pessoas-com-deficiencia-no-pais/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] Sua empresa usa automação de ponta a ponta, ou só em pedaços soltos do processo? De ponta a ponta / Só em pedaços soltos
+2. [Pergunta/Participação, Roteiro 2] Você já apostou em expandir pra uma região onde quase não tinha concorrente, antes de brigar pelo mercado mais disputado? Conta aqui como foi 👇
+3. [Virar História, Roteiro 5 -> Quadro Branco] O roteiro 5 (PGFN) tem várias camadas de informação — 4 modalidades, desconto de até 65%/70% e entrada parcelada — que ficam bem mais claras desenhadas passo a passo no quadro branco do que só faladas.
