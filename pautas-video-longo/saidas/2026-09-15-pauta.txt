@@ -1,0 +1,40 @@
+PAUTA DO DIA -- 2026-09-15
+Assunto: Indústria brasileira completa 21 meses seguidos sem confiança na atividade econômica (ICEI/CNI)
+Score final: 26/35 (Frescor: 4/5 | Relevância do protagonista: 3/5 | Gravidade: 4/5 | Polêmica adjacente: 3/5 | Volume de cobertura: 3/5 | Clareza do ângulo: 4/5 | Identificação com audiência: 5/5)
+
+Fato central verificado: O Índice de Confiança do Empresário Industrial (ICEI), divulgado pela Confederação Nacional da Indústria (CNI) na segunda-feira (14/09/2026), caiu 1,4 ponto em setembro, de 46,3 para 44,9 pontos. O índice segue abaixo da linha dos 50 pontos (que separa confiança de pessimismo) pelo 21º mês consecutivo -- o período mais longo de pessimismo já registrado pela série histórica da CNI, superando inclusive a recessão de 2015/2016. A queda foi generalizada entre os componentes do índice: a avaliação das condições atuais da economia brasileira caiu de 36,6 para 33 pontos (a maior queda entre os subitens), a percepção sobre o futuro da economia foi de 39,7 para 39,1, e as expectativas dos empresários sobre as PRÓPRIAS empresas caíram de 52,3 para 51,3 -- mas seguem acima da linha dos 50, ou seja, o empresário industrial ainda confia mais no próprio negócio do que no país como um todo. A pesquisa ouviu 1.186 empresas industriais (475 pequenas, 441 médias, 270 grandes) entre 1º e 8/09/2026. Fato confirmado de forma consistente em múltiplas fontes (Jornal do Comércio, Agência Brasil, e dezenas de veículos regionais que replicaram o release da CNI no mesmo dia).
+
+Cadeia causal (o que levou a isso):
+1) Juros em patamar elevado há anos (Selic em dois dígitos desde 2022) encarecem o crédito ao consumidor final -> aumentam o endividamento e a inadimplência das famílias -> reduzem a demanda por bens industriais. Segundo Mario Sergio Telles, diretor de Desenvolvimento Industrial da CNI, "juros altos desestimularam investimentos, encareceram o crédito ao consumidor, aumentando o endividamento e a inadimplência das pessoas e, consequentemente, restringiram a demanda por bens industriais".
+2) Essa demanda já em queda é ainda mais disputada pela entrada de produtos importados: as importações de bens de consumo cresceram 16% no primeiro semestre de 2026, capturando fatia da demanda interna que já estava encolhendo.
+3) Resultado prático na produção: a indústria de transformação (o "chão de fábrica" que emprega, diferente da indústria extrativa) teve o PIB do setor recuando 0,4% no 2º trimestre de 2026, acumulando queda de 1,1% em 12 meses -- e a CNI já sinaliza que pode revisar para baixo a projeção de crescimento do setor em 2026.
+4) Isso se arrasta há quase 2 anos: mesmo as melhoras pontuais registradas em alguns meses de 2026 não foram suficientes para tirar o índice do patamar de pessimismo -- ou seja, não é um mês ruim isolado, é um empresariado que aprendeu a não confiar em "sinais de melhora" isolados.
+
+Por que está repercutindo agora: é um dado fresco (divulgado ontem, replicado amplamente no mesmo dia em veículos regionais e especializados) que bate direto na dor mais universal do dono de PME -- a dúvida constante sobre investir, contratar ou expandir num cenário que nunca parece "seguro o suficiente". Não é um evento isolado e visual (como uma demissão em massa), mas o recorde histórico (pior período desde 2015/2016) dá peso e contexto para a conversa.
+
+Ângulo de gestão sugerido: como decidir e planejar o próprio negócio quando o empresariado como um todo está pessimista há quase 2 anos -- sem esperar "o cenário melhorar" para sustentar decisões de investimento e contratação. A pista mais forte veio do próprio dado: empresários confiam mais na própria empresa (51,3 pontos, ainda positivo) do que na economia do país (33 pontos, deep no pessimismo). Isso vira o gancho central do vídeo: o dono de PME não controla a Selic nem o câmbio, mas controla a gestão do próprio negócio -- e é aí que a confiança dele ainda está acima da linha.
+
+Dados de apoio:
+- Importação de bens de consumo cresceu 16% no 1º semestre de 2026, pressionando a indústria nacional (fonte: CNI, via Movimento Econômico -- https://movimentoeconomico.com.br/economia/industria-empresas/2026/09/02/cni-juros-altos-e-explosao-de-importados-sufocam-a-industria-de-transformacao/).
+- PIB da indústria de transformação: -0,4% no 2º tri/2026, -1,1% acumulado em 12 meses (mesma fonte acima).
+- Apesar do pessimismo concentrado na indústria de transformação, a CNI mantém a projeção de crescimento do PIB total do Brasil em 2% para 2026, puxada pela indústria extrativa (petróleo e minério de ferro) -- sinal de que o pessimismo não é generalizado para toda a economia, e sim mais agudo no setor fabril que emprega em maior escala (fonte: Agência de Notícias da Indústria -- https://noticias.portaldaindustria.com.br/noticias/economia/pib-deve-crescer-2-em-2026-projeta-cni/).
+
+Ressalva/limite: o fator "Polêmica adjacente" pesou moderadamente (3/5) no score porque o pessimismo empresarial encosta na discussão maior sobre a condução da política econômica e dos juros no país. O roteiro final NÃO deve comentar o mérito da política econômica do governo, NÃO deve citar Lula, ministros ou qualquer figura política de forma crítica ou elogiosa, e NÃO deve tomar posição sobre se os juros estão certos ou errados. O ângulo fica 100% em gestão/negócio: o que fazer com o próprio negócio quando o cenário macro está fora do controle do empresário. Este briefing também não constitui e não deve gerar nenhuma recomendação de investimento pessoal.
+
+Estrutura sugerida pro roteiro (referência, não é o roteiro pronto -- quem escreve o roteiro final é o Copywriter do canal, seção 2.4 do conhecimento dele, adaptado pra duração maior):
+- Hook: "A indústria brasileira não confia na economia do país há 21 meses seguidos -- o pior momento desde a recessão de 2015. Mas tem um número dentro dessa mesma pesquisa que muda tudo."
+- Contexto/causa raiz: juros altos há anos, crédito caro, famílias endividadas, e agora a concorrência dos importados comendo a fatia da demanda que já estava encolhendo.
+- Desenvolvimento da cadeia causal (o espaço extra do formato longo): do juro alto até a fábrica reduzindo produção -- passo a passo, com os números do 2º trimestre.
+- A virada/lição de gestão: empresários confiam mais na própria empresa (51,3) do que no país (33) -- e é exatamente essa diferença que separa quem gerencia o que pode controlar de quem trava esperando o cenário melhorar.
+- Fechamento + CTA.
+
+Fonte(s):
+- Jornal do Comércio -- https://www.jornaldocomercio.com/economia/2026/09/1263286-cni-industria-completa-21-meses-sem-confiar-na-atividade-maior-periodo-desde-2015.html
+- Agência Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/confianca-da-industria-recua-e-mantem-21-meses-de-pessimismo
+- Movimento Econômico (causa raiz/juros e importados) -- https://movimentoeconomico.com.br/economia/industria-empresas/2026/09/02/cni-juros-altos-e-explosao-de-importados-sufocam-a-industria-de-transformacao/
+- Agência de Notícias da Indústria/CNI (projeção de PIB 2026) -- https://noticias.portaldaindustria.com.br/noticias/economia/pib-deve-crescer-2-em-2026-projeta-cni/
+
+Runners-up do dia (registro/transparência):
+- Correios: empréstimo de R$7 bi com aval do Tesouro em meio a greve nacional -- 27/35 (maior score bruto do dia, mas DESQUALIFICADO POR REPETIÇÃO: já foi vencedor deste pipeline em 09/09/2026 e 09/12/2026, dentro da janela de 10 dias)
+- Copom se reúne hoje e amanhã; mercado espera 5º corte seguido da Selic -- 19/35 (fato principal -- a decisão -- ainda não se consumou hoje)
+- Sodimac reduz rede no Brasil em quase 14%, fecha 7 megalojas -- 18/35 (fraco por falta de frescor, fato já vinha sendo noticiado há quase uma semana)
