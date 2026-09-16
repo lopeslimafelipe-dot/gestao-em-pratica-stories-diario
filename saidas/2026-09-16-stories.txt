@@ -1,0 +1,27 @@
+ROTEIRO 1 — Uma fintech brasileira ensinou uma IA a ler contrato de câmbio sozinha
+"A TI Inside mostrou uma fintech brasileira, a Bizapp, ensinando uma IA a ler contrato de câmbio sozinha, do documento ao registro final no banco. É a FX Agent, criada com a Microsoft pro Travelex Bank, e hoje 🟡`processa 15 mil operações de câmbio por mês, classificando entre mais de 150 categorias do Banco Central`🟡. Parêntese: Bizapp e Microsoft vendem esse produto, e não achei outra cobertura do lançamento. Mas o padrão fica claro: 🟡`não é IA que vira manchete, é a que devora tarefa repetitiva em escala`🟡. Se seu back-office ainda copia e cola documento numa planilha, vale perguntar até quando."
+Fonte: TI Inside — https://tiinside.com.br/14/09/2026/bizapp-lanca-o-fx-agent-na-febraban-agente-de-ia-que-automatiza-operacoes-de-cambio-ja-validado-em-producao-no-travelex-bank/
+
+===================================================================
+
+ROTEIRO 2 — A Oracle está gastando com IA mais rápido do que consegue pagar — e demitindo pra cobrir a conta
+"A Oracle demitiu cerca de 5 mil funcionários em 14 e 15 de setembro, dentro de um corte que já eliminou 21 mil postos — 13% do quadro — no último ano fiscal. No mesmo período, 🟡`gastou US$55,7 bilhões em infraestrutura de IA e fechou o ano com caixa negativo em US$23,7 bilhões`🟡, reservando US$700 milhões pra reestruturação, segundo documento enviado à SEC. Antes de acelerar investimento em tecnologia na sua empresa, vale perguntar: 🟡`quem paga essa conta quando o caixa não acompanha o ritmo do gasto?`🟡 Gente demitida pra sustentar servidor é alerta que todo gestor deveria levar a sério."
+Fonte: Cybernews — https://cybernews.com/news/oracle-layoffs-data-centers-artificial-intelligence/ (corroborado por Deccan Herald — https://www.deccanherald.com/business/companies/today-is-your-last-working-day-oracle-fires-6-am-termination-email-to-staff-on-fresh-round-of-job-cuts-this-year-4146598 — e Startup Fortune — https://startupfortune.com/oracle-plans-more-layoffs-in-september-to-pay-for-its-ai-spending-spree/)
+
+===================================================================
+
+ROTEIRO 3 — O Fórum Econômico Mundial ouviu quem cuida de sustentabilidade em 103 empresas — e ninguém mais trata isso como discurso
+"O Fórum Econômico Mundial ouviu 103 executivos de sustentabilidade de cinco continentes, na primeira edição de um relatório assim — 🟡`63% esperam que o progresso se mantenha estável ou acelere no próximo ano`🟡, puxado por um caso de negócio mais forte e tecnologia mais barata. Parêntese: o WEF reúne e é financiado por grandes empresas, o que pesa a favor de ver sustentabilidade como oportunidade comercial. Ainda assim, o dado mostra a virada: 🟡`sustentabilidade parou de ser a área que só pede orçamento e virou a área que ajuda a decidir onde ele vai`🟡. Sua empresa já trata o tema assim, ou ainda como departamento de imagem?"
+Fonte: World Economic Forum — https://www.weforum.org/publications/chief-sustainability-officers-outlook-september-2026/ (release corroborado por comunicado oficial — https://www.weforum.org/press/2026/09/chief-sustainability-officers-say-commercial-momentum-will-drive-climate-progress-despite-significant-geopolitical-uncertainty/)
+
+===================================================================
+
+ROTEIRO 4 — Enquanto a Nike perde 78% do valor lá fora, a distribuidora dela aqui bate recorde e assina contrato até 2034
+"A Nike vai sair do S&P 100 em 21 de setembro, depois de quase 18 anos no índice — 🟡`as ações caíram cerca de 78% desde 2021, um tombo de mais de US$200 bilhões em valor de mercado`🟡. No Brasil, a Fisia, distribuidora exclusiva da marca, do Grupo SBF, 🟡`bateu recorde de receita — R$1,3 bilhão no trimestre, alta de 27,5% — e renovou o contrato de distribuição até 2034`🟡 (fatos de datas espalhadas entre agosto e setembro, vale registrar). Mesma logo, dois destinos diferentes: 🟡`a pergunta que fica é se o resultado da sua empresa é seu, ou emprestado de marca que você só distribui`🟡."
+Fonte: Fortune — https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/ e Yahoo Finance — https://finance.yahoo.com/markets/stocks/articles/nike-exits-p-100-index-111450130.html (Nike); NeoFeed — https://neofeed.com.br/negocios/lets-do-it-grupo-sbf-estende-acordo-com-a-nike-ate-2034/ (Fisia/Grupo SBF)
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 2] Sua empresa está gastando em tecnologia mais rápido do que o caixa aguenta? Sim, no limite / Não, no ritmo certo
+2. [Pergunta/Participação, Roteiro 1] Qual tarefa repetitiva do seu back-office você mais gostaria de automatizar? Conta aqui 👇
+3. [Virar História, Roteiro 4 -> Comparativo] O Roteiro 4 contrasta dois destinos da mesma marca — Nike global murchando, Fisia no Brasil batendo recorde — formato perfeito pro estilo Comparativo, lado a lado: gráfico de queda da ação vs. gráfico de receita recorde da distribuidora.
