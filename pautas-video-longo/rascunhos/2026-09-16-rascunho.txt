@@ -1,0 +1,62 @@
+RADAR DE REPERCUSSAO -- Entre Gestores -- 2026-09-16 (quarta-feira)
+Pipeline: pauta unica para video longo (30s-2min). Nao concorre por unicidade de tema com o Curador de Noticias (Stories curtos) -- pode haver sobreposicao de assunto no mesmo dia.
+
+NOTA GERAL SOBRE O DIA: dia relativamente fraco de repercussao no noticiario de negocios. Sem balanco trimestral em temporada (3T26 so comeca em outubro/novembro), sem tarifaco novo, sem fato-bomba envolvendo marca famosa. O grande evento do dia (Super Quarta -- decisao do Copom e do Fed) so se consuma a noite, apos o horario desta pesquisa, entao nao pode ser tratado como "fato de hoje" ainda. O vencedor abaixo passa do piso minimo de qualidade (~15/35), mas com folga moderada, nao como pauta estourada.
+
+CANDIDATO 1 -- Inadimplencia empresarial bate novo recorde: 9,2 milhoes de CNPJs negativados, R$ 238,6 bi em dividas atrasadas
+Fato: reportagem publicada em 15/09/2026 (baseada em dados da Serasa Experian) mostra que o numero de empresas brasileiras inadimplentes chegou a 9,2 milhoes de CNPJs em julho de 2026 -- novo pico da serie historica, superando o recorde anterior de 9,1 milhoes batido em junho/2026. O estoque de dividas em atraso das empresas somou R$ 238,6 bilhoes, com media de 7,3 contas vencidas por empresa negativada. Das negativadas, 8,7 milhoes sao micro e pequenas empresas -- e, segundo a propria reportagem, nelas a fronteira entre a divida da empresa e a vida financeira pessoal do dono praticamente nao existe (avais pessoais, cartao PJ usado como PF, etc.). O cenario e puxado por juros ainda em dois digitos (mesmo com o ciclo de cortes da Selic), credito empresarial caro (em torno de 25% a.a.) e queda de consumo das familias. A materia alerta especificamente contra o erro comum do empresario endividado de tratar um problema estrutural de caixa com solucoes de curto prazo (rolar divida, assinar acordo ruim sob pressao) em vez de buscar renegociacao estruturada.
+Fonte: UAI Noticias (Grupo O Tempo) -- https://www.uai.com.br/networking-e-negocios/2026/09/15/com-92-milhoes-de-empresas-negativadas-negociacao-estruturada-vira-saida/
+Dado de origem tambem replicado por: Correio Braziliense, BPMoney, NSC Total, Jornal Grande Bahia (mesma base Serasa Experian, numeros variando entre 9,1 e 9,2 mi conforme o corte/mes).
+Score de Repercussao:
+- Frescor: 4/5 (materia publicada ontem, 15/09; o dado de fundo referencia julho/2026, entao nao e 100% do dia)
+- Relevancia do protagonista: 1/5 (sem marca ou empresario famoso -- e uma estatistica agregada do "empresariado brasileiro")
+- Gravidade: 3/5 (recorde historico é significativo, mas e um recorde que vem sendo "requentado" mes a mes ha varios meses, perde parte do choque)
+- Polemica adjacente: 3/5 (encosta na discussao economica mais ampla do pais -- juros altos, credito seletivo, fragilidade das PMEs em ano de debate fiscal/eleitoral -- sem que o video precise comentar essa parte diretamente)
+- Volume de cobertura: 3/5 (varios veiculos replicaram o mesmo dado da Serasa nas ultimas semanas, mas de forma espalhada, nao um pico concentrado hoje)
+- Clareza do angulo explicativo: 4/5 (cadeia causa -> efeito -> licao é direta: juros/credito caro + consumo fraco -> recorde de CNPJs negativados -> licao de separar financeiro PJ/PF e negociar divida de forma estruturada antes que vire bola de neve)
+- Identificacao com audiencia: 5/5 (e o medo/a dor mais proxima do dono de PME de 30-50 anos -- inadimplencia e fluxo de caixa apertado)
+TOTAL: 23/35
+Status: VENCEDOR DO DIA
+GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score (3/5) porque o tema toca a discussao mais ampla de juros/crise de credito no pais. O roteiro da Etapa 2 NAO deve comentar politica, nao deve citar partido ou figura politica, nem tomar posicao sobre politica fiscal/monetaria -- o angulo deve ficar estritamente em gestao financeira da PME (separar divida PJ/PF, nao empurrar problema de caixa, buscar renegociacao estruturada).
+
+CANDIDATO 2 -- Correios: greve nacional completa uma semana, TST manda manter 80% do efetivo sob multa de R$ 100 mil/dia
+Fato: a greve nacional dos Correios, iniciada as 22h de 10/09 e ainda sem acordo, teve o TST determinando em liminar de 12/09 que 80% do efetivo seja mantido em cada unidade e turno (sob multa diaria de R$ 100 mil aos sindicatos em caso de descumprimento); o julgamento do dissidio coletivo esta marcado para 21/09. A companhia ja havia registrado prejuizo liquido de R$ 5,55 bilhoes no 1S26 (alta de 30% ante 2025).
+Fonte: Meutudo (com base em decisao do TST) -- https://meutudo.com.br/blog/noticias/2026/09/15/correios-estao-em-greve-tst-determina-que-80-dos-trabalhadores-mantenham-os-servicos
+Score (calculado apenas para registro -- ver desqualificacao abaixo):
+- Frescor: 2/5 (liminar e de 12/09; proximo marco relevante so em 21/09)
+- Relevancia do protagonista: 3/5 (Correios e marca publica reconhecida, mas nao no nivel de "escandalo" de uma Casas Bahia)
+- Gravidade: 3/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5 (tema seguido por muitos veiculos ha uma semana)
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 20/35
+Status: DESQUALIFICADO POR REPETICAO DE ASSUNTO/EMPRESA -- Correios ja foi VENCEDOR DO DIA deste mesmo pipeline em 08/09/2026 (indicativo de greve) e em 09/09/2026 (vespera da greve), ambos dentro da janela de 10 dias corridos, e voltou como candidato desqualificado por repeticao em 12/09, 13/09 e 15/09. Nao ha fato genuinamente inedito hoje que justifique reabrir o angulo (a liminar do TST e de 12/09, ja mencionada no rascunho de 13/09; o proximo marco real so ocorre em 21/09).
+
+CANDIDATO 3 -- Super Quarta: Copom decide hoje a noite se corta a Selic a 13,75% (5o corte seguido), no mesmo dia da decisao do Fed
+Fato: o Copom se reune hoje (16/09, segundo dia da reuniao que comecou ontem) para decidir sobre a Selic, com decisao a ser anunciada a noite; o mercado precifica corte de 14% para 13,75% ao ano, o quinto corte seguido do ciclo. A decisao coincide com o anuncio de juros do Federal Reserve americano no mesmo dia, batizado pelo mercado de "Super Quarta".
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/calendario-economico-super-quarta-com-decisoes-monetarias-sao-destaques-da-semana/
+Score:
+- Frescor: 2/5 (o fato principal -- a decisao em si -- ainda NAO aconteceu no horario desta pesquisa; so se consuma a noite)
+- Relevancia do protagonista: 2/5 (Banco Central/Copom sao instituicoes, nao tem o apelo de marca de consumo)
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 4/5 (tema mais coberto da semana no noticiario economico, dado o "Super Quarta")
+- Clareza do angulo: 3/5 (efeito pratico do corte de juros no credito da PME e claro, mas o fato em si ainda nao existe para noticiar)
+- Identificacao com audiencia: 3/5
+TOTAL: 18/35
+Status: runner-up fraco -- mesmo problema ja registrado no rascunho de 15/09: o fato principal ainda nao se consumou no momento da pesquisa. So vira pauta solida amanha, com o resultado da decisao em maos.
+
+CANDIDATO 4 -- Ranking dos maiores marketplaces do Brasil: R$ 421,8 bi em GMV, Mercado Livre lidera com folga
+Fato: levantamento mostra que os 10 maiores marketplaces do Brasil movimentaram R$ 421,8 bilhoes em GMV (volume de vendas) em 2025, com o Mercado Livre na lideranca isolada (R$ 185 bi -- maior que a receita da Carrefour Brasil, maior varejista tradicional do pais), seguido por Shopee (R$ 70 bi) e Amazon (~R$ 39 bi). Marketplaces ja concentram cerca de 70% das compras online no Brasil.
+Fonte: Exame -- https://exame.com/negocios/os-maiores-marketplaces-do-brasil-somam-r-4218-bilhoes-veja-o-ranking/
+Score:
+- Frescor: 1/5 (materia original tem cerca de 3 semanas, apenas recirculada por outros veiculos em 15/09)
+- Relevancia do protagonista: 4/5 (Mercado Livre, Shopee, Amazon sao marcas muito conhecidas do publico)
+- Gravidade: 2/5 (e um ranking informativo, nao um evento/crise)
+- Polemica adjacente: 1/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5 (mais curiosidade de mercado do que dor de gestao do dono de PME medio)
+TOTAL: 16/35
+Status: runner-up fraco -- baixo frescor, e o pipeline ja tratou de e-commerce/varejo (parceria Magalu-Mercado Livre) em 08/09/2026.
