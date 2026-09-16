@@ -1,0 +1,40 @@
+PAUTA DO DIA -- 2026-09-16
+Assunto: Inadimplencia empresarial bate novo recorde -- 9,2 milhoes de CNPJs negativados, R$ 238,6 bi em dividas atrasadas
+Score final: 23/35 (Frescor 4/5, Relevancia do protagonista 1/5, Gravidade 3/5, Polemica adjacente 3/5, Volume de cobertura 3/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: em julho de 2026, 9,2 milhoes de CNPJs brasileiros estavam negativados -- novo pico da serie historica da Serasa Experian, superando o recorde do mes anterior (9,1 milhoes em junho/2026, R$ 232,9 bi em dividas). O estoque total em atraso somou R$ 238,6 bilhoes, com media de 7,3 contas vencidas e divida media de R$ 25.983,88 por CNPJ negativado. Das negativadas, 8,7 milhoes sao micro e pequenas empresas, concentrando R$ 206 bilhoes em dividas. Confirmado de forma independente em multiplas fontes que replicam o mesmo indicador da Serasa Experian (UAI Noticias, Let's Money, Capital News, Brasil247, Correio Braziliense), com os numeros batendo entre si (pequena variacao de 8,6 a 8,7 milhoes no recorte de MPEs conforme o veiculo, sem afetar o numero principal).
+Fonte: UAI Noticias -- https://www.uai.com.br/networking-e-negocios/2026/09/15/com-92-milhoes-de-empresas-negativadas-negociacao-estruturada-vira-saida/
+
+Cadeia causal (o que levou a isso):
+1) Custo do credito para PJ segue elevado -- taxa media de novos contratos empresariais chegou a 32,8% a.a. em janeiro/2026, mesmo com o Banco Central ja tendo iniciado corte de juros -- e o motor da procura por credito das empresas hoje e capital de giro/caixa, nao investimento (sinal de aperto, nao de expansao).
+2) Consumo das familias mais fraco reduz o faturamento das empresas, especialmente comercio e servicos (que juntos respondem por quase 88% dos CNPJs negativados).
+3) A inadimplencia bancaria empresarial sobe de 2,67% (jun/2025) para 3,19% (jun/2026); nas micro, pequenas e medias empresas especificamente, de 5% para 5,71% no mesmo periodo -- ou seja, o aperto pesa mais sobre quem tem menos colchao financeiro.
+4) O problema raramente e uma divida isolada: em media 7,3 contas vencidas por empresa, espalhadas entre bancos, fornecedores, tributos e folha -- o que torna a rolagem informal (pagar um credor com divida nova) insustentavel.
+5) Nas micro e pequenas empresas, a fronteira entre divida da empresa e patrimonio pessoal do dono praticamente desaparece: avais pessoais, patrimonio da familia dado em garantia, cartao PJ usado como PF -- entao quando a empresa aperta, a vida financeira pessoal do empresario aperta junto.
+
+Por que esta repercutindo agora: e o segundo recorde historico seguido (junho e julho consecutivos), o que reforca a sensacao de tendencia e nao de pico isolado -- por isso o Frescor (4/5) e a Clareza do angulo (4/5) pesaram bem no score. O tema tambem encosta na discussao economica mais ampla do pais (juros, credito, fragilidade das PMEs em ano de debate fiscal), o que explica o 3/5 em Polemica adjacente -- mas essa camada NAO entra no roteiro (ver ressalva abaixo). O fator que mais pesa e a Identificacao com audiencia (5/5): fluxo de caixa apertado e inadimplencia sao o medo mais proximo do dono de PME de 30-50 anos, publico do canal.
+
+Angulo de gestao sugerido: a licao pratica e tratar divida empresarial como passivo estrutural, nunca como uma serie de contas soltas para "apagar incendio". O empresario endividado deve: (a) reunir todos os contratos, aditivos e extratos de todos os credores antes de negociar qualquer coisa isoladamente; (b) separar explicitamente o que e divida PJ do que e patrimonio/garantia pessoal, para nao comprometer a familia por decisao tomada sob pressao; (c) buscar renegociacao estruturada (direta com credores, instrumento extrajudicial, ou plataformas como o Serasa Limpa Nome, que oferece descontos de 50% a 90%) em vez de rolar a divida ou assinar o primeiro acordo que aparecer sob exaustao. O video NAO deve comentar juros/politica monetaria como tema -- so como pano de fundo factual que explica a causa raiz.
+
+Dados de apoio:
+- MPEs concentram 8,7 milhoes dos CNPJs negativados e R$ 206 bi em dividas -- Serasa Experian, via UAI Noticias (https://www.uai.com.br/networking-e-negocios/2026/09/15/com-92-milhoes-de-empresas-negativadas-negociacao-estruturada-vira-saida/)
+- Por setor: Servicos 55,8%, Comercio 32,1%, Industria 8,0%, Primario 1,0% dos CNPJs negativados -- Serasa Experian, via Let's Money (https://www.letsmoney.com.br/noticias/serasa-inadimplencia-empresas-julho-2026/)
+- Taxa media de novos contratos de credito PJ em 32,8% a.a. em janeiro/2026 (dado do Banco Central) -- Agencia Brasil (https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/juros-subiram-para-familias-e-empresas-em-janeiro-mostra-bc)
+- Inadimplencia bancaria empresarial em 3,19% em junho/2026 (ante 2,67% em junho/2025); em MPMEs, 5,71% (ante 5%) -- Comax, com base em dados oficiais (https://comax.com.br/projecoes-na-taxa-de-credito-em-2026-e-impactos-na-inadimplencia-empresarial/)
+- Recorde anterior (mes imediatamente antes): 9,1 milhoes de CNPJs negativados em junho/2026, R$ 232,9 bi em dividas -- Portal do Fomento (https://www.portaldofomento.com.br/noticia.php?id=10042&id_ncat=4)
+
+Ressalva/limite: o fator "Polemica adjacente" pesou no score (3/5) porque o tema toca a discussao mais ampla de juros altos e crise de credito no pais, em ano de debate fiscal. LEMBRETE EXPLICITO: o video NAO deve comentar politica monetaria/fiscal em si, NAO deve citar partido ou figura politica, nem tomar posicao sobre esse debate maior -- o angulo fica estritamente em gestao financeira da PME (separar divida PJ/PF, nao empurrar problema de caixa, negociar de forma estruturada). Os numeros de MPEs variam levemente entre veiculos secundarios (8,6 a 8,7 milhoes) -- usar 8,7 milhoes, numero mais consistente entre as fontes que citam a Serasa Experian diretamente.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: o numero-choque (9,2 milhoes de empresas negativadas, novo recorde pelo segundo mes seguido) conectado a uma pergunta direta ao espectador ("sua empresa esta nessa conta?")
+- Contexto/causa raiz: juros e credito PJ ainda caros, consumo fraco, inadimplencia bancaria subindo mais forte justamente nas PMEs
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo): como uma divida vira 7,3 dividas, como isso se espalha e por que a fronteira PJ/PF desaparece nas micro e pequenas empresas
+- Licao de gestao (a virada): negociacao estruturada -- olhar o passivo inteiro, nao conta por conta; separar patrimonio pessoal da divida da empresa
+- Fechamento + CTA: convite a agir antes que o problema vire "bola de neve", sem recomendacao de investimento pessoal
+
+Fonte(s): UAI Noticias -- https://www.uai.com.br/networking-e-negocios/2026/09/15/com-92-milhoes-de-empresas-negativadas-negociacao-estruturada-vira-saida/ (fato central, dado original Serasa Experian)
+
+Runners-up do dia (registro/transparencia):
+- Correios: greve completa uma semana, TST manda manter 80% do efetivo (20/35) -- desqualificado por repeticao de assunto (ja foi pauta em 08/09 e 09/09, dentro da janela de 10 dias)
+- Super Quarta -- Copom decide hoje a noite sobre a Selic (18/35) -- fato ainda nao consumado no horario da pesquisa
+- Ranking dos maiores marketplaces do Brasil, R$ 421,8 bi em GMV (16/35) -- baixo frescor, tema de e-commerce ja tratado em 08/09
