@@ -1,0 +1,52 @@
+RADAR DE REPERCUSSAO -- Entre Gestores -- 2026-09-17 (quinta-feira)
+Pipeline: pauta unica para video longo (30s-2min). Nao concorre por unicidade de tema com o Curador de Noticias (Stories curtos) -- pode haver sobreposicao de assunto no mesmo dia.
+
+NOTA GERAL SOBRE O DIA: dia forte de repercussao -- a "Super Quarta" de ontem (16/09) se consumou, com corte de juros do Copom noticiado em massa, e a Petrobras divulgou um recorde global de margem de lucro no mesmo dia. Um candidato inicial forte (Casas Bahia) foi INVESTIGADO E DESCARTADO por ser, na verdade, o MESMO fato ja usado como vencedor em 10/09/2026 -- ver nota de fact-check abaixo.
+
+NOTA DE FACT-CHECK / CANDIDATO DESCARTADO -- Casas Bahia pede recuperacao judicial:
+Uma pesquisa inicial trouxe como candidato forte "Casas Bahia protocola pedido de recuperacao judicial (R$ 17,3 bi em dividas)", com data aparente de 16/09/2026 (domingo) na materia da InfoMoney. Verificacao cruzada (Poder360, Migalhas, Meio & Mensagem) confirmou que o protocolo do pedido ocorreu em 16 DE AGOSTO de 2026 (tambem um domingo) -- e nao em setembro. E exatamente o mesmo fato (mesmo valor de divida, R$ 17,3 bi, mesmas 9 subsidiarias) ja coberto em profundidade como parte do VENCEDOR DO DIA de 10/09/2026 deste pipeline ("Ranking Forbes dos bilionarios do varejo... Casas Bahia segue em recuperacao judicial"). Descartado por repeticao de assunto/empresa dentro da janela de 10 dias -- nao ha desenvolvimento novo que justifique reabrir o tema hoje.
+
+CANDIDATO 1 -- Copom corta a Selic para 13,75% ao ano, 5o corte seguido, no dia da "Super Quarta"
+Fato: o Comite de Politica Monetaria do Banco Central reduziu a Selic em 0,25 p.p., de 14% para 13,75% ao ano, na reuniao de 16/09/2026 -- quinto corte consecutivo do ciclo, decisao unanime. O Copom nao sinalizou os proximos passos, citando incertezas internacionais (tensao no Oriente Medio) e vinculando a magnitude futura do ciclo a evolucao dos precos; a proxima reuniao e em 04/11. O IPCA registrou deflacao de 0,32% em agosto, com alta acumulada de 4,22% em 12 meses. O Focus projeta Selic em 13,75% no fim de 2026, caindo para 12% em 2027.
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-reduz-juros-basicos-para-1375-ao-ano
+Tambem noticiado por: Poder360, Forbes Brasil, O Tempo, Diario do Centro do Mundo, Brasil de Fato, NC News, DMA Noticias, ADVFN, Gazeta Mercantil, SpaceMoney, Melhor Investimento -- pelo menos 8-10 veiculos distintos no mesmo dia.
+Score de Repercussao:
+- Frescor: 5/5 (decisao anunciada ontem a noite, 16/09; e o fato do dia)
+- Relevancia do protagonista: 3/5 (Banco Central/Copom e uma instituicao amplamente conhecida, mas nao e marca/empresa no sentido classico -- pesa menos que um caso com empresa famosa no centro)
+- Gravidade: 3/5 (5o corte consecutivo e parte de um ciclo ja esperado pelo mercado, nao e um choque isolado, mas o efeito pratico sobre credito e real)
+- Polemica adjacente: 4/5 (juros, custo de credito e politica economica seguem no centro do debate publico brasileiro, ano de discussao fiscal -- sem que o video precise entrar nessa parte)
+- Volume de cobertura: 5/5 ("Super Quarta" foi o tema mais coberto do noticiario economico do dia, com decisao tambem do Fed no mesmo dia reforcando a atencao)
+- Clareza do angulo: 4/5 (cadeia direta: juros caindo, mas credito PJ ainda caro -> o que muda de fato no caixa/credito da PME -> licao de nao antecipar alivio que ainda nao chegou)
+- Identificacao com audiencia: 5/5 (custo do credito e uma das dores mais diretas do dono de PME de 30-50 anos -- e um assunto que ele sente no bolso todo mes)
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score (4/5) porque o tema encosta diretamente na discussao economica/politica mais ampla do pais (politica monetaria, juros, debate fiscal). O roteiro da Etapa 2 NAO deve comentar politica monetaria ou fiscal em si, NAO deve citar partido ou figura politica, nem tomar posicao sobre esse debate maior -- o angulo deve ficar estritamente no efeito pratico do corte de juros sobre o credito e o caixa da PME (ex.: juro caindo nao significa credito barato amanha; o que muda de fato e o que ainda nao muda).
+
+CANDIDATO 2 -- Petrobras tem a maior margem de lucro entre as grandes petroleiras do mundo e bate recorde de producao
+Fato: a Petrobras registrou, no 1o semestre de 2026, a maior margem de lucro (29,15%) entre as grandes petroleiras globais, superando Saudi Aramco (25,48%), Chevron (18,01%) e ExxonMobil (16,33%) -- primeira vez que a estatal brasileira lidera esse ranking. Lucro liquido do periodo: R$ 85,1 bilhoes. No 2o trimestre, a producao de oleo e gas bateu recorde historico (3,34 milhoes de barris de oleo equivalente/dia) e o Fator de Utilizacao das refinarias atingiu 101,2%, tambem recorde. O desempenho e sustentado por producao maior, precos internacionais de petroleo elevados (reflexo da guerra no Oriente Medio) e reducao de despesas gerais.
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-tem-maior-margem-de-lucro-entre-grandes-petroleiras-mundiais
+Tambem noticiado por: CartaCapital, Paraiba Online, Tribuna Hoje, Imirante, Acessa.com, Apucarana News, Diario RO, Diario do Vale -- pelo menos 8 veiculos distintos no mesmo dia (varios replicando a materia de agencia).
+Score de Repercussao:
+- Frescor: 5/5 (divulgado ontem, 16/09)
+- Relevancia do protagonista: 5/5 (Petrobras e uma das marcas/empresas mais conhecidas do Brasil por qualquer publico)
+- Gravidade: 3/5 (recorde historico e significativo, mas e um recorde positivo/tecnico, sem o peso dramatico de uma crise ou demissao em massa)
+- Polemica adjacente: 4/5 (Petrobras esta sempre ligada a debates sobre preco de combustivel, controle estatal x mercado e dividendos -- sem precisar entrar nisso no video)
+- Volume de cobertura: 4/5 (alto, mas boa parte e replicacao da mesma materia de agencia, nao cobertura investigativa independente)
+- Clareza do angulo: 3/5 (o dado e financeiro/comparativo -- margem de lucro entre petroleiras -- exige alguma traducao para virar licao de gestao aplicavel a PME)
+- Identificacao com audiencia: 2/5 (e mais dificil o dono de PME se identificar diretamente com margem recorde de uma estatal gigante de petroleo; a licao de eficiencia operacional existe, mas e menos visceral que uma dor de caixa)
+TOTAL: 26/35
+Status: runner-up forte -- segunda opcao solida do dia, mas com angulo de gestao menos direto que o Candidato 1.
+
+CANDIDATO 3 -- Stellantis amplia investimentos na America Latina (Polo de Goiana completa 10 anos, Porto Real recebe R$ 3 bi)
+Fato: materia de analise (16/09, AutoData) consolida o momento de expansao da Stellantis no Brasil -- o Polo de Goiana (PE) completou 10 anos com aporte total de R$ 13 bi e capacidade para 280 mil veiculos/ano; o polo de Porto Real (RJ) recebe R$ 3 bi ate 2030, com inicio da producao em serie do Jeep Avenger, mais de 800 contratacoes e abertura de 2o turno.
+Fonte: AutoData -- https://www.autodata.com.br/noticias/2026/09/16/stellantis-amplia-protagonismo-na-america-latina/135529/
+Score de Repercussao:
+- Frescor: 2/5 (a publicacao e de ontem, mas os fatos centrais -- aniversario do polo, inicio do Avenger -- nao sao novidade do dia, e mais uma materia de contexto/retrospectiva)
+- Relevancia do protagonista: 4/5 (Stellantis controla Fiat e Jeep, marcas muito conhecidas no Brasil)
+- Gravidade: 2/5 (investimento continuo e planejado, nao e um evento abrupto)
+- Polemica adjacente: 2/5 (toca no debate sobre reindustrializacao e geracao de empregos, mas de forma moderada)
+- Volume de cobertura: 2/5 (materia isolada de veiculo especializado do setor automotivo, sem pico de cobertura generalista hoje)
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5 (expansao industrial de grande porte e distante da realidade operacional do dono de PME medio)
+TOTAL: 18/35
+Status: runner-up fraco -- baixo frescor de fato novo, fica como opcao de reserva.
