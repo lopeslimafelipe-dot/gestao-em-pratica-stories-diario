@@ -1,0 +1,39 @@
+ROTEIRO 1 — Uma hrtech brasileira tirou o currículo em PDF da contratação
+"Contratar continua sendo um processo lento e chato pra qualquer empresa pequena: vaga aberta, currículo em PDF que ninguém lê direito, candidato bom que desiste no meio do caminho. Uma hrtech brasileira, a Joinin, lançou o Joinin ATS: 🟡`o candidato responde tudo pelo navegador do celular, com QR Code, sem baixar app, e uma IA, a Rub.IA, já filtra antes de chegar em você`🟡. Vale mencionar: 🟡`a Joinin vende essa solução, e ainda não há números de quantas empresas usam`🟡. Mesmo assim, a pergunta fica: o processo de contratação da sua empresa hoje ainda parece do século passado?"
+Fonte: Inforchannel — https://inforchannel.com.br/2026/09/14/solucao-de-ia-facilita-atracao-e-selecao-de-profissionais-nas-empresas/
+
+===================================================================
+
+ROTEIRO 2 — O Banco Central cortou os juros pela quinta vez seguida — e é notícia de ontem
+"O Banco Central cortou a Selic pela quinta vez seguida ontem à noite, 🟡`de 14% para 13,75% ao ano — 1,25 ponto percentual a menos desde março`🟡, segundo o Copom. A decisão foi unânime, e a nova taxa já vale desde hoje. Juro mais baixo significa crédito mais barato pra capital de giro e renegociação de dívida — mas o Banco Central não garantiu que o ritmo de cortes vai continuar. Se sua empresa vinha adiando aquele financiamento esperando um cenário melhor, 🟡`o cenário melhorou um pouco, literalmente desde ontem`🟡. A pergunta é se você vai aproveitar a janela antes que ela feche."
+Fonte: Poder360 — https://www.poder360.com.br/poder-economia/copom-reduz-selic-para-1375-ao-ano/
+
+===================================================================
+
+ROTEIRO 3 — O iFood vai investir R$24 bilhões no Brasil — 41% a mais que no ciclo anterior
+"Eu quase contei, semana passada, que o iFood ia investir R$17 bilhões no Brasil — era o ciclo do ano passado, não o de agora. Ontem, na abertura do iFood Move 2026, saiu o número certo: 🟡`R$24 bilhões até março de 2027, alta de 41%`🟡. Mais de R$2 bilhões só em tecnologia e IA, e 🟡`o braço de crédito do iFood deve crescer 70%, emprestando pra restaurante que banco tradicional não empresta`🟡 — isso em meio a disputas da empresa no Cade sobre exclusividade. Não interessa só quem vende comida: é pra onde o dinheiro de verdade está indo no varejo brasileiro."
+Fonte: Exame — https://exame.com/negocios/ifood-anuncia-investimento-de-r-24-bilhoes-minha-cabeca-nao-esta-na-rentabilidade-diz-ceo/
+
+===================================================================
+
+ROTEIRO 4A — A Deloitte perguntou a 300 diretores de marketing o que faz a receita crescer — e "gente" empatou com "tecnologia"
+"A Deloitte perguntou pra mais de 300 diretores de marketing dos Estados Unidos o que faz a receita da empresa crescer de verdade — e 🟡`'ter gente boa no time' empatou tecnicamente com 'ter a tecnologia certa'`🟡. 🟡`A Deloitte não divulgou os percentuais exatos, só que as duas respostas empataram como principais`🟡. Empatou mesmo, numa época em que todo orçamento de crescimento parece ter que passar por mais tecnologia ou mais IA. Antes de trocar mais uma ferramenta ou assinar mais um software esse mês, vale perguntar se o gargalo do seu negócio é mesmo de tecnologia — ou se é de gente."
+Fonte: Marketscale — https://www.marketscale.com/industries/marketing-tech/cmos-cite-talent-as-often-as-tech-as-the-top-revenue-growth-driver-in-2026-deloitte-finds/
+
+===================================================================
+
+ROTEIRO 4B — A Harvard Business Review foi ver como Walmart e Amazon usam IA — e não é "substituir gente"
+"Quase toda empresa já colocou uma IA pra fazer uma tarefa isolada — responder cliente, gerar um texto. A Harvard Business Review foi ver como gigantes como Walmart, Amazon e Ericsson usam IA de verdade, numa pesquisa de campo inédita no canal. A resposta 🟡`não é 'uma IA melhor fazendo uma tarefa': é várias IAs conversando entre departamentos diferentes — vendas com estoque, estoque com financeiro — com humano decidindo no fim`🟡. 🟡`Os exemplos são de gigantes, então vale adaptar a escala`🟡. Mas a pergunta serve pra qualquer negócio: sua IA hoje resolve uma tarefa, ou ela conversa com o resto da empresa?"
+Fonte: Harvard Business Review — https://hbr.org/2026/09/how-ai-agents-orchestrate-work-across-silos
+
+===================================================================
+
+ROTEIRO 5 — A CEO da maior empresa de elevadores do mundo já está de saída — e isso foi planejado há anos
+"A CEO da maior empresa de elevadores do mundo, a Otis Worldwide — presente em prédios no Brasil também — anunciou a própria aposentadoria, mas a sucessora nem foi escolhida ainda: 🟡`o prazo dado é de quase 2 anos, com processo formal e consultoria de recrutamento contratada`🟡. Judy Marks fica no cargo até julho de 2027, ou como conselheira sênior se a sucessora chegar antes. 🟡`É sucessão planejada de verdade, sem susto`🟡. A maioria dos donos de negócio só pensa em quem assume depois deles quando já é tarde — quantos anos de antecedência a sua empresa tem pra essa conversa?"
+Fonte: PRNewswire — https://www.prnewswire.com/news-releases/otis-implements-long-standing-ceo-succession-plan-302878838.html
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 2] O corte da Selic pra 13,75% muda algum plano da sua empresa esse mês? Sim, vou aproveitar / Não, vou esperar mais
+2. [Pergunta/Participação, Roteiro 1] Qual foi a pior experiência que você já teve contratando alguém pra sua empresa? Conta aqui 👇
+3. [Virar História, Roteiro 4A -> Duplo Eu] O Roteiro 4A tem um empate literal entre "gente" e "tecnologia" como motor de receita — perfeito pro estilo Duplo Eu, com você defendendo os dois lados da discussão pra mostrar que não existe resposta óbvia.
