@@ -1,0 +1,123 @@
+RADAR DE REPERCUSSAO -- 2026-09-18 (sexta-feira)
+Etapa 1: Pesquisa e Pontuacao -- pauta para video explicativo longo (30s-2min)
+
+Checagem de repeticao: revisados os ultimos 10 dias corridos de pautas-video-longo/rascunhos
+(08/09 a 17/09). Temas ja usados nesse periodo e evitados hoje como vencedores: greve dos
+bancarios Caixa/BB (08/09), greve dos Correios (09/09, tambem desqualificada por repeticao em
+13/09 e 15/09), ranking Forbes bilionarios do varejo (10/09), petroleo/guerra Oriente Medio
+(11/09), Nubank nos EUA (12/09), Light sai da recuperacao judicial (13/09), Panorama do Comercio
+FecomercioSP (14/09), CNI industria sem confianca (15/09), inadimplencia empresarial recorde
+(16/09), corte da Selic pelo Copom (17/09). Nenhum desses e reaproveitado como vencedor hoje.
+
+CANDIDATO 1 -- Reajuste de 15% no Bolsa Familia dispara reacao fiscal no mercado financeiro
+Fato: Em 17/09, o governo Lula anunciou reajuste de 15% no Bolsa Familia (piso sobe de R$ 600
+para R$ 691, media de R$ 675 para R$ 777), com custo adicional de R$ 5,8 bi em 2026 e R$ 22,7 bi
+por ano a partir de 2027. O mercado reagiu mal: dolar zerou perdas e passou a subir, juros
+futuros de prazos mais longos dispararam (Tesouro IPCA+ 2032 foi de 7,61% para 7,69%, IPCA+ 2060
+de 7,18% para 7,24%), e a plataforma do Tesouro Direto chegou a sair do ar por volatilidade no
+fim da manha de quinta. Ibovespa virou para o negativo no dia. Fiemg criticou o momento do
+anuncio (pleno periodo eleitoral); CNI e CNC preferiram nao se pronunciar. Hoje (18/09), o
+Ministerio da Fazenda divulga o Boletim Macrofiscal de setembro, com mercado ainda de olho no
+impacto das contas publicas.
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/renda-fixa/tesouro-direto-tambem-reagiu-mal-ao-reajuste-do-bolsa-familia-mas-reverteu-movimento-no-fim-do-dia-veja-como-fecharam-as-taxas-mlim/
+Fontes adicionais: Money Times -- https://www.moneytimes.com.br/governo-anuncia-reajuste-de-15-no-bolsa-familia-e-mercado-azeda-jcav/ ;
+BPMoney -- https://bpmoney.com.br/mercado/tesouro-direto-interrompe-negociacoes-apos-reajuste-no-bolsa-familia/ ;
+InfoMoney -- https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-17092026/ ;
+InfoMoney (Ibovespa) -- https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17092026/ ;
+Jornal de Brasilia -- https://jornaldebrasilia.com.br/noticias/economia/reajuste-do-bolsa-familia-divide-analistas-sobre-impacto-fiscal/
+Score de Repercussao:
+- Frescor: 5/5 (anuncio de ontem, 17/09, com reacao de mercado que segue sendo processada hoje;
+  Boletim Macrofiscal do Tesouro sai justamente hoje, 18/09)
+- Relevancia do protagonista: 5/5 (Bolsa Familia e um dos programas mais conhecidos do pais,
+  parte do dia a dia de praticamente todo brasileiro, protagonizado pelo proprio governo federal)
+- Gravidade: 4/5 (nao e uma crise de empresa isolada, mas o fato e significativo por si so: reacao
+  real e imediata do mercado financeiro, com a plataforma do Tesouro Direto chegando a sair do ar
+  por excesso de volatilidade -- efeito concreto, nao especulacao)
+- Polemica adjacente: 5/5 (tema com forte carga politico-eleitoral de fundo -- ano de eleicao,
+  embate entre gasto social e responsabilidade fiscal, declaracoes partidarias inflamadas -- o
+  assunto "pega carona" nessa discussao maior sem que o video precise entrar nela; VER GUARDRAIL
+  ABAIXO, pois esse fator pesou no score do vencedor)
+- Volume de cobertura: 5/5 (coberto simultaneamente por dezenas de veiculos de mercado e economia
+  no mesmo dia -- InfoMoney, Money Times, Seu Dinheiro, BPMoney, InvestNews, Investidor10, Gazeta
+  Mercantil, Jornal de Brasilia, O Tempo, entre outros)
+- Clareza do angulo explicativo: 4/5 (cadeia causa->efeito->licao factivel em ate 2 min: governo
+  aumenta gasto publico -> mercado desconfia da capacidade fiscal de sustentar a conta -> juros
+  futuros sobem como "premio de risco" -> esse juro mais alto encarece credito, financiamento e
+  cartao pra empresa -> licao de gestao sobre como o custo do dinheiro que a PME paga no banco
+  reflete a percepcao de risco de quem esta la em cima, mesmo sem relacao direta com o negocio)
+- Identificacao com audiencia: 5/5 (juro alto e a dor mais direta e cotidiana do dono de PME --
+  encarece capital de giro, financiamento de maquina, cartao de credito da empresa)
+TOTAL: 33/35
+Status: VENCEDOR DO DIA
+
+*** GUARDRAIL POLITICO ***
+O fator "Polemica adjacente" pesou no score deste vencedor (5/5), pois o tema tem forte carga
+politico-eleitoral de fundo (reajuste de programa social as vesperas de eleicao, criticas
+partidarias cruzadas, embate fiscal). O roteiro/briefing final (Etapa 2) NAO PODE comentar o
+merito da politica de transferencia de renda, nao pode citar partido ou figura politica de forma
+critica, nem tomar posicao sobre o debate fiscal/eleitoral. O angulo do video deve ficar
+estritamente em gestao/negocio: como a percepcao de risco fiscal se traduz em juro futuro mais
+alto, e como isso encarece o credito pra qualquer empresa -- e nao no merito de quem tem razao
+sobre o tamanho do gasto publico.
+
+CANDIDATO 2 -- Fed sobe juros dos EUA pela 1a vez em 3 anos no mesmo dia em que Copom corta a Selic
+Fato: Em 16/09, o Federal Reserve elevou sua taxa basica em 0,25 p.p., para a faixa de 3,75% a
+4,00% -- primeira alta americana desde 2023 --, no mesmo dia em que o Copom cortou a Selic em
+0,25 p.p., para 13,75% ao ano (5o corte seguido). O movimento simultaneo e divergente estreita o
+diferencial de juros que historicamente atrai fluxo estrangeiro pro Brasil, mexendo com cambio e
+apetite por ativos locais.
+Fonte: Blocktrends -- https://blocktrends.com.br/fed-sobe-juros-copom-corta-selic-impacto-investidor-setembro-2026/
+Fontes adicionais: Exame -- https://exame.com/invest/mercados/o-que-muda-nos-investimentos-no-brasil-com-a-1a-alta-de-juros-nos-eua-em-tres-anos/
+Score de Repercussao:
+- Frescor: 3/5 (fato de 16/09, dois dias atras -- ainda comentado, mas nao e mais "noticia do dia")
+- Relevancia do protagonista: 3/5 (Fed e conhecido, mas nao e uma marca que o publico geral de PME
+  acompanha de perto como acompanharia uma empresa ou programa social)
+- Gravidade: 3/5 (movimento relevante, primeira alta em 3 anos, mas sem ruptura imediata)
+- Polemica adjacente: 1/5 (tema tecnico de politica monetaria internacional, pouca carga
+  emocional/politica domestica)
+- Volume de cobertura: 4/5 (amplamente coberto por veiculos de mercado)
+- Clareza do angulo explicativo: 3/5 (divergencia de juros e fluxo de capital sao conceitos mais
+  densos pra render 2 min claros sem soar tecnico demais)
+- Identificacao com audiencia: 3/5 (efeito mais indireto sobre a PME -- via cambio e custo de
+  capital externo, nao e uma dor tao imediata quanto juro domestico)
+TOTAL: 20/35
+Observacao: tema parcialmente sobreposto ao vencedor de 17/09 (corte da Selic pelo Copom), dentro
+da janela de 10 dias -- reforca a decisao de nao escolhe-lo hoje.
+Status: runner-up
+
+CANDIDATO 3 -- Greve dos Correios: julgamento do dissidio marcado para 21/09, sem acordo ainda
+Fato: A greve nacional por tempo indeterminado dos Correios, iniciada em 10/09, segue sem
+desfecho. O TST determinou manutencao de 80% do efetivo desde 12/09, e o julgamento do dissidio
+coletivo esta marcado para 21/09 -- ate la, as partes ainda podem negociar. Sem fato novo
+relevante divulgado hoje, apenas a expectativa do julgamento na proxima semana.
+Fonte: Exame -- https://exame.com/brasil/quando-acaba-a-greve-dos-correios-entenda-a-paralisacao/
+Score de Repercussao:
+- Frescor: 2/5 (sem fato novo hoje, situacao ja conhecida e estavel ha dias)
+- Relevancia do protagonista: 5/5 (Correios e presente na vida de praticamente todo brasileiro/PME)
+- Gravidade: 3/5 (disrupcao operacional real, mas sem novidade concreta no dia)
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo explicativo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 23/35
+Status: DESQUALIFICADO POR REPETICAO (mesmo assunto/empresa foi VENCEDOR DO DIA em 09/09/2026 e
+ja foi runner-up desqualificado por repeticao em 13/09 e 15/09, todos dentro da janela de 10 dias
+-- ver Etapa 1)
+
+CANDIDATO 4 -- Exportacoes de cafe do Brasil batem recorde para agosto e seguem fortes em setembro
+Fato: As exportacoes brasileiras de cafe verde atingiram 4,16 milhoes de sacas de 60 kg em agosto,
+o maior volume ja registrado para o mes desde 1990, e seguiram fortes no inicio de setembro, com
+embarques crescendo mais de 50% ante o mesmo periodo do ano passado (107,9 mil toneladas ate a
+segunda semana do mes).
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-agro/2026/09/exportacao-de-cafe-do-brasil-salta-no-inicio-de-setembro-embarque-de-petroleo-tambem-dispara/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 2/5 (nao ha marca/empresa especifica em destaque, e o setor cafeeiro)
+- Gravidade: 2/5 (noticia positiva de rotina, sem ruptura)
+- Polemica adjacente: 1/5
+- Volume de cobertura: 2/5 (concentrada em veiculos especializados em agro)
+- Clareza do angulo explicativo: 3/5
+- Identificacao com audiencia: 2/5 (distante do dia a dia do dono de PME urbano, publico principal
+  do canal)
+TOTAL: 15/35
+Status: runner-up
