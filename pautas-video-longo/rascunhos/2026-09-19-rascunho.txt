@@ -1,0 +1,135 @@
+RADAR DE REPERCUSSAO -- 2026-09-19 (sabado)
+Etapa 1: Pesquisa e Pontuacao -- pauta para video explicativo longo (30s-2min)
+
+Checagem de repeticao: revisados os ultimos 10 dias corridos de pautas-video-longo/rascunhos
+(09/09 a 18/09). Temas ja escolhidos como VENCEDORES DO DIA nesse periodo e evitados hoje: greve
+dos Correios (09/09), ranking Forbes bilionarios do varejo (10/09), petroleo/guerra Oriente Medio
+e subsidio ao diesel (11/09), Nubank estreia nos EUA (12/09), Light sai da recuperacao judicial
+(13/09), Panorama do Comercio FecomercioSP (14/09), CNI industria sem confianca ha 21 meses
+(15/09), inadimplencia empresarial recorde (16/09), corte da Selic pelo Copom (17/09), reajuste de
+15% do Bolsa Familia e reacao fiscal do mercado (18/09). Nenhum desses e reaproveitado como
+vencedor hoje.
+
+Nota de verificacao (checagem cruzada obrigatoria dos fatos): um candidato inicial descartado logo
+na pesquisa foi "Nestle demite 16 mil funcionarios e fecha fabricas no Brasil" -- checagem cruzada
+(Aos Fatos, boatos.org, comunicado da propria Nestle) confirma que o corte de 16 mil vagas e o
+fechamento de fabricas (Alemanha e Hungria) sao GLOBAIS, e NAO atingem o Brasil -- a empresa
+mantem plano de investimento de R$ 7 bi no pais ate 2028. E desinformacao que circula em sites de
+conteudo reciclado. Descartado por ser factualmente incorreto para o Brasil. Outro candidato
+descartado por falta de frescor genuino foi o fechamento da fabrica da Levorin/Michelin em
+Guarulhos (350 demissoes): o fato e real, mas o encerramento ja havia se completado em janeiro de
+2026 -- materias com data de "18/09" sobre o tema sao republicacoes de conteudo antigo, nao fato
+novo.
+
+CANDIDATO 1 -- Producao agricola do Brasil bate recorde historico de R$ 927,2 bilhoes em 2025, e
+area colhida ultrapassa 100 milhoes de hectares pela 1a vez
+Fato: O IBGE divulgou na quinta-feira (17/09) a Pesquisa Agricola Municipal (PAM) 2025: o valor da
+producao agricola nacional atingiu recorde historico de R$ 927,2 bilhoes, alta nominal de 18,4%
+sobre 2024. A producao de cereais, leguminosas e oleaginosas somou 345,4 milhoes de toneladas
+(+18,2%, +53,4 milhoes de t na comparacao anual -- maior volume da serie historica). A soja
+sozinha respondeu por 34% do valor total (R$ 315,2 bi), com safra de 165,2 milhoes de t (+14,4%),
+mantendo o Brasil como maior produtor e exportador mundial. Pela primeira vez a area colhida no
+pais ultrapassou 100 milhoes de hectares (100,6 milhoes, +4,4%).
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/producao-agricola-brasileira-superou-r-927-bilhoes-em-2025
+Fontes adicionais: CNN Brasil -- https://www.cnnbrasil.com.br/agro/producao-agricola-bate-recorde-de-r-9272-bilhoes-em-2025-diz-ibge/ ;
+Jornal do Brasil -- https://www.jb.com.br/economia/agropecuaria/2026/09/1060944-ibge-valor-de-producao-agricola-atinge-recorde-de-rs-9272-bilhoes-impulsionado-por-safra-de-graos.html
+Score de Repercussao:
+- Frescor: 3/5 (divulgado quinta, 17/09 -- dois dias atras, mas segue sendo replicado e comentado
+  hoje por dezenas de veiculos, sem noticia mais quente disputando a semana)
+- Relevancia do protagonista: 3/5 (nao e uma marca unica, e o "agronegocio brasileiro" como um
+  todo, com fonte oficial IBGE -- reconhecido mas mais abstrato que uma empresa especifica)
+- Gravidade: 4/5 (recorde historico de valor de producao e marco inedito de area colhida --
+  nao e noticia de rotina)
+- Polemica adjacente: 2/5 (toca de leve no debate sobre dependencia brasileira de commodities x
+  industrializacao, mas nao e o cerne da noticia -- fator nao decisivo no score, sem necessidade de
+  guardrail politico reforcado)
+- Volume de cobertura: 4/5 (replicado por Agencia Brasil, CNN Brasil, JB e dezenas de portais
+  regionais no mesmo dia da divulgacao e nos dias seguintes)
+- Clareza do angulo explicativo: 3/5 (cadeia causa->efeito->licao factivel em ate 2 min: clima
+  favoravel + produtividade + cambio favoravel -> recorde de valor e area plantada -> licao de
+  gestao sobre como um negocio pode bater recorde de faturamento mesmo em ano de juro alto e
+  pessimismo geral, se tiver produtividade e eficiencia -- mas exige simplificar um pouco a parte
+  tecnica de precos/cambio)
+- Identificacao com audiencia: 2/5 (dono de PME urbano sente o efeito de forma indireta -- via
+  cambio, exportacao e balanca comercial -- nao e uma dor ou ganho imediato "no bolso" como juro
+  ou inadimplencia)
+TOTAL: 21/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Fed dos EUA eleva juros pela 1a vez desde 2023 e sinaliza mais altas ate o fim do
+ano
+Fato: Em 16/09, o Federal Reserve elevou sua taxa basica em 0,25 p.p., para a faixa de 3,75% a
+4,00% ao ano -- primeira alta americana desde 2023, decisao unanime. A mediana das projecoes do
+proprio Fed para o fim de 2026 subiu para 4,1%, compativel com pelo menos mais uma alta de 0,25
+p.p. nas duas reunioes restantes do ano; 16 dos 18 participantes indicaram pelo menos mais um
+aumento em 2026, citando inflacao (PCE) revisada para cima, de 3,6% para 3,7%.
+Fonte: Piranot -- https://www.piranot.com.br/2026/09/16/noticias/economia/fed-eleva-juros-estados-unidos/
+Score de Repercussao:
+- Frescor: 2/5 (fato de 16/09, tres dias atras -- ja foi runner-up no rascunho de ontem, 18/09,
+  quando tinha dois dias; hoje esta ainda mais frio)
+- Relevancia do protagonista: 3/5 (Fed e Powell sao conhecidos, mas abstratos pro publico leigo
+  brasileiro de PME)
+- Gravidade: 4/5 (primeira alta em 3 anos, reversao de ciclo de afrouxamento monetario mundial,
+  sinalizacao de mais altas)
+- Polemica adjacente: 2/5 (tema tecnico de politica monetaria internacional, correlaciona
+  indiretamente com tensoes tarifarias/eleitorais nos EUA, mas pouca carga domestica)
+- Volume de cobertura: 4/5 (amplamente coberto por veiculos financeiros globais e nacionais)
+- Clareza do angulo explicativo: 3/5 (juro dos EUA mais alto -> dolar mais forte e fluxo de capital
+  sai de emergentes -> credito/insumo importado mais caro pra PME -- dá pra explicar, mas com
+  fatores concorrentes: inflacao americana, cambio, fluxo de capital)
+- Identificacao com audiencia: 3/5 (juro mundial mais alto pesa no custo de credito e no dolar que
+  a PME sente via insumo importado ou divida em moeda estrangeira)
+TOTAL: 21/35
+Observacao: empatou em pontuacao total com o Candidato 1 (21/35). Desempate pela regra do
+guardrail (maior gravidade, depois maior frescor): gravidade empatada em 4/5 nos dois; no
+frescor, Candidato 1 (3/5, fato de 17/09) supera o Candidato 2 (2/5, fato de 16/09, ja discutido
+como runner-up ontem) -- por isso o Candidato 1 leva o desempate e vence o dia.
+Status: runner-up
+
+CANDIDATO 3 -- M&A no Brasil: menos negocios, porem mais capital concentrado em grandes operacoes
+no 1o semestre de 2026
+Fato: O mercado de fusoes e aquisicoes movimentou R$ 166,8 bilhoes no primeiro semestre de 2026
+(593 transacoes) -- queda de 35,3% no numero de operacoes frente a igual periodo de 2025, mas alta
+de 3,4% no capital mobilizado. Duas operacoes concentraram parcela relevante do volume: a fusao da
+Odontoprev com a Bradesco Saude (US$ 5,8 bi) e a venda da CBA para a chinesa Chinalco e a
+anglo-australiana Rio Tinto (US$ 1,9 bi).
+Fonte: Migalhas -- https://www.migalhas.com.br/quentes/460773/m-a-movimenta-r-166-8-bi-no-primeiro-semestre-de-2026
+Score de Repercussao:
+- Frescor: 1/5 (dado de balanco semestral consolidado, nao e fato novo do dia)
+- Relevancia do protagonista: 2/5 (mercado agregado; Bradesco e conhecido, mas a noticia em si e
+  sobre uma estatistica de mercado, nao um caso isolado com marca central)
+- Gravidade: 2/5 (tendencia de mercado, nao um evento isolado grave)
+- Polemica adjacente: 1/5 (pouca ligacao com debate publico mais amplo)
+- Volume de cobertura: 3/5 (coberto por veiculos juridicos e de mercado especializados)
+- Clareza do angulo explicativo: 3/5 (licao sobre consolidacao/concentracao de capital em poucas
+  operacoes grandes e factivel de explicar rapido)
+- Identificacao com audiencia: 2/5 (fusoes bilionarias distantes do dia a dia do dono de PME)
+TOTAL: 14/35
+Status: runner-up (abaixo do limiar de repercussao forte -- fica como reserva)
+
+CANDIDATO 4 -- Greve dos Correios segue sem acordo; julgamento decisivo no TST so na 2a-feira
+(21/09)
+Fato: A greve nacional por tempo indeterminado dos Correios, iniciada em 10/09, continua sem
+desfecho. Desde 12/09 o TST determina manutencao de 80% do efetivo. O julgamento do dissidio
+coletivo, que pode encerrar o impasse, esta marcado para 21/09 (segunda-feira) -- ate la as partes
+ainda podem negociar diretamente. Nao ha fato novo relevante divulgado hoje (apenas reportagens
+reforcando que a greve "nao tem previsao de fim").
+Fonte: Exame -- https://exame.com/brasil/quando-acaba-a-greve-dos-correios-entenda-a-paralisacao/
+Score de Repercussao:
+- Frescor: 1/5 (sem fato novo hoje; proximo marco real so na segunda-feira, 21/09)
+- Relevancia do protagonista: 5/5 (Correios esta presente na vida de praticamente todo
+  brasileiro/PME)
+- Gravidade: 3/5 (disrupcao operacional real e continua, mas sem novidade concreta no dia)
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo explicativo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 21/35
+Status: DESQUALIFICADO POR REPETICAO -- Correios ja foi VENCEDOR DO DIA em 09/09/2026 e voltou como
+candidato desqualificado por repeticao em 12, 13, 15, 16 e 18/09, sempre dentro da janela de 10
+dias corridos. Sem desenvolvimento genuinamente novo hoje; o proximo ponto de inflexao real e a
+audiencia de 21/09.
+
+RESUMO: vencedor do dia com 21/35, em empate tecnico de pontuacao com o Fed americano (tambem
+21/35, perde no desempate por frescor). Nenhum guardrail politico reforcado necessario hoje --
+fator "Polemica adjacente" ficou baixo (2/5) tanto no vencedor quanto nos runners-up.
