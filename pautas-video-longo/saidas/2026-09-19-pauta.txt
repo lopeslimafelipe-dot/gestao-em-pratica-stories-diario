@@ -1,0 +1,40 @@
+PAUTA DO DIA -- 2026-09-19
+Assunto: Producao agricola do Brasil bate recorde historico de R$ 927,2 bilhoes em 2025, e area colhida ultrapassa 100 milhoes de hectares pela 1a vez
+Score final: 21/35 (Frescor: 3/5; Relevancia do protagonista: 3/5; Gravidade: 4/5; Polemica adjacente: 2/5; Volume de cobertura: 4/5; Clareza do angulo: 3/5; Identificacao com audiencia: 2/5)
+
+Fato central verificado: O IBGE divulgou em 17/09/2026 a Pesquisa Agricola Municipal (PAM) 2025: o valor da producao agricola nacional atingiu recorde historico de R$ 927,2 bilhoes, alta nominal de 18,4% sobre 2024. A producao de cereais, leguminosas e oleaginosas somou 345,4 milhoes de toneladas (+18,2%, maior volume da serie historica). A soja respondeu por 34% do valor total (R$ 315,2 bi), com safra de 165,2 milhoes de t (+14,4%), mantendo o Brasil como maior produtor e exportador mundial. Pela primeira vez a area colhida no pais ultrapassou 100 milhoes de hectares (100,6 milhoes, +4,4%). Fato checado por cruzamento independente de fonte oficial (Agencia Brasil, que replica o comunicado do IBGE) com CNN Brasil, JB e O Tempo -- numeros batem em todas as fontes checadas.
+
+Cadeia causal (o que levou a isso):
+1) 2024 foi marcado pelo El Nino, que reduziu a produtividade das lavouras em regioes importantes do Sul e Centro-Oeste, gerando uma safra fraca de comparacao.
+2) Em 2025 o clima foi mais favoravel, permitindo recuperacao de produtividade (+2,5% na media das lavouras) e expansao de area plantada (+2,7%, cerca de 1,3 milhao de hectares incorporados).
+3) Soja e milho, juntos, responderam por 88,7% da producao de graos: soja cresceu 14,4% (165,2 mi t) e milho teve alta de 23,1% (141,2 mi t), novo recorde historico da serie do IBGE para o cereal.
+4) A soma desses fatores (clima + produtividade + area) resultou no duplo recorde: valor da producao em R$ 927,2 bi (+18,4%) e area colhida rompendo pela 1a vez a marca de 100 milhoes de hectares.
+
+Por que esta repercutindo agora: o dado foi divulgado pelo IBGE na quinta-feira (17/09) e segue sendo amplamente replicado dois dias depois por dezenas de veiculos (Agencia Brasil, CNN Brasil, JB, O Tempo, Canal Rural, entre outros), sem noticia mais quente disputando a semana -- alto volume de cobertura somado ao ineditismo do marco duplo (maior valor da serie historica + primeira vez acima de 100 milhoes de hectares).
+
+Angulo de gestao sugerido: o recorde aconteceu num ano de juro alto, credito pressionado e dolar oscilando -- cenario macro nada favoravel. A licao pratica pro dono de PME: crescimento recorde nao depende so de cenario externo favoravel, depende de produtividade e eficiencia operacional. O agro brasileiro bateu recorde de faturamento mesmo com fatores contra (cambio dificultando exportacao, credito caro) porque produziu mais com os mesmos recursos -- e essa e a alavanca que qualquer negocio pode puxar independente do humor da economia.
+
+Dados de apoio:
+- Milho: 141,2 milhoes de toneladas (+23,1%), recorde historico da serie do IBGE; o valor da producao do milho cresceu 38,9% em 2025, ultrapassando a cana-de-acucar e assumindo a 2a posicao no ranking nacional de valor de producao agricola (fonte: JB e CNN Brasil).
+- Soja: R$ 315,2 bi (34% do valor total da producao agricola nacional), 165,2 milhoes de t (+14,4%) -- Brasil segue como maior produtor e exportador mundial da oleaginosa.
+- Apesar do recorde, o ambiente seguiu desafiador para o produtor: credito pressionado e dolar em alta dificultando a exportacao no periodo (fonte: Canaoeste, sobre o contexto da safra recorde).
+
+Ressalva/limite: o fator "Polemica adjacente" ficou baixo (2/5) no rascunho -- nao ha guardrail politico reforcado obrigatorio hoje. Mesmo assim, o briefing e a estrutura sugerida nao devem comentar o debate sobre dependencia brasileira de commodities x industrializacao do pais, nem qualquer viés politico-partidario sobre politica agricola ou cambial. O angulo do video e estritamente pratico de gestao (produtividade, eficiencia, resiliencia a cenario macro adverso), nunca uma tomada de posicao sobre o debate economico maior.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: Brasil bateu recorde historico de quase R$ 1 trilhao em producao agricola -- em plena crise de juro alto e dolar instavel.
+- Contexto/causa raiz: a safra fraca de 2024 (El Nino) e a virada climatica de 2025.
+- Desenvolvimento da cadeia causal: como clima + produtividade + area plantada + mix soja/milho se somaram ate o duplo recorde (valor e area colhida).
+- Licao de gestao (a virada): crescer recorde mesmo com cenario macro contra -- a alavanca e produtividade/eficiencia interna, nao o cenario externo.
+- Fechamento + CTA.
+
+Fonte(s):
+- Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/producao-agricola-brasileira-superou-r-927-bilhoes-em-2025
+- CNN Brasil -- https://www.cnnbrasil.com.br/agro/producao-agricola-bate-recorde-de-r-9272-bilhoes-em-2025-diz-ibge/
+- Jornal do Brasil -- https://www.jb.com.br/economia/agropecuaria/2026/09/1060944-ibge-valor-de-producao-agricola-atinge-recorde-de-rs-9272-bilhoes-impulsionado-por-safra-de-graos.html
+- Canaoeste (contexto/credito e cambio) -- https://canaoeste.com.br/noticias/safra-recorde-convive-com-pressao-do-credito-e-risco-climatico/
+
+Runners-up do dia (registro/transparencia):
+- Fed dos EUA eleva juros pela 1a vez desde 2023 e sinaliza mais altas ate o fim do ano -- 21/35 (perdeu no desempate por frescor)
+- Greve dos Correios segue sem acordo -- 21/35 (desqualificado por repeticao, ja venceu em 09/09 e voltou como candidato em 12, 13, 15, 16 e 18/09)
+- M&A no Brasil: menos negocios, mais capital concentrado -- 14/35 (abaixo do limiar de repercussao forte)
