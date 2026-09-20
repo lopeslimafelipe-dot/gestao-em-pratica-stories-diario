@@ -1,0 +1,62 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-09-20 (sabado)
+
+Observacao geral do dia: sabado tem volume de noticiario de negocios mais fraco que dia de semana. Pesquisa cobriu fontes de Brasil (G1, InfoMoney, Exame, Estadao Economia, Forbes Brasil, Valor Economico, IBGE, Agencia Brasil, FecomercioSP, CNI, Serasa Experian, ABF) e agregadores para medir volume de cobertura. Dois candidatos fortes (diesel e Ibovespa) foram identificados mas rebaixados por repetirem assunto ja coberto por este mesmo pipeline nos ultimos 10 dias corridos (checagem feita so contra pautas-video-longo/, ignorando o pipeline do Curador de Noticias) -- ver nota em cada um.
+
+CANDIDATO 1 -- IMC (Frango Assado/KFC/Pizza Hut/Viena) e fundo da Vinci Compass (Outback/Abbraccio) negociam fusao de redes de restaurantes
+Fato: o Valor Economico noticiou em 17/09/2026 que a IMC (International Meal Company, dona de Frango Assado, KFC, Pizza Hut e Viena no Brasil) e o fundo VCP IV, da Vinci Compass (que controla marcas como Outback e Abbraccio no pais), estao em conversas preliminares para fusionar suas operacoes de restaurantes -- negocio que, se concretizado, criaria um grupo avaliado em cerca de R$5,5 bilhoes. Em 18/09, a IMC divulgou fato relevante a CVM negando a existencia de qualquer instrumento assinado para compra, venda ou combinacao de negocios, mas sem detalhar ou descartar que ha conversas em andamento ("atenta a oportunidades"). As acoes da IMC (MEAL3) vinham em forte alta no periodo (de R$0,70 em 08/09 para R$0,93 em 17/09) e no dia da negativa formal ainda oscilaram, sem reverter o movimento acumulado. Fato consistente entre multiplas fontes independentes que replicaram a mesma reportagem original (Forbes Brasil, Money Times, ADVFN, Finance News, Monitor do Mercado, SpaceMoney, Brasil em Folhas).
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/imc-vinci-compass-fusao-restaurantes/ | ADVFN -- https://br.advfn.com/jornal/2026/09/imc-nega-acordo-para-fusao-para-fusao-com-fundo-da-vinci-mas-acoes-sobem-na-b3
+Contexto de apoio: o setor de food service no Brasil chega a 2026 em estagio avancado de consolidacao via fusoes e aquisicoes, pressionado por custos em alta -- margem liquida mediana de negocios independentes fica entre 6% e 9% (e abaixo de 4% em delivery pequeno sem salao), e 41% dos bares/restaurantes do pais registram pagamentos em atraso, com tributos federais entre os principais fatores de pressao sobre o caixa (fonte: Mundo do Marketing/Mercado&Consumo, materias sobre consolidacao do setor alimenticio em 2026).
+Score de Repercussao:
+- Frescor: 4/5 (fato de 17-18/09, ainda repercutindo no fim de semana)
+- Relevancia do protagonista: 4/5 (as holdings IMC e Vinci Compass nao sao nomes de bastidor, mas as marcas envolvidas -- KFC, Pizza Hut, Outback -- sao extremamente conhecidas do publico geral)
+- Gravidade: 3/5 (nao e uma crise; e um movimento estrategico relevante -- grupo de R$5,5 bi -- mas ainda em fase preliminar, sem acordo fechado)
+- Polemica adjacente: 0/5 (nenhuma carga politica ou eleitoral)
+- Volume de cobertura: 4/5 (replicado por pelo menos 6-7 veiculos de mercado no mesmo ciclo de noticia)
+- Clareza do angulo: 4/5 (cadeia causal direta: margem apertada -> custo alto -> escala como saida -> fusao)
+- Identificacao com audiencia: 4/5 (parte relevante do publico de PME do canal atua em alimentacao/franquia e sente na pele a pressao de margem e tributos que esta empurrando ate gigantes do setor pra buscar fusao)
+TOTAL: 23/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Risco de restricao de diesel: defasagem de preco da Petrobras bate recorde e importacao despenca no inicio do plantio da safra de verao
+Fato: a defasagem entre o diesel vendido pela Petrobras e a cotacao internacional atingiu nivel recorde (entre 107% e 109%, a maior desde que a associacao do setor comecou a medir, segundo Poder360/InfoMoney), com o preco domestico defasado em ate R$3,89/litro frente ao mercado externo. Isso fez importadores adiarem compras: a importacao de diesel prevista para outubro despencou para menos de 18% do volume programado para setembro (~150 mil m3), justamente no momento em que comeca o plantio da safra de verao (soja) e o consumo de diesel sazonalmente sobe. Distribuidoras ja relatam cota de compra imposta pela Petrobras e ha registros de falta pontual em postos. Um subsidio adicional de R$1/litro para o diesel, anunciado pelo governo, esta com a portaria de implementacao atrasada no Ministerio da Fazenda.
+Fonte: Poder360 -- https://www.poder360.com.br/poder-energia/importadores-veem-risco-de-falta-de-diesel-com-preco-defasado/ | InfoMoney -- https://www.infomoney.com.br/mercados/risco-de-restricao-pontual-de-diesel-volta-ao-radar-diante-de-defasagem-da-petrobras/
+Score de Repercussao:
+- Frescor: 4/5 (fato de 17-18/09, situacao ainda se desenrolando)
+- Relevancia do protagonista: 4/5 (Petrobras)
+- Gravidade: 3/5 (ainda e "risco de restricao pontual", nao desabastecimento nacional confirmado)
+- Polemica adjacente: 3/5 (envolve politica de precos de estatal e atraso de subsidio do governo federal)
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5 (mecanismo de defasagem de preco/importacao e mais tecnico de explicar rapido)
+- Identificacao com audiencia: 5/5 (custo de frete/diesel e dor direta de qualquer PME com logistica, e afeta diretamente o agro)
+TOTAL: 26/35 (bruto)
+Status: runner-up -- REBAIXADO por repeticao de assunto: este mesmo pipeline publicou em 2026-09-11 uma pauta central sobre choque no preco do petroleo/combustivel e subsidio do governo a diesel e gasolina (mesma empresa-protagonista, Petrobras, e mesmo mecanismo de fundo -- preco internacional x subsidio domestico). Ainda que o fato especifico de hoje seja distinto (risco de escassez fisica, nao apenas preco), o angulo e proximo demais do que ja foi ao ar ha 9 dias -- por isso nao foi escolhido como vencedor apesar do score bruto mais alto.
+
+CANDIDATO 3 -- Ibovespa quebra sequencia de 4 semanas em alta; semana fecha negativa com eleicao, Selic e Bolsa Familia no radar
+Fato: o Ibovespa fechou a sexta-feira (18/09) em queda de 0,41%, aos 185.229,17 pontos, acumulando perda semanal de 1,06% -- primeira semana negativa depois de quatro seguidas em alta. O movimento foi atribuido pela cobertura de mercado a uma combinacao de fatores: pesquisa Datafolha mostrando empate tecnico num eventual 2o turno presidencial, decisao do Banco Central do Japao de subir juros, petroleo em leve queda e o resseco do episodio do reajuste do Bolsa Familia (que ja havia gerado o choque de juros futuros do dia 17/09, coberto por este pipeline no dia anterior).
+Fonte: Exame -- https://exame.com/invest/mercados/ibovespa-ibov-fechamento-18-09-2026/ | Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/ibovespa-cai-primeira-queda-semanal-agosto-dolar-estavel/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 2/5 (queda semanal moderada, sem evento extremo isolado)
+- Polemica adjacente: 5/5 (pesquisa eleitoral com nome de candidatos, STF, Bolsa Familia -- carga politica maxima)
+- Volume de cobertura: 5/5
+- Clareza do angulo: 2/5 (causas concorrentes demais -- eleicao, BC do Japao, petroleo, fiscal -- dificil isolar uma cadeia causal de gestao em 2 min sem tocar no debate politico)
+- Identificacao com audiencia: 3/5
+TOTAL: 25/35 (bruto)
+Status: runner-up -- REBAIXADO por repeticao de assunto e por risco de guardrail: e essencialmente a continuacao do mesmo enredo do Bolsa Familia/risco fiscal que foi o VENCEDOR deste pipeline em 2026-09-18 (2 dias atras). Alem disso, a causa mais proxima do movimento desta semana e uma pesquisa eleitoral nomeando candidatos -- tema que o guardrail politico deste canal exige manter fora do roteiro, o que tornaria dificil sustentar a Clareza do angulo sem esbarrar no debate politico-eleitoral direto.
+
+CANDIDATO 4 -- CVM aplica R$203 milhoes em multas a Daniel Vorcaro e outros 15 reus por fraude com documentos periciais forjados (caso Banco Master)
+Fato: em 08/09/2026, o colegiado da CVM condenou Daniel Vorcaro (ex-controlador do Banco Master), seu pai, seu primo e mais 12 reus, alem da empresa Viking Participacoes, por emprego de documentos periciais forjados para superestimar o patrimonio do fundo imobiliario Brazil Realty FII (3a emissao de cotas, iniciada em 2018). As multas somam R$203 milhoes entre os 16 condenados (dos 19 processados, 3 foram absolvidos); Vorcaro e o Banco Master isoladamente foram multados em R$20 milhoes e R$12,5 milhoes. O Banco Master esta em liquidacao extrajudicial desde novembro/2025, no que se tornou o maior acionamento historico do Fundo Garantidor de Creditos (FGC), de cerca de R$41 bilhoes.
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/cvm-multa-vorcaro-em-r-20-milhoes-por-fraude-em-fundo-imobiliario | Diario do Grande ABC -- https://www.dgabc.com.br/Noticia/4345817/cvm-aplica-multas-que-somam-rs-203-mi-a-vorcaro-e-a-outros-15-reus-em-caso-de-fraude-com-fii
+Score de Repercussao:
+- Frescor: 1/5 (decisao de 08/09 -- 12 dias antes desta pesquisa)
+- Relevancia do protagonista: 5/5 (Banco Master e Vorcaro sao hoje um dos casos mais conhecidos do publico geral em financas no Brasil)
+- Gravidade: 4/5 (maior valor de multas da CVM ligado ao caso, fraude documental comprovada)
+- Polemica adjacente: 3/5 (o caso Master tem desdobramentos que tocam STF/Banco Central -- risco de a cobertura mais ampla arrastar pra ali, mesmo que o fato-multa da CVM em si seja tecnico/regulatorio)
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5 (fraude documental para inflar patrimonio de fundo -> licao de governanca e diligencia antes de investir/confiar em numero de terceiro)
+- Identificacao com audiencia: 2/5 (mais distante do dia a dia operacional de uma PME comum -- fala mais a quem tem dinheiro investido em fundos)
+TOTAL: 22/35
+Status: runner-up (score legitimo, sem problema de repeticao, mas frescor baixo -- fato de quase 2 semanas atras)
+
+Ressalva geral de guardrail: nenhum dos candidatos aqui listados exige comentario sobre merito de politica economica, citacao de partido/figura politica de forma critica ou tomada de posicao em debate eleitoral. O Candidato 3 (Ibovespa), justamente por isso, foi rebaixado -- explicar seu movimento da semana de forma honesta tocaria diretamente em pesquisa eleitoral nomeada, o que este canal nao faz.
