@@ -1,0 +1,39 @@
+ROTEIRO 1 — Governança de IA no papel, buraco na prática
+"98% das empresas já dizem ter política de governança de IA no papel. Só que uma pesquisa da EY, que vende consultoria nesse tema, com 202 executivos seniores mostrou que 🟡`85% delas têm IA agindo sozinha, sem ninguém olhando em tempo real`🟡 — e 🟡`26% nem sabem quantos agentes de IA não autorizados rodam por dentro do próprio negócio`🟡. 🟡`Documento bonito, buraco enorme na prática.`🟡 Quem ainda nem tem o documento corre pro mesmo buraco mais rápido. Sua empresa sabe o que a IA está decidindo sozinha aí dentro?"
+Fonte: EY Newsroom — https://www.ey.com/en_us/newsroom/2026/09/ey-survey-finds-that-autonomous-ai-implementation-outpaces-oversight-yielding-an-ai-governance-gap
+
+===================================================================
+
+ROTEIRO 2 — CFOs topam IA ajudar, não decidir sozinha
+"Uma pesquisa da Deloitte, que também vende consultoria de tecnologia, ouviu 1.434 líderes financeiros de 26 países: 🟡`95% deles se dizem confortáveis deixando a IA mexer em parte das finanças da empresa`🟡. Só que quando o assunto é deixar a IA decidir sozinha algo que realmente importa, 🟡`esse número despenca pra 14%`🟡. 🟡`Lá fora já ficou clara a linha entre usar IA pra ajudar e terceirizar a decisão pra ela.`🟡 É a mesma linha que todo dono de negócio vai ter que desenhar em casa — a sua empresa já desenhou essa linha, ou ainda tá no improviso?"
+Fonte: Deloitte US — https://www.deloitte.com/us/en/about/press-room/deloitte-finance-trends-2027-finance-leaders-balance-ambition-with-accountability.html
+
+===================================================================
+
+ROTEIRO 3 — Faltam 2 dias pra trégua da NR-1 acabar
+"Semana passada eu falei que faltavam 9 dias pra trégua da NR-1 acabar. Faltam 2 agora. O STF suspendeu por 90 dias as multas sobre riscos psicossociais, decisão referendada pelo Plenário, e 🟡`esse prazo vence quinta-feira, 23 de setembro`🟡. 🟡`A obrigação de mapear esses riscos no PGR nunca parou de valer, desde maio — só a multa estava suspensa.`🟡 Se você não regularizou achando que 'isso ainda não pegou', 🟡`a partir de quinta pode pegar`🟡. Sua empresa já tem o risco psicossocial documentado no papel?"
+Fonte: STF Notícias — https://noticias.stf.jus.br/postsnoticias/stf-suspende-sancoes-da-nr-1-e-abre-conciliacao-sobre-regras-de-riscos-psicossociais-no-trabalho/
+
+===================================================================
+
+ROTEIRO 4 — Buffett sai da Berkshire: "o tempo sempre vence"
+"Warren Buffett passou 60 anos planejando o dia em que ia sair do comando. Em carta aos acionistas, aos 96 anos, ele anunciou que deixa a presidência do conselho da Berkshire Hathaway: 🟡`o filho Howard assume como chairman, Greg Abel segue CEO, e Buffett virou 'chairman emeritus'`🟡. A frase que ele usou foi 'o tempo sempre vence'. 🟡`Se o investidor mais paciente do mundo trata sucessão como projeto de décadas, e não de última hora`🟡, o que isso diz sobre a sua empresa? Quem assume o seu negócio no dia em que você sair?"
+Fonte: CNBC — https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html
+
+===================================================================
+
+ROTEIRO 5 — Fechou 2 fábricas antes de abrir capital
+"Antes de pedir dinheiro pro mercado, essa empresa fechou duas fábricas. A Wonder, dona do Grubhub e prestes a abrir capital, 🟡`fechou duas plantas em Nova Jersey e demitiu 533 pessoas, concentrando a produção numa fábrica maior`🟡. Não foi porque estava afundando — foi pra mostrar uma operação mais enxuta antes de captar dinheiro. 🟡`Às vezes 'arrumar a casa' antes de buscar investidor dói mais do que crescer.`🟡 Se você fosse abrir seu negócio pra um investidor amanhã, sua operação aguentaria o exame?"
+Fonte: Forbes — https://www.forbes.com/sites/maryroeloffs/2026/09/16/wonder-cutting-533-jobs-in-new-jersey-amid-bid-to-go-public/
+
+===================================================================
+
+ROTEIRO 6 — Cresceu rápido demais e quase afundou no caixa
+"Essa empresa vendia cada vez mais, crescia rápido, e quase afundou. 🟡`A Boa LED passou de R$7,5 milhões pra mais de R$10 milhões de faturamento, com meta de chegar a R$13 milhões`🟡 — mas perdeu o controle do caixa, atrasou o financeiro e tomou multa por estourar o teto do Simples Nacional. No choque de gestão que a empresa recebeu, a frase ficou: 'fluxo de caixa não é o problema, é o sintoma'. 🟡`Se seu negócio está crescendo e você não sabe quanto dinheiro tem hoje, o problema não é o caixa — é a gestão que não acompanhou.`🟡"
+Fonte: Exame — https://exame.com/negocios/lasaro-do-carmo-da-choque-de-gestao-em-empresa-de-led-que-perdeu-o-controle-do-caixa/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 2] "Você deixaria uma IA decidir sozinha algo importante nas finanças da sua empresa? 🟢 Sim / 🔴 Não"
+2. [Pergunta/Participacao, Roteiro 6] "Sinceramente: você sabe exatamente quanto dinheiro sua empresa tem em caixa HOJE? Conta aqui nos comentários (sem julgamento 😅)"
+3. [Virar Historia, Roteiro 3 -> Quadro Branco] Desenhar a linha do tempo da NR-1 (maio: obrigação começa → 25/06: STF suspende multa → 18/08: Plenário referenda → 23/09: prazo vence) deixa visualmente claro por que restam só 2 dias, em vez de só falar a data.
