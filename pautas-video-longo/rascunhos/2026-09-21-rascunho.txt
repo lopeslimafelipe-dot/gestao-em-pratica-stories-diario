@@ -1,0 +1,53 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-09-21 (segunda-feira)
+
+Observacao geral do dia: pesquisa cobriu fontes de Brasil (G1, InfoMoney, Exame, Estadao Economia, Forbes Brasil, Valor Economico, IBGE, Agencia Brasil, FecomercioSP, CNI, Serasa Experian, ABF, MDIC) e agregadores para medir volume de cobertura, sempre confirmando o fato na fonte original. Boa parte do acesso direto a paginas de noticias esteve bloqueado pelo proxy de rede desta sessao hoje -- a pesquisa foi feita via busca (WebSearch), cruzando varios resultados/veiculos para cada fato antes de aceitar como confirmado. Dois "candidatos" fortes que apareceram na pesquisa inicial foram descartados por problemas de precisao/repeticao (ver notas nos Candidatos 4 e 5) -- isso reduziu o numero de candidatos com score solido, mas evita levar pro ar um fato errado ou repetido.
+
+CANDIDATO 1 -- BTG Pactual assume o controle do Nubank Parque (estadio do Palmeiras) apos anos comprando a divida da WTorre
+Fato: em 18/09/2026, o BTG Pactual fechou acordo para se tornar acionista majoritario da empresa que opera o Nubank Parque (estadio do Palmeiras), com contrato de gestao valido ate 2044 -- a WTorre, construtora e antiga controladora do estadio, passa a socia minoritaria. O acordo (pre-contrato) foi enviado para analise do Cade (Conselho Administrativo de Defesa Economica) e ainda nao foi aprovado. A raiz do negocio vem de 2024: a Enforce, gestora de credito do BTG, comprou do Banco do Brasil uma divida de cerca de R$650 milhoes que a WTorre tinha relacionada ao financiamento do estadio -- isso deu ao BTG posicao privilegiada dentro da estrutura financeira do ativo, que amadureceu agora na tomada de controle societario. Segundo a cobertura, a operacao nao muda a rotina do estadio no curto prazo: contratos com patrocinadores e promotores de eventos sao mantidos, e a equipe operacional liderada por Marcelo Frazao continua. A receita bruta da empresa que opera o estadio cresceu de R$124 milhoes (2022) para R$241 milhoes (2024) -- um dos pontos usados para justificar o apetite do BTG pelo ativo.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/btg-pactual-se-torna-acionista-majoritario-do-nubank-parque-apos-acordo-com-wtorre/ | InfoMoney -- https://www.infomoney.com.br/business/btg-fecha-acordo-e-assume-gestao-do-nubank-parque-estadio-do-palmeiras/ | Diario do Grande ABC -- https://www.dgabc.com.br/Noticia/4347790/btg-fecha-acordo-e-assume-gestao-do-nubank-parque-estadio-do-palmeiras | Economic News Brasil -- https://economicnewsbrasil.com.br/2026/09/19/btg-no-nubank-parque/ (fato replicado tambem por A Gazeta de Dourados, The Football, BPMoney, Tribuna do Agreste/Sertao, com os mesmos numeros)
+Score de Repercussao:
+- Frescor: 3/5 (anuncio de 18/09, ha 3 dias, mas processo segue em aberto -- aprovacao do Cade ainda pendente)
+- Relevancia do protagonista: 5/5 (BTG Pactual, maior banco de investimentos do pais, e o estadio de um dos clubes de futebol mais populares do Brasil -- reconhecimento que extrapola muito quem acompanha o mercado financeiro)
+- Gravidade: 3/5 (mudanca relevante de controle sobre um ativo de peso, mas e um movimento estrategico/financeiro, nao uma crise)
+- Polemica adjacente: 1/5 (envolve paixao de torcida de futebol, mas nao ha carga politico-partidaria ou economica-nacional envolvida -- pontuacao baixa neste fator, e o video NAO deve tocar em rivalidade de torcida, so no mecanismo financeiro)
+- Volume de cobertura: 4/5 (replicado por 8+ veiculos financeiros e esportivos no mesmo ciclo, com os mesmos numeros)
+- Clareza do angulo: 5/5 (cadeia causal direta e rara de achar tao limpa: empresa nao paga divida -> credor compra a divida de outro credor -> anos se passam -> credor vira dono/controlador do ativo que garantia a divida)
+- Identificacao com audiencia: 4/5 (concentrar divida com um unico credor por muito tempo e risco real de qualquer PME que financia ativo caro -- a licao de "quem financia seu ativo pode acabar controlando seu ativo" e visceral pra dono de negocio)
+TOTAL: 25/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Simples Nacional: prazo ate 30/09 para empresas optarem como vao pagar o novo IBS/CBS em 2027
+Fato: pela primeira vez, o Comite Gestor do Simples Nacional (CGSN) antecipou em 4 meses o calendario de opcao: entre 01/09 e 30/09/2026, toda empresa optante pelo Simples Nacional precisa decidir se, em 2027, vai continuar recolhendo os novos tributos da reforma (IBS e CBS) dentro da guia unica do Simples ou se vai migrar para pagar esses dois tributos "por fora", no regime regular -- quem nao se manifestar fica automaticamente no modelo unificado. Ha ainda janela para cancelar a opcao ate 30/11. MEI fica de fora dessa escolha (segue como MEI normalmente, sem opcao de regime hibrido). E uma decisao concreta com prazo curto (faltam 9 dias) que impacta literalmente todo o universo de pequenas empresas do Simples no Brasil.
+Fonte: Receita Federal/Governo Federal -- https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/prazo-para-solicitacao-pelo-simples-nacional-sera-em-setembro-de-2026 | Diario do Comercio -- https://diariodocomercio.com.br/legislacao/simples-nacional-prazo-adesao/
+Score de Repercussao:
+- Frescor: 2/5 (janela aberta desde 01/09, nao e fato novo de hoje, mas o prazo se aproxima do fim -- 9 dias restantes)
+- Relevancia do protagonista: 1/5 (nao ha empresa/marca famosa -- e uma decisao regulatoria da Receita Federal/CGSN)
+- Gravidade: 2/5 (relevante pro publico do Simples, mas e um procedimento administrativo, nao um evento-choque)
+- Polemica adjacente: 0/5 (nenhuma carga politica -- e execucao tecnica de uma reforma ja aprovada)
+- Volume de cobertura: 2/5 (bem coberto em portais contabeis/juridicos, mas com pouca penetracao em veiculos de noticia geral/massa)
+- Clareza do angulo: 2/5 (tema tecnico-tributario com nuances -- unificado x regular, prazo de cancelamento -- risco de o video soar aula de contabilidade em vez de licao de gestao)
+- Identificacao com audiencia: 5/5 (e literalmente uma decisao que o dono de PME do Simples precisa tomar nos proximos dias, com risco real de pagar mais imposto se errar)
+TOTAL: 14/35
+Status: runner-up (score abaixo da linha de corte de ~15 -- registrado por transparencia e por ser tema de calendario relevante pro publico, mas fraco em repercussao/drama pra virar o video do dia; pode valer como pauta de utilidade publica em outro formato, nao como o video longo de hoje)
+
+CANDIDATO 3 -- Balanca comercial: exportacoes crescem 28,5% na 2a semana de setembro, superavit projetado de US$90 bi no ano
+Fato: segundo o MDIC (Ministerio do Desenvolvimento, Industria, Comercio e Servicos), a balanca comercial brasileira acumula em setembro/2026 superavit de US$3,356 bilhoes (US$14,247 bi em exportacoes contra US$10,891 bi em importacoes), com as exportacoes crescendo 28,5% frente ao mesmo periodo de 2025. O crescimento e puxado por industria extrativa (+70,5%, US$4,188 bi -- minerio/petroleo), industria de transformacao (+17,0%, US$7,140 bi) e agropecuaria (+16,5%, US$2,831 bi). O MDIC projeta superavit recorde de US$90 bilhoes no ano, alta de 32,3% sobre 2025.
+Fonte: O Povo -- https://www.opovo.com.br/noticias/economia/2026/09/14/balanca-comercial-tem-superavit-de-uss-1548-bilhao-na-2-semana-de-setembro.html | MDIC (dado oficial) -- https://balanca.economia.gov.br/balanca/pg_principal_bc/principais_resultados.html
+Score de Repercussao:
+- Frescor: 2/5 (dado da 2a semana de setembro, divulgado por volta de 14-16/09 -- nao e fato de hoje/ontem)
+- Relevancia do protagonista: 2/5 (indicador nacional, sem empresa/marca famosa como protagonista)
+- Gravidade: 3/5 (recorde/tendencia forte, mas e noticia positiva sem choque -- nao tem o fator "evento grave")
+- Polemica adjacente: 1/5 (leve tangencia com debate cambial/agro x industria, mas fraca)
+- Volume de cobertura: 3/5 (replicado em varios agregadores, mas e a divulgacao semanal de rotina do MDIC)
+- Clareza do angulo: 2/5 (causas concorrentes -- extrativa, agro, industria de transformacao -- dificulta isolar uma cadeia causal unica e simples em 2 minutos)
+- Identificacao com audiencia: 2/5 (fala mais direto a quem exporta ou compete com importado; boa parte do publico de PME de servico/varejo sente pouco na rotina)
+TOTAL: 15/35
+Status: runner-up (score na linha de corte -- registrado por transparencia, mas perde claramente pro Candidato 1 em protagonismo, gravidade e clareza de angulo)
+
+CANDIDATO 4 (descartado) -- Casas Bahia: fechamento de 298 lojas e demissao de ate 3 mil funcionarios
+Nota de descarte: essa materia circulou de novo em agregadores nesta semana com os mesmos numeros (298 lojas, ~1.900 a 3.000 demissoes, divida de R$17,3 bi/subsidiarias) que ja foram verificados e usados como VENCEDOR DO DIA deste pipeline em 10/09/2026 -- e que, alias, ja haviam sido identificados em 17/09/2026 como fato de AGOSTO/2026 recirculando com data trocada (mesmo padrao se repete agora). Descartado por repeticao de assunto/empresa dentro da janela de 10 dias e por forte suspeita de ser o mesmo fato antigo republicado, nao um desenvolvimento novo.
+
+CANDIDATO 5 (descartado) -- "Nestle demite 16 mil funcionarios e fecha fabricas no Brasil"
+Nota de descarte: essa versao da noticia, que circulou em varios agregadores brasileiros nesta semana, e FALSA para o recorte Brasil -- checagem cruzada com Aos Fatos e com o posicionamento da propria Nestle confirma que o corte de ~16 mil posicoes (12 mil administrativas) e as duas fabricas fechadas (Neuss, na Alemanha, e Diosgyor, na Hungria) fazem parte de uma reestruturacao GLOBAL ate 2027, e que o Brasil esta fora dos cortes -- a empresa reafirmou R$7 bilhoes de investimento no pais ate 2028 e que as 18 fabricas brasileiras seguem operando normalmente. Descartado para nao levar ao ar uma informacao incorreta sobre o Brasil; registrado aqui como alerta de checagem para as proximas rodadas deste pipeline e do Curador de Noticias, ja que a versao falsa esta circulando com bastante volume.
+
+Ressalva geral de guardrail: o Candidato 1 (vencedor) pontuou baixo (1/5) em "Polemica adjacente" -- o fator nao pesou na escolha do vencedor. O tema toca em paixao de torcida (Palmeiras), mas isso NAO e a polemica politica que o guardrail deste canal mira; mesmo assim, fica registrado que o roteiro final deve tratar o caso apenas pelo angulo financeiro/gestao (divida, credor, controle societario) e evitar qualquer comentario sobre rivalidade de torcida ou opiniao sobre futebol.
