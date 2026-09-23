@@ -1,0 +1,157 @@
+RADAR DE REPERCUSSAO -- PAUTA DO DIA 2026-09-23
+Canal: Entre Gestores | Pipeline: Video longo explicativo (30s-2min)
+
+NOTA GERAL SOBRE O DIA: dia de noticiario fiscal/macro (nao ha nenhum fato-bomba
+tipo recuperacao judicial de marca famosa ou demissao em massa anunciada
+ontem/hoje). Os tres melhores candidatos saem de divulgacoes oficiais do
+Ministerio da Fazenda/Receita Federal e de um movimento corporativo da Vale,
+todos noticiados em 22/09/2026. Nenhum repete assunto/empresa usado como
+vencedor nos ultimos 10 dias corridos deste pipeline (conferido contra
+pautas-video-longo/saidas/ e /rascunhos/ de 13/09 a 22/09: Light, FecomercioSP,
+CNI, inadimplencia CNPJ, Copom/Selic, Bolsa Familia, producao agricola, fusao
+IMC/Vinci, BTG/Nubank Parque, curtailment solar -- nenhum overlap).
+
+--------------------------------------------------------------------------
+CANDIDATO 1 -- Arrecadacao federal bate recorde historico para agosto (R$ 235,6 bi)
+Fato: A Receita Federal divulgou, em 22/09/2026, que a arrecadacao federal somou
+R$ 235,6 bilhoes em agosto de 2026 -- o maior resultado da serie historica para
+o mes desde 1995, com alta real de 8,25% sobre agosto de 2025. No acumulado do
+ano (jan-ago), a arrecadacao chegou a R$ 2,11 trilhoes, alta real de 7,12%. Um
+dos maiores motores foi a receita de petroleo e gas, que saltou de R$ 16,3 bi
+(jan-ago/2025) para R$ 93,3 bi (jan-ago/2026) -- alta real de 471%. A
+arrecadacao de IRPJ + CSLL somou R$ 34,1 bi em agosto, alta real de 13,09%.
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/arrecadacao-federal-soma-r-2356-bilhoes-em-agosto-recorde-para-o-mes/
+(mesmo fato tambem coberto por Gazeta do Povo, Tribuna do Sertao, NC News, A
+Critica de Campo Grande e Tribuna PR no mesmo dia -- dado oficial da Receita
+Federal, verificavel na fonte primaria em gov.br/receitafederal)
+Score de Repercussao:
+- Frescor: 5/5 (divulgado no dia anterior, 22/09)
+- Relevancia do protagonista: 3/5 (Receita Federal/Governo Federal e reconhecido
+  por qualquer publico, mas nao carrega o apelo emocional de uma marca privada
+  famosa)
+- Gravidade: 3/5 (recorde historico desde 1995 e notavel, mas e uma divulgacao
+  mensal de rotina, nao um evento de ruptura tipo falencia ou demissao em massa)
+- Polemica adjacente: 4/5 (o dado alimenta diretamente o debate fiscal em curso
+  no pais -- corte de gastos, meta fiscal, discussao sobre carga tributaria e
+  reforma tributaria -- um tema que ja gera atencao e debate publico intenso,
+  sem que o video precise entrar no merito politico da discussao)
+- Volume de cobertura: 5/5 (replicado no mesmo dia por pelo menos 6-7 veiculos
+  diferentes, de grande e medio porte, sinal de que o assunto girou bastante no
+  noticiario economico)
+- Clareza do angulo explicativo: 3/5 (a cadeia central -- governo bate recorde
+  de arrecadacao ao mesmo tempo em que a carga tributaria sobre empresas segue
+  pesada -- e clara, mas o release tem varios fatores concorrentes -- petroleo,
+  IRPJ/CSLL, cambio -- que exigem simplificacao no roteiro para caber em 2 min)
+- Identificacao com audiencia: 4/5 (e uma dor quase universal do dono de PME:
+  "o governo nunca arrecadou tanto, e a carga tributaria sobre a minha empresa
+  nunca pesou tanto" -- abre espaco pra licao pratica de planejamento
+  tributario e fluxo de caixa, sem precisar comentar politica)
+TOTAL: 5+3+3+4+5+3+4 = 27/35
+Status: VENCEDOR DO DIA
+
+>>> SINALIZACAO GUARDRAIL POLITICO (fator "Polemica adjacente" pesou no score,
+4/5): o tema encosta no debate fiscal/tributario nacional, que e sensivel e
+frequentemente politizado (meta fiscal do governo, discussao sobre aumento de
+imposto vs. corte de gastos). O roteiro final DEVE ficar estritamente no angulo
+de gestao/negocio -- carga tributaria como custo fixo da operacao, importancia
+de planejamento tributario, fluxo de caixa e precificacao considerando impostos
+-- e NUNCA comentar a politica fiscal do governo em si, nem citar partido ou
+figura politica de forma critica, nem tomar posicao sobre o debate mais amplo
+de arrecadacao vs. gasto publico. <<<
+
+--------------------------------------------------------------------------
+CANDIDATO 2 -- Ministerio da Fazenda reduz projecao de crescimento do PIB 2026 de 2,3% para 2,0%
+Fato: O Boletim Macrofiscal da Secretaria de Politica Economica (SPE) do
+Ministerio da Fazenda, divulgado em 22/09/2026, reduziu a projecao de
+crescimento do PIB brasileiro em 2026 de 2,3% para 2,0% (e a de 2027, de 2,5%
+para 2,3%). A revisao e puxada pela desaceleracao do agronegocio (de 6,8% no
+2T para 3,7% no 3T) e da industria (de 1,5% para 1,3%), refletindo o efeito dos
+juros altos e da inadimplencia sobre servicos e comercio. O boletim ainda
+projeta superavit primario de R$ 10,77 bi para a meta fiscal do ano.
+Fonte: O Povo -- https://www.opovo.com.br/noticias/economia/2026/09/22/fazenda-projecao-de-alta-do-pib-de-2026-cai-de-23-para-20.html
+(mesmo fato replicado por Metropoles, Poder360, Jornal de Brasilia e Sem Pauta
+News no mesmo dia)
+Score de Repercussao:
+- Frescor: 5/5 (divulgado em 22/09)
+- Relevancia do protagonista: 2/5 (Ministerio da Fazenda/SPE e institucional,
+  sem o apelo de marca)
+- Gravidade: 2/5 (ajuste de 0,3 ponto percentual numa projecao trimestral e
+  rotina tecnica, nao um evento de ruptura)
+- Polemica adjacente: 3/5 (desaceleracao economica e tema sensivel num pais
+  as vesperas de ano eleitoral, mas o ajuste e modesto e pouco dramatico por
+  si so)
+- Volume de cobertura: 4/5 (replicado por varios portais no mesmo dia)
+- Clareza do angulo: 3/5 (a cadeia juros altos + inadimplencia -> desaceleracao
+  de servicos/comercio -> corte de projecao de PIB e explicavel, mas com
+  fatores concorrentes -- agro, industria, fiscal -- que pedem simplificacao)
+- Identificacao com audiencia: 3/5 (o dono de PME sente a desaceleracao no
+  dia a dia, mas a conexao com uma "projecao de PIB revisada" e mais abstrata
+  e indireta do que uma dor imediata tipo juro ou inadimplencia)
+TOTAL: 5+2+2+3+4+3+3 = 22/35
+Status: runner-up
+
+--------------------------------------------------------------------------
+CANDIDATO 3 -- Vale compra 30% da Ligga por US$ 190 milhoes para garantir fornecimento de minerio
+Fato: A Vale confirmou, em 22/09/2026, a compra de 30% da Ligga S.A., mineradora
+vizinha no complexo de Carajas (PA), por US$ 190 milhoes (~R$ 950 milhoes). O
+acordo inclui investimento para expandir a producao da mina Ferro Sul (de 2
+para 8 milhoes de toneladas/ano, com operacao prevista para junho de 2028) e um
+contrato de compra exclusiva, pela Vale, de toda a producao de sinter feed da
+Ligga -- ou seja, a Vale garante fornecimento de minerio comprando participacao
+e travando contrato de longo prazo com uma fornecedora menor.
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/vale-confirma-aquisicao-de-30-da-ligga-e-contrato-para-aquisicao-de-minerio-de-ferro/
+(mesmo fato tambem coberto por O Tempo, Jornal de Brasilia, ADVFN e Visno
+Invest no mesmo dia)
+Score de Repercussao:
+- Frescor: 5/5 (divulgado em 22/09)
+- Relevancia do protagonista: 5/5 (Vale e uma das marcas mais reconhecidas do
+  Brasil, mesmo para quem nao acompanha o setor de mineracao)
+- Gravidade: 2/5 (e um investimento pontual de expansao de fornecimento, nao um
+  evento existencial pra Vale nem pro setor)
+- Polemica adjacente: 1/5 (nao encosta em nenhum debate publico maior)
+- Volume de cobertura: 3/5 (coberto por veiculos de negocios/investimentos,
+  volume moderado, sem repercussao fora do circuito financeiro)
+- Clareza do angulo explicativo: 4/5 (cadeia causal limpa e rara de achar tao
+  direta: Vale depende de minerio -> compra fatia e trava contrato de compra
+  exclusiva com fornecedora vizinha -> garante insumo estrategico sem precisar
+  comprar a empresa inteira -- otima licao de gestao de cadeia de fornecimento
+  e relacionamento com fornecedor critico)
+- Identificacao com audiencia: 2/5 (e uma decisao de gigante de commodities,
+  distante do dia a dia do dono de PME -- a licao de "proteger fornecedor
+  critico" existe, mas exige mais esforco de traducao pro publico do canal)
+TOTAL: 5+5+2+1+3+4+2 = 22/35
+Status: runner-up
+
+--------------------------------------------------------------------------
+CANDIDATO 4 -- Exportacoes do agronegocio crescem 21,5% em setembro e puxam balanca comercial
+Fato: Segundo dados parciais do governo, a balanca comercial brasileira
+acumulava superavit de US$ 4,284 bilhoes em setembro de 2026 ate a 3a semana do
+mes (exportacoes de US$ 21,892 bi, importacoes de US$ 17,608 bi), com as
+exportacoes brasileiras crescendo 21,5% na comparacao com setembro de 2025,
+puxadas pelo agronegocio.
+Fonte: Reconecta News -- https://reconectanews.com.br/49675-2/ (dado oficial
+consolidado tambem disponivel em balanca.economia.gov.br)
+Score de Repercussao:
+- Frescor: 4/5 (dado consolidado da 3a semana de setembro, divulgacao corrente
+  mas nao e um "fato de ontem" isolado)
+- Relevancia do protagonista: 2/5 (agronegocio brasileiro em termos genericos,
+  sem uma marca ou empresa especifica como protagonista)
+- Gravidade: 2/5 (bom desempenho, mas dentro da normalidade sazonal do setor)
+- Polemica adjacente: 1/5 (nao encosta em debate publico maior)
+- Volume de cobertura: 2/5 (cobertura mais de nicho -- portais de agro e
+  comercio exterior, pouca penetracao no noticiario geral)
+- Clareza do angulo: 3/5 (cambio favoravel + demanda internacional puxando
+  exportacao e explicavel, mas com fatores concorrentes -- clima, cambio,
+  demanda da China -- que dificultam uma cadeia causal simples)
+- Identificacao com audiencia: 2/5 (relevante sobretudo pra quem esta no
+  agronegocio ou exportacao; fora desse recorte, a conexao com o dia a dia do
+  dono de PME urbano e fraca)
+TOTAL: 4+2+2+1+2+3+2 = 16/35
+Status: runner-up (mais fraco, abaixo dos demais)
+
+--------------------------------------------------------------------------
+RESUMO
+VENCEDOR: Candidato 1 -- Arrecadacao federal recorde em agosto (R$ 235,6 bi) -- 27/35
+Runner-up 1: Candidato 2 -- Fazenda reduz projecao do PIB 2026 para 2,0% -- 22/35
+Runner-up 2: Candidato 3 -- Vale compra 30% da Ligga por US$ 190 mi -- 22/35
+Runner-up 3: Candidato 4 -- Exportacoes do agro crescem 21,5% em setembro -- 16/35
