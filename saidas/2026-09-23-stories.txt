@@ -1,0 +1,39 @@
+ROTEIRO 1 — A IA já tira 275 interrupções da sua agenda — mas não decide o que fazer com o tempo livre
+"Você é interrompido a cada 2 minutos em horário comercial — 🟡`até 275 interrupções por dia, entre reunião, e-mail e mensagem`🟡. O dado é do Microsoft Work Trend Index; a Exame mostra o outro lado: MIT e Harvard indicam que 🟡`a IA generativa já reduz de 25% a 40% o tempo gasto em escrever e-mail, ata e relatório`🟡. Consultores que usaram IA completaram 12% mais tarefas com qualidade 40% superior. Mas fora do que a IA já domina bem, o risco de erro sobe — decidir o que delegar continua sendo função sua. 🟡`Não é falta de disciplina, é desenho de trabalho.`🟡"
+Fonte: Exame — https://exame.com/carreira/275-interrupcoes-por-dia-o-que-a-ia-ja-tira-da-agenda-do-gestor-e-o-que-ainda-depende-dele/ (corroborado por CNN Brasil e pelo Microsoft Work Trend Index)
+
+===================================================================
+
+ROTEIRO 2 — Uma consultoria baiana de 33 anos virou a 4ª compra do ano de um grupo de serviços industriais
+"Enquanto todo mundo fala de recuperação judicial, tem gente fechando a 4ª aquisição do ano. O Grupo GPS 🟡`comprou 80% da Qualidados, consultoria de engenharia de Salvador, fundada há 33 anos, que fatura R$272 milhões`🟡 — negócio pela subsidiária Top Service, ainda sujeito a aprovação do Cade. A confirmação veio também de relatórios de corretora com interesse em recomendar a ação, mas os números batem. O Grupo GPS não inventou produto novo, só comprou, pela quarta vez este ano, uma empresa regional que já era boa no que fazia. 🟡`Crescer, às vezes, é ter caixa pra comprar quem entrega.`🟡"
+Fonte: Jornal da Mídia — https://www.jornaldamidia.com.br/2026/09/22/grupo-gps-compra-80-de-uma-joia-da-engenharia-baiana/ (corroborado por XP Investimentos e Money Times)
+
+===================================================================
+
+ROTEIRO 3 — O Fórum Econômico Mundial ouviu os economistas do planeta: a conta de luz do data center de IA vai sobrar pro vizinho
+"O Fórum Econômico Mundial ouviu os economistas-chefes do mundo em setembro, publicado ontem. 97% esperam que o uso de IA continue crescendo, mas 🟡`61% não acreditam que o investimento em data center vai gerar emprego significativo`🟡. Ao mesmo tempo, 🟡`78% esperam alta na energia elétrica e 58% na água nas regiões onde esses data centers se instalam — resultado: 79% já esperam reação da comunidade local`🟡. É pesquisa de opinião de um grupo ligado ao próprio Fórum, então tem viés, mas o padrão é claro: 🟡`a IA promete turbinar a economia, mas quem paga a conta de luz do data center é o vizinho — que já está reclamando`🟡."
+Fonte: World Economic Forum — https://www.weforum.org/publications/chief-economists-outlook-september-2026/
+
+===================================================================
+
+ROTEIRO 4 — A trégua da NR-1 acaba hoje: amanhã a fiscalização volta a multar
+"Há dois dias eu falei que faltavam 2 dias pra trégua da NR-1 acabar. Hoje é literalmente o último dia. 🟡`O STF suspendeu por 90 dias, desde 25 de junho, as multas sobre riscos psicossociais — prazo que vence hoje`🟡. A partir de amanhã, 🟡`a fiscalização do MTE volta a autuar quem não documentou o risco psicossocial no GRO — obrigação que nunca parou de valer`🟡. Ainda não há acordo fechado nem prorrogação confirmada, então isso pode mudar até o fim do dia. Se sua empresa não regularizou, 🟡`amanhã não tem mais "faltam dias" pra se esconder atrás`🟡."
+Fonte: STF Notícias — https://noticias.stf.jus.br/postsnoticias/stf-suspende-sancoes-da-nr-1-e-abre-conciliacao-sobre-regras-de-riscos-psicossociais-no-trabalho/ (corroborado por Contábeis e Legisweb)
+
+===================================================================
+
+ROTEIRO 5 — Uma fusão de US$110 bilhões quase morreu no tribunal — e foi salva por a empresa amarrar as próprias mãos
+"Uma fusão de US$110 bilhões quase morreu no tribunal. A Paramount Skydance fechou acordo, ontem, com procuradores-gerais de 12 estados americanos que processavam pra barrar a compra da Warner Bros. Discovery — evitando um julgamento que poderia arrastar o negócio até 2027. Em troca, 🟡`aceitou manter pelo menos 20 lançamentos de filmes em mais de 2 mil cinemas nos dois primeiros anos, com 20% deles orçados acima de US$50 milhões`🟡. 🟡`A fusão não foi salva por advogado brilhante — foi salva porque a empresa aceitou amarrar as próprias mãos.`🟡 🟡`Dono de negócio também trava acordo grande insistindo em condição que o outro lado não aceita.`🟡"
+Fonte: Bloomberg — https://www.bloomberg.com/news/articles/2026-09-21/paramount-settles-lawsuits-allowing-for-warner-bros-acquisition (corroborado por CNBC, Washington Post e NBC News)
+
+===================================================================
+
+ROTEIRO 6 — A farmacêutica do remédio mais hypado do planeta demitiu 13 mil pessoas em plena alta da demanda
+"A fabricante do Ozempic e do Wegovy, remédio mais hypado do planeta, 🟡`já cortou 13 mil empregos em um ano — os últimos 4 mil confirmados nesta semana`🟡, na Capital Markets Day da Novo Nordisk em Londres. Hoje a empresa opera com cerca de 66 mil funcionários e vai reinvestir mais de DKK 10 bilhões — cerca de US$1,5 bilhão — pra lançar 5 remédios blockbuster até 2030, driblando a Eli Lilly. Prova que corte de custo não espera crise: 🟡`a empresa mais lucrativa do setor corta justamente pra continuar sendo a mais lucrativa`🟡. 🟡`Quem só corta quando o caixa aperta já está atrasado.`🟡"
+Fonte: The Local Denmark — https://www.thelocal.dk/20260921/job-cuts-at-denmarks-novo-much-larger-than-first-expected (corroborado por HR Katha e Fierce Biotech)
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] O aumento no preço da energia elétrica por causa dos data centers de IA vai chegar aqui no Brasil? Sim ⚡ ou Não 🚫?
+2. [Pergunta/Participacao, Roteiro 2] Você já vendeu parte da sua empresa (ou pensou em vender) pra crescer mais rápido? Conta sua experiência ou sua dúvida aqui 👇
+3. [Virar Historia, Roteiro 6 -> Estilo Duplo Eu] O contraste é direto: um "eu" só corta custo quando o caixa aperta, o outro corta no auge da demanda pra continuar líder; o Duplo Eu deixa essa diferença de mentalidade mais visível do que a fala direta.
