@@ -1,0 +1,141 @@
+RADAR DE REPERCUSSAO -- 2026-09-24 (quinta-feira)
+Etapa 1 -- Pesquisa e Pontuacao
+Checagem de repeticao: revisados os ultimos 10 dias corridos de pautas-video-longo/rascunhos
+(15/09 a 23/09/2026). Temas ja escolhidos como VENCEDORES DO DIA neste pipeline nesse periodo
+e evitados hoje como vencedor: industria sem confianca ha 21 meses (15/09), inadimplencia
+empresarial recorde/Serasa (16/09), custo do credito/juro alto (17/09), risco fiscal/Bolsa
+Familia (18/09), tema nao especificado com Correios desqualificado (19/09), fusao no setor de
+alimentacao/franquia (20/09), concentracao de divida com credor unico (21/09), usina de energia
+solar desligada por decisao regulatoria (22/09), arrecadacao federal recorde em agosto (23/09).
+Braskem NAO aparece em nenhum rascunho dos ultimos 10 dias -- assunto inedito para este pipeline.
+
+--------------------------------------------------------------------------
+CANDIDATO 1 -- Crise de divida da Braskem escala: credores exigem US$ 3 bi da Petrobras e MP-SP
+pede bloqueio de aporte; risco de recuperacao judicial volta ao radar
+Fato: A Braskem, maior petroquimica da America Latina, pediu recuperacao extrajudicial (RE) em
+24/08/2026 para renegociar cerca de US$ 10,9 bi (~R$ 56 bi) em dividas, com adesao inicial de
+apenas 39,6% dos credores e prazo ate 22/11 para apresentar plano final. Nos ultimos dias a
+disputa escalou: em 21-22/09, um grupo de detentores de titulos (bondholders, cerca de US$ 7 bi
+da divida) rejeitou a proposta da propria Braskem (que pedia US$ 2 bi dos credores, sendo
+US$ 1,25 bi para recomprar divida com desconto e US$ 750 mi para capital de giro) e passou a
+exigir que os controladores -- Petrobras e o fundo IG4 Capital -- injetem US$ 3 bi de capital
+novo ao longo de 2 anos. A Petrobras sinalizou que nao pretende socorrer a empresa sozinha nem
+com aporte de capital ou ativos em garantia. Em 23/09, o Ministerio Publico de Sao Paulo (MP-SP)
+recomendou ao juizo da 2a Vara de Falencias de SP o bloqueio de mais de US$ 400 milhoes que a
+Braskem pretendia injetar em sua subsidiaria mexicana (Braskem Idesa), alegando risco de
+esvaziamento do caixa da companhia em recuperacao. O prazo definido pelos credores para um
+acordo sobre termos basicos e 09/10/2026 -- se nao houver avanco ate la, cresce o risco de a
+empresa pedir recuperacao judicial (RJ), cenario mais grave que a RE atual. Causa de fundo:
+setor petroquimico global em excesso de oferta, margens fracas e demanda anemica, somados a
+uma divida herdada de anos de expansao com dolar caro e juros altos.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/credores-da-braskem-cobram-injecao-de-us-3-bilhoes-de-petrobras-e-ig4-dizem-fontes/
+| InfoMoney -- https://www.infomoney.com.br/mercados/credores-da-braskem-rejeitam-plano-de-divida-e-cobram-aporte-da-petrobras/
+| NeoFeed -- https://neofeed.com.br/negocios/ministerio-publico-questiona-estrutura-da-recuperacao-da-braskem-e-pede-bloqueio-de-us-800-milhoes/
+| O Povo -- https://www.opovo.com.br/noticias/economia/2026/09/23/mp-sp-recomenda-congelar-aporte-de-mais-de-uss-400-mi-da-braskem-em-unidade-mexicana.html
+| CNN Brasil (contexto do pedido original de RE) -- https://www.cnnbrasil.com.br/economia/money/negocios/braskem-entra-com-pedido-de-recuperacao-extrajudicial/
+Score de Repercussao:
+- Frescor: 4/5 (desenvolvimentos novos em 21, 22 e 23/09 -- exigencia dos credores e, mais
+  recente, a recomendacao do MP-SP de ontem; historia em movimento ativo, nao fato unico
+  parado no tempo)
+- Relevancia do protagonista: 4/5 (Braskem e a maior petroquimica da America Latina e esta
+  amarrada à Petrobras, marca de altissimo reconhecimento nacional; a Braskem isolada e menos
+  familiar ao grande publico que a Petrobras, mas a dupla eleva bastante o reconhecimento)
+- Gravidade: 5/5 (uma das maiores reestruturacoes de divida corporativa do Brasil em anos --
+  US$ 11 bi em jogo, risco real de recuperacao judicial, Ministerio Publico ja intervindo)
+- Polemica adjacente: 2/5 (ha uma discussao de fundo sobre ate onde uma estatal como a
+  Petrobras deve ir para socorrer uma controlada privada com dinheiro publico -- encosta de
+  leve num debate sobre uso de recursos de estatal -- mas nao e um tema eleitoral quente como
+  o de 20/09; portanto peso moderado no score, nao alto)
+- Volume de cobertura: 4/5 (Bloomberg Linea, InfoMoney, Money Times, Seu Dinheiro, NeoFeed,
+  ADVFN, O Povo e agencias replicaram o assunto nos ultimos 3 dias -- boa cobertura simultanea,
+  ainda que concentrada mais em imprensa de mercado/negocios do que em portais generalistas)
+- Clareza do angulo: 4/5 (cadeia causal direta: setor em baixa + divida cara acumulada +
+  controlador relutante em capitalizar = risco de quebra; licao de gestao clara -- divida
+  demais e dependencia do "socorro do socio grande" sao uma aposta perigosa)
+- Identificacao com audiencia: 3/5 (e uma crise de gigante, distante da escala do dono de PME,
+  mas a licao "nao conte com o socorro de quem te controla" e "juro alto e ciclo fraco do setor
+  quebram ate quem parece grande demais para quebrar" e algo que o publico do canal reconhece
+  em versao menor no proprio negocio)
+TOTAL: 4+4+5+2+4+4+3 = 26/35
+Status: VENCEDOR DO DIA
+NOTA DE GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score (Petrobras e estatal, e
+ha debate publico sobre uso de recursos publicos para socorrer empresa privada). O
+roteiro/briefing da Etapa 2 NAO deve comentar a gestao da Petrobras, criticar governo ou tomar
+posicao sobre esse debate -- o angulo e estritamente a licao de gestao/negocio (divida,
+dependencia de controlador, ciclo de setor), nunca a politica de fundo.
+
+--------------------------------------------------------------------------
+CANDIDATO 2 -- Banco Central amplia controle sobre criptomoedas: carteiras autocustodiadas acima
+de US$ 10 mil terao de ser comunicadas ao Coaf a partir de outubro
+Fato: O Banco Central publicou em 23/09/2026 novas regras que exigem que transferencias de
+criptoativos de valor igual ou superior a US$ 10 mil, envolvendo carteiras autocustodiadas
+(fora de exchanges regulamentadas), sejam comunicadas ao Conselho de Controle de Atividades
+Financeiras (Coaf). A norma entra em vigor em 01/10/2026 e faz parte do pacote de prevencao a
+lavagem de dinheiro e financiamento ao terrorismo. O mesmo prazo vale para prestadoras de
+servicos de ativos virtuais (PSAVs) ja em operacao formalizarem pedido de autorizacao junto ao
+BC. O limite e so de comunicacao obrigatoria, nao de proibicao ou teto de movimentacao.
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-amplia-controle-sobre-criptomoedas-e-mira-carteiras-proprias
+| Poder360 -- https://www.poder360.com.br/poder-economia/bc-amplia-controle-sobre-operacoes-com-criptomoedas/
+Score de Repercussao:
+- Frescor: 5/5 (norma divulgada ontem, 23/09)
+- Relevancia do protagonista: 3/5 (Banco Central e instituicao conhecida, mas o tema
+  criptomoedas em si e de nicho para o publico geral de PME)
+- Gravidade: 2/5 (e uma norma regulatoria/administrativa de compliance, nao um evento de
+  crise ou ruptura)
+- Polemica adjacente: 1/5 (sem conexao relevante com um debate publico mais amplo)
+- Volume de cobertura: 3/5 (replicado por varios portais regionais e especializados em cripto,
+  mas com pouca penetracao nos grandes veiculos generalistas -- muito da cobertura e a mesma
+  materia de agencia reproduzida)
+- Clareza do angulo: 3/5 (exige explicar o que e Coaf, carteira autocustodiada e o motivo da
+  regra -- fica denso para 2 minutos se o publico nao tiver familiaridade previa com cripto)
+- Identificacao com audiencia: 2/5 (relevante sobretudo para o recorte pequeno de donos de PME
+  que ja usam ou aceitam criptoativos no negocio; fora desse nicho, a conexao e fraca)
+TOTAL: 5+3+2+1+3+3+2 = 19/35
+Status: runner-up
+
+--------------------------------------------------------------------------
+CANDIDATO 3 -- Serasa Experian: Boletim Economico de setembro mostra inadimplencia empresarial
+em novo recorde
+Fato: O Boletim Economico de setembro/2026 da Serasa Experian aponta uma economia com menos
+folego, com a inadimplencia de consumidores e de empresas atingindo novos recordes na serie
+historica -- reforcando o quadro ja identificado em junho, quando o Brasil ultrapassou a marca
+de 9,1 milhoes de empresas inadimplentes.
+Fonte: Serasa Experian -- https://www.serasaexperian.com.br/conteudos/boletim-economico-de-setembro-2026/
+Score de Repercussao (bruto, antes do rebaixamento por repeticao):
+- Frescor: 3/5 (boletim mensal divulgado nesta semana, mas e continuidade de uma tendencia ja
+  reportada, nao um fato pontual novo)
+- Relevancia do protagonista: 3/5 (Serasa e marca conhecida, mas "inadimplencia" e estatistica
+  agregada, sem uma empresa/rosto especifico como protagonista)
+- Gravidade: 3/5 (recorde e grave, mas e a continuidade de uma trajetoria ja em curso havia
+  meses, nao uma ruptura subita)
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5 (juro alto + credito caro + queda de renda das empresas = mais
+  calote -- cadeia causal simples)
+- Identificacao com audiencia: 5/5 (inadimplencia e fluxo de caixa apertado sao a dor mais
+  direta e cotidiana do dono de PME)
+TOTAL BRUTO: 3+3+3+2+3+4+5 = 23/35
+Status: REBAIXADO/DESQUALIFICADO POR REPETICAO -- o mesmo mecanismo (juro alto/credito caro
+levando a recorde de inadimplencia empresarial da Serasa) ja foi o angulo central do VENCEDOR
+DO DIA deste pipeline em 16/09/2026 (8 dias atras, dentro da janela de 10 dias corridos). O
+boletim de setembro e uma atualizacao do mesmo quadro, sem fato novo que justifique reabrir o
+tema hoje.
+
+--------------------------------------------------------------------------
+CANDIDATO 4 (descartado na triagem) -- CNI: industria completa 21 meses sem confianca na
+atividade economica
+Nota de descarte: o Indice de Confianca do Empresario Industrial (Icei) foi divulgado pela CNI
+em 14/09/2026 (ha 10 dias) e ja havia sido tratado como CANDIDATO 1 no rascunho deste mesmo
+pipeline em 15/09/2026. Sem fato novo ou atualizacao desde entao -- descartado por falta de
+frescor e por repeticao de assunto dentro da janela de 10 dias corridos.
+
+--------------------------------------------------------------------------
+RESUMO
+VENCEDOR: Candidato 1 -- Crise de divida da Braskem escala (credores x Petrobras, MP-SP pede
+bloqueio, risco de recuperacao judicial) -- 26/35
+Runner-up 1: Candidato 2 -- BC amplia controle sobre criptomoedas (Coaf, carteiras
+autocustodiadas, a partir de 1/10) -- 19/35
+Runner-up 2: Candidato 3 -- Serasa: inadimplencia empresarial em novo recorde (boletim de
+setembro) -- 23/35 bruto, rebaixado por repeticao com o vencedor de 16/09/2026
+Descartado na triagem: Candidato 4 -- CNI: industria completa 21 meses sem confianca -- dado de
+14/09, sem fato novo, repeticao do candidato de 15/09
