@@ -1,0 +1,147 @@
+RADAR DE REPERCUSSAO -- 2026-09-25 (sexta-feira)
+Etapa 1 -- Pesquisa e Pontuacao
+Checagem de repeticao: revisados os ultimos 10 dias corridos de pautas-video-longo/saidas
+(15/09 a 24/09/2026). Temas ja escolhidos como VENCEDORES DO DIA neste pipeline nesse periodo
+e evitados hoje como vencedor: industria sem confianca ha 21 meses (15/09), inadimplencia
+empresarial recorde/Serasa (16/09), corte da Selic no Copom (17/09), risco fiscal/reajuste do
+Bolsa Familia (18/09), producao agricola recorde do IBGE (19/09), fusao IMC/Vinci Compass no
+setor de restaurantes (20/09), BTG assume o Nubank Parque (21/09), usinas solares desligadas por
+curtailment no Nordeste (22/09), arrecadacao federal recorde em agosto (23/09), crise de divida
+da Braskem (24/09). Nenhum dos candidatos de hoje repete assunto ou empresa protagonista desses
+10 dias -- inclusive a Braskem tem desdobramento novo hoje (leilao de OPA marcado para 16/10),
+mas foi descartado da triagem por repetir a mesma empresa do vencedor de ontem.
+
+--------------------------------------------------------------------------
+CANDIDATO 1 -- Greve nacional dos bancarios na Caixa chega ao 15o dia e banco aciona o TST
+Fato: bancarios da Caixa Economica Federal entraram em greve por tempo indeterminado em
+10/09/2026, apos 90% dos votos da categoria rejeitarem a proposta do banco de reajuste real de
+0,6% -- os trabalhadores pedem 5% de ganho real, reposicao integral da inflacao pelo INPC e a
+preservacao do Sistema Saude Caixa (o banco defende mudar o modelo de custeio do plano,
+aumentando valores pagos por funcionarios, aposentados e dependentes; outros pontos em aberto
+sao trabalho remoto, plano de carreira e o modelo de atendimento). Em 23/09 uma mediacao no
+Ministerio Publico do Trabalho (MPT) terminou sem acordo, e em 24/09 -- quando a greve completou
+14-15 dias corridos (contagem varia por veiculo: 10/09 a 24/09 sao 15 dias corridos, mas parte
+da imprensa contou "14 dias de greve" tomando o 1o dia como zero) -- a Caixa decidiu acionar o
+Tribunal Superior do Trabalho (TST) com um dissidio coletivo para tentar resolver o impasse por
+via judicial; o processo sera relatado pelo ministro Mauricio Godinho Delgado, sem data de
+julgamento definida ainda. Segundo o sindicato dos bancarios de Sao Paulo, Osasco e Regiao, a
+greve mantinha cerca de 293 agencias fechadas na base da entidade quando completou 14 dias
+(23/09). Pagamentos de Bolsa Familia e outros beneficios sociais continuam sendo feitos
+normalmente pela Caixa apesar da paralisacao. Fato central (inicio, motivo, numeros do ACT e
+acionamento do TST) confirmado de forma cruzada e sem divergencia relevante em multiplas fontes
+independentes.
+Fonte: O Tempo -- https://www.otempo.com.br/economia/2026/9/24/caixa-decide-acionar-o-tst-contra-greve-nacional-dos-bancarios
+| MixVale -- https://www.mixvale.com.br/2026/09/24/greve-de-funcionarios-da-caixa-chega-ao-14o-dia-e-banco-aciona-dissidio-no-tst/
+| MixVale (dia anterior, numero de agencias) -- https://www.mixvale.com.br/2026/09/23/greve-na-caixa-atinge-14o-dia-e-mantem-quase-300-agencias-sem-atendimento/
+| SBT News -- https://sbtnews.sbt.com.br/noticia/brasil/greve-da-caixa-vai-parar-no-tribunal-superior-apos-15-dias
+| Reporter Maceio -- https://reportermaceio.com.br/caixa-economica-federal-pede-dissidio-coletivo-apos-13-dias-de-greve-enquanto-tentativas-de-acordo-com-trabalhadores-entram-em-impasse/
+| NC News (motivo central, Saude Caixa) -- https://ncnews.com.br/2026/09/24/greve-caixa-tst-acordo-coletivo-saude-caixa/
+| Sindicato dos Bancarios de SP (inicio da greve, votacao e pauta) -- https://spbancarios.com.br/09/2026/bancarios-da-caixa-rejeitam-proposta-para-o-act-e-greve-continua
+Score de Repercussao:
+- Frescor: 5/5 (desenvolvimento decisivo -- o acionamento do TST -- ocorreu ontem, 24/09; a
+  greve segue em curso hoje)
+- Relevancia do protagonista: 5/5 (Caixa Economica Federal e um dos bancos mais conhecidos do
+  pais por qualquer publico -- e quem paga Bolsa Familia, FGTS, financiamento habitacional e
+  atende em milhares de agencias)
+- Gravidade: 4/5 (greve nacional indefinida ha mais de duas semanas, quase 300 agencias fechadas
+  so em uma base sindical, impasse judicializado no TST -- nao e uma paralisacao de rotina)
+- Polemica adjacente: 2/5 (toca de leve o debate publico sobre gestao de estatais e negociacao
+  com servico publico/bancario, mas sem carga partidaria forte ou tema de campanha eleitoral)
+- Volume de cobertura: 4/5 (o fato foi replicado por varios veiculos de economia e portais
+  regionais nos ultimos dois dias -- volume solido, ainda que concentrado em imprensa
+  especializada e regional, sem tanto destaque nos generalistas de maior audiencia)
+- Clareza do angulo: 5/5 (cadeia causal direta e facil de explicar em 2 minutos: divergencia
+  sobre custeio do plano de saude e reajuste -> negociacao trava -> greve de duas semanas ->
+  problema vai parar na Justica; licao de gestao evidente sobre negociacao trabalhista e o custo
+  de deixar um conflito de equipe escalar)
+- Identificacao com audiencia: 4/5 (mesmo em escala bem menor, todo dono de PME ja passou por
+  negociacao de reajuste salarial, plano de saude de funcionario e risco de conflito trabalhista
+  virar problema serio -- a dor de fundo e muito reconhecivel)
+TOTAL: 5+5+4+2+4+5+4 = 29/35
+Status: VENCEDOR DO DIA
+NOTA DE GUARDRAIL POLITICO: o fator "Polemica adjacente" teve peso baixo (2/5) neste candidato --
+a greve envolve uma estatal e negociacao com servidores/bancarios, o que encosta de leve num
+debate publico sobre gestao do setor publico, mas nao foi o que decidiu a vitoria (o score veio
+sobretudo de fama do protagonista, clareza do angulo e gravidade). Ainda assim, o roteiro da
+Etapa 2 NAO deve comentar a gestao do governo na Caixa, tomar partido entre banco e sindicato ou
+opinar sobre politica salarial do funcionalismo -- o angulo e estritamente a licao de gestao de
+pessoas/negociacao trabalhista, nunca a politica de fundo.
+
+--------------------------------------------------------------------------
+CANDIDATO 2 -- Banco Central corta projecao de crescimento do PIB de 2026 para 1,8%
+Fato: o Banco Central divulgou em 24/09/2026 o Relatorio de Politica Monetaria (RPM) de
+setembro, reduzindo a projecao de crescimento do PIB brasileiro em 2026 de 2,0% para 1,8%,
+citando desaceleracao da atividade e indicadores mais fracos no terceiro trimestre (o PIB
+cresceu 0,5% no 2o trimestre, abaixo dos 1,1% do 1o trimestre). Para 2027 a estimativa e de
+expansao de apenas 1,4%. O BC manteve a projecao de inflacao em 5,2% para o fim de 2026 --
+acima do teto da meta -- mesmo com o IPCA acumulado em 12 meses recuando para 4,22% em agosto.
+O mercado de trabalho segue relativamente aquecido, com taxa de desocupacao historicamente baixa
+e geracao de empregos com carteira assinada ainda positiva, ainda que em ritmo menor.
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-reduz-projecao-de-crescimento-da-economia-para-18
+| O Povo -- https://www.opovo.com.br/noticias/economia/2026/09/24/bc-reduz-projecao-de-crescimento-da-economia-para-18.html
+| Brasil 247 -- https://www.brasil247.com/economia/banco-central-reduz-previsao-do-crescimento-do-pib-para-18-em-2026/
+| ADVFN -- https://br.advfn.com/jornal/2026/09/brasil-relatorio-de-politica-monetaria-rpm-banco-central-corta-projecao-do-pib-e-mantem-inflacao-para-2026
+Score de Repercussao:
+- Frescor: 4/5 (divulgado ontem, 24/09)
+- Relevancia do protagonista: 2/5 (Banco Central e instituicao conhecida, mas nao e uma marca
+  popular no sentido de "todo mundo reconhece o rosto/produto")
+- Gravidade: 3/5 (revisao para baixo do crescimento e relevante, mas e um ajuste dentro de uma
+  tendencia ja conhecida, nao um choque subito)
+- Polemica adjacente: 3/5 (desaceleracao economica sempre alimenta o debate publico mais amplo
+  sobre o desempenho do governo, ainda mais as vesperas de ano eleitoral)
+- Volume de cobertura: 4/5 (replicado amplamente por agencias e portais no mesmo dia)
+- Clareza do angulo: 3/5 (o RPM mistura PIB, inflacao, Selic e mercado de trabalho ao mesmo
+  tempo -- fatores concorrentes demais para simplificar com facilidade em 2 minutos sem perder
+  precisao)
+- Identificacao com audiencia: 4/5 (crescimento mais fraco da economia significa, na pratica,
+  menos demanda e vendas para o dono de PME -- dor bem reconhecivel)
+TOTAL: 4+2+3+3+4+3+4 = 23/35
+Status: runner-up
+
+--------------------------------------------------------------------------
+CANDIDATO 3 -- Previa da inflacao (IPCA-15) acelera para 0,48% em setembro, puxada pela energia
+eletrica
+Fato: o IBGE divulgou hoje, 25/09/2026, o IPCA-15 de setembro: alta de 0,48%, acelerando frente
+aos -0,14% de agosto. O grupo de alimentacao e bebidas caiu 0,35% -- quarta queda mensal
+consecutiva, com destaque para tomate (-17,49%), cebola (-8,65%) e arroz (-2,91%) --, enquanto a
+energia eletrica residencial subiu com forca e puxou o indice geral para cima; a gasolina teve
+leve queda (-0,13%). A maior variacao regional foi em Recife (0,80%, por causa de energia
+eletrica e gasolina), e a menor em Goiania (0,10%).
+Fonte: Agencia de Noticias do IBGE -- https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44569-apos-recuo-em-agosto-previa-da-inflacao-acelera-para-0-48-em-setembro
+| Agencia Gov -- https://agenciagov.ebc.com.br/noticias/202510/com-alta-em-energia-eletrica-inflacao-acelera-para-0-48-em-setembro
+Score de Repercussao:
+- Frescor: 5/5 (divulgado hoje pela manha)
+- Relevancia do protagonista: 1/5 (e um indice do IBGE, sem uma marca ou empresa como
+  protagonista)
+- Gravidade: 2/5 (e um dado de rotina mensal -- ainda que a aceleracao chame atencao, nao e um
+  evento de ruptura)
+- Polemica adjacente: 2/5 (inflacao sempre acompanha o debate economico geral, mas o numero de
+  hoje nao e extremo o suficiente para gerar polemica forte por si so)
+- Volume de cobertura: 4/5 (dado oficial, replicado amplamente no dia da divulgacao)
+- Clareza do angulo: 4/5 (cadeia causal simples -- energia eletrica sobe e pressiona o bolso do
+  consumidor e do lojista, enquanto alimentos ainda ajudam a segurar o indice -- licao sobre
+  repasse de custo e precificacao)
+- Identificacao com audiencia: 4/5 (custo de insumos, energia e precificacao sao dores
+  cotidianas do dono de PME)
+TOTAL: 5+1+2+2+4+4+4 = 22/35
+Status: runner-up
+
+--------------------------------------------------------------------------
+CANDIDATO 4 (descartado na triagem) -- Braskem define OPA com leilao marcado para 16 de outubro
+Nota de descarte: em 23/09/2026 a Braskem divulgou fato relevante anunciando OPA por mudanca de
+controle (ofertante Shine I FIP, gestora Vortx Capital), com leilao marcado para 16/10/2026 a
+R$ 52 por acao, pago em debentures da NSP Investimentos. E um desdobramento novo e relevante,
+mas a Braskem foi exatamente o VENCEDOR DO DIA deste pipeline ontem, 24/09/2026 (crise de divida
+e recuperacao extrajudicial) -- descartado por repeticao direta da mesma empresa protagonista
+dentro da janela de 10 dias corridos, mesmo sendo um angulo de negocio diferente (OPA/mudanca de
+controle vs. crise de credores).
+
+--------------------------------------------------------------------------
+RESUMO
+VENCEDOR: Candidato 1 -- Greve nacional dos bancarios na Caixa chega ao 15o dia e banco aciona o
+TST -- 29/35
+Runner-up 1: Candidato 2 -- Banco Central corta projecao do PIB de 2026 para 1,8% -- 23/35
+Runner-up 2: Candidato 3 -- IPCA-15 de setembro acelera para 0,48%, puxado pela energia eletrica
+-- 22/35
+Descartado na triagem: Candidato 4 -- Braskem define OPA com leilao em 16/10 -- repeticao da
+mesma empresa vencedora de ontem (24/09)
