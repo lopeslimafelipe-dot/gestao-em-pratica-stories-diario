@@ -1,0 +1,102 @@
+PAUTA DO DIA -- 2026-09-25
+Assunto: Greve nacional dos bancarios na Caixa chega ao 15o dia e banco aciona o TST
+Score final: 29/35 (Frescor 5/5, Relevancia do protagonista 5/5, Gravidade 4/5, Polemica adjacente 2/5, Volume de cobertura 4/5, Clareza do angulo 5/5, Identificacao com audiencia 4/5)
+
+Fato central verificado: os empregados da Caixa Economica Federal entraram em greve nacional por
+tempo indeterminado em 10/09/2026, apos mais de 90% dos votos em assembleia rejeitarem a primeira
+proposta do banco para o Acordo Coletivo de Trabalho (ACT). O banco apresentou depois uma segunda
+e uma terceira propostas -- a terceira, votada em assembleia encerrada em 21/09, foi rejeitada por
+59,3% dos votos. Em 23/09/2026 uma mediacao conduzida a pedido do Ministerio Publico do Trabalho
+(MPT) no TST terminou sem acordo, e em 24/09 -- no 14o/15o dia corrido da greve (contagem varia
+por veiculo) -- a Caixa protocolou um dissidio coletivo no TST para tentar resolver o impasse por
+via judicial. O processo tem como relator o ministro Mauricio Godinho Delgado e, segundo apuracao
+adicional do fact-check (nao constava no rascunho original), o TST ja marcou o julgamento para
+terca-feira, 29/09/2026, as 14h30 -- ainda dentro da janela do dissidio, sem garantia de acordo.
+As entidades sindicais reafirmaram que a greve continua mesmo apos o ajuizamento, ate nova decisao
+da categoria ou determinacao judicial contraria. Segundo o sindicato dos bancarios de Sao Paulo,
+Osasco e Regiao, a greve mantinha 293 agencias fechadas na base da entidade (concentracao no
+Sudeste) quando completou 14 dias. Pagamentos de Bolsa Familia e outros beneficios sociais
+continuam normais durante a greve, pois sao creditados automaticamente e podem ser movimentados
+pelo Caixa Tem, cartao de debito e Pix -- o que e afetado e sobretudo o atendimento presencial.
+Fato central, numeros do ACT e acionamento do TST confirmados de forma cruzada em multiplas fontes
+independentes; nenhuma divergencia relevante encontrada frente ao rascunho.
+
+Cadeia causal (o que levou a isso): o nucleo do impasse nao e o reajuste salarial em si (a
+categoria bancaria como um todo -- bancos privados e publicos, negociada pela Fenaban -- ja havia
+fechado em agosto/2026, apos 13 rodadas e oito propostas rejeitadas, um acordo com reposicao total
+da inflacao pelo INPC mais 0,6% de ganho real para 2026 e 2027). O que trava especificamente a
+Caixa e o modelo de custeio do Saude Caixa, o plano de saude dos empregados. O plano acumula
+deficits desde 2016, quando o custo cresceu acima da participacao dos empregados no financiamento
+(projecoes indicavam deficit de mais de R$ 400 milhoes em 2023 e R$ 660 milhoes em 2024). Em
+dezembro de 2017 o governo limitou por estatuto a participacao do banco no custeio a 6,5% da folha
+de pagamento -- um teto que passou a nao acompanhar o crescimento dos custos medicos. Em 2021 os
+empregados conseguiram revogar uma resolucao (CGPAR 23) que limitava ainda mais o aporte do banco.
+Na rodada de 2026, a Caixa propos elevar esse teto de 6,5% para 9% da folha a partir de 2027 e
+tirou da proposta a cobranca por faixa etaria -- mas manteve o modelo de coparticipacao e outras
+mudancas de custeio que a categoria considera insuficientes ou que deslocam custo para
+funcionarios, aposentados e dependentes. Resultado: proposta rejeitada tres vezes -> greve
+indefinida desde 10/09 -> mediacao no MPT/TST fracassa em 23/09 -> Caixa judicializa via dissidio
+coletivo em 24/09, sem suspender a greve -> julgamento marcado para 29/09, ainda sem desfecho.
+
+Por que esta repercutindo agora: o gatilho fresco de ontem (24/09) foi o acionamento do TST, que
+escala o conflito para a esfera judicial depois de duas semanas sem solucao -- e a Caixa e um
+protagonista reconhecido por qualquer publico, ja que paga Bolsa Familia, FGTS e financiamento
+habitacional e atende em milhares de agencias, o que da ao caso gravidade e identificacao amplas
+mesmo fora do universo bancario.
+
+Angulo de gestao sugerido: a licao pratica para o dono de PME nao e sobre bancos ou o setor
+publico -- e sobre o custo de deixar um beneficio corporativo (aqui, plano de saude) virar uma
+bomba-relogio orcamentaria por anos sem ajuste, e sobre como uma negociacao mal conduzida com a
+equipe (proposta atras de proposta rejeitada, sem construir confianca) transforma um problema de
+custeio em uma paralisacao de duas semanas que acaba na Justica. O gancho de gestao e: revisar e
+reajustar beneficios de forma gradual e transparente evita que o problema estoure de uma vez; e
+negociacao trabalhista mal feita tem custo operacional real (agencias fechadas, servico
+interrompido, imagem).
+
+Dados de apoio:
+- Acordo nacional da categoria bancaria (Fenaban, todos os bancos): INPC + 0,6% de ganho real para
+  2026 e 2027, fechado apos 13 rodadas de negociacao -- fonte: Sindicato dos Bancarios de SP/
+  Pelotas -- https://spbancarios.com.br/08/2026/bancarios-alcancam-aumento-real-para-2026-e-2027-mantem-direitos-e-avancam-em-novas
+- Deficit projetado do Saude Caixa: mais de R$ 400 milhoes em 2023 e R$ 660 milhoes em 2024 --
+  fonte: Fenae -- https://www.fenae.org.br/portal/fenae-portal/fenae-defende-saude-caixa-viavel-e-sustentavel-luta-e-historica.htm
+- Teto de participacao do banco no custeio do plano elevado de 6,5% para 9% da folha a partir de
+  2027 na proposta rejeitada -- fonte: Poder360 -- https://www.poder360.com.br/poder-brasil/funcionarios-da-caixa-rejeitam-3a-proposta-e-mantem-greve/
+- TST marcou julgamento do dissidio para terca-feira, 29/09/2026, as 14h30, relator ministro
+  Mauricio Godinho Delgado -- fonte: O Tempo -- https://www.otempo.com.br/economia/2026/9/24/tst-deve-julgar-dissidio-dos-trabalhadores-da-caixa-na-terca-feira-29-9
+- Pagamentos de Bolsa Familia seguem normais via credito automatico, Caixa Tem, cartao e Pix --
+  fonte: NC News -- https://ncnews.com.br/2026/09/23/bolsa-familia-2026-baixar-caixa-receber-hoje/
+
+Ressalva/limite: o fator "Polemica adjacente" pontuou baixo (2/5) neste candidato, mas a greve
+envolve uma estatal e negociacao com servidores/bancarios, o que encosta de leve num debate publico
+sobre gestao do setor publico. O video NAO deve comentar a gestao do governo na Caixa, tomar
+partido entre banco e sindicato, opinar sobre politica salarial do funcionalismo publico ou
+mencionar qualquer figura politica ou partido -- o angulo e estritamente a licao de gestao de
+pessoas, beneficios corporativos e negociacao trabalhista, nunca a politica de fundo.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final
+e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: uma empresa gigante, greve ha 15 dias, foi parar na Justica -- e o motivo nao e nem
+  salario
+- Contexto/causa raiz: o plano de saude que vira deficit ha quase 10 anos e nunca foi ajustado a
+  tempo
+- Desenvolvimento da cadeia causal: teto de custeio travado em 2017 -> deficit crescente ->
+  tentativas de renegociacao -> tres propostas rejeitadas -> greve -> mediacao fracassada ->
+  Justica do Trabalho
+- Licao de gestao (a virada): beneficio nao ajustado a tempo e negociacao mal conduzida custam
+  caro -- em dinheiro, operacao e confianca da equipe
+- Fechamento + CTA
+
+Fonte(s):
+- O Tempo -- https://www.otempo.com.br/economia/2026/9/24/caixa-decide-acionar-o-tst-contra-greve-nacional-dos-bancarios
+- O Tempo (julgamento marcado) -- https://www.otempo.com.br/economia/2026/9/24/tst-deve-julgar-dissidio-dos-trabalhadores-da-caixa-na-terca-feira-29-9
+- MixVale -- https://www.mixvale.com.br/2026/09/24/greve-de-funcionarios-da-caixa-chega-ao-14o-dia-e-banco-aciona-dissidio-no-tst/
+- Sindicato dos Bancarios de SP (rejeicao da 3a proposta, 59,3%) -- https://spbancarios.com.br/09/2026/bancarios-da-caixa-rejeitam-proposta-para-o-act-e-greve-continua
+- Poder360 (detalhe da proposta de Saude Caixa) -- https://www.poder360.com.br/poder-brasil/funcionarios-da-caixa-rejeitam-3a-proposta-e-mantem-greve/
+- Fenae (historico e deficit do Saude Caixa) -- https://www.fenae.org.br/portal/fenae-portal/fenae-defende-saude-caixa-viavel-e-sustentavel-luta-e-historica.htm
+- ndmais (293 agencias fechadas) -- https://ndmais.com.br/economia/greve-da-caixa-funcionarios-pressionam-por-melhorias-na-renovacao-do-acordo-coletivo/
+- NC News (Bolsa Familia normal) -- https://ncnews.com.br/2026/09/23/bolsa-familia-2026-baixar-caixa-receber-hoje/
+- Sindicato dos Bancarios (acordo nacional Fenaban) -- https://spbancarios.com.br/08/2026/bancarios-alcancam-aumento-real-para-2026-e-2027-mantem-direitos-e-avancam-em-novas
+
+Runners-up do dia (registro/transparencia):
+- Candidato 2 -- Banco Central corta projecao do PIB de 2026 para 1,8% -- 23/35
+- Candidato 3 -- IPCA-15 de setembro acelera para 0,48%, puxado pela energia eletrica -- 22/35
