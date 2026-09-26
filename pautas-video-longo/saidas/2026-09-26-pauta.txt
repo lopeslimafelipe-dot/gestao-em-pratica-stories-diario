@@ -1,0 +1,95 @@
+PAUTA DO DIA -- 2026-09-26
+Assunto: Greve dos Correios termina apos decisao do TST, que considera o movimento nao abusivo mas fixa reajuste de 4,09% e determina volta ao trabalho
+Score final: 28/35 (Frescor 4/5, Relevancia do protagonista 5/5, Gravidade 4/5, Polemica adjacente 2/5, Volume de cobertura 4/5, Clareza do angulo 5/5, Identificacao com audiencia 4/5)
+
+Fato central verificado: a greve nacional dos Correios, iniciada as 22h de 10/09/2026 apos
+assembleias rejeitarem a proposta da estatal para o Acordo Coletivo de Trabalho, chegou ao fim
+apos 15 dias. Em 24/09/2026 a Secao Especializada em Dissidios Coletivos (SDC) do TST julgou o
+dissidio coletivo movido pelos proprios Correios e decidiu, por maioria (com divergencia das
+ministras/ministros Maria Cristina Peduzzi, Ives Gandra Martins Filho e Guilherme Caputo Bastos),
+que a greve NAO foi abusiva. A decisao determinou volta ao trabalho a partir de sexta-feira
+(25/09), fixou reajuste salarial de 4,09% (indice do INPC) com efeitos retroativos a 1o de agosto
+de 2026 -- aplicado tambem a auxilio-creche, vale-refeicao e outros beneficios --, e definiu que os
+trabalhadores nao terao desconto direto no salario pelos dias parados, mas precisarao compensar as
+horas nao trabalhadas. Sindicatos de base (caso do Sintect-SP) confirmaram em assembleia o fim da
+greve e orientaram a retomada normal das atividades. Fato central, data da decisao, indice de
+reajuste e retroatividade confirmados de forma cruzada em multiplas fontes independentes (Migalhas,
+CNN Brasil via busca, Tribuna do Sertao, MixVale); nenhuma divergencia relevante encontrada frente
+ao rascunho.
+
+Cadeia causal (o que levou a isso): o estopim da greve nao foi o reajuste salarial isolado, e sim
+uma proposta dos Correios para mudar o modelo de custeio do plano de saude dos empregados,
+aposentados e dependentes, que a categoria entendeu como risco de perda de assistencia -- some-se a
+isso o proprio reajuste e outros beneficios em disputa. Essa proposta surge dentro de um quadro
+financeiro deteriorado: os Correios fecharam o primeiro semestre de 2026 com prejuizo liquido de
+R$ 5,55 bilhoes, alta de 30,36% sobre o prejuizo de R$ 4,26 bilhoes do mesmo periodo de 2025 (ainda
+que o prejuizo do 2o trimestre isolado tenha recuado 5,5% frente a 2025), em meio a uma estrategia
+declarada de reestruturacao com revisao de despesas e contratos. Resultado: assembleias rejeitam a
+proposta -> greve por tempo indeterminado a partir de 10/09 -> paralisacao nacional se estende por
+15 dias sem acordo -> Correios levam o impasse ao TST via dissidio coletivo -> SDC julga em 24/09 e
+impoe um desfecho que nao da razao total a nenhum dos lados (nao abusiva, mas com volta obrigatoria
+ao trabalho e compensacao de horas).
+
+Por que esta repercutindo agora: o desfecho judicial e de ontem/anteontem (decisao em 24/09, volta
+ao trabalho em 25/09) e representa o fim real de um conflito que durou 15 dias -- diferente de um
+mero adiamento de julgamento, e um veredito de merito que fixa numero e prazo. Correios e uma marca
+que praticamente todo brasileiro usa e reconhece, o que da ao caso alcance e identificacao amplos
+mesmo fora do universo sindical/trabalhista.
+
+Angulo de gestao sugerido: a licao pratica para o dono de PME nao e sobre a gestao da estatal em si
+-- e sobre o custo de deixar uma negociacao de beneficios e reajuste travar ate virar paralisacao:
+uma mudanca de custeio em beneficio sensivel (aqui, plano de saude) proposta sem dialogo suficiente
+com a equipe, dentro de um cenario de aperto financeiro da propria empresa, se transformou em 15
+dias de operacao parada e terminou resolvida por terceiro (a Justica), com custo para os dois lados.
+O gancho de gestao e: mudanca em beneficio essencial exige negociacao transparente e gradual, feita
+antes que a situacao se deteriore; e quando a empresa deixa o conflito escalar sem solucao interna,
+quem decide o desfecho deixa de ser ela.
+
+Dados de apoio:
+- Greve iniciada as 22h de 10/09/2026 apos assembleias rejeitarem a proposta da estatal para o ACT
+  -- fonte: apuracao cruzada de reportagens sobre a cronologia da greve (Alerta Gov / ISTOE) --
+  https://alertagov.com.br/2026/09/greve-nos-correios-entenda-o-que-motivou-a-paralisacao-por-tempo-indeterminado-da-categoria/
+- Correios registraram prejuizo liquido de R$ 5,55 bilhoes no 1o semestre de 2026, alta de 30,36%
+  sobre o prejuizo de R$ 4,26 bilhoes do 1o semestre de 2025 -- fonte: CNN Brasil --
+  https://www.cnnbrasil.com.br/economia/prejuizo-liquido-dos-correios-sobe-no-1o-semestre-mas-cai-no-2o-trimestre/
+- Prejuizo do 2o trimestre de 2026 foi de R$ 2,39 bilhoes, queda de 5,5% frente ao mesmo trimestre
+  de 2025 -- fonte: CNN Brasil (mesma materia acima)
+- Reajuste de 4,09% (INPC) com retroatividade a 1o de agosto de 2026, aplicado tambem a beneficios
+  como vale-refeicao e auxilio-creche -- fonte: Migalhas --
+  https://www.migalhas.com.br/quentes/465244/tst-considera-greve-dos-correios-nao-abusiva-e-fixa-reajuste-de-4-09
+
+Ressalva/limite: o fator "Polemica adjacente" pontuou baixo (2/5) neste candidato -- o assunto
+envolve uma estatal e negociacao coletiva, o que encosta de leve num debate publico sobre gestao do
+setor publico, mas isso nao foi decisivo para a vitoria (o score veio principalmente da fama do
+protagonista, da clareza do angulo e do desfecho judicial em si). Ainda assim, o video NAO deve
+comentar a gestao do governo nos Correios, tomar partido entre empresa e sindicato, opinar sobre
+politica salarial do funcionalismo publico ou mencionar qualquer figura politica ou partido -- o
+angulo e estritamente a licao de gestao de pessoas, beneficios corporativos e negociacao
+trabalhista, nunca a politica de fundo.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final
+e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: uma empresa que todo brasileiro usa ficou 15 dias parada -- e quem decidiu como terminou
+  foi a Justica, nao a empresa
+- Contexto/causa raiz: uma proposta de mudanca no plano de saude, dentro de uma empresa que ja
+  acumulava bilhoes de prejuizo, travou a negociacao
+- Desenvolvimento da cadeia causal: proposta rejeitada -> greve por tempo indeterminado -> 15 dias
+  sem solucao interna -> impasse vai para o TST -> decisao de terceiro fixa reajuste e condicoes
+  para os dois lados
+- Licao de gestao (a virada): mudanca em beneficio sensivel pede negociacao transparente e gradual;
+  quando a empresa nao resolve o conflito por dentro, perde o controle do desfecho
+- Fechamento + CTA
+
+Fonte(s):
+- Migalhas -- https://www.migalhas.com.br/quentes/465244/tst-considera-greve-dos-correios-nao-abusiva-e-fixa-reajuste-de-4-09
+- Tribuna do Sertao -- https://www.tribunadosertao.com.br/financas/2026/09/24/984945-tst-decide-que-greve-dos-correios-nao-e-abusiva-e-determina-volta-ao-trabalho-a-partir-de-sexta-feira
+- MixVale -- https://www.mixvale.com.br/2026/09/25/fim-da-greve-dos-correios-tst-fixa-reajuste-de-409-e-encerra-paralisacao-de-15-dias/
+- CNN Brasil (resultado financeiro Correios) -- https://www.cnnbrasil.com.br/economia/prejuizo-liquido-dos-correios-sobe-no-1o-semestre-mas-cai-no-2o-trimestre/
+- Alerta Gov (motivacao da greve) -- https://alertagov.com.br/2026/09/greve-nos-correios-entenda-o-que-motivou-a-paralisacao-por-tempo-indeterminado-da-categoria/
+- Terra -- https://www.terra.com.br/noticias/tst-diz-que-greve-dos-correios-nao-e-abusiva-mas-determina-fim-da-paralisacao,012334f876e1c118dd663fa734eeb8695atxfgfw.html
+
+Runners-up do dia (registro/transparencia):
+- Candidato 2 -- Empate tecnico nas pesquisas eleitorais de 2026 segue movimentando Ibovespa e
+  dolar -- 21/35
+- Candidato 3 -- Ibovespa fecha em leve queda com Petrobras arrastada pelo petroleo, bancos e
+  varejo sustentam o indice -- 18/35
