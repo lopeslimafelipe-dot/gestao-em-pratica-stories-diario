@@ -1,0 +1,142 @@
+RADAR DE REPERCUSSAO -- 2026-09-26 (sabado)
+Etapa 1 -- Pesquisa e Pontuacao
+
+Checagem de repeticao: revisados os ultimos 10 dias corridos de pautas-video-longo/saidas
+(16/09 a 25/09/2026). Temas ja escolhidos como VENCEDORES DO DIA neste pipeline nesse periodo e
+evitados hoje como vencedor: inadimplencia empresarial recorde/Serasa (16/09), corte da Selic no
+Copom (17/09), risco fiscal/reajuste do Bolsa Familia (18/09), producao agricola recorde do IBGE
+(19/09), fusao IMC/Vinci Compass no setor de restaurantes (20/09), BTG assume o Nubank Parque
+(21/09), usinas solares desligadas por curtailment no Nordeste (22/09), arrecadacao federal
+recorde em agosto (23/09), crise de divida da Braskem (24/09), greve dos bancarios da Caixa chega
+ao 15o dia (25/09). Esta checagem e apenas contra este proprio pipeline (video longo) -- as pastas
+rascunhos/ e saidas/ da raiz do repo pertencem ao Curador de Noticias (Stories curtos) e nao
+contam para fins de repeticao aqui.
+
+Nota sobre a greve dos Correios: o assunto "greve dos Correios" foi VENCEDOR DO DIA deste
+pipeline em 08 e 09/09/2026 -- fora da janela de 10 dias corridos contada a partir de hoje
+(16/09 a 25/09), portanto elegivel para retornar. Alem disso, ha um desenvolvimento genuinamente
+novo e decisivo hoje (o desfecho judicial da greve, com decisao de merito do TST), diferente do
+mero adiamento de julgamento que ja havia sido descartado por falta de fato novo em 21/09/2026.
+
+--------------------------------------------------------------------------
+CANDIDATO 1 -- Greve dos Correios termina apos decisao do TST, que considera o movimento
+nao abusivo mas fixa reajuste de 4,09% e determina volta ao trabalho
+Fato: a greve nacional dos Correios, iniciada em 10/09/2026 por divergencias sobre o plano de
+saude e reajuste salarial, chegou ao fim apos 15 dias. Em 24/09/2026 o TST (Tribunal Superior do
+Trabalho) julgou o dissidio coletivo movido pela propria empresa e decidiu, por maioria, que a
+greve NAO foi abusiva -- rejeitando o pedido dos Correios nesse sentido e destacando que nao houve
+descumprimento de ordens judiciais durante a paralisacao. Ao mesmo tempo, a decisao determinou o
+fim da paralisacao e o retorno ao trabalho a partir de sexta-feira (25/09), fixou reajuste salarial
+de 4,09% com efeitos retroativos a 1o de agosto de 2026, e definiu que os trabalhadores nao terao
+desconto direto no salario pelos dias parados, mas precisarao compensar as horas nao trabalhadas.
+Apos a decisao, sindicatos de base (caso do Sintect-SP) confirmaram em assembleia o fim da greve e
+orientaram a categoria a retomar as atividades normalmente.
+Fonte: Migalhas -- https://www.migalhas.com.br/quentes/465244/tst-considera-greve-dos-correios-nao-abusiva-e-fixa-reajuste-de-4-09
+Fontes adicionais: Terra -- https://www.terra.com.br/noticias/tst-diz-que-greve-dos-correios-nao-e-abusiva-mas-determina-fim-da-paralisacao,012334f876e1c118dd663fa734eeb8695atxfgfw.html ;
+Portal de Prefeitura -- https://portaldeprefeitura.com.br/cotidiano/tst-greve-correios-abusiva-retorno-trabalho/632833/ ;
+GCMais -- https://gcmais.com.br/noticias/2026/09/25/greve-dos-correios-chega-ao-fim-apos-15-dias-e-trabalhadores-retomam-atividades ;
+Cruzeiro FM -- https://www.cruzeirofm.com.br/2026/09/25/destaque/greve-dos-correios-chega-ao-fim-apos-decisao-do-tst-trabalhadores-voltam-nesta-sexta-25/ ;
+DOL -- https://amp.dol.com.br/noticias/brasil/963763/greve-dos-correios-termina-apos-decisao-do-tst-trabalhadores-voltam-ao-servico ;
+Imirante -- https://imirante.com/noticias/brasil/2026/09/25/greve-dos-correios-chega-ao-fim-apos-15-dias-de-paralisacao
+Score de Repercussao:
+- Frescor: 4/5 (decisao do TST foi na quinta, 24/09, com retorno ao trabalho na sexta, 25/09 --
+  dois dias antes de hoje, mas o desfecho e o retorno normal do servico ainda estao sendo
+  absorvidos pelo noticiario)
+- Relevancia do protagonista: 5/5 (Correios e uma marca que todo brasileiro reconhece e usa,
+  independente de classe social ou regiao)
+- Gravidade: 4/5 (greve nacional de 15 dias que so terminou por decisao judicial de merito, com
+  reajuste fixado pela Justica -- desfecho real, nao um mero adiamento)
+- Polemica adjacente: 2/5 (toca de leve o debate sobre gestao de estatais e negociacao com
+  servico publico, mas sem carga partidaria ou eleitoral forte)
+- Volume de cobertura: 4/5 (replicado por muitos veiculos regionais e especializados em poucos
+  dias, ainda que com menos destaque nos generalistas de maior audiencia nacional)
+- Clareza do angulo: 5/5 (cadeia causal simples e didatica: divergencia sobre beneficios e reajuste
+  -> negociacao trava -> greve de 15 dias -> conflito vai parar na Justica -> decisao impoe custo
+  para os dois lados; licao evidente sobre o preco de deixar um conflito trabalhista escalar)
+- Identificacao com audiencia: 4/5 (todo dono de PME ja viveu ou teme uma negociacao salarial ou
+  de beneficios que sai do controle e diferenca real entre resolver internamente ou judicializar)
+TOTAL: 4+5+4+2+4+5+4 = 28/35
+Status: VENCEDOR DO DIA
+NOTA DE GUARDRAIL POLITICO: o fator "Polemica adjacente" teve peso baixo (2/5) neste candidato --
+o assunto envolve uma estatal e negociacao coletiva, o que encosta de leve num debate publico sobre
+gestao do setor publico, mas isso nao foi decisivo para a vitoria (o score veio principalmente de
+fama do protagonista, clareza do angulo e o desfecho judicial em si). Ainda assim, o roteiro da
+Etapa 2 NAO deve comentar a gestao do governo nos Correios, tomar partido entre empresa e sindicato
+ou opinar sobre politica salarial do funcionalismo publico -- o angulo e estritamente a licao de
+gestao de pessoas e negociacao trabalhista, nunca a politica de fundo.
+
+--------------------------------------------------------------------------
+CANDIDATO 2 -- Empate tecnico nas pesquisas eleitorais de 2026 segue movimentando Ibovespa e dolar
+Fato: pesquisas eleitorais divulgadas ao longo de setembro de 2026 (caso BTG/Nexus, com Lula 40%
+e Flavio Bolsonaro 37% no primeiro turno e cenario de 46% a 45% num eventual segundo turno, dentro
+da margem de erro) tem sido apontadas por analistas de mercado como fator relevante por tras de
+movimentos do Ibovespa e do dolar nas ultimas semanas -- em dias de pesquisas mostrando disputa
+mais equilibrada, o Ibovespa registrou altas expressivas (ex.: +1,24% e +3,05% em pregoes distintos
+de setembro) e o dolar recuou, com parte dos gestores interpretando um cenario eleitoral mais
+disputado como maior chance de ajuste futuro na politica fiscal.
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/eleicoes-2026-o-empate-tecnico-nas-pesquisas-e-a-aposta-que-o-mercado-ja-colocou-no-preco/
+Fontes adicionais: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/ibovespa-sobe-dolar-eleicao/ ;
+InvestNews -- https://investnews.com.br/economia/eleicoes-2026-afeta-mercado-economia/
+Score de Repercussao:
+- Frescor: 2/5 (a pesquisa mais citada e de dias atras dentro de setembro; nao ha numero novo
+  divulgado hoje)
+- Relevancia do protagonista: 3/5 (nao e uma empresa/marca, e o mercado financeiro brasileiro como
+  um todo reagindo ao cenario eleitoral)
+- Gravidade: 2/5 (e um movimento continuo de precificacao de risco, nao um evento pontual isolado)
+- Polemica adjacente: 5/5 (esta diretamente colado ao debate eleitoral -- e exatamente o tipo de
+  "carona" na atencao do pais, mas com risco maximo de esbarrar no guardrail politico)
+- Volume de cobertura: 4/5 (tema recorrente e amplamente coberto por varios veiculos de mercado)
+- Clareza do angulo: 2/5 (dificil manter o angulo de gestao/negocio sem precisar comentar a propria
+  disputa eleitoral, o que o guardrail deste canal proibe)
+- Identificacao com audiencia: 3/5 (juros e cambio afetam custo de credito do dono de PME, mas de
+  forma indireta e abstrata)
+TOTAL: 2+3+2+5+4+2+3 = 21/35
+Status: runner-up
+NOTA DE GUARDRAIL POLITICO: este candidato tem o fator "Polemica adjacente" no maximo (5/5) porque
+o assunto e, por natureza, a leitura do mercado sobre a disputa eleitoral -- exatamente o tipo de
+tema que o guardrail deste canal exige tratar com cautela redobrada. Isso pesou contra a "Clareza
+do angulo" (2/5) e foi um dos motivos para nao escolhe-lo como vencedor: seria dificil sustentar 2
+minutos de video falando de "reacao do mercado a pesquisa eleitoral" sem esbarrar em comentar a
+propria eleicao, o que este pipeline nao pode fazer.
+
+--------------------------------------------------------------------------
+CANDIDATO 3 -- Ibovespa fecha em leve queda com Petrobras arrastada pelo petroleo, enquanto bancos
+e varejo sustentam o indice
+Fato: no fechamento de sexta-feira (25/09/2026), o Ibovespa recuou 0,27%, a 183.477 pontos,
+puxado pela queda de 2,58% nas acoes preferenciais da Petrobras, que acompanhou o recuo de mais de
+2% do petroleo Brent em meio a expectativas de um possivel acordo entre Estados Unidos e Ira. Em
+contrapartida, bancos e varejistas sustentaram o indice (Itau +0,62%, Vale +0,16%), configurando
+um movimento de rotacao setorial dentro do mercado local, e nao uma saida ampla de capital.
+Fonte: Rio Times Online -- https://www.riotimesonline.com/brazil-markets-ibovespa-real-saturday-september-26-2026
+Score de Repercussao:
+- Frescor: 4/5 (dado do fechamento de ontem, sexta 25/09, ainda no radar do mercado hoje)
+- Relevancia do protagonista: 4/5 (Petrobras e uma das marcas mais conhecidas do pais)
+- Gravidade: 1/5 (e oscilacao diaria normal de mercado, nao um evento estrutural ou de ruptura)
+- Polemica adjacente: 2/5 (toca a tensao geopolitica no Oriente Medio, mas sem viés politico
+  domestico)
+- Volume de cobertura: 3/5 (cobertura padrao de fechamento de mercado, presente em portais
+  financeiros, sem grande destaque fora do nicho)
+- Clareza do angulo: 2/5 (mistura petroleo, geopolitica e rotacao setorial ao mesmo tempo --
+  fatores concorrentes demais para uma explicacao simples em 2 minutos)
+- Identificacao com audiencia: 2/5 (preco do petroleo afeta custo de combustivel/logistica do dono
+  de PME, mas o angulo de "rotacao de carteira na bolsa" e mais distante do dia a dia dele)
+TOTAL: 4+4+1+2+3+2+2 = 18/35
+Status: runner-up
+
+--------------------------------------------------------------------------
+CANDIDATO 4 (descartado na triagem) -- Banco Central corta projecao de crescimento do PIB de 2026
+para 1,8%
+Nota de descarte: fato relevante (RPM do BC divulgado em 24/09/2026), mas foi exatamente o
+Candidato 2 / runner-up deste mesmo pipeline ontem, 25/09/2026, sem nenhum desdobramento novo hoje
+que justifique reabrir o tema -- seria repetir a mesma materia dois dias seguidos.
+
+--------------------------------------------------------------------------
+RESUMO
+VENCEDOR: Candidato 1 -- Greve dos Correios termina apos decisao do TST (nao abusiva, reajuste de
+4,09%, volta ao trabalho) -- 28/35
+Runner-up 1: Candidato 2 -- Empate tecnico nas pesquisas eleitorais de 2026 movimenta Ibovespa e
+dolar -- 21/35
+Runner-up 2: Candidato 3 -- Ibovespa fecha em queda com Petrobras arrastada pelo petroleo Brent --
+18/35
+Descartado na triagem: Candidato 4 -- Corte da projecao do PIB pelo Banco Central -- repeticao
+direta do runner-up de ontem (25/09), sem fato novo
