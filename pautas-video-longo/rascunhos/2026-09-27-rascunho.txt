@@ -1,0 +1,159 @@
+RADAR DE REPERCUSSAO -- 2026-09-27 (domingo)
+Etapa 1 -- Pesquisa e Pontuacao
+
+Checagem de repeticao: revisados os ultimos 10 dias corridos de pautas-video-longo/saidas
+(17/09 a 26/09/2026). Temas ja escolhidos como VENCEDORES DO DIA neste pipeline nesse periodo e
+evitados hoje como vencedor: corte da Selic no Copom (17/09), risco fiscal/reajuste do Bolsa
+Familia (18/09), producao agricola recorde do IBGE (19/09), fusao IMC/Vinci Compass no setor de
+restaurantes (20/09), BTG assume o Nubank Parque (21/09), usinas solares desligadas por
+curtailment no Nordeste (22/09), arrecadacao federal recorde em agosto (23/09), crise de divida da
+Braskem (24/09), greve dos bancarios da Caixa chega ao 15o dia (25/09), fim da greve dos Correios
+por decisao do TST (26/09). Esta checagem e apenas contra este proprio pipeline (video longo) -- as
+pastas rascunhos/ e saidas/ da raiz do repo pertencem ao Curador de Noticias (Stories curtos) e nao
+contam para fins de repeticao aqui.
+
+Nota sobre Casas Bahia: o assunto voltou a aparecer em buscas hoje (materias e retrospectivas sobre
+"recuperacao judicial de grandes empresas em 2026" e sobre o fechamento de 298 lojas/demissao de
+~1.900 funcionarios), mas segue sendo o MESMO fato de agosto/2026 (divida de R$ 17,3 bi), ja usado
+como VENCEDOR DO DIA deste pipeline em 10/09/2026 e descartado por repeticao em 17/09 e 21/09. Sem
+desdobramento novo hoje, foi descartado de novo pelo mesmo motivo.
+
+Nota sobre Braskem: o leilao da OPA (Shine I/BTG Pactual) segue marcado para 16/10/2026, mas sem
+fato novo desde a cobertura ja usada como VENCEDOR DO DIA em 24/09/2026 -- descartado por
+repeticao, sem desenvolvimento que justifique reabrir.
+
+--------------------------------------------------------------------------
+CANDIDATO 1 -- Governo lanca "Desenrola 3.0": leilao vai comprar ate R$ 150 bi em dividas
+"podres" de bancos por R$ 15 bi (deságio de ate 90%)
+Fato: em 25/09/2026 o governo federal anunciou uma nova rodada do Desenrola, com formato inedito.
+Em vez de o devedor negociar diretamente com o banco, a Uniao vai leiloar a COMPRA de carteiras de
+divida de cartao de credito e credito pessoal sem consignacao, com atraso entre 2 e 4,5 anos e
+limite de R$ 10 mil por pessoa. Bancos interessados oferecem suas carteiras e vence quem der o
+maior desconto; a expectativa oficial e pagar 10% ou menos do valor de face, ou seja, comprar cerca
+de R$ 150 bilhoes em dividas gastando R$ 15 bilhoes. O cronograma: chamamento dos bancos e edital em
+novembro/2026, propostas em dezembro, resultado do leilao em janeiro/2027 e repasse em
+fevereiro/2027. A medida deve beneficiar ate 15 milhoes de pessoas e foi anunciada dias antes do
+primeiro turno das eleicoes (04/10/2026), junto com a proibicao das bets -- lida por analistas como
+parte de um pacote pre-eleitoral do governo.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/brasil/a-dias-da-eleicao-lula-anuncia-renegociacao-de-ate-r-150-bi-em-dividas-de-consumidores/
+Fontes adicionais: Correio Braziliense -- https://www.correiobraziliense.com.br/mundo/2026/09/7508962-novo-desenrola-governo-lula-planeja-gastar-rs-15-bi-para-comprar-dividas-dos-bancos-e-aliviar-bolso-das-familias.html ;
+Seu Dinheiro -- https://www.seudinheiro.com/2026/economia/desenrola-3-0-governo-lula-quer-renegociar-ate-r-150-bilhoes-em-dividas-mas-como-vai-bancar-essa-conta-davs/ ;
+Terra -- https://www.terra.com.br/noticias/brasil/novo-desenrola-governo-lula-planeja-r-15-bi-para-comprar-dividas-dos-bancos-e-aliviar-bolso-das-familias,8a14a8f991ef2a4df6151d065deb881b3wokxs0g.html ;
+Brasil 247 -- https://www.brasil247.com/brasil/governo-preve-leilao-para-comprar-dividas-das-familias-e-estima-desconto-de-pelo-menos-90-diz-moretti/ ;
+SpaceMoney -- https://www.spacemoney.com.br/economia/macroeconomia/desenrola-3-nova-rodada-dividas
+Score de Repercussao:
+- Frescor: 4/5 (anuncio de sexta-feira, 25/09, com noticiario ainda ativo hoje e leilao so em
+  novembro -- fato bem recente, ainda sendo digerido)
+- Relevancia do protagonista: 5/5 (Desenrola e um programa federal ja conhecido do publico em geral
+  desde 2023, e o "governo" como protagonista e reconhecido por qualquer brasileiro)
+- Gravidade: 5/5 (R$ 150 bilhoes em dividas, ate 15 milhoes de pessoas beneficiadas -- escala
+  nacional e desenho de politica publica inedito, nao e rotina)
+- Polemica adjacente: 5/5 (anuncio a poucos dias do primeiro turno das eleicoes, tratado por varios
+  veiculos como parte de pacote pre-eleitoral -- encosta em cheio no debate politico do momento)
+- Volume de cobertura: 5/5 (repercutiu em dezenas de veiculos simultaneamente -- Bloomberg Linea,
+  Correio Braziliense, Terra, Seu Dinheiro, Brasil247, SpaceMoney, Capital Rondonia e outros, todos
+  no mesmo dia/dia seguinte)
+- Clareza do angulo: 4/5 (cadeia causal direta e forte para 2 minutos: por que um banco aceita
+  vender uma divida de R$ 10 mil por R$ 1 mil ou menos? -> a partir de certo tempo de atraso, o
+  custo de cobranca supera a chance real de recuperar o valor -> a divida "podre" vale menos do que
+  parece no papel -> licao de gestao sobre quando negociar/descontar agressivo e quando dar baixa em
+  vez de insistir na cobranca)
+- Identificacao com audiencia: 4/5 (todo dono de PME que vende a prazo ou parcelado already sente na
+  pele o dilema de inadimplencia antiga: seguir cobrando, vender a carteira pra uma cobranca
+  terceirizada, ou dar baixa como perda -- e exatamente essa decisao que o programa federal expõe em
+  escala nacional)
+TOTAL: 4+5+5+5+5+4+4 = 32/35
+Status: VENCEDOR DO DIA
+NOTA DE GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no maximo (5/5) porque o anuncio
+saiu a menos de duas semanas do primeiro turno das eleicoes e foi lido por parte da imprensa como
+medida eleitoreira, ao lado da proibicao das bets. O roteiro da Etapa 2 NAO deve comentar essa
+leitura eleitoral, nao deve citar Lula, Flavio Bolsonaro, partido ou tomar posicao sobre o
+calendario politico -- o angulo tem que ficar 100% na mecanica de gestao de credito e cobranca (por
+que uma divida "podre" perde valor com o tempo, e como isso se aplica a decisao de cobranca de
+qualquer negocio), tratando o programa apenas como o gatilho/exemplo que trouxe o tema a tona.
+
+--------------------------------------------------------------------------
+CANDIDATO 2 -- Governo prorroga subsidio ao diesel de R$ 2,12/litro por mais 30 dias, ate um dia
+apos o 2o turno das eleicoes
+Fato: o Ministerio da Fazenda publicou em edicao extra do Diario Oficial, na sexta-feira (25/09), o
+Decreto 2.946/2026, prorrogando por mais 30 dias o subsidio de R$ 2,12 por litro de diesel (R$ 1,12
+criado em maio + R$ 1,00 criado em setembro), que venceria neste sabado (26/09) e passaria a R$ 1,00
+sem a renovacao. A nova validade vai ate 26/10/2026 -- um dia apos o 2o turno das eleicoes
+presidenciais. O ministro Dario Durigan justificou a medida pela volatilidade do preco internacional
+do petroleo e pela proximidade da eleicao, e o governo afirma que nao aumentou o subsidio, apenas
+evitou reduzi-lo.
+Fonte: Gazeta do Povo -- https://www.gazetadopovo.com.br/economia/governo-prorroga-subsidio-diesel/
+Fontes adicionais: Revista Oeste -- https://revistaoeste.com/economia/governo-lula-prorroga-subsidio-ao-diesel-por-mais-30-dias/ ;
+SBT News -- https://sbtnews.sbt.com.br/noticia/economia/lula-prorroga-subsidio-ao-diesel-na-vespera-das-eleicoes ;
+JD1 Noticias -- https://www.jd1noticias.com/economia/2026/09/26/governo-prorroga-por-30-dias-subsidio-de-r-212-por-litro-do-diesel.html
+Score de Repercussao:
+- Frescor: 5/5 (decreto entrou em vigor hoje, domingo 27/09)
+- Relevancia do protagonista: 3/5 (e uma politica de governo, nao uma marca/empresa; reconhecida mas
+  menos "pessoal" que o Desenrola)
+- Gravidade: 2/5 (e a prorrogacao de um subsidio ja existente, nao uma mudanca estrutural nova)
+- Polemica adjacente: 5/5 (prazo desenhado propositalmente pra cobrir todo o calendario eleitoral,
+  inclusive o 2o turno -- encosta direto no debate politico)
+- Volume de cobertura: 4/5 (repercutiu em varios veiculos no fim de semana, mas com menos
+  profundidade analitica que o Desenrola)
+- Clareza do angulo: 2/5 (o efeito pratico sobre custo de frete/logistica da PME e real, mas a
+  cadeia causal esbarra rapido na necessidade de explicar o motivo eleitoral do timing, o que o
+  guardrail deste canal impede de comentar)
+- Identificacao com audiencia: 3/5 (custo de combustivel/frete pesa no caixa de qualquer negocio que
+  dependa de transporte, mas o angulo de "subsidio temporario com prazo politico" e mais dificil de
+  transformar em licao de gestao atemporal)
+TOTAL: 5+3+2+5+4+2+3 = 24/35
+Status: runner-up
+
+--------------------------------------------------------------------------
+CANDIDATO 3 -- Fusao Afya + Yduqs cria gigante de mais de R$ 9 bi em educacao; JPMorgan e Itau BBA
+apontam vantagem de ~6% pra acionistas da Yduqs
+Fato: anunciada em 23/09/2026, a fusao entre Afya e Yduqs forma o maior grupo de educacao do pais,
+com sinergias estimadas entre R$ 2 bi e R$ 2,2 bi em valor presente (cerca de 80% capturados em 3
+anos), vindas principalmente de corte de custos administrativos/comerciais (SG&A), tecnologia e
+capex. So o corte de 20% nas despesas gerais e administrativas da linha Yduqs geraria R$ 398
+milhoes/ano (R$ 338 milhoes liquidos de impostos). Relatorios do JPMorgan e do Itau BBA, divulgados
+na quinta-feira (24/09) e ainda repercutindo neste fim de semana, apontam uma vantagem de cerca de
+6% na relacao de troca de acoes a favor dos acionistas da Yduqs, destacam a complementaridade dos
+modelos de ensino das duas empresas e citam sobreposicao em 3 cidades, com possivel venda de ativos
+e prazo de ate 330 dias de analise no Cade.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/afya-e-yduqs-unem-forcas-e-criam-gigante-da-educacao-o-que-muda-para-acoes-e-setor/
+Fontes adicionais: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/fusao-com-a-afya-pode-turbinar-lucro-da-yduqs-yduq3-e-deixar-acao-mais-barata-segundo-itau-bba-veja-o-possivel-premio-kaes/ ;
+Money Times -- https://www.moneytimes.com.br/afya-e-yduqs-juntas-itau-bba-aponta-ganhos-e-riscos-da-fusao-veja-preco-justo-para-as-acoes-ceci/ ;
+Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/yduqs-leva-vantagem-em-fusao-com-a-afya-mas-tem-risco-antitruste-segundo-analistas/
+Score de Repercussao:
+- Frescor: 3/5 (anuncio de 23/09 e relatorios de analistas de 24/09 -- ja com alguns dias, mas o
+  debate sobre premio/risco antitruste ainda repercutia neste fim de semana)
+- Relevancia do protagonista: 2/5 (Afya e Yduqs sao conhecidas por quem acompanha o setor de
+  educacao/investimentos, mas nao sao marcas de consumo do dia a dia do publico em geral)
+- Gravidade: 4/5 (cria o maior grupo de educacao do pais, negocio de mais de R$ 9 bi -- consolidacao
+  relevante do setor)
+- Polemica adjacente: 0/5 (nenhuma carona em debate politico ou polemica maior)
+- Volume de cobertura: 3/5 (bem coberto pela imprensa financeira/de investimentos, mas sem alcance
+  fora desse nicho)
+- Clareza do angulo: 4/5 (angulo didatico: crescer comprando um concorrente complementar em vez de
+  organicamente, e usar o corte de custos da fusao pra "pagar a conta" do negocio -- licao classica
+  de M&A aplicavel em escala menor a qualquer PME que pense em se associar ou comprar um
+  concorrente)
+- Identificacao com audiencia: 3/5 (o mecanismo de "juntar forcas pra cortar custo fixo" e familiar
+  ao dono de PME, mas o caso concreto -- duas empresas de capital aberto -- e mais distante do
+  cotidiano dele do que um caso de varejo/consumo)
+TOTAL: 3+2+4+0+3+4+3 = 19/35
+Status: runner-up
+
+--------------------------------------------------------------------------
+CANDIDATO 4 (descartado na triagem) -- Ibovespa fecha semana com Petrobras arrastada pela queda do
+petroleo Brent (acordo EUA-Ira)
+Nota de descarte: fato real (Petrobras PN -2,58% na sexta 25/09, puxada pelo Brent, enquanto bancos
+e Vale sustentaram o indice), mas e essencialmente a mesma familia de assunto do Candidato 3 do dia
+26/09 deste pipeline ("Ibovespa fecha em leve queda com Petrobras arrastada pelo petroleo"), ja
+pontuado e rebaixado por baixa gravidade (oscilacao normal de mercado) e clareza de angulo (mistura
+petroleo, geopolitica e rotacao setorial). Sem fato novo hoje que justifique reabrir.
+
+--------------------------------------------------------------------------
+RESUMO
+VENCEDOR: Candidato 1 -- Governo lanca "Desenrola 3.0": leilao vai comprar ate R$ 150 bi em dividas
+de bancos por R$ 15 bi -- 32/35
+Runner-up 1: Candidato 2 -- Governo prorroga subsidio ao diesel ate 1 dia apos o 2o turno -- 24/35
+Runner-up 2: Candidato 3 -- Fusao Afya + Yduqs cria gigante de educacao de R$ 9+ bi -- 19/35
+Descartado na triagem: Candidato 4 -- Ibovespa/Petrobras arrastada pelo Brent -- repeticao de tema
+ja pontuado ontem (26/09)
