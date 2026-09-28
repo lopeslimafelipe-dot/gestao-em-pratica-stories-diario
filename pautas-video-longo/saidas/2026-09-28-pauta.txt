@@ -1,0 +1,89 @@
+PAUTA DO DIA -- 2026-09-28
+Assunto: Caso Banco Master -- rombo recorde de R$ 51,8 bi no FGC, com 8 instituicoes financeiras liquidadas
+Score final: 28/35 (Frescor 3/5, Relevancia do protagonista 4/5, Gravidade 5/5, Polemica adjacente 4/5,
+Volume de cobertura 5/5, Clareza do angulo 4/5, Identificacao com audiencia 3/5)
+
+Fato central verificado: entre 18/11/2025 e 18/02/2026 o Banco Central decretou a liquidacao
+extrajudicial de 8 instituicoes do conglomerado Banco Master (controlado por Daniel Vorcaro): Banco
+Master, Banco Master de Investimento, Master Corretora e Letsbank (18/11/2025); CBSF Distribuidora e
+Will Bank (janeiro/2026); Banco Pleno e Pleno Distribuidora (18/02/2026). O rombo consolidado no Fundo
+Garantidor de Creditos (FGC) chegou a R$ 51,8 bilhoes -- o maior desembolso da historia do fundo --
+sendo R$ 40,6 bi referentes ao Banco Master, R$ 6,3 bi ao Will Bank e R$ 4,9 bi ao Banco Pleno. Fato
+confirmado de forma consistente em multiplas fontes (CNN Brasil, Poder360, Band, Terra, entre outras)
+com o mesmo valor e a mesma divisao por instituicao.
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/macroeconomia/liquidacoes-ligadas-ao-master-somam-rombo-r-52-bilhoes-no-fgc/
+
+Cadeia causal (o que levou a isso):
+1) Sob Daniel Vorcaro, o conglomerado Master cresceu de forma muito acelerada: os ativos saltaram de
+   cerca de R$ 3,7 bi em 2019 para cerca de R$ 82 bi em 2024 -- um ritmo de expansao muito acima do
+   normal para uma instituicao financeira de porte medio.
+2) Para financiar esse crescimento, o banco captava bilhoes do publico oferecendo CDBs com taxas de
+   ate 120% do CDI -- bem acima da media do mercado (que girava por volta de 100%-107% do CDI) --
+   usando a garantia do FGC (ate R$ 250 mil por CPF por instituicao) como argumento de venda pra
+   reduzir a percepcao de risco do investidor.
+3) Esse dinheiro captado a curto prazo foi aplicado, em parte relevante, em ativos dificeis de vender
+   rapido (baixa liquidez) -- sobretudo precatorios (direitos de recebiveis judiciais) e operacoes de
+   credito estruturadas via fundos (FIDCs) -- criando um descasamento entre o prazo do que o banco
+   devia (CDBs resgataveis) e o prazo do que o banco tinha pra receber de volta (ativos ilíquidos e de
+   longo prazo).
+4) Quando o mercado passou a desconfiar da saude do banco (inclusive apos o Banco Central vetar, em
+   03/09/2025, a tentativa do BRB de comprar 58% do Master), a demanda por resgates aumentou e o banco
+   nao teve caixa suficiente pra honrar os saques -- levando a liquidacao extrajudicial e acionando a
+   garantia do FGC em cascata pras demais instituicoes do mesmo grupo.
+
+Por que esta repercutindo agora: o caso segue avancando quase toda semana desde novembro de 2025, com
+novas instituicoes entrando na lista de liquidadas (a ultima, Banco Pleno, em fevereiro) e o valor total
+do rombo se consolidando nas ultimas semanas como o maior da historia do FGC -- o que mantem o assunto
+no radar de veiculos economicos e generalistas meses depois do fato inicial.
+
+Angulo de gestao sugerido: a licao pratica pro dono de PME nao e sobre investimentos, e sobre gestao de
+caixa e de risco -- (1) desconfiar de qualquer oferta (de fornecedor, de investimento, de parceria) que
+paga ou promete muito acima do que o mercado pratica, porque isso costuma sinalizar um problema
+escondido, nao uma vantagem; e (2) nunca descasar prazos -- nao financiar compromissos de curto prazo
+(o que a empresa deve pagar logo) com recursos que so viram caixa no longo prazo (o que a empresa so vai
+receber depois). E o mesmo erro de gestao financeira que quebra pequenas empresas, so que em escala de
+banco.
+
+Dados de apoio:
+- CDBs do Master chegaram a oferecer ate 120% do CDI, contra uma media de mercado que, apos o caso,
+  caiu para a faixa de 90%-107% do CDI em instituicoes de porte medio/pequeno -- fonte: ISTOE Dinheiro
+  -- https://istoedinheiro.com.br/cdb-bancos-digitais-caso-master
+- Os ativos do conglomerado Master cresceram de R$ 3,7 bi (2019) pra R$ 82 bi (2024) sob a gestao de
+  Daniel Vorcaro -- fonte: CartaCapital -- https://www.cartacapital.com.br/economia/como-funcionava-o-esquema-que-inflou-a-liquidez-do-banco-master/
+- O FGC garante ate R$ 250 mil por CPF/CNPJ por instituicao, com teto global de R$ 1 milhao a cada
+  4 anos por pessoa -- fonte: InfoMoney -- https://www.infomoney.com.br/minhas-financas/qual-e-o-valor-maximo-garantido-pelo-fgc-veja-as-regras/
+- O Banco Central vetou formalmente, em 03/09/2025, a tentativa do BRB (Banco de Brasilia) de comprar
+  58% do Master, decisao que antecedeu a liquidacao de novembro -- fonte: Investalk/BB --
+  https://investalk.bb.com.br/noticias/mercado/banco-master-e-brb-tudo-o-que-voce-precisa-saber-sobre-o-negocio-vetado-pelo-bc
+
+Ressalva/limite: o fator "Polemica adjacente" pesou no score (4/5) porque parte do noticiario recente
+sobre o caso envolve um desdobramento politico/institucional (uma investigacao aberta sobre a atuacao de
+orgaos reguladores). O video NAO deve, em nenhuma hipotese, mencionar esse desdobramento, nem citar
+autoridades, ministros, o STF, inquerito da Policia Federal, partido ou figura politica, nem comentar ou
+tomar posicao sobre esse debate. O angulo fica 100% restrito a mecanica financeira publica e ja
+consolidada do caso (captacao a taxa muito acima do mercado + descasamento de prazos + acionamento do
+FGC) e a licao pratica de gestao de caixa pra PME. Tambem nao mencionar Daniel Vorcaro em tom acusatorio
+-- cita-lo, se necessario, apenas como fundador/controlador do banco, sem juizo de valor.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o
+Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: "Um banco quebrou e deixou o maior rombo da historia do fundo que garante seu dinheiro -- R$ 51
+  bilhoes. E o motivo e um erro de gestao que qualquer empresa pode cometer."
+- Contexto/causa raiz: como o Master cresceu rapido demais oferecendo juros muito acima do mercado
+- Desenvolvimento da cadeia causal: o descasamento entre captacao de curto prazo e aplicacao em ativos
+  ilíquidos de longo prazo (precatorios, FIDCs) -- usar o espaco extra do formato longo pra explicar
+  esse mecanismo com uma analogia simples (ex: pegar emprestado no cheque especial pra investir em algo
+  que so paga daqui a 5 anos)
+- Licao de gestao (a virada): rendimento/oferta muito acima do mercado e sinal de alerta, nao de
+  oportunidade; e a importancia de casar prazos entre o que a empresa deve e o que ela tem a receber
+- Fechamento + CTA: convite pra reflexao sobre o proprio fluxo de caixa da empresa do espectador
+
+Fonte(s): CNN Brasil -- https://www.cnnbrasil.com.br/economia/macroeconomia/liquidacoes-ligadas-ao-master-somam-rombo-r-52-bilhoes-no-fgc/ ;
+Poder360 -- https://www.poder360.com.br/poder-justica/liquidacoes-ligadas-ao-master-criam-rombo-de-quase-r-52-bi-no-fgc/ ;
+CartaCapital -- https://www.cartacapital.com.br/economia/como-funcionava-o-esquema-que-inflou-a-liquidez-do-banco-master/ ;
+ISTOE Dinheiro -- https://istoedinheiro.com.br/cdb-bancos-digitais-caso-master ;
+Investalk/BB -- https://investalk.bb.com.br/noticias/mercado/banco-master-e-brb-tudo-o-que-voce-precisa-saber-sobre-o-negocio-vetado-pelo-bc
+
+Runners-up do dia (registro/transparencia):
+- Prazo 30/09 para Simples Nacional/MEI decidirem recolhimento do IBS/CBS (Reforma Tributaria) -- 20/35
+- Riachuelo (ate R$ 4 bi em expansao com lojas menores) e Havan (200a megaloja) -- 19/35
