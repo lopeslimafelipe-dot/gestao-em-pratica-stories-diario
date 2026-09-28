@@ -1,0 +1,141 @@
+RADAR DE REPERCUSSAO -- 2026-09-28 (segunda-feira)
+Etapa 1 -- Pesquisa e Pontuacao
+
+Checagem de repeticao: revisados os ultimos 10 dias corridos de pautas-video-longo/saidas
+(18/09 a 27/09/2026). Temas ja escolhidos como VENCEDORES DO DIA neste pipeline nesse periodo e
+evitados hoje como vencedor: risco fiscal/reajuste do Bolsa Familia (18/09), producao agricola
+recorde do IBGE (19/09), fusao IMC/Vinci Compass no setor de restaurantes (20/09), BTG assume o
+Nubank Parque (21/09), usinas solares desligadas por curtailment no Nordeste (22/09), arrecadacao
+federal recorde em agosto (23/09), crise de divida da Braskem (24/09), greve dos bancarios da Caixa
+chega ao 15o dia (25/09), fim da greve dos Correios por decisao do TST (26/09), "Desenrola 3.0"
+-- leilao de dividas bancarias (27/09). Esta checagem e apenas contra este proprio pipeline (video
+longo) -- as pastas rascunhos/ e saidas/ da raiz do repo pertencem ao Curador de Noticias (Stories
+curtos) e nao contam para fins de repeticao aqui.
+
+Nota geral do dia: segunda-feira com agenda domestica fraca -- sem grande fato corporativo novo
+"estourando" hoje. O radar (G1, InfoMoney, Exame, Valor, Estadao, Bloomberg Linea, Forbes) trouxe
+sobretudo itens de agenda (Boletim Focus, dados do setor externo do BC) e desdobramentos de temas
+que ja vinham de dias anteriores. Os candidatos abaixo refletem isso.
+
+--------------------------------------------------------------------------
+CANDIDATO 1 -- Caso Banco Master: rombo recorde de R$ 51,8 bi no FGC com 8 instituicoes liquidadas,
+e nova fase de investigacao aberta pelo STF esta semana
+Fato: entre 18/11/2025 e 18/02/2026 o Banco Central decretou a liquidacao extrajudicial de 8
+instituicoes ligadas ao conglomerado do Banco Master (Daniel Vorcaro): Banco Master, Banco Master de
+Investimento, Master Corretora, Letsbank, Will Bank, CBSF Distribuidora (ex-Reag Investimentos),
+Banco Pleno e Pleno Distribuidora. O rombo consolidado no Fundo Garantidor de Creditos (FGC) chegou
+a R$ 51,8 bilhoes -- o maior da historia do fundo -- sendo R$ 40,6 bi do Banco Master, R$ 6,3 bi do
+Will Bank e R$ 4,9 bi do Banco Pleno. O mecanismo: o banco captou bilhoes via CDBs pagando ate 120%
+do CDI (bem acima do mercado), cobertos pela garantia do FGC ate R$ 250 mil por CPF, e aplicou parte
+relevante (mais de R$ 81 bi em operacoes ligadas ao limite do FGC) em ativos dificeis de precificar
+-- sobretudo precatorios reavaliados e direitos creditorios via FIDCs -- description como "ilíquidos"
+por analistas. Uma tentativa do BRB (Banco de Brasilia) de comprar 58% do banco foi vetada pelo
+Banco Central por seguranca, e a liquidacao veio na sequencia. Nesta semana (24/09/2026) o ministro
+Flavio Dino, do STF, determinou que a Policia Federal abra inquerito para apurar possivel
+"interferencia indevida" na atuacao da CVM em torno de um alerta do FGC sobre o Master arquivado em
+2022 -- reacendendo a cobertura do caso.
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/macroeconomia/liquidacoes-ligadas-ao-master-somam-rombo-r-52-bilhoes-no-fgc/
+Fontes adicionais: Poder360 -- https://www.poder360.com.br/poder-justica/liquidacoes-ligadas-ao-master-criam-rombo-de-quase-r-52-bi-no-fgc/ ;
+IstoE Dinheiro (lista das 8 instituicoes) -- https://istoedinheiro.com.br/liquidacao-master-8-empresas ;
+Band AB -- https://www.bandab.com.br/politica/com-8-instituicoes-liquidadas-conta-do-caso-banco-master-para-o-fgc-chega-a-r-518-bilhoes/ ;
+Jota (mecanica dos CDBs/precatorios) -- https://www.jota.info/tributos-e-empresas/mercado/como-o-banco-master-transformou-precatorios-em-cdbs-e-pos-em-xeque-o-sistema-financeiro ;
+Gazeta Mercantil (desdobramento do STF em 24/09) -- https://gazetamercantil.com/flavio-dino-pf-investiga-cvm-caso-banco-master
+Score de Repercussao:
+- Frescor: 3/5 (o desdobramento mais recente -- STF manda PF investigar a CVM -- e de quarta-feira,
+  24/09, 4 dias atras; a liquidacao em si e de nov/2025 a fev/2026, mas o caso segue gerando noticia
+  nova toda semana)
+- Relevancia do protagonista: 4/5 (Banco Master ja e reconhecido no noticiario geral como "o maior
+  escandalo bancario da historia do Brasil", nao so por quem acompanha o setor financeiro)
+- Gravidade: 5/5 (R$ 51,8 bi de rombo no fundo garantidor de creditos -- o maior desembolso da
+  historia do FGC -- com 8 instituicoes financeiras liquidadas e o sistema de garantia de depositos
+  testado como nunca antes)
+- Polemica adjacente: 4/5 (o gatilho que trouxe o caso de volta ao noticiario esta semana e
+  justamente a investigacao sobre possivel interferencia politica na CVM, envolvendo autoridades --
+  ver ressalva de guardrail abaixo, que e reforcada por esse motivo)
+- Volume de cobertura: 5/5 (cobertura continua ha meses em dezenas de veiculos -- CNN, Poder360,
+  IstoE, Jota, Band, Bloomberg, InfoMoney -- com pico de novo agora com a decisao do STF)
+- Clareza do angulo: 4/5 (cadeia causal muito didatica pra 2 minutos: banco oferece rendimento muito
+  acima do mercado -> capta bilhoes garantidos pelo FGC -> aplica esse dinheiro em ativos dificeis de
+  vender rapido -> quando precisa devolver o dinheiro, nao tem liquidez -> quebra e o fundo garantidor
+  tem que cobrir a conta. O cuidado necessario e nao deixar o roteiro escorregar para o desdobramento
+  politico do STF, que e so o "gatilho de hoje", nao o assunto do video)
+- Identificacao com audiencia: 3/5 (a licao de "desconfie de rendimento bom demais pra ser verdade" e
+  "nao descase o prazo entre o que voce capta/deve e o que voce aplica/recebe" e uma licao classica de
+  gestao financeira, ainda que o caso concreto -- um banco -- seja mais distante do dia a dia
+  operacional de uma PME do que um caso de varejo ou de cobranca)
+TOTAL: 3+4+5+4+5+4+3 = 28/35
+Status: VENCEDOR DO DIA
+NOTA DE GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou (4/5) porque o motivo do caso estar
+sendo comentado de novo esta semana e uma decisao do STF (ministro Flavio Dino) mandando investigar
+possivel interferencia politica na CVM, o que envolve autoridades e teve leitura politica forte na
+imprensa. O roteiro da Etapa 2 NAO deve mencionar o STF, o inquerito da PF, nomes de ministros,
+Daniel Vorcaro em tom acusatorio, nem qualquer leitura politica do caso -- o angulo tem que ficar
+100% na mecanica financeira ja publica e consolidada: por que um banco oferecer juro muito acima do
+mercado e um sinal de alerta, o risco de descasamento entre captacao e aplicacao, e o papel (e o
+limite) do fundo garantidor de creditos. Tratar a "onda de liquidacoes e o rombo no FGC" como o fato,
+sem entrar no desdobramento politico que e apenas o gatilho de "por que isso voltou a noticia agora".
+
+--------------------------------------------------------------------------
+CANDIDATO 2 -- Prazo final (30/09) para empresas do Simples Nacional e MEI escolherem como vao
+recolher os novos tributos da Reforma Tributaria (IBS/CBS) em 2027
+Fato: empresas optantes pelo Simples Nacional (ou que pretendem ingressar no regime) tem ate
+30/09/2026 -- quarta-feira desta semana -- para formalizar no sistema da Receita Federal como vao
+recolher o IBS e a CBS (os novos tributos que substituem PIS/Cofins/IPI/ICMS/ISS) no primeiro
+semestre de 2027, decidindo entre manter o regime unificado do Simples ou migrar para o regime
+regular de apuracao. Por causa do prazo apertado e da complexidade da decisao, Receita Federal, CFC,
+Sebrae e Fenacon fizeram coletiva de imprensa nesta semana para orientar contadores e empresarios.
+Fonte: Adicao Contabil -- https://www.adicao.com.br/2026/09/01/simples-nacional-setembro-2026/
+Fontes adicionais: Fenacon -- https://fenacon.org.br/reforma-tributaria/reforma-tributaria-o-que-sua-empresa-precisa-fazer-em-2026/ ;
+Capital News -- https://www.capitalnews.com.br/nacional/reforma-tributaria-setor-produtivo-cobra-clareza-e-previsibilidade-na-implementacao-das-novas-regras/447273
+Score de Repercussao:
+- Frescor: 4/5 (prazo vence em 2 dias, materias orientativas saindo ao longo desta semana)
+- Relevancia do protagonista: 1/5 (nao ha marca ou pessoa famosa -- e uma obrigacao tributaria)
+- Gravidade: 2/5 (decisao administrativa importante, mas nao e uma crise ou fato extraordinario)
+- Polemica adjacente: 1/5 (reforma tributaria gera debate tecnico, mas nao esta "quente" na grande
+  imprensa esta semana)
+- Volume de cobertura: 2/5 (cobertura concentrada em imprensa contabil/tributaria de nicho, sem
+  manchete nos grandes portais generalistas)
+- Clareza do angulo: 5/5 (angulo muito direto: prazo + decisao simples + efeito pratico no caixa e na
+  burocracia da empresa)
+- Identificacao com audiencia: 5/5 (impacta diretamente a decisao que qualquer dono de PME do Simples
+  precisa tomar agora, nesta semana)
+TOTAL: 4+1+2+1+2+5+5 = 20/35
+Status: runner-up
+
+--------------------------------------------------------------------------
+CANDIDATO 3 -- Riachuelo anuncia ciclo de investimento de ate R$ 4 bi pra reformar e reduzir o
+tamanho medio das lojas; Havan se aproxima da 200a megaloja
+Fato: a Riachuelo confirmou um ciclo de investimento entre R$ 3 bi e R$ 4 bi para reformar e expandir
+sua rede (~350 lojas atuais + ~150 novas aberturas previstas), com um novo modelo de loja bem menor
+que o tradicional -- a unidade aberta em 23/09 na Rua Oscar Freire (SP) tem 416 m², contra 1.200 m²
+da loja antiga no mesmo endereco. No mesmo periodo, a Havan anunciou que vai inaugurar sua 200a
+megaloja (20 mil m²) em Boa Vista (RR) em 14/11/2026, com 8 lojas abertas neste ano e mais 7
+programadas ate dezembro.
+Fonte: Exame (Riachuelo) -- https://exame.com/negocios/riachuelo-atualiza-marca-e-vai-aplicar-r-180-milhoes-em-20-novas-lojas/
+Fontes adicionais: BPMoney -- https://bpmoney.com.br/mercado/riachuelo-preve-investir-ate-r-4-bilhoes-em-expansao-e-reforma-de-lojas/ ;
+Economic News Brasil -- https://economicnewsbrasil.com.br/2026/09/24/novo-modelo-riachuelo-retorno-lojas/ ;
+Agencia GBC (Havan) -- https://agenciagbc.com/2026/09/13/havan-prepara-megaloja-gigante-e-chega-a-uma-marca-historica-no-brasil/
+Score de Repercussao:
+- Frescor: 3/5 (noticias de 13/09 a 24/09 -- dentro da semana, mas nao de hoje/ontem)
+- Relevancia do protagonista: 4/5 (Riachuelo e Havan sao marcas de varejo muito conhecidas do publico
+  em geral)
+- Gravidade: 2/5 (sao noticias positivas de investimento/expansao, nao uma crise ou fato inedito)
+- Polemica adjacente: 0/5 (nenhuma carona em debate politico ou polemica maior)
+- Volume de cobertura: 3/5 (bem coberto pela imprensa de varejo/negocios, sem alcance fora desse
+  nicho)
+- Clareza do angulo: 4/5 (angulo didatico: por que reduzir o tamanho da loja pode ser uma estrategia
+  de crescimento -- menos custo fixo por unidade, mais unidades, capilaridade -- licao aplicavel a
+  qualquer negocio fisico que pensa em expandir)
+- Identificacao com audiencia: 3/5 (decisao de expandir/redesenhar o ponto fisico em meio a incerteza
+  economica e algo que ressoa com PME de varejo e servicos, ainda que a escala das duas empresas seja
+  muito maior)
+TOTAL: 3+4+2+0+3+4+3 = 19/35
+Status: runner-up
+
+--------------------------------------------------------------------------
+RESUMO
+VENCEDOR: Candidato 1 -- Caso Banco Master: rombo recorde de R$ 51,8 bi no FGC, 8 instituicoes
+liquidadas, nova fase de investigacao do STF esta semana -- 28/35 (com ressalva forte de guardrail
+politico, ver nota acima)
+Runner-up 1: Candidato 2 -- Prazo 30/09 para Simples Nacional decidir recolhimento do IBS/CBS -- 20/35
+Runner-up 2: Candidato 3 -- Riachuelo (ate R$ 4 bi em expansao) e Havan (200a megaloja) -- 19/35
