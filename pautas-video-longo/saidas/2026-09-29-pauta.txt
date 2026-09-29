@@ -1,0 +1,35 @@
+PAUTA DO DIA -- 2026-09-29
+Assunto: Quando 36% do marketing vem de um unico patrocinador: o que a saida abrupta das bets ensina sobre concentracao de receita
+Score final: 31/35 (Frescor 4/5, Relevancia do protagonista 4/5, Gravidade 5/5, Polemica adjacente 5/5, Volume de cobertura 5/5, Clareza do angulo 4/5, Identificacao com audiencia 4/5)
+
+Fato central verificado: Em 25/09/2026 o presidente assinou a Medida Provisoria 1.394/2026, que proibe exploracao, oferta, intermediacao e publicidade das apostas de quota fixa (bets) no pais. Calendario: 25/09 publicacao e fim de novos depositos; ate 05/10 apostadores podem sacar saldo; 06/10 sites e apps saem do ar; 07-08/10 empresas informam saldos remanescentes aos bancos; 09-14/10 devolucao de valores. A MP tem 60 dias de analise, prorrogaveis por igual periodo (ate 120 dias), e depende do Congresso. Em 2025 as bets pagaram R$ 1,143 bi em patrocinio aos 20 clubes de maior receita do pais (levantamento Sports Value), equivalente a 36% da receita de marketing desses clubes; sao patrocinadoras master de 14 dos 20 clubes da Serie A em 2026. Observacao de fact-check: sobre a receita TOTAL dos clubes da Serie A, o peso medio e de 7,9% -- usar os dois numeros com clareza (36% do marketing vs 7,9% do total) para nao exagerar.
+Fontes confirmadas (via WebSearch; WebFetch nao usado): Rádio Senado https://www12.senado.leg.br/radio/1/noticia/2026/09/28/medida-provisoria-que-proibe-bets-no-pais-ja-esta-no-congresso-nacional ; ABC Mais https://www.abcmais.com/pais/prazos-e-consequencias-entenda-cada-ponto-da-medida-provisoria-que-proibe-bets-no-brasil/ ; Exame https://exame.com/esporte/fim-das-bets-clubes-da-serie-a-recebem-quase-r-1-bi-em-patrocinio-veja-lista/ ; DGABC https://www.dgabc.com.br/Noticia/4349187/patrocinios-de-bets-correspondem-a-7-9-das-receitas-dos-clubes-da-serie-a-do-brasileirao
+
+Cadeia causal (o que levou a isso): Mercado regulamentado e liberado para operar a partir de 01/01/2025 (Lei 14.790/2023) -> setor cresce rapido (R$ 37 bi de receita bruta de jogos em 2025) e vira grande anunciante; patrocinio de bets no futebol cresce 85% entre 2024 e 2025, ate R$ 1,143 bi -> clubes passam a depender de um unico setor: 36% da receita de marketing e patrocinio master em 14 de 20 clubes da Serie A -> a fonte some por decisao externa, com prazo de dias (sites fora do ar em 06/10) -> o efeito em cadeia: clubes perdem patrocinio, e agencias, veiculos de midia, influenciadores e varejo esportivo (camisas) perdem a receita ligada a esse anunciante -> quem tinha um unico grande "cliente" fica sem plano B.
+
+Por que esta repercutindo agora: Gravidade 5/5 (setor inteiro sai do ar em ~10 dias), volume de cobertura 5/5 (todos os portais de economia e esporte), frescor 4/5 (MP de 25/09, desdobramentos ate 28/09) e polemica adjacente 5/5 (tema muito debatido -- ver ressalva). Para a audiencia, o ponto de identificacao e concreto: "e se o meu maior cliente/canal sumisse amanha?".
+
+Angulo de gestao sugerido: Risco de concentracao de receita. Licao pro dono de PME: (1) mapear quanto do faturamento vem do maior cliente, canal ou fornecedor; (2) definir um teto de dependencia (ex.: nenhum cliente/canal acima de X% -- definir conforme o negocio); (3) ter plano B e reserva de caixa para cobrir a queda repentina; (4) contratos com clausulas de saida/prazo; (5) diversificar antes de precisar. O caso de mercado mostra que receita "boa e crescente" de fonte unica e receita fragil.
+
+Dados de apoio:
+- Bets destinaram R$ 1,143 bi em patrocinio a 20 clubes em 2025 (+85% vs 2024) -- Economic News Brasil https://economicnewsbrasil.com.br/2026/09/26/patrocinio-bets-futebol-2025/ ; Exame (link acima)
+- 36% da receita de marketing dos 20 maiores clubes; 7,9% da receita total da Serie A -- DGABC (link acima); O Tempo https://www.otempo.com.br/sports/futebol-nacional/2026/9/26/veja-quanto-cada-clube-da-serie-a-perde-sem-patrocinio-de-bets
+- Investimento publicitario estimado das bets em ~R$ 1,4 bi em 2025 (TV, streaming, midia esportiva, digital) -- Guairá News https://www.guairanews.com/2026/09/28/fim-das-bets-impactos-juridicos-economicos/ (fonte secundaria; citar como "estimativa")
+- Maiores contratos fixos: Flamengo ~R$ 220 mi/ano, Corinthians ~R$ 150 mi/ano -- Exame/Sports Value (via busca; conferir antes de citar nominalmente)
+- Contraexemplo de diversificacao: a Entain manteve a projecao de EBITDA de 2026 (£910-960 mi), no piso da faixa; o Brasil respondia por ~5% da receita liquida online, e o crescimento previsto passou a 4%-6% (antes 5%-7% sem o Brasil) -- empresa com receita diluida absorve o choque -- Acessa/Estadao https://www.acessa.com/economia/2026/09/340977-entain-mantem-projecoes-para-2026-apesar-de-proibicao-temporaria-de-apostas-online-no-brasil.html
+- Lei 14.790/2023, operacao regulamentada desde 01/01/2025 -- Câmara https://www.camara.leg.br/noticias/1030406-entra-em-vigor-lei-que-tributa-apostas-on-line-e-define-regras-para-a-exploracao-do-servico/
+
+Ressalva/limite: GUARDRAIL POLITICO -- "Polemica adjacente" pesou 5/5 (MP a poucas semanas das eleicoes, tema de saude publica/liberdade). NAO comentar o merito da proibicao, a leitura eleitoral, nem citar politicos ou partidos; tratar a MP apenas como gatilho factual (algo que aconteceu). NAO opinar se e certo ou errado apostar. Foco exclusivo em gestao: dependencia de fonte unica de receita. Nao e recomendacao de investimento (nao citar acoes de Entain/Flutter/Nubank como sugestao). A MP ainda depende do Congresso -- dizer "a MP em vigor, sujeita a analise", sem prever desfecho. Numeros de "% da receita" devem distinguir marketing (36%) de receita total (7,9%).
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto):
+- Hook: "36% do marketing dos maiores clubes do Brasil vinha de um unico setor. Em 6 de outubro, esse setor sai do ar."
+- Contexto/causa raiz: mercado liberado em 2025, boom de patrocinio (+85%), clubes que se acostumaram com uma unica fonte.
+- Desenvolvimento da cadeia causal: fonte some por decisao externa -> clube, agencia, midia, influenciador, varejo -> quem tem plano B x quem nao tem (contraste com empresa diversificada).
+- Licao de gestao (a virada): "seu maior cliente e tambem seu maior risco" -- mapear concentracao, teto de dependencia, caixa de reserva.
+- Fechamento + CTA: pergunta pro espectador ("qual % do seu faturamento vem do seu maior cliente?") e convite pra comentar/seguir.
+
+Fonte(s): Radio Senado -- https://www12.senado.leg.br/radio/1/noticia/2026/09/28/medida-provisoria-que-proibe-bets-no-pais-ja-esta-no-congresso-nacional ; Exame -- https://exame.com/esporte/fim-das-bets-clubes-da-serie-a-recebem-quase-r-1-bi-em-patrocinio-veja-lista/ ; DGABC -- https://www.dgabc.com.br/Noticia/4349187/patrocinios-de-bets-correspondem-a-7-9-das-receitas-dos-clubes-da-serie-a-do-brasileirao ; Acessa/Estadao (Entain) -- link acima
+
+Runners-up do dia (registro/transparencia):
+- Onda de recuperacoes judiciais: 12 grandes empresas em 2026 -- 26/35
+- Nubank negocia compra do Monzo, acoes caem ~9% em NY -- 22/35
