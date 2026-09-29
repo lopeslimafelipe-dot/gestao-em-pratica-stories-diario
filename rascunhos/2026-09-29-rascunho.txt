@@ -1,0 +1,93 @@
+RASCUNHO DO DIA — 29/09/2026 (terça-feira)
+ETAPA 1 (Pesquisa) — Curador de Notícias, canal Entre Gestores
+
+DIVERSIFICAÇÃO DE FONTE: li os rascunhos dos últimos dias úteis (22-28/09). Exame aparece com frequência (24/09, 23/09); hoje só entra como fonte de apoio no item 1 (prévia do evento). Fontes usadas hoje: Brazil Journal/Bloomberg Línea/NeoFeed (item 2), Soube Brasília (item 3), McKinsey (item 4), Receita/gov.br (item 5), CNBC/TechCrunch/Bloomberg (item 6), CNBC/CNN/SEC (item 7), CNN Brasil/NeoFeed/release Nvidia (item 8). InfoMoney/Sebrae: não usados como fonte principal.
+
+METODOLOGIA: 3 subagentes de pesquisa em paralelo (L1/2/8; L3/4/5; L6/7), instruídos com a lista de temas já publicados. WebFetch bloqueado para vários domínios (gov.br, Exame, InfoMoney, jobadvisor etc.): fatos triangulados via WebSearch (títulos/resumos), NÃO por leitura das páginas. Etapa 2 deve conferir números nos links.
+
+BUSCA POR LINHA:
+1. Tecnologia: candidato Mercado Livre Experience (IA para vendedores). Reserva: Nuvemshop (data incerta, descartada). Não achei item de G1/Estadão/Valor com números duros nos últimos 3 dias.
+2. Empresa (positivo): Afya + Yduqs (fusão). Reserva: Gelato Borelli (data não confirmada; repetição de "rede em expansão").
+3. Macro: Focus 28/09 (máx. 1 item). Reserva: confiança da indústria FGV (sobrepõe CNI já usada). CAGED de agosto e Serasa (jul) fora da janela/sem resultado.
+4. Internacional: McKinsey Technology Trends Outlook 2026. Descartado: Deloitte CFO Signals (amostra só de grandes empresas, Deloitte já usada). Reserva: McKinsey transição de PMEs (fev/2026, fora da janela).
+5. Prazo de Ação: Edital RFB nº 9/2026 (prazo 30/10). Reserva: cancelamento da opção Simples 2027 até 30/11 (continuação de tema usado). Descartado: DME/DCTFWeb (rotina).
+6. Empresa global: Meta contrata CEO da MongoDB. Reserva: AMD compra World Labs (US$ 8,2 bi). Nada de Uber/Amazon/Google/Apple/Tesla/Nestlé/Stellantis dentro da janela.
+7. Encolhimento: Starbucks fecha ~250 cafeterias. Reserva: Bosch Nuremberg (só fontes em alemão). Descartados por data velha/republicação: Nike, Citigroup, Grupo Mateus, Nissan, Nestlé, Correios PDV, Zalando, Morrisons; ndmais.com.br mistura fatos de 2025 (desconfiar), agenciagbc.com re-data notícias antigas.
+8. Livre: Nvidia recompra recorde. Reserva: Drinkiss/Jon Vlogs (data não confirmada, produto de álcool).
+
+COTA INTERNACIONAL: dia com 8 itens; mínimo 2 internacionais, 1 de grande consultoria. Cumprido: item 4 (McKinsey), item 6 (Meta/MongoDB, empresa e fontes estrangeiras), item 7 (Starbucks), item 8 (Nvidia). Total 4.
+TETO MACRO: 1 item (item 3).
+
+===================================================================
+
+ITEM 1 — O Mercado Livre vai dar um assistente de IA 24h pro vendedor pequeno
+Categoria: Tecnologia
+Fato: No Mercado Livre Experience 2026 (10ª edição, Expo SP, 24-25/09/2026), a empresa anunciou ferramentas de IA para vendedores: Assistente de Vendedores 24h (responde dúvidas e aponta oportunidades), automação de criação de anúncios, otimização de títulos com SEO e respostas a perguntas de compradores em tempo real; também entrega em até 60 min e novo crédito Mercado Pago. Investimento previsto de R$ 57 bi no Brasil em 2026 (R$ 20 bi a mais que no ano anterior).
+Fonte: Exame (prévia do evento) — https://exame.com/negocios/mercado-livre-experience-tera-vendas-ao-vivo-ia-e-novidades-para-vendedores/ ; cobertura pós-evento — https://abcagora.com.br/2026/09/24/mercado-livre-experience-10-edicao/ e https://brasilinovador.com.br/mercado-livre-experience-2026-reune-ecossistema-de-e-commerce-e-consolida-avancos-em-logistica-ia-e-servicos-financeiros/
+Relevância: plataformas de marketplace estão embutindo IA de gestão no próprio canal de venda, o que muda o piso de eficiência para qualquer varejista, inclusive quem não vende lá.
+Ressalva técnica: números vêm do evento/release da própria empresa (interesse comercial). A Exame é só prévia; pós-evento está em sites menores — Etapa 2 deve buscar confirmação em veículo grande. Datas/valores conferidos só por snippet.
+Possível contradição com roteiro anterior: nenhuma (Buson/ChatGPT e Falconi são outros casos de IA; sem conflito de dado).
+Tese de gancho sugerida: O Mercado Livre vai colocar R$ 57 bi no Brasil e entregar um consultor de IA 24h pro seu concorrente pequeno. Quem ainda responde cliente e escreve anúncio no braço está competindo contra alguém que já tem essa ajuda.
+
+ITEM 2 — Duas gigantes da educação se fundem porque o ganho está em cortar despesa
+Categoria: Notícia de empresa
+Fato: Afya e Yduqs anunciaram na noite de 23/09/2026 a fusão que cria o maior grupo de educação do Brasil: valor de mercado combinado ~R$ 9,5 bi (fontes citam "R$ 9 bi+"), troca de ações com R$ 750 mi em dividendos a acionistas da Yduqs, Afya 69% / Yduqs 31%, ágio de ~20% sobre o fechamento da Yduqs em 23/09. Sinergias com VPL de R$ 2,1 bi (~20% do valor de mercado), até R$ 2,2 bi, 80% capturadas em 3 anos. Risco antitruste (Cade): mais de 30% das vagas de medicina em alguns mercados.
+Fonte: Brazil Journal — https://braziljournal.com/afya-e-yduqs-se-unem-sinergias-podem-passar-dos-r-2-bi/ ; Bloomberg Línea — https://www.bloomberglinea.com.br/negocios/yduqs-leva-vantagem-em-fusao-com-a-afya-mas-tem-risco-antitruste-segundo-analistas/ ; NeoFeed — https://neofeed.com.br/negocios/o-que-o-mercado-espera-da-fusao-afya-e-yduqs/
+Relevância: fusão em setor grande com lógica clara de ganho de escala e corte de despesa administrativa; útil pra qualquer gestor pensar em overhead e consolidação de mercado.
+Ressalva técnica: valores de sinergia são estimativas da própria operação/analistas; depende de aprovação do Cade. 3 fontes independentes concordam no essencial, mas o valor combinado varia (R$ 9 bi a R$ 9,5 bi). Anúncio com 6 dias (limite da janela).
+Possível contradição com roteiro anterior: nenhuma (Carrefour/Pereira foi venda de lojas; aqui é fusão de iguais em outro setor).
+Tese de gancho sugerida: Duas gigantes se juntam e dizem que o prêmio da fusão está em R$ 2,1 bi de sinergia — ou seja, em cortar despesa que hoje está duplicada. Quanto do custo da sua empresa é overhead que ninguém questiona há anos?
+
+ITEM 3 — O mercado vê a inflação furando o teto e o PIB encolhendo a cada semana
+Categoria: Macroeconomia/índice
+Fato: O boletim Focus de 28/09/2026 (projeções até 25/09) elevou o IPCA de 2026 de 4,92% para 4,99% (teto da meta: 4,5%) e reduziu o PIB 2026 de 1,88% para 1,86% e o PIB 2027 de 1,43% para 1,41%.
+Fonte: Soube Brasília (secundária) — https://soubrasilia.com/boletim-focus-28-setembro-2026-ipca-4-99-pib-1-86-selic-13-50/ ; fonte primária a conferir: Banco Central (bcb.gov.br/focus). Referência anterior: InfoMoney Focus 08/09 — https://www.infomoney.com.br/economia/boletim-focus-projecoes-08092026/
+Relevância: combinação de inflação acima do teto com crescimento menor pressiona custo e demanda ao mesmo tempo, o que interessa a qualquer gestor que planeja margem e preço.
+Ressalva técnica: só uma fonte secundária confirmou os números de 28/09; Focus é média de projeções de instituições financeiras, não dado observado. NÃO citar Selic: houve conflito entre snippets (Focus projeta 13,50% no fim do ano; um resumo citou Copom em 13,75%) — conferir no BCB.
+Possível contradição com roteiro anterior: nenhuma contradição; complementa IPCA-15 (28/09, dado observado de preços) e a projeção de PIB do governo (24/09). Aqui é expectativa de mercado (Focus/BCB), não dado do IBGE nem projeção governamental.
+Tese de gancho sugerida: Semana após semana o mercado eleva a inflação esperada — agora 4,99%, acima do teto de 4,5% — e reduz o crescimento. Custo subindo e demanda mais fraca ao mesmo tempo: sua margem aguenta as duas coisas?
+
+ITEM 4 — A IA fez os desenvolvedores programarem 180% mais e entregar só 30% mais
+Categoria: Tendência internacional
+Fato: McKinsey Technology Trends Outlook 2026 (6ª edição, setembro/2026), 14 tendências: investimento em desenvolvimento de software "agêntico" saltou de ~US$ 5 bi em 2025 para mais de US$ 61 bi só no 1º semestre de 2026, com ~US$ 1 tri de valor estimado; só 3% dos desenvolvedores confiam muito em código gerado por IA; em estudo citado, atividade de código +180% e entregas em produção +30%; infraestrutura de IA rumo a ~US$ 769 bi em 2026.
+Fonte: McKinsey — https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech ; PDF: https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20top%20trends%20in%20tech%202026/mckinsey%20technology%20trends%20outlook%202026.pdf ; cobertura: https://advisoranalyst.com/2026/09/22/the-intelligence-layer-mckinsey-maps-14-technologies-reshaping-the-economy-in-2026.html/
+Relevância: mostra o descompasso entre volume de atividade gerado por IA e resultado entregue — pergunta útil pra qualquer gestor que compra ferramentas de IA.
+Ressalva técnica: números vieram de resumos de busca; conferir no PDF (o dado 180%/30% é de "estudo citado" no relatório, verificar origem). McKinsey vende consultoria em tecnologia/IA (interesse comercial). Foco em tecnologia e capital de grandes empresas, não PME.
+Possível contradição com roteiro anterior: nenhuma; conversa com o item "IA jogada em cima do caos" (23/09) no mesmo sentido, sem conflito.
+Tese de gancho sugerida: Programaram 180% mais e entregaram só 30% mais. Se a IA que você comprou está gerando atividade e não resultado, o que exatamente você está medindo?
+
+ITEM 5 — Discute imposto na Receita há anos? Até 30/10 dá pra fechar com 30% a 50% de desconto
+Categoria: Prazo de Ação (Oportunidade)
+Fato: Edital de Transação RFB nº 9/2026: débitos em contencioso administrativo fiscal de até R$ 50 milhões por contencioso, para pessoas físicas e jurídicas. Redução de 30% a 50% sobre o total da dívida, pagamento em 12 a 55 meses. DATA-LIMITE DE ADESÃO: 30/10/2026. Ficam fora tributos apurados no Simples Nacional (exceto multas por atraso em obrigação acessória).
+Fonte: Receita Federal (gov.br) — https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/transacao-tributaria-2026-receita-federal-publica-dois-novos-editais-de-negociacao-de-debitos-em-contencioso-administrativo ; Felsberg — https://www.felsberg.com.br/editais-rfb-9-10-2026-transacao-tributaria/ ; Mayer Brown — https://www.mayerbrown.com/pt/insights/publications/2026/07/brazilian-internal-revenue-service-issues-new-tax-settlement-notices-for-small-value-debts-and-debts-of-up-to-brl-50-million
+Relevância: este edital atende empresas médias/maiores com contencioso de valor alto, complementando o Edital 10 (Pequeno Valor, já publicado em 28/09) que atende ME/EPP/MEI.
+Ressalva técnica: RISCO DE REPETIÇÃO — mesmo release oficial e mesmo prazo (30/10) do Edital 10 publicado ontem; a informação nova é que existe o Edital 9 para valores maiores (até R$ 50 mi), público diferente. Etapa 2 pode preferir fundir/omitir se achar redundante. Fetch do gov.br bloqueado; conferido só por snippet; confirmar percentuais e condições no texto do edital. Só vale para contencioso administrativo (não dívida ativa).
+Possível contradição com roteiro anterior: nenhuma; apenas sobreposição com o item 5 de 28/09 (Edital 10), com público e teto de valor distintos.
+Tese de gancho sugerida: Ontem foi o edital pra dívida pequena; tem um irmão pra quem discute valor grande com a Receita: até R$ 50 milhões, 30% a 50% de desconto, até 55 parcelas — prazo 30/10. Empresa que deixa o processo correr por hábito pode estar recusando desconto.
+
+ITEM 6 — A Meta tirou o CEO da MongoDB e a fornecedora perdeu US$ 8 bi em um dia
+Categoria: Empresa global reconhecida
+Fato: Em 28/09/2026 a Meta anunciou a Meta Enterprise Platform, unidade que vende modelos de IA, agentes e infraestrutura a empresas, liderada por Chirantan "CJ" Desai, até então CEO da MongoDB (no cargo desde nov/2025), como Chief Enterprise Platform Officer, reportando a Zuckerberg. O fundador Dev Ittycheria voltou como CEO interino. A ação da MongoDB (MDB) fechou a US$ 335,32, queda de mais de 19% (relatos variam de 18% a 26% conforme o momento do pregão), apagando cerca de US$ 8 bi de valor de mercado (cálculo da CNN). A MongoDB manteve guidance acima do consenso (EPS FY27 US$ 6,39–6,58 vs 6,13 esperado).
+Fonte: CNBC — https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html ; TechCrunch — https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/ ; Bloomberg — https://www.bloomberg.com/news/articles/2026-09-28/mongodb-s-ceo-steps-down-for-senior-role-at-meta-shares-plunge ; SiliconANGLE — https://siliconangle.com/2026/09/28/meta-hires-mongodb-ceo-cj-desai-to-lead-new-enterprise-ai-business/
+Relevância: mostra a Meta indo pro B2B com IA e o quanto o mercado precifica a pessoa do CEO no valor de uma empresa.
+Ressalva técnica: a queda percentual varia entre fontes — usar "quase 20%" ou "entre 19% e 26%"; US$ 8 bi é cálculo da CNN. Verificado só por snippets (WebFetch bloqueado).
+Possível contradição com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Um executivo mudou de emprego e a empresa que ele deixou perdeu quase US$ 8 bi em horas — mesmo com resultado acima do esperado. Quanto do valor do seu negócio depende de uma pessoa só?
+
+ITEM 7 — Starbucks vai gastar US$ 300 milhões pra fechar 250 lojas
+Categoria: Reestruturação-corte-fechamento
+Fato: O conselho da Starbucks aprovou em 22/09/2026 (divulgado em 24/09, 8-K e imprensa) o fechamento de ~250 cafeterias na América do Norte, ~1% das mais de 18 mil. Encargo de reestruturação de ~US$ 300 mi: US$ 200 mi em caixa (saída antecipada de aluguéis e indenizações) e US$ 100 mi sem caixa (baixa de ativos). A maioria dos fechamentos até o fim do ano fiscal de 2026. Segunda rodada sob o CEO Brian Niccol (em set/2025: 627 lojas e ~900 cargos não-varejo). Em paralelo, planeja abrir ~440 unidades no mundo neste ano fiscal.
+Fonte: CNBC — https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html ; CNN — https://www.cnn.com/2026/09/24/food/starbucks-closures ; SEC 8-K — https://www.sec.gov/Archives/edgar/data/0000829224/000082922426000145/sbux-20260922.htm ; BR: https://bpmoney.com.br/negocios/starbucks-fechara-250-lojas-na-america-do-norte/ e https://www.spacemoney.com.br/economia/exterior/starbucks-fecha-250-lojas-america-do-norte-2/
+Relevância: custo de sair de pontos ruins (aluguel, indenização) é lição de gestão de rede e de contratos de longo prazo, ao lado de expansão em outras praças.
+Ressalva técnica: cuidado com manchetes (ex.: ndmais.com.br) que misturam os 900 cortes de 2025 com o evento atual. US$ 300 mi/250 lojas = ~US$ 1,2 mi por loja é conta média nossa (encargo inclui baixa contábil), não dado divulgado por loja — Etapa 2 deve tratar como aproximação. Não confundir com o caso "fechou 12% das lojas" de 23/09.
+Possível contradição com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Fechar 250 lojas vai custar à Starbucks US$ 300 milhões — só de sair de contratos e baixar ativos. Abrir ponto ruim é barato; sair é caro. O aluguel de 5 anos que você assinou empolgado é uma dívida que aparece na hora do fechamento.
+
+ITEM 8 — A Nvidia tem tanto lucro que vai devolver US$ 150 bilhões aos acionistas
+Categoria: Livre (caso de empresa)
+Fato: Nvidia autorizou aumento de US$ 150 bi na recompra de ações (anúncio 28-29/09/2026), maior aumento único da história (recorde anterior: Apple, US$ 110 bi em 2024), elevando a capacidade a US$ 235 bi até o ano fiscal 2028. Receita recorde do 2º tri fiscal de US$ 96,2 bi (+106% a/a); guidance de US$ 108 bi (+90%); caixa de US$ 22,44 bi ao fim do trimestre de julho.
+Fonte: CNN Brasil — https://www.cnnbrasil.com.br/economia/money/negocios/nvidia-aumenta-recompra-de-acoes-em-us-150-bi-com-crescimento-da-ia/ ; InfoMoney — https://www.infomoney.com.br/business/nvidia-amplia-recompra-de-acoes-com-valor-recorde-de-us-150-bi/ ; NeoFeed — https://neofeed.com.br/inovacao/nvidia-supera-a-apple-mais-uma-vez-agora-com-recompra-de-acoes-recorde-de-us-150-bilhoes/ ; Times Brasil/CNBC — https://timesbrasil.com.br/empresas-e-negocios/gigante-da-ia-nvidia-autoriza-recompra-recorde-de-acoes-por-us-150-bilhoes/ ; release oficial — https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase
+Relevância: pergunta clássica de gestão de caixa — reinvestir ou devolver — no maior caso do mundo, com lição de política de distribuição.
+Ressalva técnica: snippets divergem sobre qual número é do trimestre fiscal (96,2 bi / 108 bi) — conferir no release. Caixa (US$ 22,4 bi) é bem menor que a autorização; a recompra é autorização até FY2028, sustentada por fluxo de caixa futuro, não dinheiro parado. Empresa com interesse em divulgar a própria narrativa (release). Longe de PME; usar como panorama. Reserva de formato diferente: Drinkiss (Jon Vlogs), data não confirmada.
+Possível contradição com roteiro anterior: nenhuma.
+Tese de gancho sugerida: A Nvidia lucra tanto que vai devolver US$ 150 bilhões aos sócios — mais que o recorde da Apple. Ao mesmo tempo, o caixa dela hoje é bem menor que isso: é o fluxo futuro que sustenta. Qual é a sua política: reinvestir, distribuir ou guardar? Se nunca decidiu, o caixa decide por você.
