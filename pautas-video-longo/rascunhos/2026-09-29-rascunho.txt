@@ -1,0 +1,48 @@
+RADAR DE REPERCUSSAO -- 2026-09-29 (rascunho Etapa 1)
+Nota: WebFetch bloqueado para varios portais (Forbes BR, InfoMoney, TV Brasil, G1); pesquisa feita via WebSearch com snippets. URLs abaixo vieram dos resultados de busca; confirmar fato na fonte na Etapa 2.
+
+CANDIDATO 1 -- MP proibe as bets: dependencia de um unico patrocinador/cliente e o "efeito dominó" na cadeia
+Fato: em 25/09/2026 o governo publicou a MP 1.394/2026, que proibe apostas esportivas e cassinos online, novos depositos, publicidade e patrocinios. Apostadores podem sacar saldo ate 23h59 de 05/10; sites saem do ar em 06/10; a MP precisa de aprovacao do Congresso em 120 dias. Em 2025 as bets destinaram R$ 1,143 bi em patrocinios aos 20 clubes de maior receita (~36% da receita de marketing deles); 14 dos 20 clubes da Serie A tem bet como patrocinador master (>= R$ 910 mi/ano). Atinge tambem agencias, midia, influenciadores e varejo esportivo (camisas com a estampa). Entain disse em 28/09 que mantem projecoes de 2026 (Brasil ~5% da receita liquida de jogos online), no piso das faixas.
+Fonte: Agencia Gov -- https://agenciagov.ebc.com.br/noticias/202609/presidente-lula-assina-medida-provisoria-que-proibe-as-bets-no-brasil
+Fonte complementar: Revista Empreende -- https://revistaempreende.com.br/fim-das-bets-no-brasil-impacto-clubes-futebol/ ; Exame -- https://exame.com/brasil/o-que-muda-com-a-proibicao-das-bets-no-brasil/ ; Acessa (Entain) -- https://www.acessa.com/economia/2026/09/340977-entain-mantem-projecoes-para-2026-apesar-de-proibicao-temporaria-de-apostas-online-no-brasil.html
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 31/35
+Status: VENCEDOR DO DIA
+Angulo sugerido (Etapa 2): concentracao de receita em um unico cliente/patrocinador -- 36% do marketing dos clubes vinha de um setor so; o que acontece quando a fonte some por decisao externa; licao pro dono de PME: mapear dependencia de cliente/canal unico, ter plano B e reserva de caixa.
+GUARDRAIL POLITICO: fator "Polemica adjacente" pesou 5/5 (MP anunciada a semanas do 1o turno das eleicoes, tema muito debatido, saude publica/liberdade). O roteiro NAO deve comentar o merito da proibicao, a leitura eleitoral, nem citar politicos/partidos; tratar a MP apenas como gatilho factual. Foco: gestao, risco de concentracao, efeito pratico. Nota: a MP foi citada de passagem na pauta de 27/09 (Desenrola 3.0), mas nao foi o tema dela.
+
+CANDIDATO 2 -- Onda de recuperacoes judiciais: 12 grandes empresas em 2026 (Casas Bahia, Tok&Stok, Mobly, Habib's, Raizen, GPA...)
+Fato: reportagens de setembro/2026 (TV Brasil, Forbes Brasil) apontam 12 grandes empresas em recuperacao judicial em 2026; numero de empresas em RJ subiu 20,5% em um ano (6.409 -> 7.726). Habib's/Grupo Gennius pediu RJ (divida ~R$ 265 mi, 01/09); Raizen fez recuperacao extrajudicial de R$ 61,4 bi (julho); GPA renegociou R$ 4,5 bi (marco). Causa citada: juros altos (Selic 13,75% desde 16/09), credito caro e inadimplencia.
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/recuperacoes-judiciais-brasil-juros-dividas-empresas-crise/ ; TV Brasil -- https://tvbrasil.ebc.com.br/reporter-brasil/2026/09/em-2026-12-grandes-empresas-pediram-recuperacao-judicial-no-pais
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 26/35
+Status: runner-up
+Obs: tema proximo do video de referencia (Casas Bahia); pauta de 24/09 (Braskem) ja tocou em RE -- risco de sensacao de repeticao.
+
+CANDIDATO 3 -- Nubank negocia compra do Monzo (Reino Unido), acoes caem ~9% em NY
+Fato: em 28/09/2026 rumor/reportagem de conversas do Nubank para comprar o banco digital britanico Monzo (avaliacao entre £8 bi e £10 bi), maior aquisicao da fintech; acoes do Nubank recuaram quase 9% em Nova York, com investidores assustados com o preco.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/2026/09/28/nubank-mira-sua-maior-aquisicao-em-conversas-com-monzo/ ; Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/nubank-tomba-quase-9-em-ny-apos-rumor-de-compra-bilionaria-no-reino-unido-roxinho-prepara-revanche-contra-a-revolut-miql/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 0/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 22/35
+Status: runner-up
