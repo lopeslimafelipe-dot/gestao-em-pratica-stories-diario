@@ -1,0 +1,33 @@
+ROTEIRO 1 -- O Mercado Livre deu um consultor de IA 24h pro vendedor pequeno
+"O Mercado Livre anunciou que vai investir R$ 57 bilhões no Brasil em 2026, R$ 20 bilhões a mais que no ano anterior, e no evento deles lançou um assistente de IA que atende o vendedor 24 horas: melhora título, confere preço da concorrência e sugere promoção. É anúncio da própria empresa, claro. Mas pensa comigo: 🟡`o seu concorrente pequeno ganhou um consultor que nunca dorme`🟡. 🟡`Quem ainda escreve anúncio e responde cliente no braço está competindo contra essa ajuda`🟡. Você já testou alguma IA no seu dia a dia?"
+Fonte: Exame -- https://exame.com/negocios/mercado-livre-experience-tera-vendas-ao-vivo-ia-e-novidades-para-vendedores/
+
+ROTEIRO 2 -- Afya e Yduqs se fundem pra cortar despesa
+"Afya e Yduqs anunciaram a fusão que cria o maior grupo de educação do Brasil, com valor de mercado de cerca de R$ 9,5 bilhões, segundo a Brazil Journal. O que me chamou atenção: elas estimam 🟡`R$ 2,1 bilhões em sinergias, cerca de 20% do valor de mercado`🟡, vindos principalmente de despesas gerais e administrativas. Ou seja, 🟡`o prêmio está em cortar custo duplicado`🟡. Ainda depende do Cade. E na sua empresa, quanto do custo é overhead que ninguém questiona há anos?"
+Fonte: Brazil Journal -- https://braziljournal.com/afya-e-yduqs-se-unem-sinergias-podem-passar-dos-r-2-bi/
+
+ROTEIRO 3 -- Inflação esperada furou o teto e o PIB encolhe
+"Boletim Focus desta segunda, do Banco Central: o mercado elevou a projeção de inflação de 2026 de 4,92% para 4,99%, acima do teto da meta, de 4,5%, e reduziu a do PIB de 1,88% para 1,86%. Lembrando que é expectativa de instituições financeiras, não dado observado. 🟡`Custo subindo e demanda mais fraca ao mesmo tempo`🟡. 🟡`Sua margem aguenta as duas coisas?`🟡 Vale rever preço e contrato de fornecedor agora."
+Fonte: Agência Brasil -- https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-09/boletim-focus-eleva-projecao-da-inflacao-e-reduz-do-pib-para-2026
+
+ROTEIRO 4 -- A IA fez programar 180% mais e entregar só 30% mais
+"O relatório de tecnologia da McKinsey, que vende consultoria de IA, cita um estudo: com IA, a atividade de código subiu 180%, mas as entregas em produção subiram só 30%. 🟡`Muita atividade e pouco resultado`🟡. 🟡`Se a IA que você comprou gera tarefa e não resultado, o que exatamente você está medindo?`🟡 Antes de comprar ferramenta, defina qual indicador de entrega ela precisa mexer."
+Fonte: McKinsey -- https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech
+
+ROTEIRO 5 -- A Meta levou o CEO da MongoDB e a ação despencou
+"A Meta contratou o CEO da MongoDB, CJ Desai, para liderar a nova unidade de IA para empresas, e a ação da MongoDB despencou entre 18% e 23% na segunda, conforme o momento do pregão, segundo a CNBC e a Investing. 🟡`Um executivo saiu e o mercado derrubou o valor da empresa em horas`🟡. 🟡`Quanto do valor do seu negócio depende de uma pessoa só?`🟡 Pensa em quem, na sua empresa, segura tudo."
+Fonte: CNBC -- https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html
+
+ROTEIRO 6 -- Sair de contrato ruim custa US$ 300 milhões pra Starbucks
+"A Starbucks vai fechar cerca de 250 cafeterias na América do Norte, 1% das mais de 18 mil, e espera um encargo de US$ 300 milhões, segundo a CNBC. Desses, US$ 200 milhões são saída antecipada de aluguel e indenizações, e US$ 100 milhões, baixa de ativos. 🟡`Abrir ponto ruim é barato, sair é caro`🟡. 🟡`O aluguel de cinco anos que você assinou empolgado vira dívida na hora do fechamento`🟡. Já olhou o custo de saída dos seus contratos?"
+Fonte: CNBC -- https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html
+
+ROTEIRO 7 -- Nvidia vai devolver US$ 150 bilhões aos sócios
+"A Nvidia autorizou mais US$ 150 bilhões em recompra de ações, o maior aumento único da história, acima dos US$ 110 bilhões da Apple em 2024, elevando o total a US$ 235 bilhões até o ano fiscal de 2028, segundo o release da própria empresa. É a pergunta clássica de caixa: 🟡`reinvestir, distribuir ou guardar?`🟡 🟡`Se você nunca decidiu a sua política, o caixa decide por você`🟡. Qual é a sua?"
+Fonte: NVIDIA Newsroom -- https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 6] Sua empresa tem algum contrato de aluguel ou fornecedor de 5 anos ou mais? Sim / Não
+2. [Pergunta/Participacao, Roteiro 7] Caixinha de pergunta: No lucro da sua empresa, você reinveste, distribui ou guarda? Conta como você decide.
+3. [Virar Historia, Roteiro 4 -> Estilo Comparativo] Duas barras lado a lado, 180% de código contra 30% de entrega, mostram o descompasso na hora; o contraste dos dois números é a história.
