@@ -1,0 +1,13 @@
+ROTEIRO 1 -- Simples: o prazo mudou
+"Corrigindo o que eu disse no dia 24: o prazo do Simples Nacional pra 2027 não é mais dia 30, foi prorrogado pra 15 de outubro, pela Resolução CGSN 194, a pedido do Sebrae e do CFC. A escolha do regime regular de IBS e CBS vai até 30 de outubro. Isso não é folga pra empurrar: é tempo pra fazer a conta. 🟡`Se você vende pra outras empresas, o crédito tributário na cadeia pode pesar mais que a alíquota.`🟡 🟡`Essa decisão vale o ano de 2027 inteiro.`🟡 Você já simulou os dois cenários?"
+Fonte: Agência Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/prazo-para-empresas-optarem-por-simples-e-prorrogado-para-outubro
+
+ROTEIRO 2 -- Micro também quebra
+"O Monitor RGF-Bizdoc, divulgado pelo Poder360, contou 6.341 empresas em recuperação judicial em junho, alta de 6,2% sobre o fim de 2025; o pico foi 6.513 em maio. Mas o dado que me chamou atenção: 🟡`as microempresas em recuperação judicial quase triplicaram desde 2023, de 513 pra 1.575 CNPJs.`🟡 🟡`Quebrar deixou de ser problema só de grande varejista: juro alto não pergunta o tamanho da sua empresa.`🟡 Então: quanto do seu caixa depende de cliente que pode estar nessa lista?"
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/pedidos-de-recuperacao-judicial-batem-recorde-no-1o-semestre/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] Você já simulou Simples x regime regular de IBS/CBS pra 2027? A) Já simulei B) Ainda não
+2. [Pergunta/Participacao, Roteiro 2] Caixinha: "Como está a inadimplência na sua carteira de clientes hoje? Conta aqui a sua experiência."
+3. [Virar Historia, Roteiro 2 -> Estilo Comparativo] Os números 513 (2023) contra 1.575 (hoje) funcionam lado a lado na tela, e o salto de quase 3x fica visível sem precisar de explicação.
