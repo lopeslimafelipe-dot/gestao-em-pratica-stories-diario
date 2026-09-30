@@ -1,0 +1,36 @@
+PAUTA DO DIA -- 2026-09-30
+Assunto: Desemprego em 5,3% e recorde de ocupados: quando todo mundo esta empregado, o problema do dono de PME vira contratar e reter
+Score final: 29/35 (Frescor 5/5, Relevancia do protagonista 3/5, Gravidade 3/5, Polemica adjacente 4/5, Volume de cobertura 5/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: Pnad Continua (IBGE), divulgada em 29/09/2026: taxa de desemprego de 5,3% no trimestre encerrado em agosto, a menor para esse periodo desde 2012 (inicio da serie); 5,6% no trimestre ate maio e 5,6% no mesmo trimestre de 2025. Ocupados: 103,5 milhoes (recorde); carteira assinada, massa salarial e contribuicao previdenciaria tambem em recorde. Verificado via WebSearch com varias fontes concordantes (numeros 5,3% / menor da serie / 103,5 mi / divulgacao em 29/09). WebFetch da Agencia Brasil bloqueado pelo proxy, entao a pagina em si nao foi lida.
+Fontes: Agencia Brasil (IBGE) https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/taxa-de-desemprego-cai-para-53-menor-para-o-trimestre-ate-agosto ; Forbes Brasil https://forbes.com.br/carreira/2026/09/taxa-de-desemprego-cai-para-53-a-menor-para-o-trimestre-ate-agosto/ ; Portal Itapipoca https://www.portalitapipoca.com.br/economia/2026/09/29/desemprego-recua-para-53-e-registra-menor-taxa-para-o-trimestre-encerrado-em-agosto.html
+
+Cadeia causal (o que levou a isso): Economia segue gerando ocupacao (recorde de 103,5 mi de ocupados e de carteira assinada) -> a fila de gente disponivel para contratar encolhe (desemprego 5,3%) -> as empresas passam a disputar o mesmo profissional; a massa salarial recorde mostra o dinheiro que ja circula em salarios -> para a PME, contratar fica mais caro, mais lento e com mais rotatividade; quem nao retem, paga de novo o custo de recrutar e treinar -> o custo de pessoal sobe e pressiona preco e margem -> a vantagem competitiva passa a ser reter bem, contratar melhor e produzir mais por pessoa, em vez de "crescer so contratando".
+Ponto de atencao (dado que complica a leitura): o Caged de agosto abriu 147.358 vagas formais, abaixo do esperado (projecoes de ~160 mil a ~182 mil) e o pior agosto da serie do Novo Caged (desde 2020), 38,4% abaixo de agosto de 2025 (239.069) -- ou seja, o mercado segue aquecido, mas ha sinais de desaceleracao na geracao de vagas formais. (Fontes: SBT News https://sbtnews.sbt.com.br/noticia/economia/brasil-abre-147-358-vagas-formais-de-trabalho-em-agosto-diz-caged-numero-e-abaixo-do-esperado ; Times Brasil https://timesbrasil.com.br/brasil/economia-brasileira/abaixo-das-projecoes-brasil-gera-147-mil-vagas-formais-em-agosto-agropecuaria-perde-postos/)
+
+Por que esta repercutindo agora: Frescor 5/5 (divulgado ontem, 29/09) e volume de cobertura 5/5 (todos os portais de economia); identificacao com audiencia 5/5 (todo dono de PME sente a dificuldade de contratar/reter); clareza do angulo 4/5 (numero simples, consequencia pratica direta). Polemica adjacente 4/5 (indicador de emprego em ano eleitoral) -- ver ressalva.
+
+Angulo de gestao sugerido: Com pleno emprego, retencao e produtividade viram vantagem competitiva. Licao pratica para o dono de empresa: (1) calcular o custo real de perder uma pessoa (recrutar + treinar + curva de aprendizado); (2) rever processo de contratacao e onboarding para nao perder candidato por lentidao; (3) medir produtividade por hora/por pessoa e atacar retrabalho antes de contratar mais; (4) construir plano de carreira e reconhecimento claros -- nem tudo se resolve com salario; (5) nao planejar crescimento assumindo que "e so contratar".
+
+Dados de apoio:
+- Caged de agosto/2026: 147.358 vagas formais (abaixo do esperado; pior agosto do Novo Caged) -- SBT News e Times Brasil (links acima); Reuters previa ~160 mil e outras projecoes ~182 mil.
+- Falta de mao de obra qualificada foi a 2a maior dificuldade citada por pequenas empresas (28,4% das citacoes, atras so da carga tributaria) -- Sebrae (PM Avaliacao 2025 e Expectativas 2026) https://datasebrae.com.br/wp-content/uploads/2026/01/PM-Avaliacao-2025-e-Expectativas-2026-Janeiro-26.pdf (via snippet de busca; conferir antes de citar no video)
+- CNI (nota tecnica de fev/2026): a industria enfrenta falta de trabalhador qualificado mesmo com emprego em nivel recorde; a preocupacao subiu de ~5% das mencoes (2015-2020) para 23% em 2024 -- Poder360 https://www.poder360.com.br/poder-economia/industria-sofre-com-falta-de-mao-de-obra-qualificada-diz-cni/ (via snippet; conferir)
+- Avaliacao de economistas (FGV Ibre, Rodolpho Tobler): mercado ainda aquecido apesar da desaceleracao, com risco de escassez e pressao salarial -- Itatiaia https://www.itatiaia.com.br/economia/negocios/mercado-ve-primeiros-sinais-de-desaceleracao-na-geracao-de-emprego/ (snippet; nao confirmado para o mes de agosto/2026, conferir)
+- NAO CONFIRMADOS nesta rodada (nao usar no video sem checar): rendimento medio +3,7% em 12 meses (consta no rascunho da Etapa 1, sem confirmacao independente); parcela de informalidade nas vagas criadas (buscas retornaram dados de anos diferentes, misturados).
+
+Ressalva/limite: GUARDRAIL POLITICO -- "Polemica adjacente" pesou 4/5 (indicador de emprego em ano eleitoral). NAO comentar governo, partidos, politicas de emprego nem leitura eleitoral do dado; usar o numero apenas como gatilho factual e focar exclusivamente em gestao de pessoas na PME. Nao falar de Selic/politica monetaria como critica ou defesa. Distinguir Pnad (pesquisa domiciliar, inclui informais) de Caged (so vagas formais) para nao misturar. Nao e recomendacao de investimento.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: "Desemprego de 5,3%: nunca houve tanta gente trabalhando no Brasil -- e isso pode estar encarecendo a sua empresa."
+- Contexto/causa raiz: recorde de 103,5 mi de ocupados; fila de candidatos encolhe; todo mundo disputa o mesmo profissional.
+- Desenvolvimento da cadeia causal: contratar fica mais caro e lento -> rotatividade custa de novo recrutar/treinar -> custo de pessoal pressiona margem e preco; ressalva: Caged de agosto veio fraco, o mercado esta aquecido mas desacelerando.
+- Licao de gestao (a virada): "seu maior ganho nao e contratar mais, e perder menos e produzir mais por pessoa".
+- Fechamento + CTA: pergunta ao espectador ("quanto custa pra voce perder um funcionario bom?") e convite pra comentar/seguir.
+
+Fonte(s): Agencia Brasil/IBGE -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/taxa-de-desemprego-cai-para-53-menor-para-o-trimestre-ate-agosto ; Forbes Brasil -- https://forbes.com.br/carreira/2026/09/taxa-de-desemprego-cai-para-53-a-menor-para-o-trimestre-ate-agosto/ ; SBT News (Caged) -- link acima
+
+Runners-up do dia (registro/transparencia):
+- Nubank negocia compra do Monzo (Reino Unido) por ate ~GBP 10 bi -- 20/35
+- Prazo final do Simples Nacional/IBS-CBS vence hoje (30/09) -- 20/35
+- Ambipar: tribunal dos EUA reconhece RJ do Rio como processo principal (Chapter 15) -- 18/35
