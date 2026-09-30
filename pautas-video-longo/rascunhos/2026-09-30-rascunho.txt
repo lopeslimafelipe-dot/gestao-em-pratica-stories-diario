@@ -1,0 +1,63 @@
+RADAR DE REPERCUSSAO -- 2026-09-30 (Etapa 1)
+Janela anti-repeticao checada: 20/09 a 29/09/2026 (apenas pipeline video-longo). Vencedores recentes: Desenrola 3.0 (27/09), Banco Master/FGC (28/09), bets/concentracao de receita (29/09), Correios (26/09), Caixa (25/09), Braskem (24/09), arrecadacao (23/09). Nenhum tratou de mercado de trabalho/desemprego.
+
+CANDIDATO 1 -- Desemprego cai a 5,3% (menor taxa da serie para o trimestre ate agosto) e ocupados batem recorde -- mas com informalidade e escassez de mao de obra pesando na PME
+Fato: IBGE (Pnad Continua, divulgada em 29/09/2026): taxa de desemprego de 5,3% no trimestre encerrado em agosto (5,6% no trimestre ate maio e 5,6% um ano antes), a menor para o periodo desde 2012. Ocupados: 103,5 milhoes (recorde); carteira assinada, massa salarial e contribuicao previdenciaria tambem em recorde; rendimento medio +3,7% em 12 meses. Ressalva: parte da absorcao vem de trabalho informal; Caged de agosto ficou abaixo do esperado (147,4 mil vagas vs. ~182 mil projetadas).
+Fonte: Agencia Brasil (IBGE) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/taxa-de-desemprego-cai-para-53-menor-para-o-trimestre-ate-agosto
+Outras coberturas: Forbes Brasil https://forbes.com.br/carreira/2026/09/taxa-de-desemprego-cai-para-53-a-menor-para-o-trimestre-ate-agosto/ ; Jornal de Brasilia https://jornaldebrasilia.com.br/noticias/economia/taxa-de-desemprego-fica-em-53-no-trimestre-ate-agosto-revela-ibge/ ; O Povo https://mais.opovo.com.br/jornal/economia/2026/09/30/taxa-de-desemprego-cai-para-53-a-menor-para-o-trimestre-ate-agosto.html
+Angulo explicativo (causa -> efeito -> licao): mercado aquecido/pleno emprego -> dono de PME disputa gente, paga mais para contratar e reter (custo de pessoal sobe, repassa a preco) -> licao: retencao, produtividade por hora e processo de contratacao viram vantagem competitiva; nao dar para "crescer so contratando".
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+GUARDRAIL POLITICO: "Polemica adjacente" pesou 4/5 (indicador de emprego em ano eleitoral). O roteiro NAO deve comentar governo, partidos, politicas de emprego nem leitura eleitoral do dado; usar o numero apenas como gatilho factual e focar em gestao de pessoas na PME.
+
+CANDIDATO 2 -- Nubank negocia compra do Monzo (Reino Unido) por ate ~GBP 10 bi
+Fato: Segundo Sky News/Bloomberg Linea (26/09), conversas para compra do banco digital britanico (16 mi de clientes) avaliado entre GBP 8 bi e 10 bi; Nubank nao comenta "rumores".
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/2026/09/26/banco-digital-britanico-considera-possivel-venda-para-o-nubank-segundo-sky-news/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 20/35
+Status: runner-up (ja era runner-up em 29/09; fato ainda em fase de rumor)
+
+CANDIDATO 3 -- Prazo final do Simples Nacional/IBS-CBS vence hoje (30/09)
+Fato: empresas precisam decidir ate 30/09 entre Simples "puro" e "hibrido" (IBS/CBS pelo regime regular) para 2027; possivel desfazer ate 30/11; nova escolha em marco/2027.
+Fonte: COAD -- https://coad.com.br/home/noticias-detalhe/139629/novo-prazo-para-adesao-ao-simples-nacional-termina-em-30-de-setembro
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 1/5
+- Gravidade: 2/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 5/5
+TOTAL: 20/35
+Status: runner-up (tema ja foi runner-up em 21/09 e 28/09; prazo se encerra hoje, tema mais de utilidade do que de repercussao)
+
+CANDIDATO 4 -- Ambipar: tribunal dos EUA reconhece recuperacao judicial do Rio como processo principal (Chapter 15) e suspende Chapter 11
+Fato: anunciado pela companhia, noticiado em 29/09 (mercado hoje/XP News Xpress). Detalhes nao confirmados em fonte primaria nesta rodada.
+Fonte: XP Investimentos -- https://conteudos.xpi.com.br/politica/news-xpress-29-09-2026/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 3/5
+TOTAL: 18/35
+Status: runner-up (tecnico demais; onda de RJs ja coberta em 22/09 e 29/09)
+
+Notas: WebFetch de Agencia Brasil e mercadohoje bloqueado pelo proxy; fatos confirmados via WebSearch com multiplas fontes concordantes (5,3% / menor da serie / 103,5 mi ocupados). Um snippet isolado citou "trimestre ate julho" -- as demais fontes (Agencia Brasil, Forbes, Jornal de Brasilia) confirmam trimestre ate agosto.
