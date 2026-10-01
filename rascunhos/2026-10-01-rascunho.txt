@@ -1,0 +1,33 @@
+RASCUNHO DO DIA 2026-10-01 (ETAPA 1 - PESQUISA)
+Total: 2 itens (menos de 8 -- justificativa por linha no final). ATENCAO ETAPA 2: WebFetch esta bloqueado por egress nesta sandbox (exame.com, deadline.com); TODOS os dados abaixo vem de snippets de busca, nao de leitura da pagina. Conferir datas/numeros/valores antes de usar.
+
+ITEM 1 -- Desenrola MEI Pequeno Valor abre hoje (01/10) e programas de renegociacao foram prorrogados
+Categoria: Prazo de Acao (Oportunidade)
+Fato: Segundo os snippets, o governo lancou o "Desenrola MEI Pequeno Valor": adesao de 01/10/2026 ate 31/01/2027, para renegociar dividas de ate 5 salarios minimos (R$ 8.105), com desconto de 50% e parcelamento em ate 55 meses. Pelos mesmos snippets, o governo tambem prorrogou ate 29/01/2027 o prazo pra pessoas e empresas renegociarem dividas de ate R$ 45 milhoes inscritas em divida ativa ate 03/03/2026; e, pra debitos com autarquias federais, adesao de 16/10/2026 a 31/03/2027 (creditos inscritos em divida ativa ate 28/09/2025, desconto de 50%, ate 60 parcelas). Um titulo de 30/09 fala em "Desenrola MEI prorrogado ate janeiro de 2027 com descontos de ate 70% e nova faixa de divida". NUMEROS INCONSISTENTES ENTRE SNIPPETS (50% x 70%; edital pequeno valor x Desenrola MEI) -- Etapa 2 DEVE conferir no gov.br/PGFN/Regularize qual e qual antes de usar qualquer numero.
+Fonte: Exame -- https://exame.com/economia/governo-lanca-novo-desenrola-mei-e-prorroga-programas-para-renegociar-dividas-entenda-como-funciona ; corroboracao: Mixvale -- https://mixvale.com.br/2026/09/30/desenrola-mei-e-prorrogado-ate-janeiro-de-2027-com-descontos-de-ate-70-e-nova-faixa-de-divida ; Diario de Pernambuco -- https://www.diariodepernambuco.com.br/colunas/diario-economico/2026/09/11725343-governo-aposta-em-nova-rodada-de-medidas-de-renegociacao-de-dividas.html (fonte primaria a conferir: gov.br/pgfn, Regularize)
+Relevancia: Janela aberta pra MEI e pequeno negocio limpar divida com desconto e prazo longo; quem tem nome sujo perde credito e fornecedor. Prazo longo (jan/2027) facilita planejar, mas desconto e condicoes dependem da faixa de divida.
+Ressalva tecnica: Fonte secundaria (veiculos e coluna); numeros divergem entre snippets; nao abri nenhuma pagina. Mixvale e agregador local, usar so como pista.
+Possivel contradicao com roteiro anterior: PARCIAL -- roteiros de 28/09 e 29/09 trataram do edital de transacao da Receita (pequeno valor) com prazo ate 30/10; pode ser o mesmo programa ou programas diferentes. Etapa 2 deve checar se ha informacao nova real (nova faixa/prorrogacao) ou se e repeticao; se for repeticao sem fato novo, DESCARTAR.
+Tese de gancho sugerida: Se seu MEI tem divida atrasada, a porta abriu hoje: desconto grande e ate 55 parcelas -- mas porta aberta nao e porta sem prazo. Quem ja tinha pensado "depois eu vejo" tem ate janeiro; a pergunta e quanto o nome sujo ja custou em credito e fornecedor enquanto voce adiava.
+
+ITEM 2 -- Disney corta mais algumas centenas de vagas (tecnologia e RH) e TV se prepara pra reestruturacao
+Categoria: Empresa global reconhecida (linhas 6/7)
+Fato: Segundo Deadline e outros (snippets), a Disney iniciou em 29/09/2026 demissoes que atingem "algumas centenas" de funcionarios, em areas como tecnologia e RH -- descritas como a terceira rodada de 2026. Contexto: em abril/2026 o novo CEO Josh D'Amaro anunciou cerca de 1.000 demissoes pra deixar a empresa "mais agil e orientada a tecnologia", e a divisao de TV (Disney Entertainment Television) se prepara pra nova reestruturacao. Desde 2022 (volta de Bob Iger), mais de 8.000 pessoas ja foram cortadas. Numero exato desta rodada nao confirmado nos snippets.
+Fonte: Deadline -- https://deadline.com/2026/09/disney-layoffs-josh-damaro-1237114027/ ; corroboracao: Cynopsis 30/09 -- https://www.cynopsis.com/cynopsis-9-30-2026-disney-braces-for-tv-layoffs/ ; The Disney Scoop -- https://thedisneyscoop.com/disney-layoffs-hit-hundreds-of-hr-and-tech-employees-in-third-round-of-2026/ ; contexto abril: The Desk -- https://thedesk.net/2026/04/disney-ceo-confirms-layoffs-impacting-1000-jobs/
+Relevancia: Corte repetido em areas-meio (tecnologia, RH) por empresa que ja cortou milhares mostra que enxugamento raramente e um evento unico; lição de gestao sobre estrutura, automacao e cortes em ondas (e o custo de moral de cortar aos poucos).
+Ressalva tecnica: Numero exato nao confirmado; The Disney Scoop e site de fa/nao oficial, Cynopsis e newsletter -- priorizar Deadline (nao consegui abrir). Janela de 5 dias uteis: anuncio 29/09, vale ate ~06/10.
+Possivel contradicao com roteiro anterior: nenhuma (roteiros recentes cobriram Starbucks, Bristol-Myers, Paramount/WBD; nao Disney).
+Tese de gancho sugerida: A Disney ja cortou mais de 8.000 pessoas desde 2022 e continua cortando -- agora tecnologia e RH, terceira rodada so em 2026. Cortar em ondas custa mais que um corte so: cada rodada deixa quem fica esperando a proxima. Pergunta pro gestor: se voce sabe que precisa reorganizar, e melhor uma decisao completa ou varias pequenas?
+
+============ LINHAS -- O QUE FOI TENTADO ============
+Linha 1 Tecnologia: busca PT por lancamento de IA/agentes pra gestao 30/09: so resultados genericos (Microsoft Agent 365, Gartner) sem data confirmada. Vazia.
+Linha 2 Noticia de empresa/case: busca Exame/aquisicao/recorde/expansao 30/09: resultados irrelevantes/antigos. Vazia.
+Linha 3 Macro/indice: nao buscada alem do ja usado (Focus, IPCA-15, RJ recorde 30/09). Vazia por repeticao.
+Linha 4 Internacional (McKinsey/PwC/EY/Deloitte): resultados so de CEO Survey jan/2026 (PwC, EY) e McKinsey "CEOs e IA" sem data nova; nada inedito. Vazia.
+Linha 5 Prazo de Acao: Item 1 (checar repeticao com 28-29/09). Simples Nacional ja coberto 30/09.
+Linha 6 Empresa global: Item 2 (Disney). Workday "500 vagas/2,5%" aparecia num snippet mas busca de checagem mostrou so os ~400 de fevereiro -- descartado por nao verificar. Amazon/Heineken/Meta-Intuit sao fora da janela.
+Linha 7 Reestruturacao/corte/fechamento: Casas Bahia (fechou 298 lojas em agosto, RJ em 16/08), Maxxi Economica (RJ aprovada, 09/2026), Enanta (37 vagas, irrelevante) -- fora da janela de 5 dias uteis ou de porte pequeno. Vazia alem da Disney (que cobre 6/7).
+Linha 8 Livre: sem candidato verificavel.
+Motivo de fechar com 2: buscador devolveu pouco conteudo das ultimas 48h, WebFetch bloqueado em quase todos os dominios, impedindo confirmar. Nao forcei item sem data/URL confirmada.
+Internacional: 1 item (Disney, Deadline -- empresa e fonte estrangeiras; mas NAO e grande consultoria; dia de 2 itens exige so 1 internacional).
+DIVERSIFICACAO DE FONTE: InfoMoney e Agencia Sebrae nao usados; Exame (corroborada por veiculos regionais) e Deadline entram.
