@@ -1,0 +1,13 @@
+ROTEIRO 1 -- Desenrola MEI: dívida pequena, 55 meses
+"Abriu hoje o Desenrola MEI Pequeno Valor, segundo o gov.br: vale pra MEI com dívida de até cinco salários mínimos, R$ 8.105. Paga 5% de entrada, tem 50% de desconto no restante e até 55 meses pra quitar. A adesão vai até 31 de janeiro de 2027. 🟡`Dívida de até R$ 8.105 com 50% de desconto e 55 meses é a chance de limpar o nome do CNPJ.`🟡 🟡`Prazo longo não é desculpa pra deixar pra depois: nome sujo custa crédito e fornecedor todo mês.`🟡 Já olhou quanto o seu CNPJ deve?"
+Fonte: gov.br (Ministério do Empreendedorismo) -- https://www.gov.br/memp/pt-br/assuntos/noticias/governo-lanca-desenrola-mei-pequeno-valor-e-amplia-opcoes-para-negociar-dividas
+
+ROTEIRO 2 -- Disney corta em ondas
+"A Disney demitiu cerca de 300 pessoas em tecnologia e RH, segundo a CNBC. É a terceira rodada de 2026: as duas anteriores somaram cerca de 1.300 vagas. 🟡`Em três ondas, a Disney já chega a cerca de 1.600 cortes só em 2026.`🟡 Cada rodada deixa quem fica esperando a próxima. 🟡`Se você sabe que precisa reorganizar, uma decisão completa costuma custar menos moral que várias pequenas.`🟡 Você decidiria de uma vez ou aos poucos?"
+Fonte: CNBC -- https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] Seu CNPJ tem dívida em aberto hoje? A) Tenho B) Estou em dia
+2. [Pergunta/Participacao, Roteiro 2] Caixinha: "Você já precisou cortar equipe? Foi de uma vez ou em etapas? Conta como foi."
+3. [Virar Historia, Roteiro 1 -> Estilo Quadro Branco] Entrada de 5%, desconto de 50% e 55 meses viram uma conta na lousa, com um exemplo de dívida de R$ 8.105 parcela a parcela, o que mostra o tamanho real da parcela.
