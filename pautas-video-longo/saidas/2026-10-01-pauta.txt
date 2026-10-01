@@ -1,0 +1,39 @@
+PAUTA DO DIA -- 2026-10-01
+Assunto: Casas Bahia: recuperacao judicial de R$ 17,3 bi -- como uma varejista com receita crescendo chega a um prejuizo recorde
+Score final: 27/35 (Frescor 2/5; Relevancia do protagonista 5/5; Gravidade 5/5; Polemica adjacente 4/5; Volume de cobertura 3/5; Clareza do angulo 4/5; Identificacao com audiencia 4/5)
+
+Fato central verificado: Em 16/08/2026 a Casas Bahia pediu recuperacao judicial (Justica de SP; empresa + 9 empresas do grupo) para renegociar cerca de R$ 17,3 bilhoes em dividas. No 2T26 o grupo registrou prejuizo liquido de R$ 10,117 bi, dos quais ~R$ 9,1 bi sao efeitos contabeis nao recorrentes e sem efeito caixa no periodo (baixa de R$ 5,7 bi em imposto de renda diferido, baixa de ativos, despesas de reestruturacao, contratos onerosos). Receita liquida do trimestre: R$ 6,977 bi (+1,6% vs 2T25); EBITDA ajustado R$ 518 mi (margem 7,4%); fluxo de caixa livre da firma positivo em R$ 800 mi, ajudado por R$ 707 mi de variacao de capital de giro (menos estoque). Fechamento de 298 lojas (~28,7% da rede). Fontes confirmadas por busca (leitura direta das paginas bloqueada; numeros cruzados entre varios veiculos).
+CORRECOES AO RASCUNHO: (1) o prejuizo de R$ 10,1 bi NAO e todo "operacional": ~R$ 9,1 bi sao baixas contabeis sem caixa -- o video deve dizer isso, senao induz ao erro. (2) A "tentativa de acordo com o GPA em setembro" NAO foi confirmada: o que a busca confirma e uma disputa de ~R$ 170 mi (GPA perdeu arbitragem em dez/2025; Casas Bahia quer o valor fora do plano de recuperacao extrajudicial do GPA e nao participava da mesa). Nao citar acordo/negociacao de setembro. (3) Casas Bahia ja tinha feito recuperacao extrajudicial em 2024 (~R$ 4,1 bi renegociados com bancos). (4) Numero de demissoes (1.900 a 3.000 em um veiculo) e suspensao judicial das demissoes coletivas (Poder360) nao foram reconfirmados nesta rodada -- usar so com cautela/atribuindo a fonte.
+
+Cadeia causal (o que levou a isso): prejuizos sucessivos desde 2022 -> recuperacao extrajudicial em 2024 (~R$ 4,1 bi) que aliviou mas nao resolveu -> custo financeiro alto + restricao de credito + consumidor endividado comprando menos (fatores citados pela propria empresa: "patamares elevados de taxas de juros, restricao de credito, aumento do custo financeiro e pressao sobre consumo e capital de giro") -> plano de transformacao fase 2: fecha 298 lojas, corta quadro, reduz estoque para gerar caixa ("sobrevivencia do caixa") -> alternativas de liquidez nao avancaram como esperado -> pedido de RJ em 16/08. Ponto-chave pro video: operacao ainda gera EBITDA e caixa; o problema e o tamanho e o custo da divida acumulada.
+
+Por que esta repercutindo agora: Relevancia do protagonista (marca de 74 anos, uma das maiores do varejo) e Gravidade (maior RJ do ano no varejo, 298 lojas fechadas) pesaram mais; desdobramentos de setembro mantem o tema vivo. Frescor baixo (fato-base de 16/08) -- usar como "o que ficou de licao".
+
+Angulo de gestao sugerido: (a) divida cara em negocio de margem fina: faturar mais nao salva se o custo financeiro come o resultado; (b) lucro contabil vs. caixa -- saber diferenciar prejuizo contabil de problema de caixa; (c) varejo que vende a prazo/credito ao consumidor financia o cliente com dinheiro caro; (d) reestruturar cedo: a 1a reestruturacao (2024) nao atacou a raiz; (e) pergunta pro dono de PME: qual a relacao divida/EBITDA e quanto do meu faturamento vira juros? Sem recomendacao de investimento.
+
+Dados de apoio:
+- Receita liquida 2T26 R$ 6,977 bi (+1,6%); EBITDA ajustado R$ 518 mi (7,4%); FCF firma +R$ 800 mi -- Quartr/Money Times/Mercado & Consumo (resumos do release 2T26)
+- Baixa de IR diferido R$ 5,7 bi dentro dos R$ 9,1 bi nao recorrentes -- resumo do release 2T26 (blocktrends/Quartr)
+- 298 lojas = ~28,7% da rede -- Paraiba Business
+- RE 2024: ~R$ 4,1 bi renegociados -- Correio da Manha
+
+Ressalva/limite: Fator 'Polemica adjacente' (juros/situacao economica do pais) pesou no score: NAO comentar politica, governo, partidos ou politica monetaria -- tratar juros apenas como custo de divida da empresa. Nao afirmar demissoes exatas nem acordo com GPA sem nova checagem. Nao sugerir compra/venda de acoes. Falar em "prejuizo contabil recorde" com a ressalva dos R$ 9,1 bi sem efeito caixa.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- Copywriter do canal, secao 2.4, adaptado a duracao maior):
+- Hook: "A Casas Bahia faturou mais e mesmo assim pediu recuperacao judicial -- de R$ 17,3 bi."
+- Contexto/causa raiz: 2022 -> prejuizos -> RE de 2024 -> divida continua cara
+- Desenvolvimento da cadeia causal: operacao gera caixa, mas divida + juros + consumidor endividado; 298 lojas fechadas; prejuizo contabil x caixa
+- Licao de gestao (a virada): faturamento nao paga divida cara; olhe caixa e custo financeiro; reestruture a raiz, nao so o prazo
+- Fechamento + CTA: pergunta ao dono ("quanto do seu faturamento vira juros?") + CTA do canal
+
+Fonte(s):
+- Correio da Manha -- https://www.correiodamanha.com.br/economia/2026/08/311441-casas-bahia-pede-recuperacao-judicial-para-renegociar-rs-173-bilhoes-em-dividas.html
+- Poder360 (causas) -- https://www.poder360.com.br/poder-economia/entenda-por-que-a-casas-bahia-entrou-em-recuperacao-judicial/
+- Mercado & Consumo -- https://mercadoeconsumo.com.br/16/08/2026/mc-capital/casas-bahia-foca-em-sobrevivencia-do-caixa-com-fechamento-de-298-lojas-e-cortes-de-pessoal/amp/
+- Quartr (2T26) -- https://quartr.com/events/grupo-casas-bahia-s-a-bhia3-q2-2026_3gW6g4DU
+- Money Times (GPA x Casas Bahia, R$ 170 mi) -- https://www.moneytimes.com.br/casas-bahia-bhia3-busca-excluir-divida-de-r-170-milhoes-do-plano-de-recuperacao-do-gpa-pcar3-diz-jornal-lmrs/
+- Seu Dinheiro (do rascunho) -- https://www.seudinheiro.com/2026/empresas/casas-bahia-abre-a-porta-para-recuperacao-judicial-apos-prejuizo-recorde-de-r-10-bilhoes-entenda-o-que-levou-a-varejista-ao-rombo-vinp/
+
+Runners-up do dia (registro/transparencia):
+- Peso dos juros no varejo: despesas financeiras ate 23% da receita (CVC) -- 25/35
+- Oi: falencia confirmada e prazo de demissoes em 30/09 -- 24/35
