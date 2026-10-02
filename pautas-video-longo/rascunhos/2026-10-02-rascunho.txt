@@ -1,0 +1,62 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-10-02
+Obs: leitura direta de Exame/InfoMoney/businessmoment bloqueada pelo proxy; fatos confirmados via WebSearch com cruzamento de varias fontes. Dia fraco em fatos novos de grande porte (noticiario dominado por eleicao). Etapa 2 deve rechecar numeros antes de roteirizar.
+
+CANDIDATO 1 -- Magalu: acao salta ~55-61% em setembro (maior alta do Ibovespa) apos parceria com o Mercado Livre
+Fato: MGLU3 subiu 55,09% em setembro/2026 (outra fonte: 61,47%, a R$ 7,46), maior alta mensal desde jan/2023 e lider do Ibovespa no mes. Gatilhos citados: acordo com o Mercado Livre (desde 02/09 o Magalu vende ~27 mil produtos de estoque proprio -- Magalu, KaBuM!, Epoca Cosmeticos -- dentro do marketplace do ML; acao chegou a subir 22-24% no dia do anuncio), inicio do ciclo de corte da Selic e enfraquecimento da concorrente Casas Bahia (em RJ). Ainda assim a acao acumulava queda de ~14% no ano em 01/10 (Exame). Angulo de gestao: varejista que parou de gastar sozinha pra comprar cliente e foi onde o cliente ja esta (canal/parceria em vez de guerra de CAC), efeito de juro e alavancagem no setor.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/magalu-mglu3-salta-61-e-lidera-ibovespa-em-setembro-por-que-disparou-e-o-que-vem-agora/
+Fontes adicionais: Exame -- https://exame.com/invest/mercados/magalu-foi-maior-alta-do-ibovespa-em-setembro-natura-a-maior-baixa-veja-lista ; Exame -- https://exame.com/invest/mercados/o-jogo-virou-para-o-magalu-o-que-esperar-da-acao-que-subiu-mais-de-50-em-um-mes/ ; SpaceMoney -- https://www.spacemoney.com.br/investimentos/acoes/magalu-mglu3-alta-setembro-ibovespa/
+Score de Repercussao:
+- Frescor: 4/5 (fechamento de setembro divulgado 30/09-01/10; parceria e de 02/09)
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 26/35
+Status: VENCEDOR DO DIA
+Guardrail politico: fator 'Polemica adjacente' (2/5) nao pesa no score; sem necessidade de tocar em politica. Mencao a Selic apenas como efeito pratico sobre o negocio. Nota: Casas Bahia foi a pauta de 01/10 -- evitar repetir o caso, citar so como contraste.
+
+CANDIDATO 2 -- Mercado financeiro e eleicao: dolar sobe e bolsa oscila as vesperas do 1o turno
+Fato: noticiario de 01-02/10 destaca incerteza eleitoral no cambio e opcoes de dolar apontando "movimento explosivo" apos o 1o turno; TV Globo cancelou o ultimo debate presidencial (01/10). Fonte do dia especifico nao verificada em pagina primaria (busca retornou materia generica).
+Fonte: Exame -- https://exame.com/brasil/tv-globo-cancela-debate-com-candidatos-a-presidencia/ ; InfoMoney -- https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01102026/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 3/5
+TOTAL: 24/35
+Status: runner-up (risco alto com guardrail politico; angulo difuso)
+
+CANDIDATO 3 -- Qintess (ex-gigante de TI) pede recuperacao judicial com dividas de R$ 1,32 bi
+Fato: grupo com 8 empresas (Resource, CSC Brasil, Cimcorp...) pediu RJ em SP (3a Vara de Falencias; protocolo citado em 24/09, noticiado em 01/10), ~2.000 credores; R$ 497,97 mi sujeitos a RJ (R$ 138,5 mi trabalhistas, R$ 359,4 mi quirografarios) + R$ 826,2 mi em dividas tributarias/FGTS. Causas alegadas: suspensao/reducao de contratos publicos na pandemia, juros altos, atrasos de ~3 meses de clientes publicos, bloqueios judiciais de recebiveis. Contexto: recorde de 6.341 empresas em RJ no 1o semestre de 2026 (Selic ~14-15%).
+Fonte: Tiinside -- https://tiinside.com.br/01/10/2026/qintess-entra-com-pedido-de-recuperacao-judicial-no-valor-de-r-132-bilhao/
+Fonte adicional: Baguete -- https://www.baguete.com.br/public/noticias/qintess-deve-r-132-bilhao
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 21/35
+Status: runner-up
+
+CANDIDATO 4 -- Natura: Alessandro Carlucci reassume como CEO em 01/10 (volta apos 12 anos; Joao Paulo Ferreira sai apos 10 anos)
+Fato: troca anunciada em 31/08/2026 (acao chegou a +8% no dia); Carlucci foi CEO de 2005 a 2014. Natura teve receita estimada do 2T26 de R$ 5,1-5,2 bi (-9 a -10% a/a), citando consumo fraco e ajustes internos; aparece entre as maiores baixas de setembro segundo Exame (motivo especifico nao confirmado).
+Fonte: Mercado & Consumo -- https://mercadoeconsumo.com.br/31/08/2026/gestao/natura-anuncia-retorno-de-alessandro-carlucci-como-ceo-da-companhia/
+Fonte adicional: Meio & Mensagem -- https://www.meioemensagem.com.br/gente/alessandro-carlucci-volta-ao-comando-executivo-da-natura
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 21/35
+Status: runner-up
