@@ -1,0 +1,30 @@
+PAUTA DO DIA -- 2026-10-02
+Assunto: Magalu: acao salta 61% em setembro (maior alta do Ibovespa) depois de vender seu estoque dentro do marketplace do Mercado Livre
+Score final: 26/35 (Frescor 4, Relevancia do protagonista 5, Gravidade 3, Polemica adjacente 2, Volume de cobertura 4, Clareza do angulo 4, Identificacao com audiencia 4)
+
+Fato central verificado: MGLU3 fechou setembro/2026 com alta de 61,47%, a R$ 7,46, lider do Ibovespa no mes (o indice subiu 5,03%) -- InfoMoney e agregadores conferidos via WebSearch. Obs.: o rascunho citava tambem 55,09% (outra fonte/metodologia); usar "mais de 55%" ou "cerca de 61%" citando a fonte. Gatilho principal: acordo comercial anunciado em 02/09 em que o Magalu passa a ser vendedor no marketplace do Mercado Livre com ~27 mil produtos de estoque proprio (1P) de Magazine Luiza, KaBuM! e Epoca Cosmeticos; a acao subiu mais de 22% no dia do anuncio. O Magalu segue responsavel pela mercadoria e a entrega e feita pela Magalog. Ressalva de contexto (Exame, via rascunho, nao reconferida): mesmo apos a alta, a acao acumulava queda de ~14% no ano em 01/10.
+Fonte(s): InfoMoney -- https://www.infomoney.com.br/mercados/magalu-mglu3-salta-61-e-lidera-ibovespa-em-setembro-por-que-disparou-e-o-que-vem-agora/ ; Mercado & Consumo -- https://mercadoeconsumo.com.br/02/09/2026/ecommerce/magalu-vendera-itens-do-magazine-luiza-kabum-e-epoca-no-marketplace-do-mercado-livre/ ; Exame -- https://exame.com/invest/mercados/magalu-foi-maior-alta-do-ibovespa-em-setembro-natura-a-maior-baixa-veja-lista/
+
+Cadeia causal (o que levou a isso): E-commerce do Magalu perde tracao (2T26: vendas de e-commerce -11,9% a/a, prejuizo liquido de R$ 72,5 mi) -> crescer sozinho exige gastar cada vez mais pra atrair cliente (custo de aquisicao) num canal onde o Mercado Livre ja concentra o trafego -> em vez de disputar o cliente, o Magalu leva o estoque pra dentro da vitrine onde o cliente ja esta (ja tinha acordos parecidos com Amazon, AliExpress, Americanas, Itau Shopping e Livelo) e mantem a logistica propria -> mercado reage: menos investimento pra crescer vendas online, mais alcance -> efeito reforcado por juros em queda (Selic a 13,75% apos cinco cortes seguidos, o que alivia varejista alavancado) e pela dificuldade da concorrente Casas Bahia.
+
+Por que esta repercutindo agora: Fechamento de setembro divulgado em 30/09-01/10 (Frescor), protagonista de enorme reconhecimento (Relevancia 5), maior alta mensal do indice (Volume de cobertura alto) e angulo simples de explicar: parceria em vez de guerra de CAC (Clareza e Identificacao com dono de PME que vende online).
+
+Angulo de gestao sugerido: Nem sempre crescer e construir seu proprio canal. Quando o custo de atrair cliente sobe, ir onde o cliente ja esta (parceria/marketplace) pode ser mais eficiente, desde que voce mantenha o controle do que importa (estoque, entrega, relacionamento, margem). Pergunta pro dono: quanto do meu crescimento depende de canal proprio caro e onde esta meu cliente hoje?
+
+Dados de apoio:
+- 2T26: vendas totais R$ 14,5 bi; lojas fisicas +10,3% (9,7% mesmas lojas); e-commerce total R$ 9,3 bi (R$ 5,8 bi 1P e R$ 3,6 bi marketplace), -11,9% a/a; EBITDA R$ 709 mi (margem 8,0%); caixa R$ 5,8 bi; prejuizo liquido R$ 72,5 mi. Fontes: Poder360 (balanco 2T26) https://static.poder360.com.br/uploads/2026/08/Magalu-balanco-2T2026.pdf ; Acionista https://acionista.com.br/2t26-petrobras-petr4-dispara-allos-alos3-surpreende-e-magalu-mglu3-decepciona/
+- Analistas pedem cautela: JPMorgan avalia que parte importante do cenario ja esta precificada (via SpaceMoney https://www.spacemoney.com.br/investimentos/acoes/magalu-salta-61-setembro-analistas-cautela).
+
+Ressalva/limite: Nao e recomendacao de investimento -- falar da acao so como termometro de como o mercado enxergou a decisao de gestao; nao sugerir comprar/vender. Selic/juros so como efeito pratico no custo de capital do varejo; NAO comentar politica, governo ou eleicao (Polemica adjacente baixa, 2/5, mas o lembrete vale). Casas Bahia foi pauta de 01/10: citar so como contraste, sem repetir o caso. Divergencia 55% x 61% entre fontes: citar a fonte. Numero do 2T26 vem de resumos secundarios do balanco; conferir no release de RI antes de gravar.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve e o Copywriter do canal, secao 2.4, adaptado pra duracao maior):
+- Hook: a varejista que desistiu de brigar sozinha pelo cliente e viu a acao subir mais de 60% em um mes
+- Contexto/causa raiz: e-commerce em queda (-11,9%), prejuizo no 2T26, custo de atrair cliente
+- Desenvolvimento da cadeia causal: do canal proprio ao estoque dentro do Mercado Livre; o que o Magalu mantem (estoque, Magalog) e o que ganha (alcance)
+- Licao de gestao (a virada): ir onde o cliente ja esta, sem abrir mao do controle do que importa
+- Fechamento + CTA: pergunta pro dono sobre sua dependencia de canal proprio; convite a seguir o canal
+
+Runners-up do dia (registro/transparencia):
+- Mercado financeiro e eleicao: dolar/bolsa as vesperas do 1o turno -- 24/35 (descartado: risco com guardrail politico)
+- Qintess pede recuperacao judicial (dividas R$ 1,32 bi) -- 21/35
+- Natura: Carlucci reassume como CEO -- 21/35
