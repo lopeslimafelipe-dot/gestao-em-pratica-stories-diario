@@ -1,0 +1,42 @@
+RASCUNHO DO DIA 2026-10-02 (ETAPA 1 - PESQUISA)
+Total: 3 itens (menos de 8 -- justificativa por linha no final). ATENCAO ETAPA 2: WebFetch esta bloqueado por egress nesta sandbox (pordentrodeminas, fool.com, theweek.in, exame, deadline); TODOS os dados abaixo vem de snippets de busca, nao de leitura da pagina. Conferir datas/numeros/valores antes de usar. Buscador devolveu pouco conteudo recente e muita materia generica.
+
+ITEM 1 -- Desenrola MEI / renegociacao de dividas: prazos prorrogados ate jan-mar/2027 (REPETICAO POSSIVEL)
+Categoria: Prazo de Acao (Oportunidade)
+Fato: Segundo snippets (Exame, ja citado no rascunho de 01/10): Desenrola MEI Pequeno Valor com adesao de 01/10/2026 a 31/01/2027 (dividas de ate 5 salarios minimos, R$ 8.105; desconto de 50%; ate 55 parcelas); prazo prorrogado ate 29/01/2027 pra renegociar dividas de ate R$ 45 milhoes inscritas em divida ativa ate 03/03/2026; debitos com autarquias federais: adesao de 16/10/2026 a 31/03/2027 (inscritos ate 28/09/2025, 50% de desconto, ate 60 parcelas). Outro snippet fala em "ate 70%" e "nova faixa de divida" -- NUMEROS INCONSISTENTES; conferir em gov.br/PGFN/Regularize. Atencao: uma busca de hoje ainda mostra Desenrola MEI com adesao "ate 30/09" (dividas ate R$ 20 mil) -- esse prazo encerrou; so vale o novo ciclo.
+Fonte: Exame -- https://exame.com/economia/governo-lanca-novo-desenrola-mei-e-prorroga-programas-para-renegociar-dividas-entenda-como-funciona ; corroboracao: Diario de Pernambuco -- https://www.diariodepernambuco.com.br/colunas/diario-economico/2026/09/11725343-governo-aposta-em-nova-rodada-de-medidas-de-renegociacao-de-dividas.html
+Relevancia: Janela longa pra MEI/pequeno negocio limpar divida com desconto; quem tem nome sujo perde credito e fornecedor.
+Ressalva tecnica: Fonte secundaria, nao abri nenhuma pagina; numeros divergem.
+Possivel contradicao com roteiro anterior: PARCIAL -- 28/09 e 29/09 cobriram edital de transacao da Receita (ate 30/10); 01/10 rascunho ja trazia este mesmo tema (checar em saidas/2026-10-01-stories.txt se foi publicado). Se ja saiu e nao ha fato novo, DESCARTAR; so manter se 01/10 nao o publicou.
+Tese de gancho sugerida: A porta abriu e ficou aberta ate janeiro -- justamente o tipo de prazo que faz o gestor adiar. Prazo longo e o que mais mata: cada mes de nome sujo custa credito e fornecedor.
+
+ITEM 2 -- Disney: terceira rodada de demissoes de 2026 (tecnologia e RH)
+Categoria: Empresa global reconhecida (linhas 6/7)
+Fato: Segundo Deadline e outros (snippets do rascunho de 01/10, nao reabertos hoje), a Disney iniciou em 29/09/2026 demissoes de "algumas centenas" de funcionarios em tecnologia e RH, a terceira rodada do ano; em abril/2026 o CEO Josh D'Amaro anunciou ~1.000 cortes pra ser "mais agil e orientada a tecnologia"; desde 2022 mais de 8.000 cortados. Numero exato desta rodada nao confirmado. Divisao de TV se prepara pra nova reestruturacao.
+Fonte: Deadline -- https://deadline.com/2026/09/disney-layoffs-josh-damaro-1237114027/ ; corroboracao: Cynopsis -- https://www.cynopsis.com/cynopsis-9-30-2026-disney-braces-for-tv-layoffs/
+Relevancia: Cortes em ondas em areas-meio mostram que enxugamento raramente e evento unico; licao de estrutura, automacao e moral de quem fica.
+Ressalva tecnica: Numero exato nao confirmado; nao consegui abrir Deadline. Janela de 5 dias uteis: anuncio 29/09, vale ate ~06/10. ETAPA 2: checar se o item ja foi publicado em 01/10 (saidas/2026-10-01-stories.txt) -- se sim, descartar.
+Possivel contradicao com roteiro anterior: nenhuma conhecida.
+Tese de gancho sugerida: Mais de 8.000 cortes desde 2022 e a Disney continua cortando. Cortar aos poucos deixa quem fica esperando a proxima rodada; pergunta pro gestor: uma decisao completa ou varias pequenas?
+
+ITEM 3 -- Lynas (Australia) anuncia aquisicao da Meteoric Resources e mira projeto de terras raras em Minas Gerais
+Categoria: Noticia de empresa (aquisicao)
+Fato: Segundo snippet do site pordentrodeminas (01/10/2026), a australiana Lynas Rare Earths anunciou na quinta-feira (01/10) acordo pra adquirir 100% da Meteoric Resources, dona do projeto Caldeira (terras raras, Caldas/MG), operacao de cerca de A$ 968 milhoes (~R$ 3,5 bilhoes). Detalhes do projeto/estrutura do negocio NAO verificados.
+Fonte: Por Dentro de Minas -- https://pordentrodeminas.com.br/noticias/economia/2026/10/lynas-anuncia-aquisicao-bilionaria-e-mira-megaprojeto-de-terras-raras-em-mg/ (fonte regional/secundaria; buscar primaria: ASX/Lynas, Valor, Reuters)
+Relevancia: Grande jogador global de terras raras (insumo de tecnologia/eletrificacao) compra posicao no Brasil; mostra pra gestor onde o capital estrangeiro esta apostando e como cadeias de suprimento estrategicas se reorganizam.
+Ressalva tecnica: Fonte unica regional; busca de checagem nao encontrou a materia (so noticias de 2023 da Meteoric) -- confirmar valor e data em fonte primaria antes de usar; se nao confirmar, DESCARTAR.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Uma empresa australiana pagando ~R$ 3,5 bi por um projeto em Minas -- o que o mundo valoriza e o que esta debaixo do chao e a capacidade de transformar em negocio; pergunta: o que o seu negocio tem que outros ainda nao enxergam o valor?
+
+============ LINHAS -- O QUE FOI TENTADO ============
+Linha 1 Tecnologia: busca PT por agentes de IA/ferramentas 30/09: so conteudo generico (Gartner, Microsoft Agent 365 de 2025). Vazia.
+Linha 2 Noticia de empresa/case: Lynas/Meteoric (Item 3). Buffett deixando presidencia do Berkshire aparece so em titulo da Motley Fool (fool.com, fonte nao aprovada, nao abri; a busca mostrou que Buffett continuaria chairman) -- descartado por nao verificar. Hindalco/AluChem (India, termino de acordo) irrelevante.
+Linha 3 Macro/indice: nao buscada alem do ja usado nos dias anteriores (Focus, IPCA-15, RJ recorde). Vazia por repeticao.
+Linha 4 Internacional (consultorias): buscas por McKinsey/PwC/EY/Deloitte retornaram so Deloitte State of AI in the Enterprise (dados de ago-set/2025), PwC CEO Survey jan/2026, Deloitte Future of Infrastructure (sem data/URL clara). Nada inedito verificavel. Vazia.
+Linha 5 Prazo de Acao: Item 1 (risco de repeticao). Simples Nacional ja coberto 30/09; prazo Desenrola ate 30/09 encerrou.
+Linha 6 Empresa global: Disney (Item 2, ver risco de ja publicado). Oracle (rodada nova de layoffs, custo de reestruturacao subiu a US$ 2,8 bi, 141 mil funcionarios em 31/05/2026 vs 162 mil, capex US$ 28,5 bi no trimestre ate 31/08) -- snippets de Yahoo Finance/DCD/The Week; dado de ~10-12/09, fora da janela de 5 dias uteis; o snippet "demissoes comecam esta semana" nao tem data -- NAO incluido; Etapa 2 pode considerar se conseguir confirmar data.
+Linha 7 Reestruturacao/corte/fechamento: Starbucks (ja coberto 29/09), Parker Hannifin Jacarei (julho, ~100 pessoas), Stone (370, sem data), Americanas (1.404, sem data), Casas Bahia/Maxxi (ja descartados por janela). Vazia alem da Disney.
+Linha 8 Livre: sem candidato verificavel.
+Motivo de fechar com 3: buscador devolve pouco conteudo das ultimas 48h e WebFetch bloqueado em quase todos os dominios; nao forcei item sem data/URL confirmada.
+Internacional: 1 item (Disney, Deadline, empresa e fonte estrangeiras; nao e grande consultoria). Cota de dia com 3 itens (min. 1) cumprida em tese; Lynas e australiana mas fonte e brasileira regional. Zero item de grande consultoria -- justificado acima (linha 4 vazia).
+DIVERSIFICACAO DE FONTE: InfoMoney e Agencia Sebrae nao usados; Exame, Deadline e fonte regional MG entram.
