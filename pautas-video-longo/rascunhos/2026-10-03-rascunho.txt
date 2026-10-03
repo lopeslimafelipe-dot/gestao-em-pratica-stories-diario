@@ -1,0 +1,47 @@
+RADAR DE REPERCUSSAO -- 2026-10-03 (sabado)
+Obs. de pesquisa: sites das fontes primarias (Serasa, Poder360, InfoMoney etc.) estavam bloqueados pelo proxy da sandbox; numeros abaixo vem de trechos de busca e de titulos das paginas oficiais. A Etapa 2 DEVE reconfirmar numeros e data de divulgacao na pagina oficial antes de gravar roteiro.
+Checagem de repeticao (10 dias, saidas/ do pipeline longo): arrecadacao recorde, Braskem, greve Caixa, greve Correios, Desenrola 3.0, Banco Master, bets/MP, desemprego 5,3%, Casas Bahia RJ, Magalu. Casas Bahia (demissoes suspensas pela Justica) e Braskem foram descartadas por repeticao.
+
+CANDIDATO 1 -- Inadimplencia de empresas bate recorde: 9,2 milhoes de CNPJs negativados em julho
+Fato: Serasa Experian: 9,2 milhoes de CNPJs inadimplentes em julho/2026 (novo recorde; junho: 9,1 mi), 67,2 milhoes de dividas somando R$ 238,6 bi (junho: R$ 232,9 bi), divida media de R$ 25.983,88 por CNPJ (maior media desde 2024), ~7,3 contas negativadas por empresa, ticket medio R$ 3.551,59; 8,7 mi sao micro e pequenas; setores: servicos 55,8%, comercio 32,1%, industria 8,0%, primario 1,0%. Contexto: Selic em 14,50% a.a. apos corte de 0,25 p.p. (Serasa revisou projecao de fim de 2026 de 13,00% para 13,50%). Poder360 cobriu como "Empresas tem maior divida media desde 2024". Data exata de divulgacao do release: NAO confirmada (sites bloqueados) -- verificar.
+Fonte: Serasa Experian -- https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/inadimplencia-chegou-a-9-milhoes-de-empresas-em-julho-e-dividas-somaram-238-bilhoes-revela-serasa-experian/
+Score de Repercussao:
+- Frescor: 3/5 (divulgacao recente, data nao confirmada; dado de julho)
+- Relevancia do protagonista: 3/5 (tema/entidade conhecidos; sem marca unica)
+- Gravidade: 4/5 (recorde da serie historica)
+- Polemica adjacente: 4/5 (juros altos / Selic em ano eleitoral -- ver guardrail)
+- Volume de cobertura: 3/5 (Serasa, Poder360 e agregadores; nao confirmei mais portais no dia)
+- Clareza do angulo: 4/5 (juro alto -> credito caro -> atraso -> negativacao -> licao de caixa/credito)
+- Identificacao com audiencia: 5/5 (dono de PME sente na pele; 8,7 mi sao micro e pequenas)
+TOTAL: 26/35
+Status: VENCEDOR DO DIA
+GUARDRAIL POLITICO: 'Polemica adjacente' pesou no score (juros/Selic/economia em plena vespera do 1o turno, 04/10). O roteiro NAO comenta politica, governo, partido ou candidato; angulo exclusivo de gestao: caixa, prazo de recebimento, endividamento e renegociacao.
+Angulo sugerido p/ Etapa 2: "9,2 milhoes de empresas no vermelho: o que o dono de PME faz com caixa, credito e divida antes de virar numero nessa estatistica". Pode ligar ao caso Casas Bahia sem repeti-lo como pauta.
+
+CANDIDATO 2 -- Pedidos de recuperacao judicial: agosto bate recorde do ano (Serasa)
+Fato: titulo oficial do Serasa: "Agosto bate recorde do ano em pedidos de recuperacao judicial". Numeros e data NAO verificados (pagina bloqueada); mes inclui o pedido da Casas Bahia (R$ 17,3 bi, 16/08). Contexto de busca: 6.341 empresas em RJ no 1S26 (+6,2%), +21,2% em 12 meses. Ressalva: outro resultado ("pedidos de RJ tiveram queda de 7% em agosto", Monitor Mercantil) pode ser de outro ano -- conferir.
+Fonte: Serasa Experian -- https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/agosto-bate-recorde-do-ano-em-pedidos-de-recuperacao-judicial-revela-serasa-experian/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 24/35
+Status: runner-up
+
+CANDIDATO 3 -- Faria Lima ja desenha cenarios para novo governo / mercado olha 1o turno (04/10)
+Fato: Poder360 e outros veiculos: mercado financeiro avalia rumo da eleicao presidencial e perfil do proximo governo; dados fracos de economia citados na disputa. Tema essencialmente politico; sem fato empresarial concreto.
+Fonte: Poder360 -- https://www.poder360.com.br/poder-eleicoes-2026/faria-lima-ja-desenha-cenarios-para-lula-4/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 1/5
+- Identificacao com audiencia: 2/5
+TOTAL: 25/35
+Status: runner-up (NAO recomendado: angulo de gestao inviavel sem entrar em politica, viola guardrail do roteiro)
