@@ -1,0 +1,36 @@
+PAUTA DO DIA -- 2026-10-03
+Assunto: Inadimplencia de empresas bate recorde: 9,2 milhoes de CNPJs negativados em julho/2026
+Score final: 26/35 (Frescor 3, Relevancia do protagonista 3, Gravidade 4, Polemica adjacente 4, Volume de cobertura 3, Clareza do angulo 4, Identificacao com audiencia 5)
+
+Fato central verificado: Segundo o Indicador de Inadimplencia das Empresas da Serasa Experian (release de 01/09/2026, data vista no resultado de busca da pagina oficial), 9,2 milhoes de CNPJs estavam inadimplentes em julho/2026 (novo recorde; junho: 9,1 mi). Total de 67,2 milhoes de dividas somando R$ 238,6 bi (junho: R$ 232,9 bi). Divida media de R$ 25.983,88 por CNPJ, ~7,3 contas negativadas por empresa, ticket medio R$ 3.551,59. 8,7 milhoes sao micro e pequenas empresas. Servicos = 55,8% das empresas negativadas (demais setores do rascunho: comercio 32,1%, industria 8,0%, primario 1,0% -- nao reconfirmados nesta etapa). Numeros conferidos em trechos de busca da pagina oficial da Serasa e do Brasil61. A pagina oficial nao abriu (WebFetch bloqueado), entao a conferencia foi por trechos.
+Fonte: https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/inadimplencia-chegou-a-9-milhoes-de-empresas-em-julho-e-dividas-somaram-238-bilhoes-revela-serasa-experian/
+
+Cadeia causal (o que levou a isso): juro alto por tempo prolongado -> credito e capital de giro caros -> empresa rola divida e atrasa fornecedor/imposto/parcela -> varias pequenas contas negativadas ao mesmo tempo (media de 7,3 por CNPJ) -> divida media sobe (maior media desde 2024, segundo o Poder360 citado no rascunho) -> negativacao restringe credito e fornecedores, o que aperta ainda mais o caixa. Contexto citado pela economista-chefe da Serasa, Camila Abdelmalack: "Apesar dos cortes recentes da Selic, ainda nao observamos uma mudanca estrutural nas condicoes financeiras" (Brasil61).
+
+Por que esta repercutindo agora: Gravidade (recorde da serie), Identificacao com audiencia (8,7 mi sao micro e pequenas, o publico do canal) e Clareza do angulo (cadeia juro -> credito -> atraso -> negativacao -> caixa) foram os fatores que mais pesaram. Frescor e cobertura sao medios: o release e de 01/09 e a cobertura vista foi Serasa, Brasil61, Poder360 e agregadores.
+
+Angulo de gestao sugerido: "9,2 milhoes de empresas no vermelho: o que o dono de PME faz com caixa, credito e divida antes de virar numero nessa estatistica." Licoes praticas: prazo de recebimento x prazo de pagamento, controle de caixa semanal, renegociar antes de atrasar, evitar credito caro para cobrir caixa operacional, priorizar dividas por custo.
+
+Dados de apoio:
+- Junho/2026: 9,1 mi de CNPJs e R$ 232,9 bi em dividas; julho = +0,1 mi de empresas e +R$ 5,7 bi (conta simples sobre os dois numeros da Serasa). Fonte: https://brasil61.com/n/empresas-inadimplentes-somam-9-2-milhoes-em-julho-revela-serasa-experian-bras2617081
+- Regiao Sudeste concentra o maior volume de empresas com dividas em atraso (Brasil61, mesma URL).
+- Serie recente: abril/2026 ja era chamado de "recorde historico" com 9 mi de empresas (titulo de release Serasa: https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/recorde-historico-inadimplencia-alcancou-9-milhoes-de-empresas-brasileiras-em-abril-revela-serasa-experian).
+
+Ressalva/limite: 
+1) 'Polemica adjacente' pesou (juros/Selic em vespera de 1o turno, 04/10). NAO comentar politica, governo, partido ou candidato, nem criticar ou defender a politica de juros. Falar so do efeito pratico no caixa e no credito da empresa.
+2) CORRECAO ao rascunho: o rascunho citou Selic em 14,50%, mas essa taxa e de abril/2026. Buscas indicam cortes seguidos de 0,25 p.p. desde entao, com decisao do Copom de 16/09/2026 levando a Selic a 13,75% (fonte: https://soubrasilia.com/?p=13281). As fontes de busca tem sequencias inconsistentes entre si; se for citar a Selic no video, confirme o valor atual no Banco Central ou NAO cite numero (basta dizer "juros ainda elevados").
+3) Dado e de julho, divulgado em 01/09; se houver release de agosto antes da gravacao, atualize.
+4) Sem recomendacao de investimento pessoal.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- Copywriter do canal, secao 2.4, adaptado pra duracao maior):
+- Hook: conflito especifico (ex.: "9,2 milhoes de empresas estao negativadas, e a maioria e pequena")
+- Contexto/causa raiz: credito caro por muito tempo, capital de giro, rolagem de divida
+- Desenvolvimento da cadeia causal: de uma conta atrasada a 7,3 contas negativadas, divida media de ~R$ 26 mil e perda de acesso a credito
+- Licao de gestao (a virada): caixa, prazo de recebimento, renegociar cedo, nao financiar operacao com credito caro
+- Fechamento + CTA
+
+Fonte(s): Serasa Experian -- https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/inadimplencia-chegou-a-9-milhoes-de-empresas-em-julho-e-dividas-somaram-238-bilhoes-revela-serasa-experian/ ; Brasil61 -- https://brasil61.com/n/empresas-inadimplentes-somam-9-2-milhoes-em-julho-revela-serasa-experian-bras2617081
+
+Runners-up do dia (registro/transparencia):
+- Pedidos de recuperacao judicial: agosto bate recorde do ano (Serasa) -- 24/35
+- Faria Lima desenha cenarios para o 1o turno (Poder360) -- 25/35 (nao recomendado: angulo politico, viola guardrail)
