@@ -1,0 +1,33 @@
+PAUTA DO DIA -- 2026-10-04
+Assunto: Oi: massa falida diz ter R$ 0,01 em caixa e nao paga rescisao de ~1.000 demitidos
+Score final: 25/35 (Frescor 3, Relevancia do protagonista 4, Gravidade 5, Polemica adjacente 2, Volume de cobertura 3, Clareza do angulo 4, Identificacao com audiencia 4)
+
+Fato central verificado: Oi informou a Justica que, em setembro, tinha apenas R$ 0,01 em caixa e nao tem condicoes de pagar as rescisoes de ~1.000 demitidos (estimativa de R$ 72 mi: R$ 30,4 mi de verbas rescisorias + R$ 41,6 mi de multa do FGTS). O salario dos funcionarios ainda contratados esta em dia; as rescisoes nao tem previsao de pagamento. A Oi propos pagar em parcelas conforme houver caixa. Falencia decretada pela 1a Camara de Direito Privado do TJ-RJ em 25/08/2026, com divida acima de R$ 44 bi, patrimonio liquido negativo de >R$ 22,6 bi e 164.706 credores (R$ 13,8 bi com garantia; 8.327 trabalhadores com R$ 1,03 bi a receber). Em 13/08 a Justica havia autorizado as demissoes apos acordo com sindicatos (multa do FGTS em 30-120 dias; demais verbas em 6 ou 10 parcelas).
+Verificacao: confirmada por trechos de busca (Tecnoblog, Teletime, Convergencia Digital, Lex, Suno). Leitura direta das paginas nao foi feita. NAO confirmado em fonte: o "~60% do quadro / ~2.000 funcionarios" do rascunho -- as fontes dizem "mais da metade"/"cerca de 1.000"; usar so "cerca de 1.000 demitidos". O dado "juiz aceitou nao cumprir o acordo" e o "caixa pode zerar em outubro" vieram so do rascunho (Convergencia Digital) e nao foram reconfirmados -- citar com cautela ou omitir.
+
+Cadeia causal (o que levou a isso): Endividamento gigante (1a RJ em 2016, com R$ 65 bi de dividas, a maior da epoca) -> RJ encerrada em dez/2022, mas sem resolver liquidez -> 2a RJ em mar/2023 (divida >R$ 44 bi; primeira empresa a pedir RJ duas vezes) -> novo plano aprovado em 2024, mas obrigacoes descumpridas -> falencia decretada (primeira instancia em nov/2025, confirmada pelo TJ-RJ em 25/08/2026) -> massa falida sem caixa -> demitidos sem receber rescisao, na fila atras da realidade de caixa.
+
+Por que esta repercutindo agora: Gravidade maxima (5/5: trabalhadores sem rescisao, numero chocante de R$ 0,01), clareza do angulo (4/5) e identificacao com o dono de empresa (4/5: "o que acontece com quem trabalha pra mim se o caixa acaba"). Frescor e volume de cobertura medianos (desdobramento de ~23/09; dia de pouco noticiario).
+
+Angulo de gestao sugerido: Caixa e o que paga as obrigacoes -- nao o tamanho nem a marca. Empresa que adia o ajuste e depende de renegociar divida chega a um ponto em que nem as obrigacoes trabalhistas fecha. Licoes: (1) reestruturar so funciona se resolver a geracao de caixa, nao so o prazo da divida; (2) passivo trabalhista e o mais sensivel -- planejar caixa para rescisoes antes de cortar quadro; (3) acompanhar caixa projetado (fluxo de caixa de 13 semanas) e agir cedo; (4) na falencia, ate trabalhista entra em fila e depende de haver ativo. Evitar tom de "culpado"; falar de processo e de disciplina de caixa.
+
+Dados de apoio:
+- Ordem de pagamento na falencia: creditos trabalhistas (ate 150 salarios minimos por credor, o excedente vira quirografario) e acidentes de trabalho sao os primeiros da fila concursal -- Lei 11.101/2005, art. 83, I (Migalhas: https://www.migalhas.com.br/depeso/344075/a-nova-ordem-de-pagamento-de-creditos-na-falencia). Ressalva: tem de haver ativo na massa para pagar; "primeiro da fila" nao garante recebimento.
+- 164.706 credores, R$ 13,8 bi com garantia, trabalhadores R$ 1,03 bi (8.327 credores), 4.418 microempresas com R$ 106,14 mi -- Lex (https://www.lex.com.br/falencia-da-oi-e-decretada-por-decisao-unanime-da-1a-camara-de-direito-privado-do-tjrj/) / Portal Tela.
+- Historico: 1a RJ 2016 (R$ 65 bi), encerrada dez/2022; 2a RJ mar/2023 (>R$ 44 bi) -- Migalhas / Isto e Dinheiro (https://istoedinheiro.com.br/oi-falencia-recuperacao-judicial-4122025).
+- Condicoes do acordo de demissoes (13/08/2026) -- Teletime (https://teletime.com.br/13/08/2026/oi-justica-autoriza-demissoes/).
+
+Ressalva/limite: Polemica adjacente pesou pouco (2/5), mas NAO comentar governo, concessao/regulacao do setor de telecom, partidos ou politicos -- so gestao e efeito pratico. Nao sugerir investimento (acoes/papeis da Oi). Tratar o drama dos demitidos com respeito, sem sensacionalismo. Verificar o status no dia da gravacao (novos fatos podem ter ocorrido). Score modesto (25/35) em dia fraco de noticiario.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: "Uma empresa de R$ 44 bilhoes em dividas informou ter R$ 0,01 em caixa -- e ~1.000 demitidos ainda nao receberam."
+- Contexto/causa raiz: duas recuperacoes judiciais (2016 e 2023) sem resolver a geracao de caixa.
+- Desenvolvimento da cadeia causal: RJ -> segunda RJ -> plano descumprido -> falencia -> massa sem caixa -> rescisoes paradas; ordem de pagamento na falencia.
+- Licao de gestao (a virada): caixa e passivo trabalhista, planejar o corte antes de cortar; olhar fluxo de caixa projetado, nao so divida.
+- Fechamento + CTA.
+
+Fonte(s): Tecnoblog -- https://tecnoblog.net/noticias/oi-diz-ter-r-001-em-caixa-e-nao-sabe-quando-pagara-ex-funcionarios/ | Convergencia Digital -- https://convergenciadigital.com.br/mercado/oi-diz-ter-apenas-um-centavo-na-conta-e-sem-condicoes-de-pagar-1000-trabalhadores-demitidos/ | Teletime -- https://teletime.com.br/13/08/2026/oi-justica-autoriza-demissoes/ | Lex -- https://www.lex.com.br/falencia-da-oi-e-decretada-por-decisao-unanime-da-1a-camara-de-direito-privado-do-tjrj/ | Agencia Brasil -- https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-do-rio-decreta-falencia-da-oi-pela-segunda-vez
+
+Runners-up do dia (registro/transparencia):
+- Panorama: 12 grandes empresas em RJ em 2026 / recorde de 6.341 empresas em RJ no 2T26 -- 24/35
+- Braskem: prazo de 9/10 dos credores, risco de migrar para RJ -- 23/35
