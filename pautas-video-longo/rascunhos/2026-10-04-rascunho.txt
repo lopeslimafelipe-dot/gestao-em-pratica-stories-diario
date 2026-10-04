@@ -1,0 +1,48 @@
+RASCUNHO -- 2026-10-04 (domingo)
+Observacao: dia fraco de noticiario (fim de semana, vespera do 1o turno das eleicoes). Nenhum fato novo e grande foi confirmado em 03-04/10; os candidatos abaixo sao os melhores com cobertura recente confirmada via busca. Todos acima do piso de ~15/35, mas o vencedor tem score modesto (25/35). Leitura direta das paginas bloqueada pelo proxy em varios sites; numeros conferidos por trechos de busca cruzados.
+Excluidos por repeticao (ultimos 10 dias): Casas Bahia (01/10), Magalu (02/10), inadimplencia de CNPJs/Serasa (03/10), desemprego/PNAD (30/09), bets (29/09). Embraer 3T26 (66 aeronaves) descartada: nao foi possivel confirmar o dado em fonte.
+
+CANDIDATO 1 -- Oi: massa falida diz ter "um centavo" em caixa, Justica valida calote em ~1.000 demitidos
+Fato: A Justica do RJ (TJ-RJ) decretou a falencia da Oi em 25/08/2026 (divida acima de R$ 44 bi, ~165-180 mil credores). A empresa fechou acordo para demitir ~60% do quadro (de ~2.000 funcionarios) com rescisao parcelada. Em setembro a massa falida informou ter apenas R$ 0,01 em caixa e nenhuma condicao de pagar as rescisoes de cerca de 1.000 demitidos (~R$ 72 mi estimados, sendo R$ 30,4 mi de verbas rescisorias e R$ 41,6 mi de multa de FGTS; primeira parcela de ~R$ 12 mi nao foi paga). O juiz aceitou o pedido da Oi de nao cumprir o acordo, reconhecendo que a massa nao tem como pagar. Reportagens apontam que o caixa pode zerar em outubro, com risco para a continuidade de servicos.
+Fonte: Convergencia Digital -- https://convergenciadigital.com.br/mercado/oi-diz-ter-apenas-um-centavo-na-conta-e-sem-condicoes-de-pagar-1000-trabalhadores-demitidos/ | Convergencia Digital -- https://convergenciadigital.com.br/mercado/justica-valida-calote-dado-pela-oi-aos-trabalhadores-demitidos-e-rompe-acordo-firmado-antes-da-falencia/ | Teletime -- https://teletime.com.br/23/09/2026/oi-mudanca-acordo-rescisoes/ | Agencia Brasil (falencia) -- https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-do-rio-decreta-falencia-da-oi-pela-segunda-vez | InfoMoney (falencia) -- https://www.infomoney.com.br/mercados/tj-rj-confirma-falencia-da-oi-e-restabelece-decisao-de-primeiro-grau-diz-jornal/
+Score de Repercussao:
+- Frescor: 3/5 (desdobramento de ~23/09; sem fato novo confirmado em 03-04/10)
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 25/35
+Status: VENCEDOR DO DIA
+Angulo de gestao sugerido (Etapa 2): como uma empresa chega a falencia sem caixa nem para pagar quem ela mesma demitiu -- ordem de prioridade de pagamentos, passivo trabalhista e a licao de gestao de caixa/endividamento. Guardrail: polemica adjacente pesa pouco (2/5); ainda assim NAO comentar governo, concessao/regulacao politica nem partidos -- so gestao e efeito pratico.
+
+CANDIDATO 2 -- Panorama: 12 grandes empresas pediram recuperacao judicial em 2026 e Brasil bate recorde de empresas em RJ
+Fato: Reportagem da TV Brasil (set/2026) contabiliza 12 grandes empresas em recuperacao judicial em 2026, metade do varejo (Pao de Acucar, Casas Bahia, Habib's, Tok&Stok). O Brasil chegou ao 2T26 com recorde de 6.341 empresas em RJ (5.680 ao fim de 2025). Causas citadas: juro alto, credito seletivo, pressao de caixa e inadimplencia elevada. Numeros vistos em trechos de busca; paginas nao abertas.
+Fonte: TV Brasil/Reporter Brasil -- https://tvbrasil.ebc.com.br/reporter-brasil/2026/09/em-2026-12-grandes-empresas-pediram-recuperacao-judicial-no-pais | Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/recuperacoes-judiciais-brasil-juros-dividas-empresas-crise/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: runner-up
+Obs: sem protagonista unico e com Casas Bahia ja coberta em 01/10; poderia virar video de panorama (juro alto -> RJ). Guardrail politico: nao comentar politica monetaria como disputa, so efeito no caixa da empresa.
+
+CANDIDATO 3 -- Braskem: prazo de 9/10 dos credores se aproxima, risco de migrar da recuperacao extrajudicial para RJ
+Fato: Braskem pediu recuperacao extrajudicial em 24/08 (~US$ 11 bi / ~R$ 54 bi em dividas). Credores (bondholders) rejeitaram o plano e exigem US$ 3 bi de aporte de Petrobras e IG4; MP-SP pediu bloqueio de >US$ 400 mi para a Braskem Idesa (Mexico). Prazo dos credores para acordo: 09/10/2026 (pode ser estendido ate 22/11, fim dos 90 dias). Executivo da Petrobras disse esperar acordo sem falencia. Nenhum desdobramento novo confirmado em 03-04/10.
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/braskem-brkm5-vira-campo-de-batalha-mp-questiona-processo-e-credores-exigem-aporte-bilionario-da-petrobras-petr4-e-ig4-kaes/ | InvestNews -- https://investnews.com.br/negocios/braskem-chegara-a-acordo-com-credores-diz-executivo-da-petrobras/ | Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/credores-rejeitam-plano-de-reestruturacao-da-braskem-e-pressionam-petrobras-e-ig4-por-aporte-de-capital/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 2/5 (engenharia financeira complexa, varios atores)
+- Identificacao com audiencia: 3/5
+TOTAL: 23/35
+Status: runner-up
+Obs: ja foi o tema da pauta de 24/09 (exatamente 10 dias atras); melhor reservar para 09-10/10 se o prazo gerar fato novo. Guardrail politico: Petrobras/estatal envolvida -- nao comentar governo nem papel politico da estatal.
