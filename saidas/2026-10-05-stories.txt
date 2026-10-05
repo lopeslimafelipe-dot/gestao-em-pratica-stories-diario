@@ -1,0 +1,17 @@
+ROTEIRO 1 -- Nike gasta 1 bilhão pra economizar 2,5
+"A Nike anunciou na quinta, segundo o release da empresa e o documento enviado à SEC, o programa Pace: de quatro regiões para três, nova cadeia de suprimentos e mais cortes de pessoal. 🟡`Vai gastar cerca de 1 bilhão de dólares em encargos pra economizar cerca de 2,5 bilhões até o ano fiscal de 2031, e ainda projeta queda de receita de um dígito alto este ano.`🟡 Ela não disse quantos empregos corta, e pra equipe isso é incerteza. 🟡`Reestruturar custa caro antes de render, e deixar a decisão no ar também tem preço.`🟡 Sua empresa já decidiu ou ainda está adiando?"
+Fonte: Nike -- https://about.nike.com/newsroom/releases/nike-inc-reports-fiscal-2027-first-quarter-results
+
+ROTEIRO 2 -- WEG vai de 10 pra 50 geradores por dia
+"A WEG anunciou 165 milhões de dólares pra ampliar a produção de geradores na América do Norte, segundo o Cenário Energia. São 24 milhões numa fábrica no México e 141 milhões em duas novas fábricas. 🟡`A meta é sair de cerca de 10 geradores por dia pra cerca de 50 por dia até 2030`🟡, puxada pela demanda dos data centers. Ou seja, o dinheiro da IA virou pedido de fábrica. 🟡`Quem vende a pá na corrida do ouro também cresce.`🟡 Qual é a pá do seu setor?"
+Fonte: Cenário Energia -- https://cenarioenergia.com.br/2026/09/29/weg-investe-us-165-milhoes-para-ampliar-producao-de-geradores-na-america-do-norte/
+
+ROTEIRO 3 -- 910 demitidos por dia na tecnologia
+"Segundo o Hardware.com.br, com dados do TrueUp, o setor de tecnologia já eliminou 152.808 vagas em 2026, em 397 eventos de demissão, cerca de 910 pessoas por dia. 🟡`O TradingPlatforms liga a IA a cerca de 85 mil desses cortes, 61% do total`🟡, mas é atribuição declarada pelas empresas, não prova. 🟡`Vale perguntar se sua empresa usa IA pra fazer mais ou só pra justificar fazer menos.`🟡 Qual das duas?"
+Fonte: Hardware.com.br -- https://www.hardware.com.br/noticias/demissoes-tecnologia-2026-ia/amp/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] Em 61% dos cortes na tecnologia, a empresa culpa a IA. Na sua empresa, a IA hoje serve pra: A) Fazer mais B) Fazer com menos gente
+2. [Pergunta/Participacao, Roteiro 2] Qual é a "pá" do seu setor, o produto ou serviço que cresce quando todo mundo corre atrás da mesma onda? Conta na caixinha.
+3. [Virar Historia, Roteiro 1 -> Estilo Quadro Branco] Desenhar no quadro a sequência: gasto de 1 bilhão agora, economia de 2,5 bilhões até 2031, queda de receita no meio. Mostra visualmente que a conta só fecha lá na frente.
