@@ -1,0 +1,67 @@
+RASCUNHO DO DIA 2026-10-05 (ETAPA 1 - PESQUISA)
+Total: 6 itens (menos de 8 -- justificativa por linha no final). ATENCAO ETAPA 2: WebFetch esta bloqueado por egress nesta sandbox (gov.br, agenciabrasil, forbes.com.br, mckinsey.com, g1 etc.); TODOS os dados vem de snippets de busca, nao de leitura da pagina. Conferir datas/numeros antes de usar. Segunda-feira: "5 dias uteis" conta de 28/09 a 05/10 para eventos de 28/09 em diante.
+
+ITEM 1 -- Nike: reestruturacao "Pace", mais cortes e queda de receita prevista
+Categoria: Empresa global reconhecida (linhas 6/7)
+Fato: Em 01/10/2026, junto do resultado do 1o tri fiscal 2027, a Nike (CEO Elliott Hill) anunciou o programa de reestruturacao "Pace": consolidar 4 divisoes geograficas em 3 (Americas, Asia-Pacifico e Grande China, EMEA), otimizar a cadeia de suprimentos, abrir novo campus na India e enxugar a forca de trabalho. Meta: cerca de US$ 2,5 bilhoes em economia ate o ano fiscal 2031, com encargos pre-tax de ~US$ 1,0 bilhao (~US$ 0,3 bi no ano fiscal 2027). Projeta queda de receita em "high-single digits" no ano fiscal 2027. A empresa NAO disse quantos empregos serao cortados; Hill disse a funcionarios que as decisoes sobre cargos comecam em 2027.
+Fonte: BNN Bloomberg -- https://bnnbloomberg.ca/business/company-news/2026/10/02/nikes-struggles-test-investor-confidence-in-ceo-hills-turnaround-effort ; primaria: Nike 8-K (SEC) -- https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000184/nke-20261001.htm ; release -- https://about.nike.com/newsroom/releases/nike-inc-reports-fiscal-2027-first-quarter-results
+Relevancia: Marca que todo brasileiro conhece admitindo que o turnaround nao funcionou e reorganizando a estrutura; licao de camadas/estrutura geografica, custo e disciplina de caixa.
+Ressalva tecnica: Numero de demitidos nao divulgado; valores vindos de snippets (conferir no release/8-K).
+Possivel contradicao com roteiro anterior: nenhuma (Disney em 01/10 e outro caso; podem ser citados como 'semana de cortes').
+Tese de gancho sugerida: A Nike vai gastar US$ 1 bi pra economizar US$ 2,5 bi e ainda nao disse quantos empregos corta -- reestruturar custa caro antes de pagar; e adiar a decisao ate 2027 deixa a equipe inteira esperando.
+
+ITEM 2 -- Lynas (Australia) compra Meteoric e fica com o maior projeto de terras raras argiloso fora da China, em Minas Gerais
+Categoria: Noticia de empresa (aquisicao)
+Fato: Em 01/10/2026 Lynas Rare Earths e Meteoric Resources assinaram acordo vinculante (scheme of arrangement) pelo qual a Lynas adquire 100% da Meteoric, avaliada em A$ 968 milhoes (base totalmente diluida), premio de mais de 68% sobre o ultimo fechamento. Ativo-chave: projeto Caldeira (Caldas/MG), maior recurso de terras raras argilosas JORC fora da China (1.631 Mt a 2.317 ppm TREO; reserva de 151 Mt; vida util projetada de 23 anos). Livreto aos acionistas previsto pra dezembro/2026; fechamento esperado em marco/2027. (Conversao ~R$ 3,5 bi do rascunho anterior e estimativa, nao conferida.)
+Fonte: ASX (primaria) -- https://announcements.asx.com.au/asxpdf/20261001/pdf/074stfmyyvwykm.pdf ; corroboracao: Motley Fool Australia -- https://www.fool.com.au/2026/10/01/lynas-to-acquire-meteoric-resources-in-major-rare-earths-deal/ ; Argus -- https://www.argusmedia.com/en/news-and-insights/latest-market-news/2885150-australia-s-lynas-to-acquire-brazilian-ndpr-dytb-mine
+Relevancia: Capital estrangeiro pagando premio alto por um ativo no Brasil; mostra como cadeias estrategicas (terras raras, eletrificacao, tech) se reorganizam. Panorama para qualquer gestor.
+Ressalva tecnica: Negocio ainda depende de aprovacao judicial/acionistas; fool.com.au nao e fonte de lista, mas o anuncio primario e o ASX.
+Possivel contradicao com roteiro anterior: nenhuma. (Rascunho de 02/10 trouxe este tema mas saidas/2026-10-02 ja usou Mining Weekly -- ETAPA 2: conferir saidas/2026-10-02-stories.txt; SE JA PUBLICADO, DESCARTAR.)
+Tese de gancho sugerida: Premio de 68% pra um ativo que estava no chao, em Minas: o valor estava la, quem pagou foi quem soube enxergar. Que ativo seu os outros ainda nao precificam?
+
+ITEM 3 -- WEG investe US$ 165 milhoes (~R$ 840 mi) pra multiplicar producao de geradores na America do Norte
+Categoria: Noticia de empresa (expansao)
+Fato: Em 28/09/2026 a WEG anunciou US$ 165 milhoes em duas fases: US$ 24 mi pra adquirir/adaptar predio em Atotonilco de Tula (Mexico), operacao a partir do 2o tri/2027; US$ 141 mi em duas novas fabricas verticalizadas em local ainda a definir na America do Norte. Meta ao fim da fase 2 (2030): ~50 geradores/dia (hoje ~10/dia) somando Mexico, EUA, Brasil e China. Motivo: demanda de energia pra data centers (negocio vindo da aquisicao Marathon).
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/weg-anuncia-investimento-de-us-165-mi-para-ampliar-producao-de-geradores-na-america-do-norte-kaes/ ; corroboracao: Cenario Energia -- https://cenarioenergia.com.br/2026/09/29/weg-investe-us-165-milhoes-para-ampliar-producao-de-geradores-na-america-do-norte/
+Relevancia: Industrial brasileira apostando em capacidade 5x maior pra atender demanda criada por IA (data centers) -- onde o dinheiro da IA vira pedido de fabrica.
+Ressalva tecnica: Snippets; conferir numeros. 'R$ 840 mi' e conversao da midia.
+Possivel contradicao com roteiro anterior: nenhuma conhecida; grep indicou 'WEG/Nike/Correios' em saidas de 16/09 e 23/09 -- ETAPA 2 conferir se WEG ja foi tema (assunto diferente provavel).
+Tese de gancho sugerida: A WEG vai de 10 pra 50 geradores por dia. A corrida da IA nao e so de quem faz software: quem vende a pa na corrida do ouro tambem cresce. Onde esta a sua 'pa'?
+
+ITEM 4 -- McKinsey: State of Organizations 2026 -- 88% experimentam IA, 81% sem impacto no resultado
+Categoria: Tendencia internacional (grande consultoria)
+Fato: Relatorio McKinsey 'State of Organizations 2026' (pesquisa com mais de 10.000 executivos seniores, 15 paises, 16 setores): 88% das organizacoes experimentam IA, mas 81% dizem nao ter impacto significativo no resultado; 72% dos lideres dizem que suas organizacoes nao estao totalmente prontas pras mudancas; 72% dizem que a incerteza geopolitica afeta significativamente a operacao, mas so 26% fazem planejamento de cenarios trimestral; dois tercos dizem que a organizacao e complexa demais e que reestruturacoes ja entregam retornos decrescentes.
+Fonte: McKinsey -- https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-state-of-organizations
+Relevancia: Dado direto pra gestor sobre IA e complexidade: usar tecnologia sem resultado e falta de planejamento de cenarios.
+Ressalva tecnica: DATA DE PUBLICACAO NAO CONFIRMADA (um snippet cita 09/09/2026 para outra peca do tema); conferir; se for antigo demais (>2 semanas) e nao ineditos pro canal, descartar. Pesquisa de percepcao de executivos globais, nao PME. Item 'State of Organizations' nao encontrado em saidas recentes.
+Possivel contradicao com roteiro anterior: nenhuma (28/09 usou McKinsey HR Monitor, outro estudo).
+Tese de gancho sugerida: 88% usam IA e 81% nao veem resultado: o problema nao e a ferramenta, e a empresa complexa demais. Antes de comprar mais software, pergunte quantas camadas sua decisao atravessa.
+
+ITEM 5 -- Prazo Simples Nacional: 15/10 (opcao) e 30/10 (IBS/CBS fora do DAS) -- LEMBRETE
+Categoria: Prazo de Acao (Obrigacao/Oportunidade)
+Fato: Resolucao CGSN 194/2026, publicada no DOU em 28/09/2026, prorrogou de 30/09 para 15/10/2026 o prazo pra empresas solicitarem ingresso/retorno ao Simples Nacional em 2027 (efeitos a partir de 01/01/2027). Empresas do Simples que queiram recolher IBS e CBS pelo regime regular (fora do DAS, modelo hibrido da reforma tributaria) tem ate 30/10/2026. Prazo apontado em outro snippet: desistir/cancelar pedido de 03/11 a 20/12 (nao conferido, divergente).
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/governo-amplia-prazo-de-adesao-ao-simples-nacional-2027/ ; Receita Federal (gov.br) -- https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-alerta-comeca-hoje-o-prazo-para-opcao-pelo-simples-nacional-e-para-a-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027 ; Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/prazo-para-empresas-optarem-por-simples-e-adiado-para-15-de-outubro
+Relevancia: Decisao tributaria que vale o ano inteiro de 2027; faltam 10 dias do primeiro prazo.
+Ressalva tecnica: nenhuma relevante (norma ja publicada).
+Possivel contradicao com roteiro anterior: REPETICAO DE TEMA -- saidas/2026-09-30 ja trouxe 15/10 e 30/10. Justificativa: lembrete final com data-limite proxima (10 dias). Sem fato novo; ETAPA 2 pode descartar se preferir.
+Tese de gancho sugerida: Faltam 10 dias pra uma decisao que vale 2027 inteiro. Quem empurra esse tipo de prazo costuma decidir pelo calendario, nao pela conta.
+
+ITEM 6 -- Tecnologia ja cortou 152 mil vagas em 2026; IA e citada em 61% dos cortes
+Categoria: Reestruturacao-corte-fechamento (panorama; cruza com Tecnologia)
+Fato: Segundo Hardware.com.br citando TrueUp e TradingPlatforms: o setor de tecnologia eliminou 152.808 vagas em 2026 (397 eventos de demissao, ~910 pessoas/dia, ritmo 44% mais rapido que 2025); IA ligada a ~85 mil cortes (61%); Oracle lidera com 20 a 30 mil (ate 18% de 162 mil). Projecao: pode passar de 320 mil ate dezembro.
+Fonte: Hardware.com.br -- https://www.hardware.com.br/noticias/demissoes-tecnologia-2026-ia/amp/
+Relevancia: Panorama do que a IA esta fazendo com estrutura de equipe; repertorio pra gestor.
+Ressalva tecnica: Fonte secundaria (agregadores TrueUp/TradingPlatforms); DATA DA MATERIA NAO CONFIRMADA (outro artigo do mesmo site cita 128.536 ate 10/09, entao este e posterior); atribuicao a IA e declaratoria/contestada. Se ETAPA 2 achar defasado, descartar.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: 910 pessoas demitidas por dia na tecnologia, e em 61% dos casos a empresa culpa a IA. Pergunta: sua empresa esta usando IA pra fazer mais ou so pra justificar fazer menos?
+
+============ LINHAS -- O QUE FOI TENTADO ============
+Linha 1 Tecnologia: busca PT por agentes de IA retornou conteudo generico (Gartner 40%, 'forca de trabalho agentica'); sem lancamento datado verificavel. Item 6 cobre o angulo de IA/estrutura; item 3 (WEG/data centers) toca o tema.
+Linha 2 Case: Lynas/Meteoric (Item 2) e WEG (Item 3).
+Linha 3 Macro/indice: nao buscada alem da rodada generica; nada novo verificado (IPCA-15/Focus ja usados). Vazia (maximo 1 permitido).
+Linha 4 Internacional: McKinsey (Item 4); PwC CEO Survey Snapshot (ago/2026: confianca em receita 39%->42%, 351 CEOs) e EY CEO Outlook apareceram, mas datas fora/pouco claras -- nao incluidos. Cota: Nike (Bloomberg) + McKinsey = 2 internacionais, 1 grande consultoria. OK.
+Linha 5 Prazo: Item 5 (repeticao justificada). Desenrola MEI (adesao ate 31/01/2027 e AGU 16/10-31/03/2027) ja publicado 01/10, sem fato novo, nao repetido. eSocial/NR-1: sem prazo novo verificavel.
+Linha 6 Empresa global: Nike (Item 1). Disney ja publicado 01/10. Apple (Cook -> Ternus, 01/09) fora da janela. Uber/VW/JLR de setembro fora da janela.
+Linha 7 Reestruturacao: Nike + panorama tech (Item 6). Correios: PDV para 15 mil empregados, ao menos 3,2 mil adesoes, meta 10 mil ate fim do ano (fonte: O Brasilianista 30/09, secundaria, nao incluido). Casas Bahia (RJ em agosto, 298 lojas fechadas) fora da janela; CNN '320 lojas' era de 2024 -- descartado.
+Linha 8 Livre: sem candidato adicional verificavel.
+Motivo de fechar com 6: buscador devolve pouco conteudo de 48h, WebFetch bloqueado em gov.br/agenciabrasil/forbes/mckinsey; nao forcei item sem data/URL confirmada. Fonte nova (G1/Estadao/Valor): nao consegui conteudo dessas fontes via busca.
