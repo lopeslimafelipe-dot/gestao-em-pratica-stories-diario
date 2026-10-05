@@ -1,0 +1,46 @@
+RASCUNHO DO DIA -- 2026-10-05
+AVISO: nesta execucao InfoMoney, Exame e G1 estavam bloqueados pelo proxy de rede e a busca web nao retornou manchetes datadas de 04-05/10. Frescor e volume de cobertura NAO foram confirmados na fonte original; pontuados de forma conservadora. Revisar na Etapa 2 antes de gravar.
+
+CANDIDATO 1 -- Pix Parcelado ja disponivel em 10 bancos: o que muda pro caixa do lojista
+Fato: Pix Parcelado (credito via Pix, lojista recebe o valor integral na hora, comprador parcela com juros no banco) ja era oferecido por 10 bancos (Bradesco, Nubank, Santander, Itau, Caixa entre eles) em 08/09/2026. Para o varejo, elimina custo de antecipacao do cartao e pode tirar espaco das adquirentes.
+Fonte: Investidor10 -- https://investidor10.com.br/noticias/tema/dinheiro-43 (agregador; confirmar na fonte original / Banco Central / Exame)
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Raizen: maior recuperacao extrajudicial do pais (divida >= R$ 65,1 bi)
+Fato: Plano homologado pela Justica de SP em 30/07/2026 com adesao de 81,6% dos credores; preve conversao de divida em acoes, novos titulos e venda de ativos. Raizen teve prejuizo de R$ 1,64 bi no 2T26, divida liquida de R$ 56,87 bi. Angulo: juros altos + alavancagem. Protagonista conhecida (marca Shell/Cosan), mas tema tecnico (agro/energia, varias causas).
+Fonte: B3 Bora Investir -- https://borainvestir.b3.com.br/noticias/recuperacao-extrajudicial-da-raizen-bate-recorde-veja-as-maiores-reestruturacoes-do-brasil/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 23/35
+Status: runner-up
+
+CANDIDATO 3 -- Oncoclinicas: recuperacao extrajudicial para renegociar R$ 5,1 bi
+Fato: pedido distribuido em 13/07/2026; ~37% dos credores ja aderiram; prejuizo de R$ 275,3 mi no 2T26; operacao assistencial segue normal.
+Fonte: Money Times -- https://moneytimes.com.br/oncoclinicas-onco3-anuncia-pedido-de-recuperacao-extrajudicial-dividas-somam-r-51-bilhoes-igdl/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 19/35
+Status: runner-up
+
+NOTA GUARDRAIL: "Polemica adjacente" pesa pouco no vencedor (3/5, juros/credito). O roteiro deve tratar so de gestao de caixa/custo de recebimento; sem comentar politica, partidos ou governo.
