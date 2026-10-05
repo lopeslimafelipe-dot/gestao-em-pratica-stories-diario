@@ -1,0 +1,35 @@
+PAUTA DO DIA -- 2026-10-05
+Assunto: Pix Parcelado (Pix no crédito): o que muda pro caixa do lojista
+Score final: 24/35 (Frescor 2/5, Relevancia do protagonista 4/5, Gravidade 3/5, Polemica adjacente 3/5, Volume de cobertura 3/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: Nas modalidades de "Pix parcelado" / "Pix no crédito", o comprador contrata o parcelamento no app do próprio banco e o lojista recebe o valor integral na hora, em um único crédito; juros, parcelas e IOF são cobrados do comprador pela instituição que concedeu o crédito, sem passar pelo lojista. Quem já recebe Pix não precisa de adesão, configuração ou maquininha nova. Para o lojista, isso elimina o custo de antecipação de recebíveis que existe no parcelado do cartão. Fontes: Dock (https://dock.tech/fluid/blog/banking/pix-parcelado/), Exame (https://exame.com/invest/mercados/pix-parcelado-bc-vai-padronizar-regras-de-credito-na-modalidade-a-partir-de-novembro-entenda/), buscas web.
+CORREÇÕES AO RASCUNHO (não verificado / desatualizado):
+ - "10 bancos, incluindo Caixa, em 08/09/2026": NÃO confirmado. Buscas listam Banco do Brasil, Bradesco, Inter, Itaú, Santander, Nubank, InfinitePay, Mercado Pago, Pagaleve e PicPay (bancos e fintechs); sobre a Caixa, só "avalia ofertar". Não afirmar "10 bancos" nem citar a Caixa no vídeo.
+ - Regulação: o BC chegou a prever padronização (setembro, depois outubro/novembro de 2025), mas em dezembro de 2025 desistiu de regulamentar e vetou o uso do nome "Pix Parcelado" (termos como "Pix no crédito" e "Parcele no Pix" seguem permitidos). Cada banco define taxas e prazos livremente (Agência Brasil, https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado). Usar "Pix no crédito"/"Pix parcelado" como termo genérico, sem dizer que é produto oficial do BC.
+ - Frescor: não achei manchete datada de 04-05/10/2026 confirmando o gatilho de hoje; o tema é um desdobramento contínuo, não um fato novo do dia.
+
+Cadeia causal (o que levou a isso): Parcelado sem juros no cartão -> o lojista paga a antecipação dos recebíveis (o "juros" do parcelado é custo dele, repassado no preço) e espera para receber -> Pix já é o meio mais usado e recebe na hora e sem maquininha -> bancos e fintechs passam a oferecer crédito em cima do Pix, em que o comprador paga os juros direto ao banco -> o lojista recebe 100% à vista, sem custo de antecipação e sem esperar -> o parcelamento deixa de ser custo do lojista e vira custo do comprador -> pressão sobre a margem das adquirentes e uma decisão de preço/mix de pagamento pro lojista.
+
+Por que esta repercutindo agora: Pesou Identificação com a audiência (5/5: todo lojista/PME vive o custo de recebimento), Clareza do ângulo (4/5) e Relevância do protagonista (4/5). Frescor e volume de cobertura foram pontuados de forma conservadora (2/5 e 3/5), pois não foram confirmados em fonte datada.
+
+Angulo de gestao sugerido: Quanto do seu faturamento vai embora em taxa e antecipação de recebíveis? Revisar a mix de meios de pagamento, comparar custo efetivo do cartão parcelado com o Pix, e saber que o parcelamento no Pix tem juros altos para o cliente (~5% ao mês, CET perto de 8% ao mês segundo a cobertura citada), então pode não converter como o parcelado "sem juros" do cartão. A decisão é de caixa e preço, não de tecnologia.
+
+Dados de apoio:
+ - Taxas do crédito via Pix em torno de 5% a.m., CET ~8% a.m. (Agência Brasil/Seu Dinheiro, dez/2025; https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado)
+ - Itaú: até 72x a partir de R$ 80, clientes pré-aprovados; Santander "Divide o Pix": até 12x, mínimo R$ 100; Nubank: até 12x, com juros e IOF; Bradesco: Pix com cartão de crédito em até 24x (Serasa, https://serasa.com.br/limpa-nome-online/blog/bancos-pix-parcelado; Jornal Contábil, https://www.jornalcontabil.com.br/noticia/pix-parcelado-saiba-como-usar-e-quais-bancos-oferecem/). Condições variam e mudam; conferir antes de citar.
+ - Segundo o BC, o produto é mais vantajoso ao comerciante: recebe integral no ato, sem juros de antecipação (Monitor Mercantil/Finsiders via busca).
+
+Ressalva/limite: Polemica adjacente pesou 3/5 (juros/crédito). NÃO comentar política, partidos, governo ou o debate "parcelado sem juros x juros"; ficar só no efeito de caixa e custo de recebimento do lojista. Sem recomendação de crédito/investimento pessoal. Não afirmar "10 bancos" nem incluir a Caixa. Não dizer que o BC padronizou. Não prometer que o lojista "não paga nada": ele ainda tem tarifas do seu recebedor de Pix, que variam.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve e o Copywriter do canal, seção 2.4, adaptado pra duração maior):
+- Hook: "No parcelado do cartão, quem paga a antecipação é você, lojista. No Pix no crédito, não."
+- Contexto/causa raiz: como o parcelado do cartão cria custo de antecipação pro lojista.
+- Desenvolvimento da cadeia causal: recebe 100% na hora -> juros vão pro comprador -> efeito no preço, na conversão e na margem.
+- Licao de gestão (a virada): olhe seu custo efetivo por meio de pagamento, não só a taxa de tabela; teste oferecer o Pix no crédito e meça conversão.
+- Fechamento + CTA.
+
+Fonte(s): Dock -- https://dock.tech/fluid/blog/banking/pix-parcelado/ ; Agência Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado ; Exame -- https://exame.com/invest/mercados/pix-parcelado-bc-vai-padronizar-regras-de-credito-na-modalidade-a-partir-de-novembro-entenda/ (apenas pelo título; página bloqueada)
+
+Runners-up do dia (registro/transparencia):
+ - Raizen: maior recuperação extrajudicial do país -- 23/35
+ - Oncoclínicas: recuperação extrajudicial para renegociar R$ 5,1 bi -- 19/35
