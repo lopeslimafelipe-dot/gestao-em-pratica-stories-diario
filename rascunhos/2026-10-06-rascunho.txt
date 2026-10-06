@@ -1,0 +1,40 @@
+RASCUNHO 2026-10-06 (Etapa 1 - Pesquisa) -- 3 itens (meta 8 NAO atingida; justificativa por linha no fim)
+Obs. de ambiente: WebFetch bloqueado (egress) para InfoMoney/G1/Estadao/NewsNation; verificacao feita so por snippets de WebSearch. Etapa 2 deve conferir as URLs.
+
+ITEM 1 -- AkzoNobel vende negocio de tintas decorativas no Sudeste Asiatico pra Nippon Paint por US$ 1,35 bi
+Categoria: Empresa global reconhecida (aquisicao/venda relevante; linha 6) -- cruza com Noticia de empresa
+Fato: Em 05/10/2026 a AkzoNobel (dona de Dulux; no Brasil, da Coral -- CONFERIR) anunciou acordos vinculantes pra vender seu negocio de Tintas Decorativas em 7 paises (Vietna, Indonesia, Malasia, Tailandia, Singapura, Papua-Nova Guine e Australia) pra Nippon Paint. Valor da empresa (EV) ~US$ 1,35 bi (EUR 1,20 bi), ~21x o EBITDA do ano fiscal 2025; caixa liquido esperado ~US$ 1 bi (EUR 0,9 bi), apos impostos e minoritarios. A Akzo mantem 100% da divisao de Coatings (tintas industriais/de protecao) e a organizacao Global Business Services.
+Fonte: AkzoNobel, Form 6-K/Ex. 99.1 (SEC) -- https://www.sec.gov/Archives/edgar/data/0000003124/000095010326015189/dp254601_ex9901.htm (URL veio de busca; Etapa 2 confirmar que e o comunicado de 05/10). Contexto: DealStreetAsia -- https://media.dealstreetasia.com/stories/akzo-nobel-paint-disposals-asia-450168
+Relevancia: Gigante global esta vendendo um negocio inteiro, por multiplo alto, pra se concentrar no que da mais retorno -- licao de portfolio e foco que vale pra qualquer porte.
+Ressalva tecnica: Dados do proprio comunicado da empresa (fonte interessada). Nao verificado se a Akzo tem operacao de decorativas no Brasil (Coral) afetada -- a venda NAO inclui o Brasil.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Vender um negocio que funciona, por 21x o EBITDA, pra apostar no que e mais forte: grande empresa tambem escolhe o que NAO fazer. Quantas linhas do seu negocio voce mantem so por habito?
+
+ITEM 2 -- McKinsey: IA pode forcar ~11 milhoes de trabalhadores dos EUA a trocar de ocupacao ate 2035
+Categoria: Tendencia internacional (grande consultoria)
+Fato: Relatorio do McKinsey Global Institute (divulgado ~29/09/2026): ~11 milhoes de trabalhadores americanos (~7% da forca de trabalho) podem precisar mudar de ocupacao ate 2035 (faixa de 6 a 16 milhoes, conforme o ritmo de adocao). Automacao pode deslocar 36 milhoes de posicoes e o crescimento ligado a IA gerar demanda por ~40 milhoes -- ha mais vagas em 2035 que hoje. Mais de 75% de quem muda esta em 3 areas: apoio administrativo/escritorio, varejo/vendas e transporte/logistica. Hoje ~215 mil trabalhadores/ano trocam de grupo ocupacional; o cenario implica ~770 mil/ano (~3,6x). Frase do relatorio: "o desafio da proxima decada e mobilidade, nao escassez".
+Fonte: Bloomberg -- https://www.bloomberg.com/news/articles/2026-09-29/ai-may-force-11-million-workers-into-new-jobs-mckinsey-says ; Fortune (03/10) -- https://fortune.com/2026/10/03/ai-job-displacement-creation-new-careers-11-million-americans-workforce-mobility ; CNN/KEYT -- https://keyt.com/news/money-and-business/cnn-business-consumer/2026/09/29/ai-could-force-11-million-us-workers-into-new-careers-by-2035 (relatorio primario no site do McKinsey/MGI nao localizado -- Etapa 2 conferir)
+Relevancia: Mostra que o problema de gestao nao e "falta de emprego" e sim realocar gente; cruza com o noticiario de demissoes ligadas a IA.
+Ressalva tecnica: Dados dos EUA, projecao/cenario (nao fato consumado). Numeros vieram de agregadores/imprensa, nao do PDF original.
+Possivel contradicao com roteiro anterior: Rascunho de 05/10 trouxe McKinsey State of Organizations (88% usam IA, 81% sem impacto) e item de 152 mil vagas cortadas em tech com IA. Nao contradiz: aqueles sao pesquisa de adocao corporativa e contagem de cortes de 2026; este e projecao de realocacao ate 2035. Subtema IA+trabalho se repete -- avaliar se vale ou se Etapa 2 prefere descartar.
+Tese de gancho sugerida: O McKinsey nao diz que vai faltar emprego -- diz que vai sobrar vaga em 2035 e faltar gente no lugar certo. O gestor que treina e realoca equipe ganha; quem so demite perde o jogo.
+
+ITEM 3 -- NFS-e Nacional vira obrigatoria pra ME/EPP do Simples em 01/11/2026
+Categoria: Prazo de Acao (Obrigacao regulatoria)
+Fato: A Resolucao CGSN no 191, de 04/08/2026 (DOU de 10/08), adiou de 01/09 pra 01/11/2026 a obrigatoriedade do Emissor Nacional da NFS-e (web ou API) pra microempresas e empresas de pequeno porte do Simples Nacional que prestam servicos sujeitos a nota fiscal de servico eletronica. DATA-LIMITE: 01/11/2026. Separadamente (ja noticiado em 05/10): opcao pelo Simples ate 15/10 e escolha do regime IBS/CBS ate 30/10.
+Fonte: CRC-SP -- https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11261 ; Legisweb -- https://www.legisweb.com.br/noticia/?id=34185 (fonte primaria a conferir: portal do Simples Nacional / DOU de 10/08/2026)
+Relevancia: Obrigacao ja em vigor com data fixa; quem presta servico no Simples precisa testar o emissor nacional antes de 01/11 pra nao travar a emissao de nota.
+Ressalva tecnica: Fontes secundarias (conselhos de contabilidade/portal juridico); municipios podem ter regras proprias de transicao (ha noticias de prorrogacoes locais, ex. Porto Velho e Ponta Grossa). Anuncio original e de agosto -- item vale pela janela aberta (excecao linha 5).
+Possivel contradicao com roteiro anterior: nenhuma (complementa item de 05/10 sobre Simples/IBS-CBS; prazo e obrigacao diferentes).
+Tese de gancho sugerida: Faltam menos de 4 semanas pra sua nota de servico mudar de sistema. Deixar pro dia 31 e apostar que o emissor nacional nao vai travar justo quando todo mundo for emitir.
+
+---- REGISTRO POR LINHA (por que fechou com 3) ----
+1 Tecnologia: buscas por lancamentos de IA/agentes em outubro/2026 so devolveram agregadores e newsletters (Microsoft MAI-Transcribe-2, Meta Neural Band, Dataiku Agent Management 24/09) sem fonte primaria/URL confiavel nem relevancia clara de gestao. Nada aproveitavel verificado.
+2 Noticia de empresa/case: Lynas/Meteoric e WEG ja publicados em 05/10 e 02/10; Banco do Povo SP (R$ 730 mi) so retornou matéria de 2020/2021; Anthropic IPO (filing 01/06) velho. Akzo (item 1) cobre.
+3 Macro/indice: Ibovespa +7,70% em 05/10 (206.911 pts, InfoMoney) ligado a eleicoes -- descartado (bolsa/politica). Monitor RGF-BizDoc de recuperacoes judiciais (6.341 empresas no 1S26, micro +133%, pequenas +69%) e de jul/ago -- velho demais; Braskem (rec. extrajudicial US$ 10,9 bi, 24/08) e Casas Bahia (RJ R$ 17,3 bi, agosto) tambem velhos.
+4 Tendencia internacional: item 2 (McKinsey). PwC CEO Survey e de janeiro -- descartado.
+5 Prazo de Acao: item 3. Simples 15/10 e 30/10 ja foi em 05/10; Desenrola MEI ja publicado 01/10 e 02/10.
+6 Empresa global: item 1. Nike ja publicado 05/10; Disney 01-02/10; Nestle (16 mil vagas) e Oracle (+US$ 700 mi, 21 mil cortes em 12 meses, ~10-13/09) fora da janela de 5 dias uteis; Xbox/Microsoft sem data confiavel.
+7 Reestruturacao/corte: sem evento novo (ate 5 dias uteis) com fonte verificavel. Candidatos como Audi (fecha Bruxelas, 7,5 mil cortes na Alemanha) sao de 2025; "montadora de luxo 05/10" de sites agregadores era noticia antiga reciclada -- descartado. Kohler (03/09), Jaguar Land Rover, Nissan: velhos.
+8 Livre: nada aproveitavel adicional.
+Cota internacional: dia de 3 itens, minimo 1 internacional -- cumprida (itens 1 e 2: AkzoNobel holandesa + McKinsey).
