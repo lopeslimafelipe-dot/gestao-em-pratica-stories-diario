@@ -1,0 +1,17 @@
+ROTEIRO 1 -- Gigante vende negócio que funciona
+"A holandesa AkzoNobel vendeu o negócio de tintas decorativas em sete países da Ásia e Oceania pra Nippon Paint. Segundo o comunicado da própria empresa, 🟡`o valor é US$ 1,35 bi, 21 vezes o EBITDA de 2025, e sobram cerca de US$ 1 bi de caixa líquido`🟡. Ou seja: uma gigante vendeu uma operação que funciona, caro, pra focar no que rende mais. 🟡`Grande empresa também escolhe o que não fazer.`🟡 Quantas linhas do seu negócio você mantém só por hábito?"
+Fonte: AkzoNobel (Form 6-K, SEC) -- https://www.sec.gov/Archives/edgar/data/0000003124/000095010326015189/dp254601_ex9901.htm
+
+ROTEIRO 2 -- IA vai sobrar vaga e faltar gente certa
+"Um relatório do McKinsey Global Institute, divulgado pela CNN, projeta que cerca de 11 milhões de trabalhadores americanos, 7% da força de trabalho, vão precisar trocar de ocupação até 2035. É projeção, não fato consumado. 🟡`A IA pode deslocar 36 milhões de posições e gerar demanda por 40 milhões`🟡: vai sobrar vaga e faltar gente no lugar certo. 🟡`Quem treina e realoca a equipe ganha; quem só demite perde o jogo.`🟡 Sua equipe está pronta pra mudar de função?"
+Fonte: CNN/KEYT (relatório McKinsey Global Institute) -- https://keyt.com/news/money-and-business/cnn-business-consumer/2026/09/29/ai-could-force-11-million-us-workers-into-new-careers-by-2035
+
+ROTEIRO 3 -- Nota de serviço muda em 1º de novembro
+"Se sua empresa está no Simples e presta serviço, atenção. Pela Resolução CGSN 191, 🟡`a partir de 1º de novembro de 2026 a nota fiscal de serviço de ME e EPP tem que sair pelo Emissor Nacional da NFS-e`🟡, no portal ou via API. O prazo já foi adiado uma vez, de 1º de setembro. Alguns municípios têm regras próprias de transição, então confirme com seu contador. 🟡`Deixar pro dia 31 é apostar que o sistema não trava quando todo mundo for emitir.`🟡 Já testou o seu?"
+Fonte: Legisweb -- https://www.legisweb.com.br/noticia/?id=34185
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] Você já testou o Emissor Nacional da NFS-e? Sim, já testei / Ainda não
+2. [Pergunta/Participacao, Roteiro 1] Caixinha de pergunta: "Qual linha de produto ou serviço você mantém só por hábito e já pensou em vender ou cortar?"
+3. [Virar Historia, Roteiro 2 -> Estilo Comparativo] Os números 36 milhões de posições deslocadas contra 40 milhões criadas funcionam lado a lado, e o contraste "quem só demite" versus "quem treina e realoca" mostra a lição visualmente.
