@@ -1,0 +1,60 @@
+RADAR DE REPERCUSSAO -- 2026-10-06 (rascunho, Etapa 1)
+
+Obs. de pesquisa: alguns portais (CNN Brasil, Agencia Brasil, ADVFN, Diario do Comercio) bloquearam fetch na sandbox; numeros do vencedor vieram dos resumos de busca (CNN Brasil/Exame/Agencia Brasil) e DEVEM ser reconfirmados na Etapa 2.
+
+CANDIDATO 1 -- Bolsa +7,7% e dolar a R$ 5,00 apos o 1o turno: o que juro/risco menor muda pro caixa da PME
+Fato: Em 05/10/2026, primeiro pregao apos o 1o turno (04/10), o Ibovespa fechou em alta de 7,70%, a 206.911,89 pontos (maxima intradia 209.605,70, recorde historico; passou dos 200 mil pela 1a vez). O dolar caiu 4,12% e fechou a R$ 5,00. Leitura de mercado: queda do premio de risco dos ativos brasileiros e juros futuros mais baixos. Na vespera (02/10) o Ibovespa ja tinha subido 2,63%, a 192.114 pts. Contexto de negocios: Selic em 14,25% (proximo Copom 3-4/11); varejo/consumo com despesa financeira de 12,3% da receita liquida (InfoMoney).
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/mercado/mercado-hoje-5-outubro-2026/ (conferencia: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-cai-r-5-e-bolsa-sobe-quase-8-apos-primeiro-turno ; Exame -- https://exame.com/invest/mercados/ibovespa-ibov-hoje-05-10-2026/)
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 32/35
+Status: VENCEDOR DO DIA
+ALERTA GUARDRAIL POLITICO: o fator 'Polemica adjacente' (5/5) pesa no score. O roteiro NAO pode comentar candidatos, partidos, resultado da eleicao nem tomar posicao. Angulo permitido: mecanica economica -- dolar e premio de risco -> juro futuro/custo de credito -> insumo importado, estoque, capital de giro -> licao pro dono de PME (nao planejar caixa em cima de euforia de um dia; renegociar divida/capital de giro com cenario de juro menor, mas sem apostar nisso). Evitar atribuir a alta a um candidato; falar apenas em "o resultado do 1o turno" / "cenario politico" de forma neutra, e frisar que o movimento e volatil e nao e garantia.
+
+CANDIDATO 2 -- Varejo gasta 12,3% da receita liquida com despesa financeira (vs 5,1% em 2018)
+Fato: InfoMoney mostra que, entre as 15 empresas mais pressionadas de uma amostra de 30 de varejo/consumo, despesas financeiras subiram de 5,1% da receita liquida (2018) para 12,3% (2026); varejo espera Selic cair, mas o ponto de partida mudou. Casas Bahia (RJ de R$ 17,3 bi) e outras ja recorreram a RJ. Numeros a reconfirmar na materia.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/despesas-financeiras-varejo-2026/ (tambem: https://www.infomoney.com.br/mercados/divida-varejo-selic-empresas-2026/)
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 5/5
+- Identificacao com audiencia: 5/5
+TOTAL: 25/35
+Status: runner-up (obs.: Casas Bahia ja foi pauta em 01/10; usar so se o angulo "despesa financeira" for novo)
+
+CANDIDATO 3 -- Embraer entrega 66 aeronaves e fecha o melhor 3o trimestre da historia
+Fato: Embraer entregou 66 aeronaves no 3T26 (+2% vs 2T, +6% vs 3T25): 22 comerciais, 41 executivas, 3 defesa; 175 no acumulado de 9 meses (+14%). Guidance 2026 mantido (80-85 comerciais; 160-170 executivas).
+Fonte: Investidor10 -- https://investidor10.com.br/noticias/embraer-embj3-entrega-o-melhor-3-trimestre-da-historia-em-2026-122967/ (tambem: https://trademap.com.br/noticias/news-8373500)
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 21/35
+Status: runner-up
+
+CANDIDATO 4 -- M&A e dividas somam ~R$ 1 tri mesmo em ano eleitoral
+Fato: Levantamento citado pelo Diario do Comercio indica que o mercado de fusoes, aquisicoes e dividas segue aquecido em ano eleitoral, com volume na casa de R$ 1 tri (so titulo/snippet verificado; fonte original e numeros NAO confirmados).
+Fonte: Diario do Comercio -- https://diariodocomercio.com.br/economia/eleicao-mercado-fusao-dividas/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 3/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 20/35
+Status: runner-up
