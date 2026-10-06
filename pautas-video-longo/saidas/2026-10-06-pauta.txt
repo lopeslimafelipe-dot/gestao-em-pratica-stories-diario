@@ -1,0 +1,39 @@
+PAUTA DO DIA -- 2026-10-06
+Assunto: Bolsa +7,7% e dolar a R$ 5,00 apos o 1o turno: o que juro/risco menor muda pro caixa da PME
+Score final: 32/35 (Frescor 5, Relevancia do protagonista 5, Gravidade 5, Polemica adjacente 5, Volume de cobertura 5, Clareza do angulo 3, Identificacao com audiencia 4)
+
+Fato central verificado: Em 05/10/2026, primeiro pregao apos o 1o turno das eleicoes (04/10), o Ibovespa fechou em alta de 7,70%, a 206.911 pontos, passando dos 200 mil pela primeira vez; foi a maior alta diaria desde 24/03/2020 (+9,69%). O dolar comercial caiu 4,12% e fechou a R$ 5,00 (minima intradia na faixa de R$ 4,95-4,98). Confirmado por multiplas fontes na busca (Correio Braziliense, O Povo, InfoMoney, SpaceMoney, Terra). Fontes: 
+- https://www.correiobraziliense.com.br/economia/2026/10/7515330-embalado-pelas-urnas-ibovespa-dispara-77-e-dolar-cai-para-rs-5.html
+- https://www.opovo.com.br/noticias/economia/2026/10/05/ibovespa-rompe-200-mil-pontos-e-bate-recordes-com-euforia-apos-1-turno.html
+- https://www.infomoney.com.br/mercados/com-salto-de-77-apos-primeiro-turno-ibovespa-supera-disparada-de-2022/
+(Agencia Brasil/CNN Brasil bloqueados por rede; conferencia feita via resumos de busca. Observacao: o valor de 206.911,89 pts do rascunho aparece como 206.911 nas fontes; maxima intradia de 209.605,70 NAO reconfirmada.)
+
+Cadeia causal (o que levou a isso): resultado do 1o turno veio melhor que o esperado pelo mercado -> queda do premio de risco dos ativos brasileiros (dolar despenca, bolsa dispara) -> expectativa de juros futuros menores e cambio mais baixo -> custo de credito/capital de giro e de insumo importado tendem a aliviar na ponta -> mas a Selic de hoje e a mesma de ontem: o alivio e expectativa, nao caixa no banco.
+Contexto de juros: o Copom cortou a Selic para 13,75% a.a. em 16/09/2026 (5o corte seguido de 0,25 p.p., ciclo iniciado em marco a partir de 15%). ATENCAO: o rascunho dizia 14,25% -- o fact-check encontrou 13,75% em varias fontes (ata/Focus); a fonte que citava 14,25% parece desatualizada. Usar 13,75%. Focus projeta Selic de 13,50% no fim de 2026 e novo corte de 0,25 p.p. em novembro; a reacao do 1o turno ainda nao estava incorporada a essas projecoes.
+
+Por que esta repercutindo agora: Frescor (pregao de ontem), Gravidade e Volume de cobertura maximos (recorde historico, maior alta em 6 anos, todos os portais), e protagonista universal (o mercado inteiro). Identificacao com a audiencia vem do cambio e do juro, que mexem no custo da PME.
+
+Angulo de gestao sugerido: nao planejar caixa em cima da euforia de um dia. Mecanica: cambio/premio de risco -> custo de insumo importado e de credito -> decisao de estoque e capital de giro. Licao pratica: (1) revisar contratos de divida e capital de giro e renegociar se houver janela, sem apostar que o juro vai cair; (2) se importa, nao antecipar compra so pelo dolar a R$ 5 sem checar giro de estoque; (3) montar dois cenarios de caixa (juro/dolar caem x voltam a subir) e decidir o que vale nos dois. Movimento de mercado e volatil, sem garantia.
+
+Dados de apoio:
+- Ibovespa ganhou cerca de R$ 372 bi em valor de mercado no dia (titulo SpaceMoney: https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-maxima-historica-flavio-day) -- numero so de titulo, nao reconfirmado no corpo.
+- Alta superou a disparada do 1o turno de 2022 (InfoMoney, link acima).
+- Selic 13,75% (corte unanime em 16/09/2026): https://soubrasilia.com/?p=13281
+- Focus: Selic 13,50% no fim de 2026, 12% em 2027: https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-reduz-previsao-para-juros-em-2026-as-vesperas-do-copom-diz-focus/ (via resumo de busca)
+- Varejo/consumo: despesa financeira de 12,3% da receita liquida em 2026 vs 5,1% em 2018 (InfoMoney, do rascunho; NAO reconfirmado nesta etapa -- so usar se conferido).
+
+Ressalva/limite: GUARDRAIL POLITICO -- 'Polemica adjacente' pesou 5/5. As fontes atribuem a reacao ao resultado eleitoral e citam candidatos/partidos; o video NAO comenta candidatos, partidos, resultado da eleicao nem toma posicao. Falar apenas em "resultado do 1o turno" / "cenario politico" de forma neutra e focar so no efeito de gestao (cambio, juro, caixa). Sem recomendacao de investimento. Movimento volatil, nao e garantia.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto):
+- Hook: "Em um dia o dolar caiu pra R$ 5 e a bolsa passou dos 200 mil. Sua conta de capital de giro mudou? Nao."
+- Contexto/causa raiz: premio de risco, dolar e juros futuros; Selic hoje em 13,75%, em queda gradual.
+- Desenvolvimento da cadeia causal: expectativa de juro/cambio menor -> custo de credito e insumo importado -> estoque e capital de giro; diferenca entre preco de mercado hoje e custo real no seu caixa.
+- Licao de gestao (a virada): decida com cenarios de caixa, nao com euforia; renegocie com calma, nao antecipe compra por impulso.
+- Fechamento + CTA: pergunta pro dono de PME (voce tem divida atrelada a juro? ja simulou 2 cenarios?) + convite a seguir o canal.
+
+Fonte(s): Correio Braziliense, O Povo, InfoMoney (URLs acima).
+
+Runners-up do dia (registro/transparencia):
+- Varejo gasta 12,3% da receita liquida com despesa financeira (vs 5,1% em 2018) -- 25/35
+- Embraer entrega 66 aeronaves e fecha o melhor 3o trimestre da historia -- 21/35
+- M&A e dividas somam ~R$ 1 tri mesmo em ano eleitoral -- 20/35
