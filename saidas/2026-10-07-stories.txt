@@ -1,0 +1,9 @@
+ROTEIRO 1 -- Dívida de FGTS tem janela com até 65% de desconto
+"A PGFN abriu uma janela pra quem deve FGTS em dívida ativa: o Edital 12/2026 permite negociar dívidas de até 45 milhões de reais, com adesão de 15 de outubro até 29 de janeiro, pelo portal Regularize. 🟡`O desconto chega a 100% em juros, multas e encargos, limitado a 65% da dívida`🟡, e o saldo vai em até 108 ou 133 parcelas. Mas a parte do trabalhador não tem desconto. 🟡`Dívida de FGTS é a folha que você deixou pra depois.`🟡 Se está inscrita em dívida ativa, não espere o último dia. Já separou o CNPJ pra consultar?"
+Fonte: Portal Contnews -- https://www.portalcontnews.com.br/?p=343520
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] Sua empresa tem alguma dívida inscrita em dívida ativa (FGTS ou tributos)? Sim / Não
+2. [Pergunta/Participacao, Roteiro 1] Caixinha: "Qual o maior motivo pra uma empresa deixar o FGTS atrasar? Conta pra mim o que você já viu na prática."
+3. [Virar Historia, Roteiro 1 -> Estilo Quadro Branco] O edital tem prazos, teto de 45 milhões e o limite de 65% de desconto; desenhar a linha do tempo 15/10 a 29/01 e o que o desconto cobre (e não cobre) deixa tudo visual e fácil de lembrar.
