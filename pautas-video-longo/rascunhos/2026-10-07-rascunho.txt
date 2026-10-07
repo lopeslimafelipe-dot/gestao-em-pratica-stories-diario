@@ -1,0 +1,45 @@
+RASCUNHO -- 2026-10-07 (Radar de Repercussao, Etapa 1)
+Obs: fetch direto de G1/InfoMoney/Exame/Terra bloqueado pelo proxy; fatos abaixo vem de resultados de busca (veiculos citados). Etapa 2 deve reconfirmar numeros na fonte original antes de roteirizar.
+
+CANDIDATO 1 -- Braskem: prazo de 9/out com credores, cobranca de US$ 3 bi e risco de virar recuperacao judicial
+Fato: Braskem pediu recuperacao extrajudicial em 24/08/2026 (~US$ 10,9 bi / R$ 56 bi em dividas sem garantia real; adesao inicial de 39,6% dos credores). Credores (bondholders) cobram aporte de US$ 3 bi dos controladores (Petrobras e IG4) e fixaram 9/out como data a partir da qual termos essenciais nao mudam; sem acordo, o conselho prepara possivel pedido de recuperacao judicial. Pedido de plano final ao juiz ate 24/11. Resina mais cara pela guerra no Oriente Medio elevou geracao de caixa (~US$ 1 bi).
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/credores-da-braskem-cobram-injecao-de-us-3-bilhoes-de-petrobras-e-ig4-dizem-fontes/ (complementar: Bloomberg https://www.bloomberg.com/news/articles/2026-08-25/recuperacao-extrajudicial-da-braskem-poe-petrobras-no-foco ; Forbes Brasil https://forbes.com.br/forbes-money/2026/08/braskem-decide-pedir-recuperacao-extrajudicial-para-reestruturar-us109-bi-em-dividas/ ; Terra https://www.terra.com.br/economia/braskem-corre-para-definir-situacao-com-credores-e-petrobras-antes-da-escolha-do-proximo-governo,e999ccfb8530e6b12811546b0bb8297cdils63xm.html )
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+Nota GUARDRAIL POLITICO: o fator Polemica adjacente pesou (Petrobras estatal, "antes da escolha do proximo governo"). O roteiro NAO deve comentar governo, eleicao, partidos ou posicao da Petrobras como politica -- angulo so de gestao: endividamento/alavancagem, ciclo petroquimico, negociacao com credores, o que difere recuperacao extrajudicial de judicial, licao de renegociar divida antes de o caixa apertar. Obs: tema Braskem ja foi coberto neste pipeline em 24/09 (13 dias, fora da janela de 10 dias); angulo agora e o desfecho/prazo de 9/out.
+
+CANDIDATO 2 -- Casas Bahia: 4.647 saidas de funcionarios e estoque -40,5% no mes da recuperacao judicial
+Fato: rede registrou saida de 4.647 funcionarios em agosto/2026 (mes do pedido de RJ em 16/08) e reducao de estoques de 40,5%; fechamento de 298 lojas.
+Fonte: Mix Vale -- https://www.mixvale.com.br/2026/10/06/casas-bahia-perde-4-647-funcionarios-e-reduz-estoques-em-405/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 27/35
+Status: runner-up (risco: Casas Bahia foi tema de 01/10, 6 dias atras, dentro da janela de 10 dias)
+
+CANDIDATO 3 -- Varejo elimina ~46 mil vagas no 1o semestre (maior corte desde a pandemia)
+Fato: comercio varejista fechou 45,9 mil vagas com carteira no 1o sem/2026; vestuario respondeu por 30,9 mil. Causas citadas: juros altos, bets, migracao para e-commerce.
+Fonte: Diario do Comercio -- https://diariodocomercio.com.br/economia/varejo-corta-45-mil-vagas-crise-juros-altos-e-e-commerce/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: runner-up (tema proximo de pauta de setembro sobre varejo/FecomercioSP)
