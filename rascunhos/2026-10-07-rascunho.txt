@@ -1,0 +1,22 @@
+RASCUNHO 2026-10-07 (Etapa 1 - Pesquisa) -- 1 item (meta 8 NAO atingida; justificativa por linha no fim)
+Obs. de ambiente: WebFetch bloqueado (egress) para agenciagov.ebc.com.br; verificacao so por snippets de WebSearch (varias fontes concordantes). Etapa 2 deve conferir URLs.
+
+ITEM 1 -- PGFN abre negociacao de divida ativa do FGTS pra empregadores (ate R$ 45 mi), adesao a partir de 15/10
+Categoria: Prazo de Acao (Oportunidade)
+Fato: O Edital de Transacao por Adesao PGDAU no 12/2026 (assinado em 29/09, publicado em 30/09/2026) vale pra empregadores (PF ou PJ) com passivo consolidado de ate R$ 45 milhoes inscrito em divida ativa do FGTS ou da Contribuicao Social da LC 110/2001. ADESAO: de 15/10/2026 ate as 19h de 29/01/2027, pelo portal Regularize. Descontos de ate 100% sobre juros nao destinados ao trabalhador, multas e encargos legais, limitados a 65% do valor total da divida; nao ha desconto sobre o que e devido diretamente ao trabalhador. FGTS rescisorio em ate 12 parcelas; saldo em 108 ou 133 parcelas mensais, conforme o tipo de optante. Acordos ativos da Caixa podem migrar. Excluidos inscritos no cadastro de empregadores por trabalho analogo ao escravo.
+Fonte: Agencia Gov/EBC -- https://agenciagov.ebc.com.br/noticias/202610/pgfn-lanca-dois-novos-editais-e-prorroga-adesao-a-outros-tres-de-renegociacao-de-dividas ; apoio: Contabeis -- https://www.contabeis.com.br/noticias/78206/pgfn-regulamenta-negociacao-de-dividas-de-fgts/ ; Portal Contnews -- https://www.portalcontnews.com.br/?p=343520
+Relevancia: Divida de FGTS e das mais pesadas pra quem tem folha e ate agora nao tinha negociacao com esse desconto; a janela de 3,5 meses abre na semana que vem.
+Ressalva tecnica: Prazos conferidos por snippets de buscas (fonte oficial nao abriu aqui). Edital mira empregador com divida ativa de FGTS ja inscrita -- nao vale pra quem esta so em atraso corrente. Desconto nao cobre a parte do trabalhador.
+Possivel contradicao com roteiro anterior: nenhuma. Nao e o Desenrola MEI (01/10 e 02/10; PGFN 2.970, so MEI ate 5 SM) -- publico, divida e prazo diferentes.
+Tese de gancho sugerida: Divida de FGTS nao e so juros: e a folha que voce deixou pra depois. Em 15/10 abre uma janela com ate 65% de desconto e 133 parcelas -- e ela fecha em 29/01. Quem esta com isso inscrito em divida ativa nao precisa esperar o ultimo dia.
+
+---- REGISTRO POR LINHA (por que fechou com 1) ----
+1 Tecnologia: Cora lancou gerador de contratos gratuito com IA (blog proprio https://www.cora.com.br/blog/gerador-de-contratos/), mas sem data de lancamento confirmada e fonte e a propria empresa -- descartado por falta de data/verificacao. Demais buscas so devolveram opiniao/tendencias genericas.
+2 Noticia de empresa/case: sem evento datado de 06-07/10 com fonte verificavel (busca BR retornou so dados de recuperacao judicial 1S26/2T26, ja usados/velhos).
+3 Macro/indice: sem dado novo e inedito; RGF-BizDoc (RJ) e velho.
+4 Tendencia internacional: PwC CEO Survey (jan/2026) e EY CEO Confidence (Q4/2025) velhos; sem relatorio novo de consultoria localizado. Nenhum internacional achado.
+5 Prazo de Acao: item 1. Desenrola MEI ja publicado; NFS-e 01/11 e Simples 15/10 e 30/10 ja publicados em 05-06/10.
+6 Empresa global: Apple (Cook->Ternus, anunciado 20/04, efetivo 01/09), Heineken (6 mil cortes, 11/02), Amazon (16 mil, jan), Microsoft (4.800 cortes, "segunda (6)" = julho, nao outubro; ja descartado em 06/10): todos fora da janela de 5 dias uteis. Akzo/Nippon (05/10) ja publicado em 06/10.
+7 Reestruturacao/corte: nenhum evento novo (ate 5 dias uteis) com data verificavel; resultados traziam Paramount, Carter's, Stone, Oracle -- sem data confiavel ou antigos.
+8 Livre: nada aproveitavel.
+Cota internacional: ZERO internacional. Justificativa: buscas em ingles e portugues (layoffs, CEO/restructuring, McKinsey/PwC/Deloitte/EY) so devolveram itens fora da janela ou ja publicados; nao forcei item sem data/URL verificavel.
