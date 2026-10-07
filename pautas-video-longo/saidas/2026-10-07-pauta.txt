@@ -1,0 +1,48 @@
+PAUTA DO DIA -- 2026-10-07
+Assunto: Braskem: prazo de 9/out com credores, cobranca de US$ 3 bi dos controladores e o risco de a recuperacao extrajudicial virar judicial
+Score final: 28/35 (Frescor 4/5 | Relevancia do protagonista 5/5 | Gravidade 5/5 | Polemica adjacente 4/5 | Volume de cobertura 4/5 | Clareza do angulo 3/5 | Identificacao com audiencia 3/5)
+
+Fato central verificado:
+- Braskem protocolou pedido de recuperacao extrajudicial em 24/08/2026 para reestruturar ~US$ 10,9 bi (R$ 56 bi a R$ 59 bi, conforme o cambio) em dividas financeiras sem garantia. O pedido ja tinha adesao de credores que representam 39,6% dos creditos sujeitos (informado em fato relevante). O prazo legal e de 90 dias (ate ~24/11) para atingir o percentual minimo e homologar o plano; o pedido suspende a exigibilidade dos creditos sujeitos durante a negociacao. (renovainvest/acionista.com.br, resultados de busca confirmam)
+- Credores (detentores de bonds) rejeitaram o plano inicial da empresa e cobram que Petrobras e IG4 Capital se comprometam a injetar US$ 3 bi. O plano original previa captar ~US$ 2 bi com os proprios credores (~US$ 1,25 bi para recomprar divida com desconto de ate 50% do valor de face + US$ 750 mi de capital de giro). (Bloomberg Linea)
+- 9/out e a data definida entre as partes para fechar as principais condicoes comerciais do plano. (Times Brasil / Sem Pauta News, resultados de busca)
+- CORRECAO ao rascunho: (a) o rascunho dizia "~US$ 1 bi de geracao de caixa"; o dado verificado e Ebitda recorrente de R$ 5,25 bi (~US$ 1,04 bi) no 2T26; a geracao de caixa do trimestre foi R$ 1,93 bi. (b) Nao foi possivel confirmar na busca a afirmacao de que "termos essenciais nao mudam apos 9/out" nem o preparo de RJ pelo conselho; tratar isso como "segundo fontes citadas pela Bloomberg Linea / nao confirmado de forma independente" e nao afirmar como fato no video. O prazo de 24/11 do rascunho e o fim do periodo de 90 dias (algumas fontes citam 22/11 para a conclusao do processo).
+Fonte principal: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/credores-da-braskem-cobram-injecao-de-us-3-bilhoes-de-petrobras-e-ig4-dizem-fontes/ (acessada via resultados de busca; WebFetch direto nao usado)
+
+Cadeia causal (o que levou a isso):
+1) Anos de pressao sobre o negocio: spreads petroquimicos comprimidos, menor utilizacao de capacidade e passivo bilionario do caso de Alagoas -> prejuizo liquido de R$ 10,28 bi no 4T25 e alavancagem corporativa de 14,74x Ebitda (StatusInvest/JB, resultados de busca).
+2) Divida alta + juros elevados + credito restrito -> mesmo com caixa operacional, a conta de juros e vencimentos consome a folga; divida liquida de ~US$ 9,4-9,5 bi em jun/26.
+3) Ciclo ajudou temporariamente: guerra no Oriente Medio elevou spreads e preco de resinas -> lucro de R$ 3,3 bi no 2T26 e Ebitda ~US$ 1 bi. Mas a alavancagem seguiu em 6,74x Ebitda: um bom trimestre nao resolve uma estrutura de divida pesada.
+4) Pedido de recuperacao extrajudicial (24/08) para renegociar antes de uma ruptura -> credores nao aceitam o plano sem novo aporte dos controladores -> impasse com data (9/out) e prazo legal (~24/11); se falhar, o caminho alternativo e a recuperacao judicial.
+
+Por que esta repercutindo agora: prazo de 9/out a poucos dias (Frescor), protagonista gigante (Relevancia 5), numero de US$ 10,9 bi e risco de recuperacao judicial (Gravidade 5) e alto volume de cobertura na imprensa de negocios. A Polemica adjacente pesou no score, mas NAO e o foco do video.
+
+Angulo de gestao sugerido: a licao de renegociar divida cedo e entender a alavancagem. (a) Lucro bom em um trimestre nao equivale a divida sustentavel: o que importa e divida/geracao de caixa recorrente. (b) Diferenca pratica entre recuperacao extrajudicial (negociada com os credores, so sobre dividas financeiras sem garantia, exige adesao minima) e judicial (processo amplo, controlado pelo juiz). (c) Renegociar antes de o caixa apertar da mais poder de barganha; credor exige "pele em jogo" (aporte do dono) para aceitar desconto. (d) Ciclo favoravel e janela para reduzir divida, nao para expandir. Traduzir para a PME: relacao dívida/Ebitda, calendario de vencimentos, conversar com o banco antes do atraso.
+
+Dados de apoio:
+- Divida bruta corporativa US$ 10,4 bi e divida liquida ajustada US$ 9,5 bi em 30/06/2026; alavancagem 6,74x (Times Brasil / Bloomberg Linea / abcdoabc, resultados de busca).
+- Lucro liquido 2T26 R$ 3,33 bi vs. prejuizo de R$ 267 mi no 2T25; Ebitda recorrente R$ 5,25 bi vs. R$ 427 mi (seudinheiro.com / dgabc.com.br).
+- 4T25: prejuizo de R$ 10,284 bi, alavancagem 14,74x (jb.com.br / statusinvest.com.br).
+- Adesao inicial 39,6% dos creditos sujeitos; prazo de 90 dias (renovainvest.com.br / acionista.com.br).
+
+Ressalva/limite: GUARDRAIL POLITICO -- o fator Polemica adjacente pesou (controle da Petrobras, fontes que ligam o prazo ao calendario politico). NAO comentar governo, eleicao, partidos, nem a atuacao da Petrobras como tema politico; tratar Petrobras e IG4 apenas como "controladores/acionistas" e o aporte como mecanismo de negociacao. Sem recomendacao de investimento (nao falar em comprar/vender acoes ou bonds). Nao afirmar o desfecho: o resultado de 9/out ainda e desconhecido; nao apresentar a RJ como certa. Braskem ja foi tema deste pipeline em 24/09 (fora da janela de 10 dias); focar no desfecho/prazo. Verificar o resultado do dia 9/out antes de gravar.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- o Copywriter adapta):
+- Hook: conflito especifico -- "A Braskem lucrou R$ 3,3 bi num trimestre e mesmo assim pediu recuperacao extrajudicial. Como?"
+- Contexto/causa raiz: divida de ~US$ 10 bi, alavancagem, juros, spreads comprimidos.
+- Desenvolvimento da cadeia causal: ciclo favoravel temporario x estrutura de divida; plano rejeitado; credores pedem US$ 3 bi; prazo de 9/out.
+- Licao de gestao (a virada): lucro de um periodo nao paga divida estrutural; renegociar cedo; olhar divida/Ebitda e vencimentos.
+- Fechamento + CTA: pergunta ao dono de empresa (voce sabe sua alavancagem?) + convite a seguir o canal.
+
+Fonte(s):
+- Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/credores-da-braskem-cobram-injecao-de-us-3-bilhoes-de-petrobras-e-ig4-dizem-fontes/
+- Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/credores-da-braskem-rejeitam-plano-de-divida-e-cobram-acionistas-dizem-fontes/
+- Renova Invest -- https://renovainvest.com.br/blog/braskem-recuperacao-extrajudicial-2/
+- Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/braskem-brkm5-lucra-r-33-bilhoes-no-2t26-reverte-prejuizo-e-ve-ebitda-disparar-kaes/
+- Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/braskem-volta-ao-lucro-com-r-33-bilhoes-mas-divida-liquida-cresce-24-em-um-ano/
+- JB -- https://www.jb.com.br/economia/marcas/2026/03/1059104-braskem-prejuizo-liquido-e-de-rs-10284-bilhoes-no-4-trimestre-alta-de-82-ante-um-ano.html
+- Sem Pauta News -- https://sempauta.com.br/noticia/50191/braskem-corre-para-definir-situacao-com-credores-e-petrobras-antes-da-escolha-do-proximo-governo.html
+
+Runners-up do dia (registro/transparencia):
+- Casas Bahia: 4.647 saidas de funcionarios e estoque -40,5% no mes da RJ -- 27/35
+- Varejo elimina ~46 mil vagas no 1o semestre -- 24/35
