@@ -1,0 +1,59 @@
+RASCUNHO -- RADAR DE REPERCUSSAO 2026-10-08
+Obs. de pesquisa: busca web retornou pouco material fresco (leitura direta de varias paginas bloqueada; fatos conferidos por trechos de busca). Dia FRACO em repercussao: o assunto mais quente (Braskem, prazo de 9/out com credores) foi a pauta de 07/10 e esta barrado pela regra de 10 dias; ficou de fora (score estimado ~28/35). Conferir fatos na fonte original antes de gravar.
+
+CANDIDATO 1 -- Selic cai pela 5a vez (13,75%), mas credito pra empresa nao fica mais barato de imediato
+Fato: Copom (281a reuniao, 15-16/09/2026) cortou a Selic de 14,00% para 13,75% (5o corte seguido desde marco; votacao unanime). Entre a Selic e a taxa do banco ha spread, garantia, prazo e risco de credito; repasse e lento/parcial. Ata traz paragrafo novo: credito direcionado (imobiliario, fundos garantidores) segue crescendo e responde menos a Selic. Proxima reuniao: 04/11.
+Fonte: Piranot -- https://www.piranot.com.br/2026/09/18/noticias/economia/copom-corta-selic-credito-consumidor/ ; Forbes Brasil (ata) -- https://forbes.com.br/forbes-money/2026/09/ata-copom-mercado-novos-cortes-selic/ ; ConnectWeek -- https://www.connectweek.com.br/noticia/copom-selic-13-75-setembro-2026
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: VENCEDOR DO DIA
+Ressalvas: (1) Polemica adjacente pesou -> roteiro NAO comenta politica, governo, BC como decisor politico, partido ou eleicao; juros so como custo de capital da empresa. (2) Tema proximo da pauta de 06/10 (juro/risco menor e caixa da PME) -- angulo aqui deve ser DIFERENTE: por que o corte da Selic demora a chegar no credito da PME (spread, garantia, prazo). (3) Frescor baixo: se Etapa 2 achar gancho mais novo, usar.
+
+CANDIDATO 2 -- 23% das MPEs brasileiras nao usam solucoes digitais estruturadas na gestao
+Fato: dado apresentado pelo Sebrae no Siara Tech Summit 2026 (Fortaleza, evento ate 09/10), publicado em 08/10/2026. Numero nao reconferido na fonte primaria (pagina bloqueada).
+Fonte: O Povo -- https://mais.opovo.com.br/jornal/economia/2026/10/08/23-das-mpes-do-brasil-nao-utilizam-solucoes-digitais-estruturadas-nos-negocios.html
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 1/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 1/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 5/5
+TOTAL: 18/35
+Status: runner-up
+
+CANDIDATO 3 -- Braskem: prazo de 9/out com credores e risco de recuperacao judicial (EXCLUIDO pela regra de 10 dias -- pauta de 07/10)
+Fato: pedido de recuperacao extrajudicial em 24/08 (dividas > US$ 10 bi); prazo de 09/10 para acordo de termos basicos; bondholders (~US$ 7 bi) exigem aporte de acionistas; sem acordo, pode virar RJ. Sem confirmacao de prorrogacao ate hoje.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/braskem-recebe-propostas-de-credores-mas-segue-sem-acordo-a-tres-dias-de-prazo-final/
+Score de Repercussao (estimado):
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 28/35
+Status: runner-up (barrado por repeticao; se o desfecho de 09/10 for RJ, pode justificar excecao -- decisao do usuario)
+
+CANDIDATO 4 -- Vendas do varejo caem 0,8% em julho (ressaca da Copa); moveis e eletro -4,9%
+Fato: PMC/IBGE de 15/09/2026; agosto deve sair em meados de outubro.
+Fonte: Mercado & Consumo -- https://mercadoeconsumo.com.br/15/09/2026/noticias-varejo/vendas-no-comercio-caem-08-em-julho-com-ressaca-da-copa-do-mundo/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 2/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 18/35
+Status: runner-up
