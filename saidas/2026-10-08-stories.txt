@@ -1,0 +1,13 @@
+ROTEIRO 1 -- Demissão em massa? Só em um setor
+"Demissão em massa nos EUA? Os números dizem outra coisa. Segundo a Challenger, Gray & Christmas, os cortes anunciados em setembro foram 43.281, queda de 18% sobre agosto, e no ano estão 39% abaixo de 2025. Mas 🟡`a tecnologia anunciou 10.799 cortes, alta de 77% sobre agosto, e responde por 29% de todos os cortes do ano`🟡. Traduzindo: 🟡`o enxugamento não está espalhado, está concentrado num setor`🟡. Minha opinião: antes de mexer no seu quadro por causa de manchete, olhe o seu setor, não a média. E você, acompanha os números do seu mercado?"
+Fonte: BPMoney (levantamento Challenger, Gray & Christmas) -- https://bpmoney.com.br/economia/internacional-economia/cortes-empregos-eua-setembro-tecnologia/
+
+ROTEIRO 2 -- CFOs otimistas, mas a IA ainda não vende
+"Os CFOs americanos estão otimistas, mas a IA ainda não vende. Pesquisa da Grant Thornton, consultoria que vende serviços na área, com 229 CFOs: 🟡`80% esperam lucro maior nos próximos 12 meses, o recorde em 18 trimestres`🟡. Já 🟡`Só 33% reportaram aumento de receita com IA`🟡. Traduzindo: hoje a IA economiza tempo, ainda não traz cliente novo. Minha opinião: 🟡`antes de comprar a ferramenta da moda, pergunte se o objetivo é cortar custo ou ganhar cliente`🟡. Qual dos dois você busca?"
+Fonte: Grant Thornton -- https://www.grantthornton.com/insights/press-releases/2026/september/grant-thornton-survey-cfo-profit-optimism-reaches-record-high
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] Seu setor está cortando mais ou menos gente que um ano atrás? A) Mais B) Menos
+2. [Pergunta/Participacao, Roteiro 2] Caixinha: "Você usa IA pra ganhar cliente ou só pra economizar tempo? Conta como funciona na sua empresa."
+3. [Virar Historia, Roteiro 2 -> Estilo Comparativo] Dois lados na tela, "IA que economiza" (80% de lucro esperado) contra "IA que vende" (33% com receita maior), deixa a distância entre os dois números visível de cara.
