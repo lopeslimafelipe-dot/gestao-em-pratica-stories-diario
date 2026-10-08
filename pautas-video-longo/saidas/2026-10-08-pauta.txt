@@ -1,0 +1,38 @@
+PAUTA DO DIA -- 2026-10-08
+Assunto: Selic cai pela 5a vez (13,75%), mas o credito pra empresa nao fica mais barato de imediato
+Score final: 24/35 (Frescor 2/5, Relevancia do protagonista 3/5, Gravidade 3/5, Polemica adjacente 4/5, Volume de cobertura 3/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: O Copom, na 281a reuniao (15-16/09/2026), cortou a Selic em 0,25 p.p., de 14,00% para 13,75% ao ano, por unanimidade -- 5o corte consecutivo de 0,25 p.p. (fonte: varias reportagens; comunicado/ata oficiais no site do BC nao foram lidos diretamente, so trechos de busca). A ata (divulgada em 22/09) traz paragrafo novo sobre o mercado de credito: o credito direcionado segue em expansao (imobiliario p/ pessoas fisicas; operacoes com fundos garantidores p/ empresas) enquanto o credito livre perdeu folego. Proxima reuniao: 3-4/11 (decisao em 04/11).
+  Obs. de fact-check: o rascunho dizia que o ciclo comecou em marco; as fontes divergem (marco x abril). NAO afirmar o mes de inicio no video. Aritmetica confere: 5 cortes de 0,25 a partir de 15,00% = 13,75%.
+  Fontes confirmadas por busca: Agencia Brasil, Exame, InfoMoney, Space Money, Remessa Online (ata); Piranot/ConnectWeek/Forbes do rascunho nao reapareceram na busca, mas o fato bate com as demais.
+
+Cadeia causal (o que levou a isso): inflacao desacelera, mas segue acima da meta + atividade economica perde ritmo (PIB do 2o tri citado na ata; efeito mais visivel em setores sensiveis a juros) -> Copom corta a Selic aos poucos (0,25 por reuniao, sem se comprometer com numero ou prazo de cortes) -> a Selic e so o custo de captacao do banco; a taxa que a empresa paga soma spread, risco de credito, garantia oferecida e prazo -> o repasse e parcial e lento; a PME, com menos garantia, paga mais risco -> o corte na taxa basica nao vira, automaticamente, parcela menor no caixa da empresa.
+
+Por que esta repercutindo agora: Identificacao com audiencia (5/5: juro e custo de capital de todo dono de empresa) e Polemica adjacente (4/5: tema do debate economico maior) pesaram mais; Clareza do angulo 4/5. Frescor e baixo (decisao de 16/09). Gancho mais novo encontrado no fact-check: dados de credito do BC de agosto, divulgados em 29/09 (ver Dados de apoio).
+
+Angulo de gestao sugerido: "Selic caiu, mas a sua taxa nao necessariamente caiu -- o que voce controla e o que pesa na taxa que o banco te da": (1) conhecer a diferenca entre taxa basica e taxa efetiva (CET) do contrato; (2) garantia, historico e organizacao financeira reduzem o spread; (3) comparar propostas e prazo em vez de esperar o juro cair; (4) nao basear planejamento de caixa em corte futuro de juros (a ata nao indica trajetoria; Focus projeta Selic em 13,75% ate o fim de 2026, o que implicaria pausa). Diferenciar da pauta de 06/10: aqui o foco e POR QUE o corte demora a chegar (spread, garantia, prazo), nao risco/caixa em geral.
+
+Dados de apoio:
+- Juro medio do credito livre para empresas em agosto/2026: 24,2% a.a., queda de 1,0 p.p. no mes e de 0,7 p.p. em 12 meses; queda concentrada em capital de giro (prazo < 365 dias: -4,1 p.p.; > 365 dias: -1,0 p.p.). Fonte: BC, Estatisticas Monetarias e de Credito (29/09/2026), via Poder360/Mercado & Consumo -- https://static.poder360.com.br/uploads/2026/09/BC-estatisticas-monetarias-credito-agosto-29set2026.pdf ; https://mercadoeconsumo.com.br/29/09/2026/economia/juros-para-familias-sobem-em-agosto-e-inadimplencia-chega-a-6/
+- Juro medio das empresas em junho/2026: 24,4% a.a. (maio: 24,9%). Fonte: dgabc (BC) -- https://www.dgabc.com.br/Noticia/4338228/juro-medio-no-credito-livre-sobe-a-49-8-em-junho-de-49-3-em-maio-afirma-bc
+- Comparacao (conta propria, ilustrativa, nao e spread oficial do BC): 24,2% (juro medio empresas, ago) vs 13,75% (Selic) = ~10,5 p.p. de distancia. E media de todas as empresas, nao so PME.
+- Saldo do credito livre para empresas: R$ 1,6 tri (-0,6% no mes; +0,5% em 12 meses). Mesma fonte BC/Poder360 acima.
+- Ata do Copom (22/09): credito direcionado como ponto de atencao novo. Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ata-do-copom-atribui-corte-da-selic-desaceleracao-da-economia ; Remessa Online -- https://www.remessaonline.com.br/blog/ata-do-copom-setembro-2026/
+- Nuance: o dado de agosto mostra queda do juro das empresas (capital de giro) -- o roteiro NAO deve dizer que "nada mudou"; dizer que o repasse e parcial/gradual e que a taxa individual depende de spread, risco, garantia e prazo.
+- Dado NAO verificado (nao usar): spread bancario 2026 e juro especifico de PME -- nao encontrados em fonte de 2026.
+
+Ressalva/limite: (1) POLEMICA ADJACENTE PESOU (4/5): NAO comentar politica, governo, BC como decisor politico, partidos, eleicao, nem opinar se o corte e certo ou errado/ritmo adequado. Juros so como custo de capital da empresa. (2) Nao dar recomendacao de investimento nem prever Selic futura; nao afirmar quando o ciclo comecou (fontes divergem). (3) Ata: o trecho sobre credito direcionado vem de reportagens, nao do texto do BC -- se for citar literalmente, conferir em bcb.gov.br. (4) Frescor baixo.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve e o Copywriter do canal, secao 2.4, adaptado pra duracao maior):
+- Hook: "A Selic caiu pela 5a vez seguida. E a taxa do seu banco? Provavelmente nao caiu na mesma proporcao."
+- Contexto/causa raiz: o que e a Selic (custo de captacao do banco) e o que mais compoe a taxa que a empresa paga.
+- Desenvolvimento da cadeia causal: spread + risco + garantia + prazo; repasse parcial (dado do BC: juro das empresas ~24% vs Selic 13,75%).
+- Licao de gestao (a virada): o que o dono controla -- garantias, organizacao financeira, comparar CET e prazo, nao planejar o caixa esperando juro cair.
+- Fechamento + CTA.
+
+Fonte(s): Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ata-do-copom-atribui-corte-da-selic-desaceleracao-da-economia ; Exame -- https://exame.com/economia/ata-do-copom-nao-descarta-novos-cortes-da-selic-mas-cita-aumento-de-incerteza/ ; Poder360 (BC, credito ago/2026) -- https://static.poder360.com.br/uploads/2026/09/BC-estatisticas-monetarias-credito-agosto-29set2026.pdf
+
+Runners-up do dia (registro/transparencia):
+- Braskem: prazo de 9/out com credores e risco de RJ -- 28/35 (estimado; barrado pela regra de 10 dias, pauta de 07/10)
+- 23% das MPEs brasileiras nao usam solucoes digitais estruturadas (Sebrae/Siara Tech Summit) -- 18/35
+- Vendas do varejo caem 0,8% em julho (PMC/IBGE) -- 18/35
