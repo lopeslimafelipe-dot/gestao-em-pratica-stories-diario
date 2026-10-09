@@ -1,0 +1,28 @@
+PAUTA DO DIA -- 2026-10-09
+Assunto: Conta de luz volta a subir e puxa a inflacao: o custo de energia comendo a margem da PME
+Score final: 30/35 (Frescor 5/5 | Relevancia do protagonista 3/5 | Gravidade 3/5 | Polemica adjacente 5/5 | Volume de cobertura 5/5 | Clareza do angulo 4/5 | Identificacao com audiencia 5/5)
+
+Fato central verificado: O IPCA-15 de setembro/2026 (previa da inflacao, IBGE, divulgado em 25/09) subiu 0,70%, acima dos ~0,53% esperados pelo mercado; em 12 meses, 4,47% (ante 4,24% no periodo anterior). A energia eletrica residencial subiu 7,42% e teve o maior impacto individual (0,29 p.p.), revertendo a queda de 6,25% de agosto, quando as faturas incorporaram o Bonus de Itaipu. Grupo Habitacao +2,07%. Bandeira amarela adicionou R$ 1,885 a cada 100 kWh. Sem energia eletrica, a previa cairia de 0,70% para 0,41% (calculo citado pela Agencia Brasil).
+ATENCAO -- NAO VERIFICADO: o IPCA cheio de setembro sai HOJE (09/10, 9h) e o numero oficial NAO foi localizado na busca (IBGE/Agencia Brasil bloqueados no ambiente). As cifras do IPCA cheio (~0,75% no mes, faixa 0,62%-0,82%; ~4,50% em 12 meses, perto do teto da meta de 4,5%) sao PROJECOES de mercado, nao fato. Confirmar o dado oficial no IBGE antes de gravar. O IPCA cheio de agosto (-0,32%, 4,22% em 12 meses) e o ultimo dado oficial cheio.
+Cadeia causal (o que levou a isso): Agosto: bonus de Itaipu creditado nas faturas -> energia cai 6,25% e puxa a inflacao para baixo (IPCA de agosto -0,32%) -> Setembro: fim do bonus + bandeira amarela -> energia residencial sobe 7,42% -> inflacao mensal reacelera (IPCA-15 0,70%) e a de 12 meses sobe para 4,47% -> para a empresa, o custo de energia volta a subir de uma vez, e o alivio de agosto some.
+Por que esta repercutindo agora: Frescor maximo (IPCA cheio divulgado hoje), volume de cobertura alto (previa acima do esperado, projecoes de bancos) e identificacao alta com a audiencia (conta de luz e custo de todo dono de empresa). Pesaram tambem clareza do angulo (causa unica e simples: fim do bonus) e polemica adjacente (ver ressalva).
+Angulo de gestao sugerido: Custo de energia e inflacao de servicos comem a margem da PME. Licao pratica: (1) a queda de custo de um mes pode ser pontual -- nao baseie preco/margem em alivio temporario; (2) revisar o peso da energia no custo e simular o impacto de +7% na conta; (3) reavaliar precificacao e repasse sem perder cliente; (4) avaliar renegociacao/alternativas de contrato de energia e eficiencia de consumo; (5) rodar o fluxo de caixa com cenario de custo mais alto. Foco em CUSTO/MARGEM/PRECIFICACAO, nao em juros (tema da pauta de 08/10).
+Dados de apoio:
+- IPCA de agosto/2026: -0,32%, 12 meses 4,22% (ultimo dado oficial cheio) -- QuintoAndar (reproduz dado IBGE): https://www.quintoandar.com.br/guias/dados-indices/ipca-acumulado-reajuste-de-aluguel-2026/
+- Energia residencial +7,42%, impacto 0,29 p.p., Habitacao +2,07%, bandeira amarela R$ 1,885/100 kWh -- CNN Brasil: https://www.cnnbrasil.com.br/infra/conta-de-luz-sobe-742-e-tem-maior-impacto-no-ipca-15-de-setembro/ e Cenario Energia: https://cenarioenergia.com.br/2026/09/25/ipca-15-energia-eletrica-residencia-setembro/
+- Sem energia, previa seria 0,41% em vez de 0,70% -- Agencia Brasil: https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/previa-da-inflacao-oficial-de-setembro-fica-em-070-mostra-ibge
+- Projecao do IPCA cheio (~0,75%, faixa 0,62%-0,82%; Focus anterior 0,52%) -- O Cafezinho/InfoMoney (projecao, nao oficial): https://www.ocafezinho.com/2026/10/08/fim-do-bonus-de-itaipu-na-conta-de-luz-deve-acelerar-o-ipca-a-075-em-setembro
+Ressalva/limite: (a) Confirmar o IPCA cheio oficial (IBGE, hoje 9h) antes de usar qualquer cifra; se divergir muito das projecoes, usar so o IPCA-15 verificado e citar como "previa". (b) 'Polemica adjacente' (5/5) pesou no score: inflacao/meta/BC em ano eleitoral. NAO comentar politica, governo, Banco Central, partidos, figuras politicas nem tomar posicao sobre a meta de inflacao; so efeito pratico no caixa, custo e precificacao da empresa. (c) Sem recomendacao de investimento. (d) Tema proximo da pauta da Selic de 08/10: manter foco em custo, nao em juros.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico (ex.: sua conta de luz caiu em agosto e voltou a subir 7% em setembro -- sua margem aguenta?)
+- Contexto/causa raiz: bonus de Itaipu em agosto e seu fim em setembro + bandeira amarela
+- Desenvolvimento da cadeia causal: do alivio pontual ao custo de volta, e o que isso faz na margem de uma PME
+- Licao de gestao (a virada): nao tratar alivio de custo como permanente; simular, repassar com criterio, renegociar
+- Fechamento + CTA
+
+Fonte(s): InfoMoney -- https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-setembro-2026/ ; Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/previa-da-inflacao-oficial-de-setembro-fica-em-070-mostra-ibge ; CNN Brasil -- https://www.cnnbrasil.com.br/infra/conta-de-luz-sobe-742-e-tem-maior-impacto-no-ipca-15-de-setembro/
+
+Runners-up do dia (registro/transparencia):
+- Tarifaco dos EUA (+25% e +12,5%) sobre exportacoes brasileiras: PMEs exportadoras -- 22/35
+- Reforma tributaria vira maior preocupacao dos executivos (pesquisa EY) -- 19/35
