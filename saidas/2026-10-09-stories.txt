@@ -1,21 +1,33 @@
-ROTEIRO 1 -- Foco é escolher o que soltar
+ROTEIRO 1 -- Quem é o chefe da IA?
+"O Google apresentou ontem o Gemini agent, um colega de trabalho digital que persegue um objetivo por dias, tem identidade corporativa própria e escolhe entre o modelo do Google e o da Anthropic, com controle de gastos. É anúncio da própria Google, ainda voltado a grandes empresas. 🟡`Quando a IA vira funcionário, a pergunta deixa de ser qual modelo comprar e passa a ser quem responde pelo que ela faz e quanto ela gasta.`🟡 Na sua empresa, quem é o chefe da IA?"
+Fonte: 9to5Google -- https://9to5google.com/2026/10/08/gemini-agent-google-cloud/
+
+ROTEIRO 2 -- Foco é escolher o que soltar
 "A Informa, grupo britânico de eventos e publicações, vai comprar a Clarion, dona de mais de 100 marcas de feiras B2B, por 2,24 bilhões de libras, e começar a separar a editora acadêmica Taylor & Francis, segundo o comunicado da própria empresa. A operação ainda depende de reguladores. 🟡`Em plena era da IA, ela dobra a aposta no que software não copia: gente se encontrando pra fechar negócio.`🟡 Pra mim, foco é escolher o que crescer e o que soltar. Qual parte do seu negócio nenhuma ferramenta substitui?"
 Fonte: ITV News (Press Association) -- https://www.itv.com/news/2026-10-06/informa-to-buy-rival-events-firm-clarion-for-22bn-amid-strategy-overhaul
 
-ROTEIRO 2 -- Produtividade que ninguém sabe cobrar
+ROTEIRO 3 -- Juro cai de colher, custo sobe de balde
+"O IPCA de setembro veio em 0,82%, bem acima dos 0,60% esperados pelo mercado, segundo o IBGE. 🟡`Em 12 meses a inflação chegou a 4,58%, acima do teto da meta, de 4,5%`🟡, puxada pela conta de luz, que subiu 7,98% com o fim do bônus de Itaipu. Isso logo depois de o Copom cortar a Selic pra 13,75%. 🟡`O alívio no juro chega de colher; o aumento de custo chega de balde.`🟡 Seu orçamento de 2027 usa os custos de hoje ou os de amanhã?"
+Fonte: Agência Brasil (IBGE) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/inflacao-oficial-de-setembro-fica-em-082-mostra-ibge
+
+ROTEIRO 4 -- Produtividade que ninguém sabe cobrar
 "Uma pesquisa da EY com 1.200 CEOs de grandes empresas em 21 países mostra que 🟡`72% esperam que a falta de gente qualificada trave o crescimento mais do que a falta de capital`🟡. E 🟡`só 16% têm forte confiança de medir o retorno da IA, com custos e resultados em tempo real`🟡. A amostra é de empresas grandes e a EY vende consultoria, mas o recado serve pra qualquer porte: dá pra comprar produtividade sem saber cobrar em reais. Você sabe dizer quanto a IA já rendeu na sua empresa?"
 Fonte: EY (comunicado) -- https://www.ey.com/en_gl/newsroom/2026/10/ai-drives-productivity-but-ceos-struggle-to-turn-gains-into-grow
 
-ROTEIRO 3 -- Dívida pequena, desconto grande
+ROTEIRO 5 -- Dívida pequena, desconto grande
 "O governo abriu o Desenrola MEI Pequeno Valor: 🟡`MEI com dívida de até 8.105 reais já inscrita na Dívida Ativa da União paga 5% de entrada e tem 50% de desconto no saldo`🟡, parcelado, tudo pelo portal Regularize. A adesão vai até o fim de janeiro de 2027, mas as fontes divergem no dia exato, então confira o prazo no portal. 🟡`Dívida pequena parada vira dor de cabeça grande.`🟡 O que impede de resolver isso em dez minutos? Vale pra quem é MEI ou tem fornecedor MEI."
 Fonte: Fenacon -- https://fenacon.org.br/noticias/microempreendedores-individuais-podem-renegociar-dividas-com-desconto/
 
-ROTEIRO 4 -- Recorde que depende de um produto só
+ROTEIRO 6 -- Netflix enxuga sem estar em crise
+"Segundo a Puck, repercutida pela Reuters, a Netflix planeja cortar cerca de 5% da força de trabalho global, algo perto de 800 vagas, com anúncio possível na semana de 12 de outubro. A empresa não comentou e o número de vagas é estimativa. 🟡`Uma das empresas mais conhecidas do mundo, sem estar quebrada, estaria enxugando 1 em cada 20 pessoas.`🟡 🟡`Enxugar estrutura virou rotina de empresa saudável, não só de empresa em crise.`🟡 Quando você revisou o tamanho e as camadas do seu time pela última vez?"
+Fonte: Reuters via WKZO -- https://wkzo.com/2026/10/09/netflix-plans-to-cut-5-of-its-workforce-puck-news-reports/
+
+ROTEIRO 7 -- Recorde que depende de um produto só
 "A Samsung divulgou um 🟡`lucro operacional preliminar de 107,4 trilhões de wons no terceiro trimestre, recorde e alta de 782,5% sobre o ano anterior`🟡, com receita de 195 trilhões, segundo a própria empresa. O número é prévio e a divisão por negócio só sai no balanço, mas a leitura de mercado é que vem da memória pra IA. 🟡`Lucro concentrado parece genialidade no pico e é risco no vale.`🟡 Qual produto ou cliente paga a conta do seu negócio?"
 Fonte: Korea Herald -- https://www.koreaherald.com/article/10896336
 
 ============================================================
 SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
-1. [Enquete, Roteiro 2] Você sabe dizer, em reais, quanto a IA já rendeu na sua empresa? A) Sei  B) Não sei
-2. [Pergunta/Participacao, Roteiro 4] Caixinha de pergunta: "Qual produto ou cliente representa mais da metade do faturamento da sua empresa? Conta aqui."
-3. [Virar Historia, Roteiro 3 -> Estilo Comparativo] Mostrar lado a lado a dívida de 8.105 reais sem programa e com 5% de entrada e 50% de desconto deixa a diferença em reais visível de cara, que é o argumento do roteiro.
+1. [Enquete, Roteiro 6] A Netflix estaria cortando 5% do time sem estar em crise. Enxugar antes de o caixa apertar é: A) Gestão inteligente  B) Sinal de alerta
+2. [Pergunta/Participacao, Roteiro 3] Caixinha de pergunta: "Qual custo da sua empresa mais subiu nos últimos meses: energia, fornecedor, aluguel ou folha? Conta aqui."
+3. [Virar Historia, Roteiro 7 -> Estilo Quadro Branco] Desenhar o faturamento como uma pizza em que uma fatia gigante é o produto-estrela deixa a concentração visível de cara, que é exatamente o risco que o roteiro quer mostrar.
