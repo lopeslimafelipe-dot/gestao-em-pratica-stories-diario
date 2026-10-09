@@ -1,0 +1,13 @@
+ROTEIRO 1 -- Camada demais trava a decisão
+"A HubSpot, software de CRM que muita PME usa, anunciou o corte de 🟡`cerca de 660 vagas, 7% do time global`🟡, segundo o Boston Globe. Ela diz que a ideia é reduzir camadas de gestão pra decidir mais rápido, e que não é substituição por IA. Pra mim, o recado é: 🟡`camada demais trava a decisão, em qualquer tamanho de empresa`🟡. Quantos níveis existem entre quem decide e quem entrega na sua empresa? Pensa nisso."
+Fonte: Boston Globe -- https://www.bostonglobe.com/2026/10/06/business/hubspot-layoffs/
+
+ROTEIRO 2 -- Vantagem com prazo de validade
+"A FICO, dona do score de crédito mais usado nos EUA, vai cortar 15% da força de trabalho, segundo a Reuters. A empresa não deu número; a estimativa é de cerca de 570 pessoas. O corte vem depois de o governo americano mandar Fannie Mae e Freddie Mac aceitarem o VantageScore, e 🟡`as ações caem 58% no ano`🟡. A empresa não liga uma coisa à outra, mas a sequência mostra que 🟡`vantagem que depende de ninguém poder competir tem prazo de validade`🟡. Qual é o monopólio do seu negócio?"
+Fonte: Reuters via The Star -- https://www.thestar.com.my/tech/tech-news/2026/10/07/fico-cuts-workforce-by-15-in-ai-driven-restructuring
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] Na sua empresa, a decisão passa por quantos níveis? A) Até 2 níveis  B) 3 ou mais
+2. [Pergunta/Participacao, Roteiro 2] Caixinha de pergunta: "Qual vantagem do seu negócio some se um concorrente chegar amanhã? Conta aqui."
+3. [Virar Historia, Roteiro 1 -> Estilo Quadro Branco] Desenhar o organograma e riscar as camadas uma a uma deixa visível o caminho entre quem decide e quem entrega, que é exatamente a tese do corte da HubSpot.
