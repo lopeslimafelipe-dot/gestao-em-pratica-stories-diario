@@ -1,0 +1,51 @@
+RASCUNHO RADAR DE REPERCUSSAO -- 2026-10-09 (sexta)
+
+Observacao de metodo: fontes diretas (InfoMoney, Agencia Brasil) bloqueadas no sandbox; pesquisa feita via buscador, so com trechos/manchetes. O IPCA cheio de setembro sai HOJE as 9h e o numero oficial NAO foi localizado -- a Etapa 2 deve confirmar o resultado oficial no IBGE antes de usar qualquer cifra. Os numeros abaixo sao PROJECOES.
+Excluidos por repeticao (pipeline proprio, ultimos 10 dias): Casas Bahia (01/10), Inadimplencia CNPJ (03/10), Oi (04/10), Braskem (07/10), Selic (08/10).
+
+CANDIDATO 1 -- IPCA de setembro: inflacao acelera e pode furar o teto da meta (4,5%); conta de luz puxa
+Fato: IBGE divulga hoje (09/10, 9h) o IPCA de setembro. Projecao: ~+0,75% no mes (faixa 0,62%-0,82%), 12 meses de 4,22% (ago) para ~4,50%-4,58%, no teto/acima. Gatilho: fim do Bonus de Itaipu na conta de luz (energia residencial +7,42% no IPCA-15 de set, 0,29 p.p. de impacto, maior do mes) + bandeira amarela. IPCA-15 de set ja veio em 0,70% vs 0,53% esperado. Agosto foi -0,32%. (Valores a confirmar com o dado oficial.)
+Fonte: InfoMoney -- https://www.infomoney.com.br/economia/ipca-deve-mostrar-reaceleracao-em-setembro-teto-da-meta-pode-ter-sido-rompido-no-mes/
+Fonte complementar (IPCA-15): InfoMoney -- https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-setembro-2026/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 30/35
+Status: VENCEDOR DO DIA
+Angulo sugerido p/ Etapa 2: custo de energia e inflacao de servicos comem a margem da PME; como repassar preco sem perder cliente, renegociar contrato de energia, revisar precificacao. Atencao: assunto proximo da pauta da Selic de 08/10 -- manter foco em CUSTO/MARGEM/PRECIFICACAO, nao em juros.
+SINALIZACAO GUARDRAIL POLITICO: 'Polemica adjacente' (5/5) pesa no score (inflacao/meta/BC em ano eleitoral). O roteiro NAO deve comentar politica, governo, BC, partidos ou figuras politicas, nem tomar posicao sobre a meta; so efeito pratico no caixa e na precificacao da empresa.
+
+CANDIDATO 2 -- Tarifaco dos EUA (+25% e +12,5%) sobre exportacoes brasileiras: PMEs exportadoras
+Fato: sobretaxa de 25% em vigor desde 22/07/2026 (Secao 301) + 12,5% ("trabalho forcado"); itens como maquinas e moveis podem chegar a 37,5%. 23,1% das exportacoes aos EUA sujeitas; ~2,4 mil empresas atingidas; exportacoes ao EUA no 1o sem. US$ 17,4 bi (-13%). Sem cobertura nova localizada em outubro (fato de julho).
+Fonte: O Povo/Agencia Estado -- https://www.opovo.com.br/noticias/economia/2026/07/24/mdic-aponta-que-231-das-exportacoes-brasileiras-aos-eua-estao-sujeitas-a-novas-tarifas.html
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 22/35
+Status: runner-up
+
+CANDIDATO 3 -- Reforma tributaria vira a maior preocupacao dos executivos brasileiros (pesquisa EY)
+Fato: segundo a EY, reforma tributaria virou a principal preocupacao de executivos (Exame, 20/09/2026). Pouca cobertura nova; checar fonte original antes de usar.
+Fonte: Exame -- URL exata da materia NAO localizada (indice: https://exame.com/arquivo/neex-2026-2/)
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 5/5
+TOTAL: 19/35
+Status: runner-up
+
+Nota: busca por demissoes/RJ nova no Brasil nesta semana nao achou caso novo de porte (so Casas Bahia, ja usado, e casos dos EUA de baixa fama).
