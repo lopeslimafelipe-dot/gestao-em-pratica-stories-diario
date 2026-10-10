@@ -1,0 +1,39 @@
+PAUTA DO DIA -- 2026-10-10
+Assunto: Dia das Criancas (12/10): vendas em ritmo moderado, juros e endividamento limitam o varejo
+Score final: 25/35 (Frescor 4/5, Relevancia do protagonista 3/5, Gravidade 2/5, Polemica adjacente 3/5, Volume de cobertura 4/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: O Dia das Criancas e na segunda, 12/10/2026. A CNC projeta R$ 9,27 bi no varejo (+1,8% sobre os R$ 9,11 bi do ano anterior); bens pessoais e domesticos (inclui brinquedos) ~R$ 3,62 bi (~39%), super/hipermercados ~R$ 2,63 bi (~28%), vestuario ~R$ 1,35 bi (~15%). A CNC diz que juros elevados e endividamento das familias seguem limitando uma retomada mais forte do consumo. Projecao CNDL/SPC Brasil (pesquisa com 789 pessoas): R$ 18,1 bi, gasto medio de R$ 308 por consumidor (~2,3 itens), 74% pretendem comprar, 36% dizem que gastarao mais que no ano passado (34% manter), Pix preferido por 58%. Fecomercio-DF (so Distrito Federal): ticket medio estimado R$ 186 vs R$ 232 em 2025 (~-20%); 50,8% dos lojistas esperam desempenho parecido com o de 2025, 45% esperam melhor e 4,2% pior. Metodologias diferentes -- nao comparar os totais entre si (R$ 9,27 bi vs R$ 18,1 bi medem coisas distintas). Verificado via buscas (trechos batem com o rascunho); WebFetch nao usado.
+Nota de verificacao: o rascunho citava apenas os 50,8% "igual"; a fonte tambem traz 45% "melhor" -- usar o quadro completo para nao pintar um cenario mais pessimista que o dado.
+
+Cadeia causal (o que levou a isso): juros altos (taxa media de juros ao consumidor de 61,7% a.a. em agosto, a maior para o mes desde 2016, segundo a CNC) -> credito caro e familias muito endividadas (82% das familias endividadas em julho, maximo da serie CNC iniciada em 2010) -> menos folga no orcamento pra presente -> consumidor gasta com mais cautela (ticket menor em pesquisas regionais, crescimento nominal baixo de +1,8%) -> lojista de PME que repete a compra de estoque e a promocao do ano passado corre risco de sobra de estoque, margem espremida e caixa travado -> quem planeja a data com estoque enxuto, mix por faixa de preco e promocao com margem protegida passa melhor.
+
+Por que esta repercutindo agora: data comemorativa a 2 dias (Frescor 4), enxurrada de projecoes de CNC, CNDL/SPC, Fecomercio e federacoes estaduais (Volume 4), identificacao maxima com o dono de loja/PME (5) e angulo claro "data forte, consumidor cauteloso" (4). Gravidade baixa (2): nao ha crise, e um tema de planejamento.
+
+Angulo de gestao sugerido: como a PME se planeja pra data sazonal quando o consumidor esta endividado: (1) comprar estoque pelo ticket que o cliente consegue pagar, nao pelo do ano passado; (2) ter itens em varias faixas de preco; (3) promocao que atrai sem destruir margem (combo/kit em vez de desconto linear); (4) cuidar do caixa: prazo de fornecedor x prazo de recebimento, evitar parcelar demais o que o cliente nao paga; (5) usar a data pra reativar base de clientes. Licao: data forte nao e venda garantida -- margem e caixa e que decidem o resultado.
+
+Dados de apoio:
+- Endividamento das familias em 82% em julho/2026, maximo da serie (CNC/Peic) -- https://mercadoeconsumo.com.br/06/08/2026/noticias/cnc-endividamento-das-familias-sobe-para-82-mas-inadimplencia-cai/
+- Inadimplencia 29,8% em julho/2026; comprometimento medio da renda com dividas 29,5% (CNC, via busca; ultimo dado realizado localizado; o dado oficial de setembro nao foi localizado)
+- Juros medios ao consumidor 61,7% a.a. em agosto, maior para o mes desde 2016 (CNC) -- https://bpmoney.com.br/mercado/dia-das-criancas-deve-movimentar-r-927-bi-no-varejo-em-2026/
+- 35% dos compradores da pesquisa CNDL/SPC declaram estar inadimplentes (CNDL/SPC) -- https://www.jornalopcao.com.br/ultimas-noticias/dia-das-criancas-deve-movimentar-r-181-bilhoes-no-varejo-consumidor-pretende-gastar-r-308-em-presentes-876641/
+- Ticket medio DF R$ 186 vs R$ 232 e expectativa dos lojistas (Fecomercio-DF) -- https://www.correiodamanha.com.br/nacional/distrito-federal/2026/09/323181-vendas-no-dia-das-criancas-crescem-em-ritmo-moderado-no-df.html
+- Para contraste: Abecs/Datafolha estima R$ 20,2 bi e media de R$ 225 (levantamento separado, nao verificado na fonte; citar so com cuidado)
+
+Ressalva/limite: (1) 'Polemica adjacente' (3/5) pesou no score por causa do pano de fundo de juros/endividamento em ano eleitoral: NAO comentar politica, governo, Banco Central ou partidos, nem opinar sobre juros ou Selic -- so efeito pratico no caixa e no planejamento do lojista. (2) Sao projecoes de entidades com metodologias distintas; nao somar nem comparar R$ 9,27 bi com R$ 18,1 bi, e o ticket de R$ 186 e so do DF. (3) Dados de endividamento sao de julho/agosto (setembro nao localizado). (4) Publicar antes de segunda (12/10). (5) Sem recomendacao de investimento ou de credito pessoal.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico (ex.: a data e forte, mas 8 em cada 10 familias estao endividadas -- e o seu estoque foi comprado pro cliente do ano passado?)
+- Contexto/causa raiz: juros altos + endividamento recorde -> consumo cauteloso
+- Desenvolvimento da cadeia causal: do bolso da familia ao caixa da loja (ticket, estoque, promocao, prazo)
+- Licao de gestao (a virada): data sazonal se ganha no planejamento de margem e caixa, nao no volume
+- Fechamento + CTA
+
+Fonte(s):
+- BP Money (CNC) -- https://bpmoney.com.br/mercado/dia-das-criancas-deve-movimentar-r-927-bi-no-varejo-em-2026/
+- SBT News -- https://sbtnews.sbt.com.br/noticia/economia/varejo-deve-movimentar-r-9-27-bilhoes-com-dia-das-criancas
+- Jornal Opcao (CNDL/SPC) -- https://www.jornalopcao.com.br/ultimas-noticias/dia-das-criancas-deve-movimentar-r-181-bilhoes-no-varejo-consumidor-pretende-gastar-r-308-em-presentes-876641/
+- Correio da Manha (Fecomercio-DF) -- https://www.correiodamanha.com.br/nacional/distrito-federal/2026/09/323181-vendas-no-dia-das-criancas-crescem-em-ritmo-moderado-no-df.html
+
+Runners-up do dia (registro/transparencia):
+- Habib's / Grupo Gennius: recuperacao judicial (R$ 265,2 mi) -- 24/35
+- Conn's (EUA): pedido de falencia e fechamento de ~553 lojas -- 21/35 (fonte unica de baixa autoridade, nao confirmada)
