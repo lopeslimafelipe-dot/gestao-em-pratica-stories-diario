@@ -1,0 +1,52 @@
+RASCUNHO RADAR DE REPERCUSSAO -- 2026-10-10 (sabado)
+
+Observacao de metodo: pesquisa feita via buscador (trechos/manchetes); fontes diretas nao abertas no sandbox. A Etapa 2 deve confirmar numeros na fonte original antes de usar qualquer cifra. Dia fraco em fatos novos de gestao: o noticiario de 09-10/10 foi dominado por IPCA (IPCA set +0,82%, 12m 4,58%, acima do teto) e Ibovespa recorde 209 mil / dolar abaixo de R$ 5 -- ambos EXCLUIDOS por repeticao (pautas de 09/10 = conta de luz/IPCA e 06/10 = bolsa/dolar). Tambem excluidos por repeticao: Casas Bahia (01/10), Inadimplencia CNPJ (03/10), Oi (04/10), Braskem (07/10), Selic (08/10).
+ALERTA: nenhum candidato passou de ~15/35 com folga alta; vencedor e o melhor disponivel (25/35), acima do piso de 15, mas sem "bomba" do dia.
+
+CANDIDATO 1 -- Dia das Crianca (12/10): vendas em ritmo moderado, juros e endividamento limitam o varejo
+Fato: Dia das Criancas e nesta segunda (12/10/2026). CNC projeta R$ 9,27 bi no varejo (+1,8% vs ano passado) e diz que juros elevados e endividamento das familias limitam o consumo; CNDL/SPC Brasil projeta R$ 18,1 bi, gasto medio R$ 308 em presentes (36% pretendem gastar mais); Fecomercio-DF: ticket medio estimado R$ 186 (ante R$ 232) e 50,8% dos lojistas esperam desempenho igual ao ano passado. Metodologias diferentes -- nao comparar diretamente.
+Fonte: BP Money (CNC) -- https://bpmoney.com.br/mercado/dia-das-criancas-deve-movimentar-r-927-bi-no-varejo-em-2026/
+Fonte complementar: SBT News -- https://sbtnews.sbt.com.br/noticia/economia/varejo-deve-movimentar-r-9-27-bilhoes-com-dia-das-criancas
+Fonte complementar (CNDL/SPC): Jornal Opcao -- https://www.jornalopcao.com.br/ultimas-noticias/dia-das-criancas-deve-movimentar-r-181-bilhoes-no-varejo-consumidor-pretende-gastar-r-308-em-presentes-876641/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 2/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 25/35
+Status: VENCEDOR DO DIA
+Angulo sugerido p/ Etapa 2: data comemorativa com consumo morno -- como o lojista de PME se planeja para data sazonal quando o consumidor esta endividado (estoque enxuto, ticket, promocao sem destruir margem, caixa). Pegar carona na data (12/10) -- publicar antes de segunda.
+SINALIZACAO GUARDRAIL POLITICO: 'Polemica adjacente' (3/5) vem do pano de fundo de juros/endividamento em ano eleitoral. O roteiro NAO comenta politica, governo, BC ou partidos; so efeito pratico no caixa e no planejamento do lojista.
+
+CANDIDATO 2 -- Habib's / Grupo Gennius: recuperacao judicial (R$ 265,2 mi) por pandemia, delivery e juros altos
+Fato: Gennius (Habib's, Ragazzo, Tendall Grill) protocolou RJ em 24/08/2026 (aceita em 25/08, 1a Vara de Falencias e RJ de SP, KPMG como administradora judicial); divida declarada R$ 265,2 mi; ~60 dias para apresentar plano aos credores (prazo cai por volta de fim de outubro); lojas operando. Fonte relata bancos retendo recebiveis e Justica negando liberacao de recebiveis dados em garantia. Fato de agosto, sem cobertura nova localizada hoje.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/dono-de-habibs-e-ragazzo-entra-em-recuperacao-judicial-com-divida-de-r-265-milhoes/
+Fonte complementar: Mercado&Consumo -- https://mercadoeconsumo.com.br/26/08/2026/foodservice/grupo-gennius-controlador-do-habibs-entra-em-recuperacao-judicial-com-divida-de-r-265-milhoes/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: runner-up
+Angulo: franquia/food service, delivery com margem fina + divida cara + recebiveis como garantia. Evitar repetir o enquadramento "juros" da Casas Bahia (01/10).
+
+CANDIDATO 3 -- Conn's (EUA): rede de ~553 lojas pede falencia e fecha todas as unidades
+Fato: segundo noticia de 08/10, a rede americana de varejo (eletro/moveis) pediu falencia e prepara fechamento de todas as lojas; juros altos, inflacao e aquisicao malsucedida citados como agravantes. Unica fonte localizada e veiculo de baixa autoridade -- confirmar em fonte primaria (Bloomberg/Reuters/arquivo judicial) antes de qualquer uso.
+Fonte: O Antagonista -- https://oantagonista.com.br/economia/depois-de-mais-de-130-anos-no-varejo-rede-com-553-lojas-entra-em-falencia-e-prepara-o-fechamento-de-todas-as-unidades-porque-juros-altos-inflacao-e-uma-aquisicao-malsucedida-agravaram-uma-estrutura/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 21/35
+Status: runner-up
