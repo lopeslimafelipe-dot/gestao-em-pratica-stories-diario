@@ -1,0 +1,37 @@
+PAUTA DO DIA -- 2026-10-11
+Assunto: Chilli Beans: calote de R$ 16,5 mi em debenture de R$ 100 mi, vencimento antecipado suspenso e prazo ate 26/10 pra negociar
+Score final: 30/35 (Frescor 5, Relevancia do protagonista 4, Gravidade 4, Polemica adjacente 4, Volume de cobertura 4, Clareza do angulo 4, Identificacao com audiencia 5)
+
+Fato central verificado: A Mustang 25 Participacoes (holding que controla a Chilli Beans; o fundador Caito Maia e avalista) tem debentures de R$ 100 mi, estruturadas em fev/2025 via Vert Companhia Securitizadora, quirografarias (sem garantia real), vencimento original em 29/01/2029, remuneracao DI + 3,9% a.a. Deixou de pagar parcelas de julho e agosto, somando R$ 16,5 mi. Em 30/09 a Vert declarou o vencimento antecipado (saldo de ~R$ 89 mi). Em assembleia de 02/10 os credores suspenderam temporariamente o vencimento antecipado; a empresa tem ate 26/10 para negociar as parcelas atrasadas. Nao e perdao da divida nem acordo definitivo. Em paralelo, a empresa diz negociar de forma "avancada e amigavel" com bancos para alongar prazos e reduzir juros, e nega discutir recuperacao judicial.
+Verificacao: fato central conferido por WebSearch (trechos de Economic News Brasil, 09/10, e Bloomberg Linea batem com o rascunho). WebFetch bloqueado (DNS); a materia nao foi aberta na integra. Desfecho apos 02/10 nao encontrado -- o que acontece em 26/10 segue indefinido.
+Cadeia causal (o que levou a isso): 
+1) Expansao acelerada: em fev/2025 a empresa citava mais de 1.000 pontos de venda e plano de abrir mais 400 lojas, apostando em franquias (Mercado & Consumo, 09/05/2024; Bloomberg Linea) 
+2) Divida bruta crescendo: R$ 216 mi (fim de 2023) -> R$ 290 mi (2024), +~34%, dados nao auditados (Times Brasil) 
+3) Debenture de R$ 100 mi (fev/2025) com custo atrelado ao DI + 3,9%, para reperfilar passivos, sem garantia real e com o fundador como avalista 
+4) Parcelas de jul/ago nao pagas (R$ 16,5 mi) -> vencimento antecipado em 30/09 (exigiria os ~R$ 89 mi de uma vez) 
+5) Credores suspendem a aceleracao em 02/10 e dao ate 26/10 pra renegociar; empresa busca alongar com bancos e trocou o comando financeiro/reestruturacao (vice-presidente André Dela Togna desde 01/10, com experiencia em reestruturacao; Caito Maia segue CEO).
+Por que esta repercutindo agora: Frescor maximo (assembleia 02/10 e novo prazo noticiados 08-09/10), marca conhecidissima do varejo, fundador-celebridade como avalista, e identificacao total com o publico: dono de PME que cresceu com divida. Pesaram: Frescor 5, Identificacao 5 e Gravidade/Volume/Clareza 4.
+Angulo de gestao sugerido: Crescer com divida exige casar o prazo e o custo da divida com o fluxo de caixa. Licoes praticas: (a) covenants e clausulas de vencimento antecipado transformam um atraso pequeno (R$ 16,5 mi) numa cobranca de R$ 89 mi; (b) divida sem garantia e com aval pessoal mistura risco da empresa com patrimonio do dono; (c) negociar com credores ANTES do atraso, nao depois; (d) monitorar o caixa de quem esta na ponta (a empresa lancou o ChilliPay, com a Zoop, para ter visibilidade da saude financeira das franquias); (e) quem pode crescer em vendas (a empresa projeta +10% no ano) ainda assim sufocar no caixa -- faturamento nao e fluxo de caixa.
+Dados de apoio:
+- Debenture: R$ 100 mi, vencimento 29/01/2029, DI + 3,9% a.a., quirografaria, aval de Caito Maia -- Economic News Brasil (https://economicnewsbrasil.com.br/2026/10/09/dividas-chilli-beans-novo-prazo-credores/)
+- Divida bruta R$ 216 mi (2023) -> R$ 290 mi (2024), nao auditada -- Times Brasil (https://timesbrasil.com.br/empresas-e-negocios/chilli-beans-preve-crescer-10-mesmo-com-divida-de-r-290-milhoes/)
+- Estimativa de mercado de ~R$ 500-600 mi de divida total, NAO confirmada pela empresa -- Economic News Brasil (https://economicnewsbrasil.com.br/2026/09/01/crise-da-chilli-beans-divida-600-milhoes/)
+- Plano de expansao: +400 oticas de rua ate 2025 -- Mercado & Consumo (https://mercadoeconsumo.com.br/09/05/2024/franquias/plano-de-expansao-da-chilli-beans-preve-a-abertura-de-400-oticas-de-rua-ate-2025/)
+- BNDES aprovou R$ 30 mi de capital de giro para a Chilli Beans e franqueados (abr/2025) -- Mercado & Consumo (https://mercadoeconsumo.com.br/16/04/2025/noticias/bndes-aprova-r-30-mi-para-capital-de-giro-a-chilli-beans-e-franqueados-do-grupo-varejista)
+- Novo VP com foco em reestruturacao desde 01/10 -- Bandab / Times Brasil (https://www.bandab.com.br/economia/chilli-beans-faz-troca-de-comando-dividas/)
+- Gestoras (Akron e Vega) que compraram debentures no mercado secundario avaliam fornecer novos recursos; recuperacao extrajudicial "nao descartada" segundo uma reportagem (fonte unica, tratar com cautela) -- Economic News Brasil (link do fato central)
+Ressalva/limite: (1) A empresa NEGA recuperacao judicial -- nao afirmar que vai quebrar nem que vai pedir RJ; o NeoFeed noticiou que analisava RJ, a empresa contesta. (2) Divida total de R$ 500-600 mi e estimativa de mercado contestada/nao confirmada; usar so os numeros verificados (R$ 100 mi, R$ 16,5 mi, ~R$ 89 mi) ou atribuir claramente. (3) A suspensao do vencimento antecipado NAO e perdao nem acordo definitivo; desfecho em 26/10 desconhecido. (4) Divergencia menor de data da emissao (fev/2025 estruturada vs. mar/2025 em outra fonte): dizer "inicio de 2025". (5) GUARDRAIL POLITICO: 'Polemica adjacente' pesou no score (juros altos/endividamento de empresas). NAO comentar politica, governo, partido, figura politica nem o debate macroeconomico; falar apenas de alavancagem, fluxo de caixa x prazo da divida e renegociacao. Sem recomendacao de investimento.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- o Copywriter escreve o final, secao 2.4, adaptado pra duracao maior):
+- Hook: conflito especifico -- uma empresa com mais de 1.000 lojas e vendas crescendo atrasou R$ 16,5 mi... e a cobranca virou R$ 89 mi.
+- Contexto/causa raiz: expansao rapida, divida crescendo, debenture sem garantia com aval do fundador.
+- Desenvolvimento da cadeia causal: atraso jul/ago -> vencimento antecipado 30/09 -> assembleia 02/10 -> prazo ate 26/10 -> negociacao com bancos e novo comando de reestruturacao.
+- Licao de gestao (a virada): crescimento sem casar prazo/custo da divida com o caixa; renegociar antes do atraso; cuidado com clausula de vencimento antecipado e com aval pessoal.
+- Fechamento + CTA.
+
+Fonte(s): Economic News Brasil -- https://economicnewsbrasil.com.br/2026/10/09/dividas-chilli-beans-novo-prazo-credores/ ; Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/chilli-beans-busca-acordo-com-bancos-para-reestruturar-divida-e-alongar-prazos/ ; Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/o-que-aconteceu-com-a-chilli-beans-entenda-a-crise-da-empresa/
+
+Runners-up do dia (registro/transparencia):
+- Ibovespa recorde (+8,82% na semana) com queda dos juros futuros -- 27/35 (descartada: terreno politico/eleitoral e tema proximo da pauta de 06/10)
+- Habib's/Ragazzo (Grupo Gennius): RJ com divida de R$ 265,2 mi -- 25/35 (fato de agosto; gancho possivel: plano de RJ vence ~final de out)
+- Oi: balanco 2025 com prejuizo de R$ 36,4 bi e parecer adverso da PwC -- 23/35 (ja foi pauta em 04/10)
