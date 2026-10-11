@@ -1,0 +1,59 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-10-11
+Obs: busca web retornou pouco material datado de 10-11/10 (fim de semana); candidatos baseados nas manchetes de 8-9/10. Cobertura primaria (InfoMoney) nao abriu via fetch -- fato conferido em multiplos veiculos via busca; revisar na Etapa 2.
+
+CANDIDATO 1 -- Chilli Beans: calote de R$ 16,5 mi, debenture de R$ 100 mi com vencimento antecipado e prazo ate 26/10 pra renegociar
+Fato: A holding Mustang 25 Participacoes (controla a Chilli Beans; fundador Caito Maia e avalista) emitiu em fev/2025 debentures de ate R$ 100 mi (quirografarias). Deixou de pagar ~R$ 16,5 mi em parcelas (jul/ago); a securitizadora Vert declarou vencimento antecipado em 30/09 (divida de ~R$ 89 mi). Em assembleia de 02/10 os credores suspenderam o vencimento antecipado: a empresa tem ate 26/10 pra negociar os valores atrasados -- nao e perdao nem acordo definitivo. Paralelamente negocia com bancos alongamento e reducao de juros (reportagens citam divida total de R$ 500-600 mi, numero que a empresa contesta). Empresa nega discutir recuperacao judicial.
+Fonte: economicnewsbrasil -- https://economicnewsbrasil.com.br/2026/10/09/dividas-chilli-beans-novo-prazo-credores/ (cobertura tambem em Bloomberg Linea: https://www.bloomberglinea.com.br/negocios/chilli-beans-busca-acordo-com-bancos-para-reestruturar-divida-e-alongar-prazos/ ; manchete InfoMoney de 08-09/10; Times Brasil; Meio & Mensagem)
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 30/35
+Status: VENCEDOR DO DIA
+Nota guardrail: 'Polemica adjacente' pesa por pegar carona na discussao ampla de juros altos/endividamento de empresas e RJs em recorde. Roteiro deve falar so de gestao (alavancagem, expansao com divida, fluxo de caixa x prazo da divida, renegociar antes do calote), SEM comentar politica, partido ou governo. Cuidado: empresa nega RJ -- nao afirmar que vai quebrar; divida total R$ 500-600 mi e estimativa contestada.
+
+CANDIDATO 2 -- Oi: balanco 2025 com prejuizo de R$ 36,4 bi e parecer adverso da PwC
+Fato: Balanco de 2025 divulgado na noite de 07/10 apos varios adiamentos, ainda sob recuperacao judicial; prejuizo de R$ 36,4 bi (vs lucro contabil de ~R$ 9,6 bi em 2024), resultado financeiro negativo de ~R$ 33,1 bi (reversao de ajustes de novacao de passivos); PwC emitiu opiniao adversa. Receita divergente entre fontes (Teletime R$ 3,4 bi c/ descontinuadas; Suno ~R$ 2,6 bi).
+Fonte: Teletime -- https://www.teletime.com.br/08/10/2026/oi-2025-prejuizo-r-364-bilhoes/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 2/5
+TOTAL: 23/35
+Status: runner-up (obs: Oi ja foi pauta em 2026-10-04 -- dentro da janela de 10 dias)
+
+CANDIDATO 3 -- Ibovespa recorde (+8,82% na semana) com expectativa eleitoral e queda dos juros futuros
+Fato: Ibovespa fechou a semana (ate 09/10) em alta de 8,82%, recorde, com imobiliario (+5,49%) e consumo domestico liderando por queda dos juros futuros; ~206 mil pontos.
+Fonte: ADVFN -- https://br.advfn.com/jornal/2026/10/ibovespa-bate-recorde-e-sobe-8-82-na-semana-com-otimismo-eleitoral-e-queda-dos-juros-futuros
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 3/5
+TOTAL: 27/35
+Status: runner-up (obs: tema muito proximo da pauta de 2026-10-06; atribuicao a pesquisas eleitorais e terreno politico -- evitar)
+
+CANDIDATO 4 -- Habib's/Ragazzo (Grupo Gennius): RJ com divida de R$ 265,2 mi
+Fato: Pedido de RJ em 24/08/2026 (SP), 119 lojas Habib's, 26 Ragazzo, 6 Tendall; ~R$ 22,3 mi trabalhistas e R$ 241,7 mi quirografarios; 60 dias pra plano (prazo cai ~final de out); causas citadas: pandemia, delivery, Selic alta.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/dono-de-habibs-e-ragazzo-entra-em-recuperacao-judicial-com-divida-de-r-265-milhoes/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 25/35
+Status: runner-up (fato de agosto; gancho possivel: plano de RJ vence em ~out)
