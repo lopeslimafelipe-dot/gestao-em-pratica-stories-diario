@@ -1,0 +1,29 @@
+PAUTA DO DIA -- 2026-10-12
+Assunto: Casas Bahia: laudo da recuperacao judicial mostra estoque dado em garantia -40% e 4,6 mil pessoas a menos
+Score final: 29/35 (Frescor 3/5, Relevancia do protagonista 5/5, Gravidade 5/5, Polemica adjacente 3/5, Volume de cobertura 4/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: Laudo preliminar da administradora judicial ACFB, protocolado em 02/10/2026 no processo de RJ do Grupo Casas Bahia, cobre abril a agosto de 2026 e aponta: reducao de 4.647 pessoas no quadro em agosto; queda de 40,5% no estoque oferecido como garantia aos credores (de R$ 3,18 bi para R$ 1,89 bi); areas ociosas em centros de distribuicao; necessidade possivel de aporte de ate R$ 257,1 mi no ponto mais critico do periodo; vendas digitais -35% entre julho e agosto. A CVM pediu esclarecimentos apos reportagem do Valor (05/10); a empresa confirmou que o laudo existe, mas diz que e preliminar, que nao reflete a avaliacao dela e que as avaliacoes sao de responsabilidade da administradora nomeada. A Justica ainda nao decidiu se processa a RJ. 
+CORRECAO ao rascunho: o "-40%" refere-se ao estoque oferecido em garantia aos credores (nao necessariamente ao estoque total) -- usar essa formulacao no video.
+Cadeia causal (o que levou a isso): oito trimestres seguidos de prejuizo -> divida e passivos que o caixa nao sustenta (R$ 17,32 bi declarados, ~28,8 mil credores) -> pedido de RJ em agosto -> sem credito fresco, a operacao encolhe: menos estoque, menos gente, menos venda -> estoque menor reduz vendas, que reduz caixa e a garantia que sustenta a negociacao com credores (ciclo que se retroalimenta).
+Por que esta repercutindo agora: laudo vazou via Valor em 05/10 e a CVM cobrou a empresa; protagonista muito conhecido, gravidade maxima (RJ de varejista gigante) e alta identificacao com donos de PME (caixa, estoque, equipe, credito).
+Angulo de gestao sugerido: estoque e equipe sao os primeiros a ceder quando o caixa aperta -- e encolher o estoque tambem encolhe a venda. A licao para o dono de empresa: acompanhar giro de estoque, necessidade de capital de giro e dependencia de credito ANTES do aperto; o que o laudo mostra por dentro da operacao e o que um caixa pressionado faz com a operacao.
+Dados de apoio: 
+- Pedido de RJ com R$ 17,32 bi em passivos (~R$ 16,4 bi quirografarios, R$ 754 mi trabalhistas, ~R$ 154 mi com micro e pequenas empresas); dez empresas do grupo, 2a Vara de Falencias e RJ de SP (Correio da Manha: https://www.correiodamanha.com.br/economia/2026/08/311441-casas-bahia-pede-recuperacao-judicial-para-renegociar-rs-173-bilhoes-em-dividas.html)
+- Prejuizo de R$ 10,1 bi no 2T26, dos quais ~R$ 9,1 bi sao efeitos contabeis/extraordinarios sem saida imediata de caixa; prejuizo ajustado de R$ 978 mi; oitavo trimestre seguido de prejuizo (Forbes Brasil: https://forbes.com.br/forbes-money/2026/08/casas-bahia-prejuizo-recuperacao-judicial/ ; TNH1: https://www.tnh1.com.br/noticia/nid/casas-bahia-tem-prejuizo-de-r-101-bi-e-avalia-recuperacao-extrajudicial-ou-judicial/)
+- Operacao segue: 735 de 744 lojas abertas e 25 de 29 CDs ativos (Times Brasil: https://timesbrasil.com.br/brasil/casas-bahia-confirma-veracidade-de-laudo-que-aponta-corte-de-46-mil-funcionarios-e-queda-superior-a-40-nos-estoques/)
+- Empresa fechou 298 lojas pouco rentaveis no Plano de Transformacao (iniciado em 2023) (cobertura de agosto, agregada via busca)
+- Divergencia entre fontes: divida bruta citada como R$ 8,27 bi ou R$ 8,1 bi em 30/06 -- evitar citar esse numero.
+Ressalva/limite: laudo e PRELIMINAR e nao foi apreciado pela Justica; sempre atribuir ("segundo o laudo da administradora judicial") e citar a ressalva da empresa. Nao foi verificado: suspensao de cobrancas por 180 dias (28/08) e "reestruturacao extrajudicial de 2024 desfeita" -- constam do rascunho, mas nao confirmei; nao usar. Guardrail politico: 'Polemica adjacente' pesou (juros/economia do pais). NAO comentar politica, partido, governo ou o debate sobre juros; angulo e so gestao (caixa, estoque, equipe, dependencia de credito). Nada de recomendacao de investimento/acoes (BHIA3).
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4, adaptado pra duracao maior):
+- Hook: conflito especifico (ex.: gigante com 735 lojas abertas, mas estoque dado em garantia caiu 40% e 4,6 mil vagas sumiram em meses)
+- Contexto/causa raiz: oito trimestres de prejuizo, R$ 17,3 bi de passivos, pedido de RJ
+- Desenvolvimento da cadeia causal: caixa aperta -> estoque encolhe -> venda cai -> caixa aperta mais
+- Licao de gestao (a virada): olhar giro de estoque e capital de giro antes do aperto; cortar estoque nao e economia se corta a venda
+- Fechamento + CTA
+
+Fonte(s): InfoMoney -- https://www.infomoney.com.br/mercados/casas-bahia-afirma-que-laudo-sobre-estoque-e-preliminar-mas-confirma-informacoes/ (citada no rascunho; WebFetch bloqueado, confirmado por busca via Times Brasil e Folha PE: https://www.folhape.com.br/economia/casas-bahia-tem-reducao-de-estoque-e-menos-46-mil-funcionarios/516870/)
+
+Runners-up do dia (registro/transparencia):
+- Recuperacoes judiciais em recorde (Serasa Experian): 2.466 CNPJs em 2025 -- 22/35
+- Grupo Mateus: 28 lojas fechadas, ~6,6 mil vagas a menos -- 18/35
