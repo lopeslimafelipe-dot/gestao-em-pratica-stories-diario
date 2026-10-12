@@ -1,0 +1,46 @@
+RADAR DE REPERCUSSAO -- 2026-10-12 (segunda)
+Nota: busca web retornou pouco conteudo datado de hoje; webfetch indisponivel (sem acesso direto aos sites). Fatos abaixo vem de snippets de busca -- confirmar na fonte original na Etapa 2. Braskem (pauta de 07/10) e Chilli Beans (pauta de 11/10) ficaram FORA por repeticao nos ultimos 10 dias.
+
+CANDIDATO 1 -- Casas Bahia: laudo da recuperacao judicial revela estoque -40% e 4,6 mil cortes
+Fato: Laudo preliminar de constatacao previa (administradora judicial ACFB) protocolado em 02/10/2026 no processo de RJ do Grupo Casas Bahia (R$ 17,3 bi de dividas sujeitas; prejuizo de R$ 10,1 bi no 2T; juiza deferiu em 28/08 a suspensao de cobrancas por 180 dias). Segundo o Valor, o laudo aponta corte de ~40% do estoque e reducao de ~4,6 mil pessoas no quadro; a CVM pediu esclarecimentos e a empresa confirmou que o laudo existe e que os trechos publicados refletem seu conteudo em linhas gerais, ressalvando que e preliminar e ainda nao foi apreciado pela Justica. Processamento da RJ ainda pendente de decisao. Empresa atribui a crise a juros altos e demanda fraca (reestruturacao extrajudicial de 2024 foi desfeita).
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/casas-bahia-afirma-que-laudo-sobre-estoque-e-preliminar-mas-confirma-informacoes/
+(apoio: Money Times https://www.moneytimes.com.br/casas-bahia-bhia3-responde-a-cvm-e-diz-que-laudo-da-recuperacao-judicial-e-preliminar-lmrs/ ; BPMoney https://bpmoney.com.br/mercado/casas-bahia-bhia3-responde-a-cvm-e-contesta-conclusoes-de-laudo-da-recuperacao-judicial/ ; Bloomberg Linea https://www.bloomberglinea.com.br/negocios/casas-bahia-protocola-recuperacao-judicial-apos-quatro-anos-de-alerta-do-mercado/)
+Score de Repercussao:
+- Frescor: 3/5 (laudo 02/10, CVM/resposta da empresa nos dias seguintes; sem confirmar fato novo de hoje)
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+ATENCAO (guardrail politico): 'Polemica adjacente' pesa pouco (3/5) -- o tema encosta na discussao de juros/economia do pais. O roteiro NAO deve comentar politica, partido ou governo; angulo apenas gestao: o que um estoque cortado pela metade e uma equipe enxugada dizem sobre caixa, juros e dependencia de credito. Ja houve video de referencia sobre a RJ (juros altos); aqui o gancho e novo: o que o laudo mostra por dentro da operacao.
+
+CANDIDATO 2 -- Recuperacoes judiciais em recorde (Serasa Experian): 2.466 CNPJs em 2025
+Fato: Recuperacoes judiciais bateram recorde da serie (desde 2012) em 2025 -- 2.466 CNPJs, +12,9% vs 2024; 1T26 com 194 processos e 440 CNPJs. Dado de contexto, nao ha release novo de setembro/2026 confirmado hoje.
+Fonte: Band/Serasa Experian -- https://www.band.com.br/economia/noticias/serasa-experian-recuperacao-judicial-cresce-em-2025-e-atinge-maior-n-de-empresas-desde-2012-202604070948
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 22/35
+Status: runner-up (pode servir de contexto/gancho complementar ao vencedor)
+
+CANDIDATO 3 -- Grupo Mateus: 28 lojas fechadas e ~6,6 mil vagas a menos (13,9% do quadro)
+Fato: Quadro foi de 47,9 mil para 41,2 mil entre 2025 e 1T26; fechou 28 lojas (BA, CE, MA, PI, SE, PA) mas abriu 11 unidades no 1S26; empresa chamou de 'ajuste operacional' (Valor). Reportagens recicladas de junho voltaram a circular em 11/10 -- fato nao e novo.
+Fonte: Estado de Minas -- https://www.em.com.br/emfoco/2026/06/07/gigante-dos-supermercados-fecha-28-lojas-e-promove-demissao-em-massa-de-6-mil-funcionarios/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 18/35
+Status: runner-up (fraco; numeros divergem entre veiculos)
