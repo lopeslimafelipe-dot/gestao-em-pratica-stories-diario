@@ -1,0 +1,37 @@
+ROTEIRO 1 -- O ChatGPT agora monta a ferramenta
+"O ChatGPT agora responde montando a ferramenta na hora. Segundo a TechCrunch, a OpenAI lançou em 7 de outubro o GPT-6 com o Intelligent UI: em vez de só texto, vêm gráficos, formulários e calculadoras, como divisor de conta e simulador de aposentadoria. 🟡`Se uma calculadora ou um painel sai pronto em segundos, ter planilha deixa de ser diferencial. O gargalo vira saber qual decisão tomar com ela.`🟡 É lançamento da própria OpenAI, ainda sem teste independente. Você ainda paga por ferramenta que a IA monta de graça?"
+Fonte: TechCrunch -- https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/
+
+ROTEIRO 2 -- Pagou 42% de prêmio e a bolsa puniu
+"A Schneider Electric pagou 42% de prêmio pela PTC, empresa de software industrial, e levou castigo da bolsa no mesmo dia. Segundo a Bloomberg, a compra é de 22,6 bilhões de dólares. 🟡`As ações da PTC subiram mais de 30%; as da Schneider caíram cerca de 10% em Paris.`🟡 Um analista disse que a PTC estava barata pelo medo da IA. 🟡`O mercado valoriza quem tem os dados e os processos do cliente, não só a camada de IA.`🟡 O que no seu negócio a IA não consegue copiar?"
+Fonte: Bloomberg -- https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion
+
+ROTEIRO 3 -- 16 de 25 ramos produziram menos
+"A indústria brasileira recuou em agosto, e a maioria dos ramos sentiu. Segundo o IBGE, a produção industrial caiu 0,6% sobre julho, e 🟡`16 dos 25 ramos produziram menos`🟡; contra agosto do ano passado, a queda é de 1,2%. O mercado esperava leve alta. O IBGE aponta juros ainda altos e investimentos adiados. 🟡`Se quem fabrica segura a compra de máquina, vale perguntar: expandir a crédito agora é coragem ou aposta contra a maré?`🟡 Lembrando: indústria é só um recorte da economia."
+Fonte: Mercado & Consumo -- https://mercadoeconsumo.com.br/02/10/2026/economia/pressionada-por-bens-de-consumo-producao-industrial-cai-06-em-agosto/
+
+ROTEIRO 4 -- Os grandes pisaram no freio
+"Complementando o dado de CFOs que mostrei na quinta: confiança subiu, mas o apetite por risco caiu. Na pesquisa da Deloitte com 200 CFOs de grandes empresas americanas, 🟡`90% estão otimistas com a própria empresa, mas só 37,5% avaliam bem a economia`🟡. 🟡`O apetite por assumir mais risco caiu de 59% para 53%.`🟡 É amostra de gigantes dos EUA, não de PME brasileira. Mesmo assim, quem tem caixa de bilhão calibra a ousadia. Você está acelerando mais do que os grandes?"
+Fonte: CFO Dive -- https://www.cfodive.com/news/cfo-economic-optimism-ticks-back-up-in-q3-deloitte/831757/
+
+ROTEIRO 5 -- Nota fiscal com IBS e CBS: duas datas
+"Prazo da reforma tributária na nota fiscal. Pelo Ato Conjunto da Receita e do Comitê Gestor, o destaque de IBS e CBS é escalonado: 🟡`em 1º de dezembro entram os demais serviços, e em 1º de janeiro de 2027, todo o Simples Nacional.`🟡 Atenção: a Receita comunicou tolerância com campos vazios, então confira a regra vigente no site dela. É prazo diferente do 30 de outubro que citei. 🟡`Nota rejeitada é venda travada.`🟡 Seu sistema emissor já está pronto?"
+Fonte: NFe.io -- https://nfe.io/blog/reforma-tributaria/novo-calendario-ibs-cbs-ate-2027/
+
+ROTEIRO 6 -- Corte em prestações na Amazon
+"A Amazon fez mais um corte, em plena Prime Big Deal Days. Segundo a Reuters, foram menos de mil funcionários administrativos do varejo, número de fonte anônima; a empresa só confirmou um ajuste pequeno. 🟡`Vem depois de cerca de 30 mil vagas cortadas`🟡 em rodadas anteriores. 🟡`Reestruturação virou rotina, feita em prestações.`🟡 Quanto do seu quadro é decisão de ontem que ninguém revisou?"
+Fonte: Reuters (via Khaleej Times) -- https://www.khaleejtimes.com/business/amazon-makes-fresh-job-cuts-mainly-in-retail-division-2
+
+ROTEIRO 7 -- JAC: de 50 lojas a 2ª recuperação
+"A JAC Motors pediu a segunda recuperação judicial. Segundo o Vrum, o Grupo SHC, de Sérgio Habib, protocolou o pedido em 6 de outubro, com 44 empresas e 🟡`239,5 milhões de reais sujeitos à recuperação, 97% com bancos e fundos`🟡. A primeira terminou em maio de 2025. A marca chegou a abrir 50 lojas num dia e hoje teria três. 🟡`Crescer rápido com dívida bancária é a receita mais antiga da quebra.`🟡 O pedido ainda não foi deferido. Seu crescimento é financiado por caixa ou por banco?"
+Fonte: Vrum -- https://www.vrum.com.br/mercado/2026/10/7518134-jac-motors-enfrenta-nova-crise-e-pede-recuperacao-judicial-no-brasil.html
+
+ROTEIRO 8 -- Foguete derruba três gigantes
+"Uma empresa de foguetes derrubou três gigantes num dia. A SpaceX anunciou a compra do espectro de 800 MHz da Grain, por cerca de 8 bilhões de dólares segundo o WSJ, valor que as empresas não confirmaram. 🟡`AT&T, Verizon e T-Mobile caíram entre 5% e 10% no pré-mercado.`🟡 Falta a aprovação da FCC. 🟡`Quem controla o recurso escasso redefine o setor.`🟡 Qual é o recurso escasso do seu mercado, e quem está de olho nele?"
+Fonte: SDxCentral -- https://www.sdxcentral.com/news/spacex-to-acquire-grains-800-mhz-spectrum-assets-to-further-advance-carrier-ambitions/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] Sua empresa está segurando investimento por causa do juro alto? A) Sim, estou esperando B) Não, estou expandindo
+2. [Pergunta/Participacao, Roteiro 7] Caixinha: Você já cresceu rápido demais usando dívida? O que aprendeu? Conta aqui (sem citar nomes).
+3. [Virar Historia, Roteiro 2 -> Estilo Comparativo] Colocar lado a lado "PTC +30%" e "Schneider -10%" no mesmo dia, pela mesma compra. O contraste de números opostos sobre a mesma notícia sustenta o estilo sozinho.
