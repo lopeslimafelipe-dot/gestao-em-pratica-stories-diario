@@ -1,0 +1,59 @@
+RADAR DE REPERCUSSAO 2026-10-13 (Etapa 1)
+Nota: busca web retornou pouco material datado de 12-13/10 e WebFetch de varios sites falhou (rede). Fatos conferidos por trechos de busca; Etapa 2 deve reconfirmar na fonte oficial. Braskem (10/07), Bolsa/dolar (10/06) e Dia das Criancas (10/10) ficaram de fora por repeticao na janela de 10 dias.
+
+CANDIDATO 1 -- Simples Nacional 2027: opcao encerra quinta, 15/10
+Fato: O prazo para solicitar a opcao pelo Simples Nacional para o ano-calendario de 2027 vai de 01/09 a 15/10/2026 (prorrogado pela Resolucao CGSN 194/2026, publicada no DOU em 28/09/2026); efeitos a partir de 01/01/2027. Quem tiver pedido indeferido por debitos ou inconsistencias cadastrais tem ate 30/10 para regularizar. A opcao pelo regime regular de IBS/CBS (reforma tributaria) e decisao separada, ate 30/10, com efeito no 1o semestre de 2027. Periodo de cancelamento das opcoes: 03/11 a 20/12. CNPJs abertos entre 16/10 e 31/12 nao seguem o prazo geral. Nao confirmado: se o MEI segue o mesmo calendario (nao afirmar no video).
+Fonte: Receita Federal / Agencia Gov -- https://agenciagov.ebc.com.br/noticias/202609/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade (pagina nao abriu aqui; confirmado por trechos de busca) | O Povo -- https://mais.opovo.com.br/jornal/farol/2026/09/30/simples-nacional-2027-prazo-de-adesao-e-prorrogado-ate-15-de-outubro.html | Meu Contador Online -- https://www.meucontadoronline.com.br/blog/simples-nacional-2027/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 27/35
+Status: VENCEDOR DO DIA
+Obs. guardrail: "Polemica adjacente" (reforma tributaria/IBS-CBS) pesou so no tema; o roteiro NAO comenta politica, governo ou a reforma em si -- so o efeito pratico (escolher regime, regularizar debito, prazo, comparar carga). Sem recomendacao tributaria individual: orientar a conferir com o contador. Angulo de gestao: decisao de regime tributario como decisao de caixa/margem, feita com simulacao e antes do prazo; debito pendente derruba a opcao.
+
+CANDIDATO 2 -- Paramount Skydance x Warner Bros. Discovery (~US$ 110 bi)
+Fato: g1 (06/10/2026) reporta conclusao da compra por ~US$ 110 bi (US$ 31/acao), nova empresa com ~US$ 80 bi de divida e meta de US$ 6 bi em economia (possiveis cortes). CONFLITO: outras paginas falam em suspensao judicial temporaria e contestacao de 12 estados, com julgamento em 02/03/2027 -- status nao confirmado.
+Fonte: TNH1/g1 -- https://www.tnh1.com.br/noticia/nid/paramount-conclui-compra-da-warner-bros-por-us-110-bilhoes/ | Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/acionistas-da-warner-aprovam-acordo-de-aquisicao-pela-paramount-por-us-110-bilhoes/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 24/35
+Status: runner-up
+
+CANDIDATO 3 -- Recuperacao judicial em recorde: 6.341 empresas ativas no 1S26, juros altos pressionam
+Fato: Monitor RGF-BizDoc: 6.341 empresas em RJ ativa ao fim do 1S26 (+~6,2% vs fim de 2025), crescimento maior em micro e pequenas; comercio lidera. Panorama, nao fato novo do dia (ja apareceu como runner-up em 10/04).
+Fonte: Revista Oeste -- https://revistaoeste.com/economia/brasil-tem-63-mil-empresas-em-recuperacao-judicial/ | ADVFN -- https://br.advfn.com/jornal/2026/10/recuperacao-judicial-bate-recorde-no-brasil-juros-altos-mantem-pressao-sobre-empresas-endividadas
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: runner-up
+
+CANDIDATO 4 -- Kroger corta ~3.000 cargos corporativos (~37%) por excesso de camadas
+Fato: item do rascunho do Curador de hoje; busca NAO confirmou o numero (so achou corte de ~1.000 em ago/2025). Nao usar sem confirmar.
+Fonte: nao confirmada (rascunhos/2026-10-13-rascunho.txt do Curador)
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 21/35
+Status: runner-up (nao verificado)
