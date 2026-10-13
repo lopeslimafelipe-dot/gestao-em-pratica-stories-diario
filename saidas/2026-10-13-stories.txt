@@ -1,0 +1,37 @@
+ROTEIRO 1 -- Antes de automatizar, mapeie
+"A ServiceNow lançou o AI Workflow Factory, e o detalhe está na ordem. Segundo a empresa, em 6 de outubro, o ciclo começa pelo Process Mining, que mostra onde o processo vaza, e só depois vêm os agentes que constroem e rodam a melhoria. 🟡`Quem automatiza antes de mapear o processo automatiza o desperdício.`🟡 É produto para grande empresa e lançamento da própria fabricante, sem teste independente ainda. Você já sabe onde o seu processo vaza?"
+Fonte: Futurum -- https://futurumgroup.com/insights/servicenow-launches-ai-workflow-factory-to-close-the-ai-execution-gap/
+
+ROTEIRO 2 -- Hollywood se juntou para não virar nicho
+"A Paramount concluiu em 6 de outubro a compra da Warner Bros. Discovery, por cerca de 110 bilhões de dólares contando a dívida, segundo a imprensa americana. 🟡`Quando o rival tem muito mais caixa, ou você junta forças ou vira nicho.`🟡 E a fusão não foi de graça: 🟡`12 estados e o sindicato de roteiristas atrasaram o fechamento por meses.`🟡 Se um gigante precisa de escala, e a sua empresa, o que ganha sozinha?"
+Fonte: CBS News -- https://www.cbsnews.com/news/paramount-warner-bros-discovery-deal-skydance/
+
+ROTEIRO 3 -- O Google comprou a fila da energia
+"O Google fechou com a Constellation um acordo de 3.590 megawatts de energia. Segundo a CNBC, 🟡`890 megawatts são de capacidade nuclear nova, num contrato de 20 anos.`🟡 A Constellation diz que isso viabiliza mais de 4,3 bilhões de dólares em investimento. 🟡`O gargalo da IA já não é só o chip, é a tomada.`🟡 O Google não compra só energia: compra a frente da fila. Qual é o seu insumo escasso?"
+Fonte: CNBC -- https://www.cnbc.com/2026/10/06/google-enters-massive-3point6-gw-power-deal-with-constellation-energy-.html
+
+ROTEIRO 4 -- Simples 2027: decida até quinta
+"Prazo curto: a opção pelo Simples Nacional para 2027 vai só até quinta, 15 de outubro. Segundo a Receita, a Resolução CGSN 194 prorrogou o prazo de 30 de setembro, e a opção vale a partir de 1º de janeiro de 2027. 🟡`Quem perde o prazo espera um ano.`🟡 Se houver pendência, dá para regularizar até 30 de outubro. 🟡`Em ano de IBS e CBS, escolher sem simular é apostar o caixa.`🟡 Seu contador já fez a conta?"
+Fonte: Receita Federal -- https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade
+
+ROTEIRO 5 -- Mais IA, menos treinamento
+"A PwC ouviu 49.364 trabalhadores em 48 países e achou um descompasso. 🟡`O uso de IA no trabalho subiu 10 pontos, para 64%, mas só 51% dizem ter o aprendizado de que precisam, contra 59% um ano antes.`🟡 No grupo da linha de frente, só 2 em 5 têm esse acesso. É pesquisa de percepção, global. 🟡`Cobrar IA sem treinar é pedir resultado sem dar ferramenta.`🟡 Quando foi o último treinamento que você deu ao time?"
+Fonte: Benefits & Pensions Monitor -- https://www.benefitsandpensionsmonitor.com/benefits/hr/ai-use-climbs-ten-points-while-training-access-falls-eight-survey/394228
+
+ROTEIRO 6 -- Novo CEO mexe em quem decide
+"Cinco semanas depois de assumir a Apple, John Ternus já mexeu em quem decide. Segundo Bloomberg e Reuters, em 8 de outubro Steve Smith assumiu as aquisições e passou a responder ao CFO. 🟡`É a primeira vez desde 2019 que as aquisições voltam para o financeiro.`🟡 A Apple não fez anúncio formal; a informação vem de memo. 🟡`Novo comando mexe primeiro na estrutura de decisão.`🟡 Quem é o dono do processo travado na sua empresa?"
+Fonte: MacRumors -- https://macrumors.com/2026/10/08/apple-acquisitions-new-lead/
+
+ROTEIRO 7 -- Um em cada três do escritório
+"Segundo relatos da imprensa financeira, a Kroger vai cortar cerca de 3.000 cargos corporativos em três anos, em torno de 37% do escritório; a empresa ainda não detalhou. O CEO aponta camadas excessivas de gestão. 🟡`As vendas nas mesmas lojas cresceram só 0,2% no trimestre.`🟡 🟡`Estrutura inchada no meio custa caro e deixa a decisão lenta.`🟡 Quantos chefes a sua empresa tem para cada pessoa que opera?"
+Fonte: Yahoo Finance -- https://finance.yahoo.com/markets/stocks/articles/kroger-cut-over-one-third-211654296.html
+
+ROTEIRO 8 -- Dívida na Receita pode sair mais barata
+"A Receita abriu a transação para dívidas em contencioso administrativo, com adesão até 30 de outubro, pelo Portal de Serviços. Segundo escritórios de advocacia, o desconto vai até 65% no Edital 9, com teto de 50 milhões de reais por contencioso. 🟡`Em troca, você desiste de recorrer e confessa a dívida.`🟡 🟡`Antes de 30/10, leve o caso ao contador e simule.`🟡 Tem dívida em discussão parada aí?"
+Fonte: Felsberg Advogados -- https://www.felsberg.com.br/editais-rfb-9-10-2026-transacao-tributaria/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] Você já decidiu seu regime para 2027? A) Já decidi e simulei B) Ainda não decidi
+2. [Pergunta/Participacao, Roteiro 5] Caixinha: Qual foi o melhor treinamento que sua equipe já fez e que mudou o resultado? Conta aqui.
+3. [Virar Historia, Roteiro 5 -> Estilo Comparativo] Colocar lado a lado "uso de IA 64%" e "acesso a aprendizado 51%" (era 59%). Dois números opostos sobre o mesmo time contam a história sem precisar de explicação.
