@@ -1,0 +1,36 @@
+PAUTA DO DIA -- 2026-10-13
+Assunto: Simples Nacional 2027: opcao encerra quinta (15/10) -- e a escolha do regime e decisao de caixa
+Score final: 27/35 (Frescor 5/5, Relevancia do protagonista 3/5, Gravidade 3/5, Polemica adjacente 3/5, Volume de cobertura 4/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: A Resolucao CGSN 194/2026 (publicada no DOU em 28/09/2026) prorrogou o prazo de opcao pelo Simples Nacional para 2027: de 01/09 a 15/10/2026 (o prazo original era 30/09), com efeitos a partir de 01/01/2027. Quem tiver a opcao indeferida por debitos ou pendencias cadastrais pode regularizar ate 30/10/2026. A escolha pelo regime regular de IBS e CBS (para quem e optante) e decisao separada, tambem ate 30/10/2026, valendo para o 1o semestre de 2027. O periodo de cancelamento das opcoes vai de 03/11 a 20/12/2026. Verificado por multiplas fontes concordantes (Legisweb, Prefeitura de Porto Alegre, Simtax, Meu Contador Online, Cescon Barrieu, ReformaTributaria.com). A pagina da Agencia Gov nao abriu (rede bloqueada); o conteudo foi conferido por trechos de busca e fontes secundarias. Nao confirmado: se o MEI segue o mesmo calendario -- nao afirmar no video.
+Atencao a divergencia: algumas fontes antigas falam em 30 dias a partir da ciencia do indeferimento; a cobertura da Res. 194 traz data fixa (30/10). Usar a data fixa e orientar a conferir no Portal do Simples Nacional.
+
+Cadeia causal (o que levou a isso): (1) A Lei Complementar 214/2025 permite que optantes do Simples mantenham IBS/CBS dentro do DAS ou apurem por fora, no regime regular (modelo hibrido) -> (2) ao ficar so no DAS, a empresa abre mao de gerar credito de IBS/CBS para clientes pessoa juridica; para quem vende B2B isso pode pesar na competitividade, e a comparacao correta e carga liquida apos creditos, nao so aliquota -> (3) com isso a escolha deixou de ser "ritual de janeiro" e virou decisao estrategica de margem, que exige simulacao e dados de clientes/fornecedores -> (4) houve dificuldades operacionais nos sistemas do Portal do Simples (segundo uma das fontes) e pedidos de mais prazo -> a CGSN prorrogou (Res. 194) -> (5) resultado: a janela real e curta; quem deixa para o ultimo dia e tem debito pendente corre o risco de ser indeferido e ficar fora do regime em 2027, ou de escolher o modelo de IBS/CBS sem simular.
+
+Por que esta repercutindo agora: Frescor maximo (prazo vence em 2 dias, quinta 15/10) e identificacao maxima com a audiencia (todo dono de PME no Simples ou prestes a entrar). Volume de cobertura alto (prefeituras, Sebrae, contabilidade, imprensa). Clareza do angulo boa: prazo + consequencia concreta.
+
+Angulo de gestao sugerido: regime tributario e decisao de caixa e margem, nao burocracia. Licao pratica: (a) confira HOJE se ha debito ou pendencia cadastral que derrube a opcao -- regularizar tem prazo proprio ate 30/10; (b) quem vende principalmente para outras empresas deve pedir ao contador uma simulacao da carga liquida (com e sem credito de IBS/CBS repassavel ao cliente); (c) decidir com dados, antes do ultimo dia, e saber que existe janela de cancelamento (03/11 a 20/12). Sem recomendacao tributaria individual: cada caso depende do contador.
+
+Dados de apoio:
+- Opcao com efeitos em 01/01/2027; prazo original era 30/09, prorrogado via Res. CGSN 194/2026 (DOU 28/09/2026) -- Legisweb https://www.legisweb.com.br/noticia/?id=34449
+- Regularizacao de pendencias apos indeferimento e opcao pelo regime regular de IBS/CBS: ate 30/10/2026 -- Prefeitura de Porto Alegre https://prefeitura.poa.br/smf/noticias/prazo-para-opcao-pelo-simples-nacional-e-prorrogado-ate-15-de-outubro ; Cescon Barrieu https://cesconbarrieu.com.br/prorrogado-para-30-de-outubro-o-prazo-para-empresas-do-simples-nacional-optarem-pelo-regime-regular-do-ibs-e-da-cbs/
+- Cancelamento das opcoes: 03/11 a 20/12/2026 -- Meu Contador Online https://www.meucontadoronline.com.br/blog/simples-nacional-2027/
+- 15/10 e 30/10 sao decisoes diferentes (nao confundir) -- Simtax https://simtax.com.br/?p=70787
+- Efeito B2B: optante que fica so no DAS nao transfere credito de IBS/CBS a clientes PJ; recomendacao de comparar carga liquida apos creditos -- Meu Contador Online https://www.meucontadoronline.com.br/blog/simples-nacional-2027-prestador-servicos-imposto-ibs-cbs/ e Omie https://www.omie.com.br/blog/prorrogacao-prazos-simples-nacional-2027-ibs-cbs/index.md (interpretacao de blogs de contabilidade; confirmar na LC 214/2025)
+- Verificacao automatica de pendencias (Receita, estados, municipios) antecede o deferimento; sem irregularidade, opcao deferida -- Utilitarios Contabeis https://sitecontabil.com.br/noticias_empresariais/ler/simples-nacional-em-2026--quem-pode-entrar--quando-pedir-e-o-que-evitar-
+
+Ressalva/limite: O fator "Polemica adjacente" (reforma tributaria) pesou no score. NAO comentar a reforma, governo, partidos ou figuras politicas -- so o efeito pratico para o caixa e o prazo. Nao dar recomendacao tributaria individual; terminar orientando a falar com o contador. Nao afirmar nada sobre MEI (calendario nao confirmado). Nao citar numero de empresas indeferidas/excluidas (nao ha fonte oficial confirmada). Como o video pode ir ao ar perto do prazo (quinta 15/10), usar "ate quinta, 15/10" e checar a data de publicacao.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve e o Copywriter do canal, secao 2.4, adaptado a duracao maior):
+- Hook: conflito especifico (ex.: "Quinta-feira acaba o prazo pra voce escolher o regime da sua empresa em 2027 -- e um debito esquecido pode te deixar de fora.")
+- Contexto/causa raiz: prazo prorrogado, duas datas diferentes (15/10 e 30/10), e por que a escolha ficou mais estrategica
+- Desenvolvimento da cadeia causal: ficar so no DAS vs regime regular de IBS/CBS; impacto para quem vende B2B (credito ao cliente); pendencia cadastral/debito derruba a opcao
+- Licao de gestao (a virada): regime tributario e decisao de caixa e margem -- simular com o contador antes do ultimo dia
+- Fechamento + CTA: "confira seus debitos hoje e peca a simulacao ao seu contador"; CTA padrao do canal
+
+Fonte(s): Legisweb -- https://www.legisweb.com.br/noticia/?id=34449 | Prefeitura de Porto Alegre -- https://prefeitura.poa.br/smf/noticias/prazo-para-opcao-pelo-simples-nacional-e-prorrogado-ate-15-de-outubro | Agencia Gov (nao abriu; via busca) -- https://agenciagov.ebc.com.br/noticias/202609/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade | Meu Contador Online -- https://www.meucontadoronline.com.br/blog/simples-nacional-2027/ | O Povo -- https://mais.opovo.com.br/jornal/farol/2026/09/30/simples-nacional-2027-prazo-de-adesao-e-prorrogado-ate-15-de-outubro.html
+
+Runners-up do dia (registro/transparencia):
+- Paramount Skydance x Warner Bros. Discovery (~US$ 110 bi) -- 24/35 (status da operacao conflitante)
+- Recuperacao judicial em recorde: 6.341 empresas ativas no 1S26 -- 24/35
+- Kroger corta ~3.000 cargos corporativos -- 21/35 (nao verificado)
