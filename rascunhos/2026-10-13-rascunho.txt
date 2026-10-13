@@ -1,0 +1,82 @@
+RASCUNHO 2026-10-13 (Etapa 1) -- 8 itens. Verificacao de todos por trechos de busca (WebFetch bloqueado); Etapa 2 re-confere.
+
+ITEM 1 -- ServiceNow lanca "AI Workflow Factory": primeiro mapear o processo, depois automatizar
+Categoria: Tecnologia
+Fato: Em 06/10/2026 (World Forum, Mumbai) a ServiceNow lancou o AI Workflow Factory, ciclo para achar, construir, rodar e governar melhorias de fluxo de trabalho. Reune Process Mining, Autonomous Engineer/Build Agent, App Engine, AI Control Tower e Action Fabric (agentes e ferramentas de terceiros). Disponivel globalmente; o Autonomous Engineer (planeja, constroi e testa codigo sem supervisao) esta em acesso antecipado sob pedido. Parceiras: Accenture e Infosys.
+Fonte: HPCwire -- https://www.hpcwire.com/bigdatawire/this-just-in/servicenow-launches-ai-workflow-factory-for-enterprise-automation/ ; Futurum -- https://futurumgroup.com/insights/servicenow-launches-ai-workflow-factory-to-close-the-ai-execution-gap/ ; Daily Excelsior -- https://www.dailyexcelsior.com/servicenow-launches-ai-workflow-factory-autonomous-engineer/amp
+Relevancia: Mostra para onde vai a IA corporativa: menos "qual modelo comprar", mais "onde o processo vaza".
+Ressalva tecnica: Verificado por trechos de busca; release original da ServiceNow nao aberto. Data (06/10) vem de resumos. Sem numeros de desempenho nem preco. Produto enterprise, nao PME.
+Possivel contradicao com roteiro anterior: nenhuma (Google Gemini agent de 09/10 e outro produto; mesmo tema geral IA-agentes).
+Tese de gancho sugerida: A ServiceNow vende primeiro o diagnostico (process mining) e so depois o agente. Quem automatiza antes de mapear o processo automatiza o desperdicio.
+
+ITEM 2 -- Paramount Skydance conclui compra da Warner Bros. Discovery (~US$ 110 bi)
+Categoria: Noticia de empresa
+Fato: Fechada em 06/10/2026, cerca de US$ 110 bi (fontes variam entre 110 e 111 bi; US$ 31/acao). David Ellison e CEO. Reune estudios Paramount e Warner, CBS News, CNN, TNT, Paramount+ e HBO Max. DOJ aprovou em 12/06/2026; fechamento atrasou por acao da California e outros 11 estados e do sindicato WGA; consent decree de 5 anos com a California, com conselho independente para CBS News e CNN. Financiamento: familia Ellison, RedBird e fundos soberanos (Arabia Saudita, Catar, Emirados) com acoes sem voto.
+Fonte: Bloomberg -- https://www.bloomberg.com/news/articles/2026-10-06/paramount-closes-warner-bros-merger-in-historic-hollywood-deal ; CBS News -- https://www.cbsnews.com/news/paramount-warner-bros-discovery-deal-skydance/ ; NBC -- https://www.nbcnews.com/business/media/paramount-warner-bros-skydance-closes-rcna601833 ; 8-K SEC -- https://www.sec.gov/Archives/edgar/data/0002041610/000110465926113913/tm2626659d7_ex99-1.htm
+Relevancia: Consolidacao como resposta a rivais com muito mais caixa; custo regulatorio e de tempo de uma fusao grande.
+Ressalva tecnica: Verificado por trechos de busca (Bloomberg, CBS, NBC + 8-K). Valor exato diverge entre fontes; detalhes de financiamento e consent decree vem de resumos (um citando Wikipedia) -- conferir antes de citar. Fechamento ja era esperado.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Hollywood nao consolidou por amor ao cinema, e por escala contra Netflix e Big Tech. Quando o rival tem dez vezes seu caixa, ou voce junta forcas ou vira nicho -- e a fusao ainda custou meses de atraso e um conselho editorial imposto.
+
+ITEM 3 -- Google fecha 3,6 GW com a Constellation para a expansao de IA, incluindo 890 MW de nova capacidade nuclear
+Categoria: Livre (case / empresa)
+Fato: Anunciado em 06/10/2026: Google contrata 3.590 MW na rede PJM; 890 MW sao nova capacidade nuclear, em contrato de compra de energia de 20 anos. Constellation diz que o acordo viabiliza mais de US$ 4,3 bi de investimento, sobretudo ampliacao de reatores existentes; 6 sites (IL, PA, NJ); ~4.400 empregos sustentados e ~7.200 vagas de construcao. Acoes da Constellation subiram mais de 12%.
+Fonte: Constellation (release) -- https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html ; CNBC -- https://www.cnbc.com/2026/10/06/google-enters-massive-3point6-gw-power-deal-with-constellation-energy-.html ; Bloomberg -- https://www.bloomberg.com/news/articles/2026-10-06/google-constellation-near-billion-dollar-deal-for-nuclear-power
+Relevancia: O gargalo da IA virou energia; quem trava o insumo escasso dita o ritmo.
+Ressalva tecnica: Verificado por trechos (release + CNBC). Yahoo fala em 11 unidades nucleares, release em 6 sites -- nao citar numero de unidades. US$ 4,3 bi e investimento habilitado segundo a Constellation, nao preco pago pelo Google.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: O gargalo da IA nao e mais o chip, e a tomada. O Google nao compra energia, compra fila na frente de todo mundo por 20 anos.
+
+ITEM 4 -- Simples Nacional 2027: opcao vai so ate 15/10/2026
+Categoria: Prazo de Acao (Obrigacao/decisao com prazo)
+Fato: Resolucao CGSN 194/2026 (DOU 28/09/2026) prorrogou o prazo de opcao de 30/09 para 15/10/2026 (janela 01/09 a 15/10); efeitos a partir de 01/01/2027. DATA-LIMITE: 15/10/2026 (quinta-feira). Quem tem pendencia impeditiva pode regularizar ate 30/10/2026. (Prazos de escolha do regime de IBS/CBS e de cancelamento 03/11-20/12 vieram so de fontes secundarias -- nao usar sem checar a resolucao.)
+Fonte: Receita Federal -- https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade ; Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/prazo-para-empresas-optarem-por-simples-e-prorrogado-para-outubro ; Agencia Gov -- https://agenciagov.ebc.com.br/noticias/202609/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade
+Relevancia: Decisao de regime tributario de 2027 com prazo em 2 dias, em ano de transicao para IBS/CBS.
+Ressalva tecnica: Verificado por trechos; 5+ veiculos e gov.br concordam em 15/10. Fontes antigas ainda dizem 30/09 (ignorar). Tratar como fato administrativo.
+Possivel contradicao com roteiro anterior: nenhuma. Tema vizinho: NFS-e (06/10) e IBS/CBS na nota (12/10) -- assunto distinto (opcao de regime).
+Tese de gancho sugerida: Ate quinta, 15/10, voce decide o regime que define seus impostos em 2027; quem perde o prazo espera um ano. Escolher sem simular, em ano de IBS/CBS, e apostar o caixa.
+
+ITEM 5 -- PwC: so metade dos trabalhadores tem acesso ao aprendizado de que precisa; 29% do "chao de fabrica" pode trocar de empresa
+Categoria: Tendencia internacional (grande consultoria)
+Fato: PwC Global Workforce Hopes and Fears 2026: 49.364 trabalhadores, 48 paises/regioes, 29 setores (campo mai-jun/2026). Cerca de metade tem acesso aos recursos de aprendizado de que precisa (era 59% um ano antes); no grupo "engine room" (56% da amostra), 2 em 5 tem recursos adequados e 29% tem alta probabilidade de trocar de empregador em 12 meses. Uso de IA no trabalho nos ultimos 12 meses: 64% (+10 pts).
+Fonte: PwC via Kyodo PR Wire -- https://kyodonewsprwire.jp/release/202609296890 ; PwC Malasia -- https://www.pwc.com/my/en/publications/2026/pwc-my-workforce-hopes-and-fears-survey-2026.html ; Benefits & Pensions Monitor -- https://www.benefitsandpensionsmonitor.com/benefits/hr/ai-use-climbs-ten-points-while-training-access-falls-eight-survey/394228
+Relevancia: Retencao e capacitacao na era da IA, relevante para qualquer porte.
+Ressalva tecnica: Verificado por trechos. Publicado em 29/09 (14 dias; relatorio inedito, no limite da janela). "~metade" / 59% anterior vem de resumos (um cita 51%) -- usar "cerca de metade". Pesquisa de percepcao, global.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Cortar treinamento para economizar sai caro: o acesso a aprendizado caiu de 59% para cerca de 50% enquanto 29% do chao de fabrica ja pensa em sair.
+
+ITEM 6 -- Apple: novo CEO muda o comando de M&A e App Store em cinco semanas
+Categoria: Empresa global reconhecida
+Fato: John Ternus assumiu de Tim Cook em 01/09/2026. Em 08/10, Steve Smith substituiu Adrian Perica na chefia de M&A (Perica vai para Servicos, sob Eddy Cue); Smith reporta ao CFO Kevan Parekh -- M&A volta ao financeiro pela 1a vez desde 2019. Carson Oliver vira VP da App Store. Bloomberg diz que Ternus quer reestruturar para lancar produtos mais rapido.
+Fonte: MacRumors -- https://macrumors.com/2026/10/08/apple-acquisitions-new-lead/ ; MacTech -- https://www.mactech.com/2026/10/08/new-apple-ceo-john-ternus-continues-to-make-management-changes-7/
+Relevancia: Como um novo CEO redesenha a estrutura de decisao logo no inicio.
+Ressalva tecnica: Verificado por trechos (2 veiculos). Apple nao fez anuncio formal; informacao vem de Bloomberg/Reuters (memo de Cue). Nao e demissao. Tema mais fraco -- item candidato a corte se a Etapa 2 preferir.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Em cinco semanas de mandato, o novo CEO da Apple ja mexeu em quem decide as compras e a loja de apps. Quanto tempo a sua empresa leva para trocar o dono de um processo que nao funciona?
+
+ITEM 7 -- Kroger vai cortar cerca de 3.000 cargos corporativos (~37%) por excesso de camadas
+Categoria: Reestruturacao-corte-fechamento
+Fato: Anunciado em 12/10/2026: ~3.000 cargos corporativos em 3 anos, cerca de 37% dos ~8.200 corporativos, segundo memo citado por Bloomberg e Dow Jones. CEO Greg Foran (ex-Walmart, no cargo desde fev/2026) cita camadas excessivas de gestao e decisao lenta; plano ligado a IA. Economia ira para precos menores e linha de frente. Vendas nas mesmas lojas +0,2% no 2T26. ~1.000 cortes corporativos em 2025. Atualizacao a investidores em 20/10/2026.
+Fonte: GuruFocus -- https://www.gurufocus.com/news/9120184/kroger-plans-to-cut-3000-jobs-to-streamline-operations ; The Deep Dive -- https://thedeepdive.ca/kroger-to-cut-3000-or-about-a-third-of-corporate-jobs-over-three-years ; Yahoo Finance -- https://finance.yahoo.com/markets/stocks/articles/kroger-cut-over-one-third-211654296.html
+Relevancia: Caso nitido de estrutura inchada no meio; licao de camadas de gestao.
+Ressalva tecnica: Verificado por trechos; 5+ resultados batem em ~3.000 e 37%, mas nao vi Reuters nem release. Departamentos afetados nao detalhados. Varejista dos EUA, pouco conhecida no Brasil.
+Possivel contradicao com roteiro anterior: nenhuma (Amazon 12/10 e Netflix 09/10 sao outros cortes; mesmo subtema enxugamento, permitido pela linha 7).
+Tese de gancho sugerida: Kroger vai cortar 1 em cada 3 do escritorio por excesso de camadas, enquanto as vendas das mesmas lojas cresceram 0,2%. Quantos chefes a sua empresa tem para cada pessoa que de fato opera?
+
+ITEM 8 -- Receita Federal: transacao tributaria no contencioso (Editais 9 e 10/2026), adesao ate 30/10
+Categoria: Prazo de Acao (Oportunidade)
+Fato: Dividas em contencioso administrativo fiscal. Edital 9: ate R$ 50 mi por contencioso, desconto de ate 65% (70% para PF, ME, EPP; fontes divergem) sobre credito irrecuperavel/dificil recuperacao, ate 115 ou 135 parcelas, uso de prejuizo fiscal/base negativa (apurados ate 31/12/2025) em ate 30% do saldo. Edital 10: pequeno valor (ate 60 salarios minimos por processo) para PF, MEI, empresario individual, ME e EPP. DATA-LIMITE: 30/10/2026, pelo Portal de Servicos da Receita; exige desistir de impugnacoes/recursos e confissao irrevogavel; 1a parcela no ultimo dia util do mes da adesao. Editais publicados no DOU em 13/07/2026.
+Fonte: Mattos Filho -- https://www.mattosfilho.com.br/unico/receita-editais-contencioso-administrativo/ ; Felsberg -- https://www.felsberg.com.br/editais-rfb-9-10-2026-transacao-tributaria/ ; Mauro Negruni -- https://mauronegruni.com.br/2026/07/17/receita-federal-publica-novos-editais-para-negociacao-de-debitos-em-contencioso-administrativo/
+Relevancia: Janela para reduzir passivo fiscal, com prazo claro.
+Ressalva tecnica: Fontes sao escritorios de advocacia (interesse institucional), nao o DOU/Receita (URL oficial nao apareceu). Teto de desconto diverge entre fontes -- usar "ate 65-70%" so apos conferir. Verificado por trechos. Nao confundir com PGFN/FGTS (07/10) nem Desenrola MEI (09/10).
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Divida em discussao na Receita pode sair bem mais barata, mas so ate 30/10 e voce precisa desistir de brigar. Contador na mesa antes disso.
+
+--- LINHAS SEM ITEM / NOTAS ---
+Linha 3 (macro): VAZIA. Nada novo na ultima semana alem do IPCA (ja publicado em 09/10). PMC/PMS de agosto saem 14 e 15/10, Focus e ICEI/FGV de outubro ainda nao saiam -- reservar vaga para amanha. Reservas fora da janela: Caged agosto +165.827 vagas e PNAD 5,3% (29/09); confianca do comercio 81,3 pts, menor desde mar/2021 (FGV, set); Serasa 9,2 mi CNPJs negativados em julho (01/09). Consultas: Caged/PNAD/confianca FGV/ICEI CNI/Serasa/PMC/PMS/Focus outubro 2026 (3 rodadas).
+Linha 6: Descartado Microsoft/Adobe suspensas do programa PERM (green card) -- acao do governo dos EUA ligada a imigracao/H-1B, tema politico polarizador, e lista das 8 empresas de fonte unica. Usado Apple como alternativa (fraca).
+Linha 7 reserva: HubSpot corta ~660 (7%), maioria gerentes intermediarios, 06/10 (Boston Globe, CMSWire) -- https://www.boston.com/news/business/2026/10/06/hubspot-to-lay-off-660-employees/
+Reservas: ServiceNow -> Anthropic OSS Scanner (08/10); Paramount -> Amazon negocia Decart ~US$ 7 bi (WSJ, nao confirmado); Receita transacao.
+Fontes BR: sem G1/Valor/Estadao nos resultados; WebSearch devolveu pouco material PT-BR de outubro. Lacuna: nenhum case brasileiro nomeado com 2+ fontes na janela (linha 2/8).
+Internacionais: itens 1, 2, 3, 5, 6, 7 (PwC = grande consultoria; cota cumprida).
+Consultas feitas (~100, 3+ rodadas por linha, PT e EN) -- detalhes nos relatorios dos subagentes: tecnologia/IA outubro 2026, aquisicoes/recordes, layoffs/RJ/fechamento, macro BR, PwC/McKinsey/NFIB, prazos Gov/Receita/DOU.
