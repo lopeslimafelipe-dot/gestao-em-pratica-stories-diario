@@ -1,0 +1,52 @@
+PAUTA DO DIA -- 2026-10-14
+Assunto: Recorde de recuperacoes judiciais: como o juro alto corroi o caixa das empresas endividadas (e quem esta mais exposto: micro e pequenas)
+Score final: 25/35 (rascunho: 26/35; Frescor rebaixado de 3 para 2 porque a materia-gancho da ADVFN e de 05/10/2026, nao de 13-14/10)
+- Frescor: 2/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+(Ainda acima dos runners-up, 24/35 cada.)
+
+Fato central verificado:
+- Serasa Experian: 2.466 CNPJs em recuperacao judicial em 2025 (+~13%), maior numero da serie historica; 977 processos (+5,5% vs 2024). Setores: agro 30,1%, servicos 30%, comercio 21,7%, industria 18,2%. Fontes: https://centraldovarejo.com.br/brasil-bate-recorde-de-recuperacoes-judiciais-em-2025-diz-serasa/ e https://www.infomoney.com.br/business/serasa-experian-recuperacao-judicial-cresce-em-2025-e-atinge-maior-no-desde-2012/ (atencao: os veiculos divergem sobre o inicio da serie -- 2012 vs 2016; nao citar o ano de inicio).
+- Monitor RGF-Bizdoc (metodologia DIFERENTE da Serasa, estoque de empresas, nao pedidos novos): 6.341 empresas em RJ em junho/2026, +6,2% sobre o fim de 2025 (contra +7,3% no 1S25) -- patamar recorde, mas ritmo desacelerando; pico de 6.513 em maio e queda liquida de 172 em junho (sinal inicial de estabilizacao, nao reversao, segundo o consultor). Fonte: https://www.poder360.com.br/poder-economia/pedidos-de-recuperacao-judicial-batem-recorde-no-1o-semestre/ (versao CRCSP, 05/08/2026: https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11243).
+- Materia-gancho ADVFN, publicada em 05/10/2026: cita RGF com 5.680 empresas em RJ ao fim de 2025 e Serasa com 194 pedidos no 1T26 (76 so em marco); explica que juro alto encarece a rolagem da divida, dificulta novo credito e aumenta o peso das despesas financeiras, expondo quem tem pouca geracao de caixa. Fonte: https://br.advfn.com/jornal/2026/10/recuperacao-judicial-bate-recorde-no-brasil-juros-altos-mantem-pressao-sobre-empresas-endividadas
+
+CORRECOES AO RASCUNHO (nao usar no roteiro):
+- "Selic atual 13,75%" esta ERRADO: 13,75% e a projecao do Focus para o fim de 2026. A Selic estava em 15% no fim de 2025 e foi cortada a 14% em agosto/2026 (nao ha reuniao do Copom em outubro; proxima em 3-4/11). Confirmar no site do Banco Central antes de citar numero. Fontes: https://www.dgabc.com.br/Noticia/4345650/selic-no-fim-de-2026-continua-em-13-75-pela-quinta-semana-seguida-aponta-focus ; https://renovainvest.com.br/?p=106745
+- "1T26 com 5.931 pedidos (RGF)": NAO verificado -- descartado.
+- Nao misturar: Serasa (CNPJs/pedidos no ano) x RGF (estoque de empresas em RJ) -- numeros nao comparaveis.
+
+Cadeia causal (o que levou a isso):
+1) Selic em patamar muito alto por longo periodo (15% no fim de 2025; 14% em ago/2026) -> credito caro e restrito.
+2) Divida existente fica mais cara de rolar; despesa financeira come o resultado (ex.: RK Partners via ADVFN, mar/2026: 24% de 282 empresas listadas na B3 nao geram caixa para pagar nem os juros da divida -- https://br.advfn.com/jornal/2026/03/24-das-empresas-da-b3-nao-conseguem-nem-pagar-os-juros-da-divida-e-acendem-alerta-no-mercado).
+3) Sem caixa e sem credito novo, a empresa nao consegue rolar o passivo -> a RJ vira "ajuste de balanco" (leitura da Serasa/InfoMoney).
+4) O efeito se concentra em quem tem menos folego: micro empresas em RJ foram de 513 para 1.575 CNPJs desde 2023 e a incidencia entre elas mais que dobrou; entre pequenas +69%, medias +36%; grandes migram para a recuperacao extrajudicial (Monitor RGF-Bizdoc via CRCSP).
+5) Agro como caso agudo: Opea conta 1.263 produtores rurais em RJ no 1S26 (+66% em 1 ano) e preve pico entre fim de 2026 e inicio de 2027, ligando a margens comprimidas, alavancagem, custo do credito e vencimento de dividas antes renegociadas com carencia (https://www.novacana.com/noticias/opea-preve-pico-de-recuperacoes-judiciais-no-agro-ate-inicio-de-2027 ; https://brasilagro.com.br/conteudo/recuperacao-judicial-no-agro-cresceu-66-em-um-ano-no-pais.html).
+
+Por que esta repercutindo agora: recorde recorrente em varios indicadores + casos grandes na imprensa (Raizen, Braskem, GPA) mantem o tema em alta; pesaram Identificacao com audiencia (5), Gravidade (4), Clareza do angulo (4) e Polemica adjacente (4). Frescor medio: o gancho e de 05/10.
+
+Angulo de gestao sugerido: "divida cara nao quebra a empresa de uma vez, ela vai comendo o caixa ate faltar folego". Licao pratica para o dono de PME: olhar a cobertura de juros (quanto do resultado vai para despesa financeira), renegociar/alongar prazo ANTES do aperto, manter colchao de caixa, evitar rolar divida curta para financiar giro permanente, conhecer a diferenca entre RJ e extrajudicial so como informacao. Foco 100% no efeito pratico no caixa.
+
+Dados de apoio:
+- 8,7 milhoes de CNPJs negativados em jan/2026, indicador que historicamente antecede RJs (Serasa via https://centraldovarejo.com.br/brasil-bate-recorde-de-recuperacoes-judiciais-em-2025-diz-serasa/).
+- Falencias decretadas/pedidas: 698 CNPJs em 2025, -19% (InfoMoney, link acima).
+- Forbes: numero de empresas por processo cresceu mais que o de processos (processos maiores e mais complexos) -- https://forbes.com.br/forbes-money/2026/04/recorde-no-numero-de-recuperacoes-judiciais-esconde-mudanca-critica-aponta-indicador-da-serasa-experian/
+
+Ressalva/limite: "Polemica adjacente" pesou (juros/economia em ano eleitoral). NAO comentar politica, partido, governo, Banco Central como alvo de critica nem tomar posicao sobre a politica de juros -- tratar o juro como dado do ambiente e falar so do que o gestor controla. Nao dar recomendacao de investimento. Cuidado com metodologias (Serasa x RGF) e com o recorde ser de 2025/estoque, com desaceleracao no 1S26. Confirmar a Selic no BCB antes de gravar.
+
+Estrutura sugerida pro roteiro (referencia; roteiro final e do Copywriter):
+- Hook: "Um recorde de empresas em recuperacao judicial -- e a maioria nao e gigante, e micro e pequena."
+- Contexto/causa raiz: credito caro por muito tempo; divida rolando mais cara.
+- Desenvolvimento da cadeia causal: juro -> despesa financeira -> caixa curto -> sem rolagem -> RJ; quem sente primeiro (micro/pequenas, agro).
+- Licao de gestao (a virada): olhe a divida antes que ela olhe para voce -- cobertura de juros, renegociar cedo, caixa.
+- Fechamento + CTA.
+
+Fonte(s): ADVFN -- https://br.advfn.com/jornal/2026/10/recuperacao-judicial-bate-recorde-no-brasil-juros-altos-mantem-pressao-sobre-empresas-endividadas ; Poder360 -- https://www.poder360.com.br/poder-economia/pedidos-de-recuperacao-judicial-batem-recorde-no-1o-semestre/ ; InfoMoney -- https://www.infomoney.com.br/business/serasa-experian-recuperacao-judicial-cresce-em-2025-e-atinge-maior-no-desde-2012/
+
+Runners-up do dia (registro/transparencia):
+- Governo e MEI: dividas tributarias / teto de faturamento -- 24/35 (fato nao confirmado, tema politico-eleitoral)
+- Braskem: Petrobras e aporte, prazo da extrajudicial -- 24/35 (repeticao recente, sem fato novo)
