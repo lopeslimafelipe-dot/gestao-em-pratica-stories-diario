@@ -1,0 +1,33 @@
+ROTEIRO 1 -- Barato demais pra ser desculpa
+"A Anthropic lançou o Claude Haiku 5.5. 🟡`O preço de entrada caiu pra US$ 0,10 por milhão de tokens, contra US$ 1 do Haiku 4.5, em prompts de até 100 mil tokens.`🟡 A própria Anthropic estima 75% de economia em média, número da fornecedora. 🟡`Automatizar triagem e atendimento deixou de pesar no orçamento. O que pesa é processo bagunçado e dado desorganizado.`🟡 Antes de pensar na ferramenta, arrume o processo. Você já mapeou o seu?"
+Fonte: Tecnoblog -- https://tecnoblog.net/noticias/claude-haiku-5-5-anthropic-lanca-modelo-de-ia-mais-rapido-e-barato/
+
+ROTEIRO 2 -- Faltam 18 dias pra nota de serviço
+"Se sua empresa está no Simples e presta serviço, faltam 18 dias. 🟡`A partir de 1º de novembro de 2026, ME e EPP do Simples têm que emitir a nota de serviço pelo Emissor Nacional, no portal ou por API.`🟡 O prazo foi adiado de 1º de setembro pela Resolução CGSN 191. Até lá, vale o sistema da sua prefeitura. 🟡`Quem descobrir o Emissor só em novembro vai emitir nota no susto.`🟡 Teste agora e confira se seu sistema integra. Já testou?"
+Fonte: Receita Federal -- https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026
+
+ROTEIRO 3 -- Só 11% reinventou
+"Segundo uma pesquisa da McKinsey, 🟡`só 11% das organizações chegaram à fase de reinvenção com IA`🟡, quando se repensa como o trabalho é feito e como se cria valor. O resto ficou em dar a ferramenta ao funcionário ou automatizar tarefa. É consultoria, que também vende transformação, mas o recado serve: 🟡`comprar IA é fácil, mudar quem decide o quê é o trabalho.`🟡 E aí a PME, mais ágil, pode sair na frente da grande. Quem decide o quê na sua empresa depois da IA?"
+Fonte: McKinsey -- https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization
+
+ROTEIRO 4 -- Vender menos, cobrar mais
+"A Porsche anunciou um reset: vender menos e cobrar mais. 🟡`A margem operacional caiu a 1,1% em 2025, e a meta agora é 10% a 15% no médio prazo.`🟡 O plano é subir cerca de 20% o preço médio dos modelos do topo, de uns 270 mil euros pra mais de 330 mil, e baixar o ponto de equilíbrio pra menos de 200 mil carros, contra 279.449 entregues. O CEO resumiu: valor acima de volume. 🟡`Se você persegue faturamento em vez de lucro por cliente, está copiando o erro dela.`🟡 Qual é seu cliente mais lucrativo?"
+Fonte: AM Online -- https://www.am-online.com/news/porsche-plans-9-000-job-cuts-and-higher-prices-in-strategy-reset
+
+ROTEIRO 5 -- Sem plano B
+"A Getty Images fechou um acordo pra virar empresa fechada: a família Getty e a Koch colocam até US$ 533 milhões e ficam com 100%. 🟡`Detentores de títulos aceitam extinguir US$ 270 milhões de uma dívida de cerca de US$ 2,1 bilhões.`🟡 A fusão de US$ 3,7 bilhões com a Shutterstock caiu, e o Chapter 11 ainda não foi protocolado. 🟡`Apostar a empresa numa fusão alavancada, num mercado que encolhe, tira o plano B.`🟡 Qual é o seu?"
+Fonte: KSL -- https://www.ksl.com/article/51635383/getty-images-to-go-private-after-restructuring-deal
+
+ROTEIRO 6 -- Grande não é protegido
+"A Cencosud, grupo chileno, vai fechar as seis lojas da GBarbosa em Fortaleza até o fim de outubro, depois de 15 anos no Ceará. A empresa fala em revisão permanente do portfólio e não informou número de demitidos; segundo um funcionário, todos devem ser desligados. É o segundo fechamento do grupo em 2026. Especialistas apontam falta de posicionamento num mercado de redes locais. 🟡`Grande não é sinônimo de protegido: conhecer o cliente pode valer mais que o tamanho.`🟡 O que seu cliente só encontra com você?"
+Fonte: Diário do Nordeste -- https://diariodonordeste.verdesmares.com.br/negocios/gbarbosa-vai-fechar-as-seis-lojas-de-fortaleza-1.3797446
+
+ROTEIRO 7 -- O próximo corte já está agendado
+"A Telia, gigante de telecom nórdica, vai cortar cerca de 900 cargos até o fim do ano pra economizar SEK 1 bilhão por ano, uns US$ 100 milhões, ainda sujeito a negociação sindical. 🟡`É a terceira rodada em menos de dois anos: 3.000 em dezembro de 2024, 600 em janeiro e agora 900. Se todo ano você enxuga sem redesenhar o processo, o próximo corte já está agendado.`🟡 Quando foi a última vez que você revisou o processo, e não só a folha?"
+Fonte: TelecomTV -- https://www.telecomtv.com/content/access-evolution/telia-proposes-further-localization-of-operations-and-targets-sek1bn-in-annual-gross-savings-56444/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] Sua empresa hoje persegue: A) Faturamento maior B) Lucro maior por cliente
+2. [Pergunta/Participacao, Roteiro 2] Caixinha: Você já emitiu uma nota pelo Emissor Nacional? Conta como foi, ou qual dúvida travou.
+3. [Virar Historia, Roteiro 7 -> Estilo Quadro Branco] Desenhar a linha do tempo 3.000 -> 600 -> 900 e circular "processo" no fim. Três cortes em sequência, com o mesmo problema por baixo, ficam claros no desenho.
