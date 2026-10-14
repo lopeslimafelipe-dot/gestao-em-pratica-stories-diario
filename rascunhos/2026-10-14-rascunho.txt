@@ -1,0 +1,81 @@
+RASCUNHO 2026-10-14 (Etapa 1) -- 8 itens. Verificacao por trechos de busca (WebFetch bloqueado); Etapa 2 re-confere.
+
+ITEM 1 -- Anthropic lanca Claude Haiku 5.5: IA pequena com preco ~75% menor
+Categoria: Tecnologia
+Fato: Lancado em 07/10/2026. US$ 0,10 por milhao de tokens de entrada e US$ 0,50 de saida em prompts ate 100 mil tokens (Haiku 4.5: US$ 1 e US$ 5). Acima de 100 mil tokens: US$ 0,50 e US$ 2,50. Anthropic estima ~75% mais barato em media (mix de uso + novo tokenizer). Disponivel na Claude Platform, AWS, Google Cloud e Azure.
+Fonte: Canaltech -- https://canaltech.com.br/inteligencia-artificial/claude-lanca-haiku-55-modelo-compacto-mais-rapido-e-75-mais-barato-veja-detalhes/ ; Android Authority -- https://www.androidauthority.com/claude-haiku-5-5-launched-3720550/ ; Tecnoblog -- https://tecnoblog.net/noticias/claude-haiku-5-5-anthropic-lanca-modelo-de-ia-mais-rapido-e-barato/ ; Fast Company Brasil -- https://fastcompanybrasil.com/ia/claude-haiku-5-5-veja-novo-modelo-anthropic/
+Relevancia: O custo de automatizar tarefa repetitiva (triagem, atendimento, classificacao) deixa de ser decisao de orcamento pra qualquer gestor.
+Ressalva tecnica: 75% e estimativa da propria Anthropic (media), nao corte linear; o corte de ~90% so vale ate 100k tokens. Tecnoblog compara com o Sonnet 5.5 (base diferente) -- nao misturar. Benchmarks autodeclarados. Fonte com interesse comercial (a propria fornecedora). Pagina oficial de precos nao vista. Data no limite da janela de 7 dias.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A barreira pra por IA no seu negocio deixou de ser preco; agora e processo bagunçado e dado desorganizado.
+
+ITEM 2 -- Getty Images: acordo de Chapter 11 pre-negociado, vira empresa fechada nas maos de Getty e Koch
+Categoria: Noticia de empresa
+Fato: Anunciado em 12/10/2026. Familia Getty + Koch Equity Development comprometem ate US$ 533 mi de novo capital e passam a deter 100% da empresa reorganizada; detentores de notas sem garantia (83,5% dos titulos) aceitam extinguir US$ 270 mi; financiamento Koch de ate US$ 143 mi; divida total ~US$ 2,1 bi em 30/06. A fusao de US$ 3,7 bi com a Shutterstock caiu (CMA britanica exigiu venda do editorial da Shutterstock); NYSE iniciou delisting no fim de setembro. Aposta futura: editorial/eventos reais, meta de US$ 400 mi ate 2029.
+Fonte: PetaPixel -- https://petapixel.com/2026/10/12/getty-going-private-as-the-beleaguered-stock-photo-brand-files-for-bankruptcy/ ; KSL -- https://www.ksl.com/article/51635383/getty-images-to-go-private-after-restructuring-deal ; GV Wire -- https://gvwire.com/2026/10/12/getty-images-to-go-private-after-restructuring-deal/ ; Citizen Digital -- https://citizen.digital/article/getty-images-to-go-private-under-prepackaged-bankruptcy-n391914
+Relevancia: Caso de como divida + aposta em fusao num mercado em queda tiram a flexibilidade de se reinventar, com a IA como acelerador.
+Ressalva tecnica: O Chapter 11 ainda NAO foi protocolado (previsto "nas proximas semanas"); e acordo de apoio a reestruturacao. Causa principal apontada por analistas e divida + fusao fracassada; IA e acelerador, nao causa unica. Verificado por trechos de busca.
+Possivel contradicao com roteiro anterior: nenhuma (formato diferente da RJ do Grupo SHC/JAC: go-private com dono assumindo 100%).
+Tese de gancho sugerida: A IA nao matou a Getty sozinha; matou a margem que pagava a divida. Quem se alavanca pra ganhar escala num mercado que encolhe perde o fôlego pra se reinventar.
+
+ITEM 3 -- McKinsey: so 11% das organizacoes chegaram a "reinvencao" com IA
+Categoria: Tendencia internacional (grande consultoria)
+Fato: McKinsey Quarterly, 05/10/2026, "AI is changing work. Now it has to change the organization". Pesquisa com mais de 700 executivos: so 11% das organizacoes chegaram ao horizonte de "reinvencao" (repensar como o trabalho e feito e como o valor e criado). IA agentica altera tres restricoes: capacidade humana, expertise e coordenacao.
+Fonte: McKinsey -- https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization ; Tribune India (ANI, 11/10) -- https://www.tribuneindia.com/news/ai-transformation/operating-models-emerge-as-primary-competitive-edge-in-ai-era-mckinsey ; Open Magazine -- https://openthemagazine.com/business/ai-value-lies-in-reinvention-not-just-adoption-mckinsey-report
+Relevancia: O ganho com IA esta em redesenhar quem decide o que, nao em trocar ferramenta; vale pra qualquer porte.
+Ressalva tecnica: Usar SO o 11% (bate com a fonte oficial). Percentuais de captura de valor (13%/24%/48%) circulam em cobertura secundaria sem confirmacao -- NAO usar. Data exata a confirmar no site da McKinsey. Consultoria com interesse comercial em venda de transformacao.
+Possivel contradicao com roteiro anterior: nenhuma (complementa EY/CEOs-IA de 09/10 e Grant Thornton de 08/10, outro recorte).
+Tese de gancho sugerida: Quase todo mundo comprou a ferramenta de IA; so 11% mudou a forma de trabalhar. A PME, mais agil, pode chegar na frente da grande.
+
+ITEM 4 -- NFS-e Nacional obrigatoria pra ME e EPP do Simples a partir de 01/11/2026
+Categoria: Prazo de Acao (Obrigacao)
+Fato: Obrigatoriedade adiada de 01/09 para 01/11/2026 (Resolucao CGSN 191/2026, de 04/08, publicada no DOU em 10/08). Optantes do Simples que prestam servicos sujeitos a NFS-e devem emitir pelo Emissor Nacional (web ou API). DATA-LIMITE: 01/11/2026 (faltam 18 dias). Regras de IBS/CBS do Simples so produzem efeito a partir de 01/01/2027.
+Fonte: Receita Federal -- https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026 ; Fenacon -- https://fenacon.org.br/reforma-tributaria/nfs-e-nacional-para-empresas-do-simples-e-adiada-para-novembro/ ; CRC-MG -- https://crcmg.org.br/noticias/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026
+Relevancia: Obrigacao ja valendo com data fixa que muda a rotina de emissao de nota de quem presta servico.
+Ressalva tecnica: Nenhuma nova prorrogacao encontrada. Uma fonte diz que ate 31/12/2026 o Simples segue regras anteriores de emissao em algum aspecto (trecho truncado) -- Etapa 2 conferir no texto da Receita. Verificado por trechos de busca.
+Possivel contradicao com roteiro anterior: nenhuma. Sobreposicao tematica parcial com item IBS/CBS na nota fiscal (12/10), mas outra obrigacao e outra data (01/11).
+Tese de gancho sugerida: A nota fiscal vira sistema da Receita: quem descobrir o Emissor Nacional so em novembro vai emitir nota no susto.
+
+ITEM 5 -- Porsche reseta a estrategia: vender menos, cobrar mais e cortar ~9.000 vagas
+Categoria: Empresa global reconhecida
+Fato: Capital Markets Day em 07/10/2026. Meta de elevar ~20% o preco medio dos modelos topo (de ~EUR 270 mil pra mais de EUR 330 mil no medio prazo); ponto de equilibrio abaixo de 200 mil veiculos (entregas 2025: 279.449); ~20% menos variantes; receita de personalizacao x6; meta de margem operacional 10-15% no medio prazo (2025: minimo historico de 1,1%); corte de ~9.000 postos e ate 40% dos cargos de gestao. CEO Michael Leiters: "valor acima de volume".
+Fonte: TimesLIVE -- https://www.timeslive.co.za/motoring/2026-10-07-porsche-braces-for-lower-sales-era-seeks-lifeline-from-luxury/ ; AM Online -- https://www.am-online.com/news/porsche-plans-9-000-job-cuts-and-higher-prices-in-strategy-reset ; InvestNews -- https://investnews.com.br/negocios/porsche-vai-elevar-precos-em-20-e-lancar-modelo-acima-do-911/amp/ ; Autopapo -- https://autopapo.com.br/curta/os-carros-mais-caros-da-porsche-vao-ficar-ainda-mais-caros/
+Relevancia: Marca global admite que escala destruiu margem e muda o jogo de volume pra valor por cliente.
+Ressalva tecnica: 20% e media da faixa topo no medio prazo, nao reajuste uniforme (um site fala 22%); 9.000 e meta de medio prazo, nao demissao imediata; reacao de bolsa diverge entre fontes. Data no limite da janela de 5 dias uteis.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Quando a marca mais desejada do segmento admite que correr atras de volume derrubou a margem a 1,1%, o dono de PME que persegue faturamento em vez de lucro por cliente esta copiando o erro dela.
+
+ITEM 6 -- Cencosud encerra a bandeira GBarbosa no Ceara (6 lojas em Fortaleza) apos 15 anos
+Categoria: Reestruturacao-corte-fechamento
+Fato: Noticia de 08/10/2026 (desdobramentos 09 e 13/10). Grupo chileno descontinua a GBarbosa no Ceara (presente desde 2010); fechamento gradual das 6 lojas de Fortaleza previsto ate o fim de outubro. Segundo funcionario ouvido, todos devem ser desligados, sem realocacao. Segundo fechamento do grupo em 2026 (Hiper Iguatemi Salvador, em marco).
+Fonte: Diario do Nordeste -- https://diariodonordeste.verdesmares.com.br/negocios/gbarbosa-vai-fechar-as-seis-lojas-de-fortaleza-1.3797446 ; Super Varejo -- https://supervarejo.com.br/varejo/cencosud-encerra-operacao-da-bandeira-gbarbosa-no-ceara-apos-15-anos ; Economic News Brasil -- https://economicnewsbrasil.com.br/2026/10/09/gbarbosa-sai-do-ceara/ ; Giro News -- https://gironews.com/supermercado/cencosud-brasil-descontinua-marca-gbarbosa-no-ceara/
+Relevancia: Multinacional com caixa sai de um estado inteiro; mostra que tamanho nao protege quem nao tem posicao clara com o cliente.
+Ressalva tecnica: Cencosud nao divulgou numero de demitidos nem motivo (diz "revisao permanente do portfolio"); demissao total vem de relato de um funcionario; cronograma por loja nao confirmado; "perda de share" e opiniao de economista. Escala regional.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Grande nao e sinonimo de protegido: o concorrente regional que conhece o cliente pode ser a vantagem, nao a desvantagem.
+
+ITEM 7 -- Telia (telecom nordica) corta ~900 cargos: terceira rodada em menos de dois anos
+Categoria: Reestruturacao-corte-fechamento
+Fato: Release de 12/10/2026. ~900 posicoes cortadas (grupo de ~14.100 funcionarios) ate o fim do ano; economia bruta anual de SEK 1 bi (~US$ 100 mi). Por pais: Finlandia 280, Suecia 260, Noruega 150, Lituania 110, Estonia 100; ~220 posicoes realocadas. Custo de reestruturacao ~SEK 600 mi no 4T26. Antes: 600 cortes em janeiro e 3.000 em dez/2024. Sujeito a negociacao sindical.
+Fonte: TelecomTV -- https://www.telecomtv.com/content/access-evolution/telia-proposes-further-localization-of-operations-and-targets-sek1bn-in-annual-gross-savings-56444/ ; Light Reading -- https://lightreading.com/business-transformation/eurobites-telia-wields-jobs-axe-again ; Telecoms.com -- https://www.telecoms.com/operator-ecosystem/telia-to-axe-900-roles ; DCD -- https://datacenterdynamics.com/en/news/telia-outlines-plans-to-cut-900-jobs-as-part-of-100m-cost-savings-strategy
+Relevancia: Corte de custo sem mudar o modelo vira rotina anual.
+Ressalva tecnica: A soma por pais inclui realocacoes (900 e a conta liquida do release); Yle fala ate 355 na Finlandia vs 280 do release (maximo em negociacao). Telia pouco conhecida do brasileiro -- item de apoio.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: 3.000, 600, agora 900: se todo ano voce enxuga sem redesenhar o processo, o proximo corte ja esta agendado.
+
+ITEM 8 -- Fraikin (frota comercial europeia) em acordo exclusivo de venda a Asterion
+Categoria: Livre
+Fato: 12/10/2026. Acionistas majoritarios (Benefit Street Partners, Varde Partners, Canyon Partners -- credores que viraram donos) assinam acordo exclusivo com a Asterion Industrial Partners (~EUR 8 bi sob gestao). Fraikin tem receita ~EUR 1 bi e frota de ~EUR 3 bi (valor contabil bruto). Preco nao divulgado.
+Fonte: Release da Fraikin via Placera -- https://www.placera.se/pressmeddelanden/fraikin-announces-exclusive-agreement-with-asterion-industrial-partners-to-support-its-next-phase-of-growth-20261012
+Relevancia: Frota virou ativo financeiro; leva o gestor a pensar em alugar x ser dono de ativo.
+Ressalva tecnica: So release oficial (aceito pelo criterio), sem cobertura independente achada; acordo exclusivo, nao fechado; sem valor; nao e case brasileiro; item fraco/de reserva -- Etapa 2 pode descartar.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: O caminhao que voce aluga e negocio de infraestrutura pra fundo; a pergunta e quando alugar vale mais que ser dono.
+
+---
+LINHAS SEM ITEM / NOTAS
+Linha 3 (Macro): vazia. Nenhum dado oficial divulgado entre 07 e 14/10 com 2+ fontes. Consultas: Copom/Selic out/2026; ata Copom; inadimplencia Serasa set/ago 2026; confianca FGV out/2026; IBGE 13-14/10 varejo/servicos/desemprego; PMC ago; IBC-Br; Sebrae/Fecomercio/CNI out/2026; Reuters Brazil Oct 2026; Caged; Brazil business confidence/retail/inflation Oct 2026. Fallbacks fora da janela (nao usados): Selic 13,75% em 16/09; Serasa julho/2026 (9,2 mi CNPJs, 01/09); IPCA set ja publicado em 09/10.
+Linha 4: 1 item (McKinsey). Cota internacional: McKinsey (grande consultoria), Getty, Porsche, Telia e Fraikin sao estrangeiros -- cota cumprida. Fonte "outra" (WEF/HBR/Bloomberg/Forbes) vazia na janela; consultas: Gartner/BCG/Bain/HBR/WEF/PwC/Deloitte out/2026 (PwC CEO Snapshot e de agosto, fora).
+Linha 5: reservas: NR-1 riscos psicossociais (em vigor, sem prazo aberto; fiscalizacao desde 26/05/2026); AGU/PGF edital Ibama prorrogado ate 30/11/2026 (nicho, gov.br -- https://www.gov.br/ibama/pt-br/assuntos/noticias/2026/agu-prorroga-edital-de-negociacao-para-pequenos-devedores-do-ibama-ate-30-de-novembro-de-2026).
+Reservas gerais: HCLTech x Anthropic (12/10); PayJoy-Finia AI (12/10, release unico); Starbucks x Chipotle (rumor FT 08/10 + desmentido 12/10); Embraer-LATAM (14/10, nao verificado).
+Fontes BR: sem G1/Valor/Estadao/Exame/InfoMoney nos resultados do WebSearch hoje. Nenhum case brasileiro novo (linha 2/8) na janela.
