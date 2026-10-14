@@ -1,0 +1,47 @@
+RADAR DE REPERCUSSAO -- 2026-10-14
+NOTA DE PROCESSO: a busca web trouxe pouco material datado de 13-14/10 (sem acesso direto aos sites de InfoMoney/ADVFN por DNS; sem ranking "mais lidas"). Numeros abaixo vem de resumos de busca e DEVEM ser confirmados na fonte original antes do roteiro (Etapa 2). Casas Bahia, Chilli Beans e Braskem foram cobertos nos ultimos 10 dias (12/10, 11/10, 07/10) e ficaram de fora por regra de nao-repeticao.
+
+CANDIDATO 1 -- Onda recorde de recuperacoes judiciais e o peso do juro alto sobre empresas endividadas
+Fato: Recuperacoes judiciais seguem em patamar recorde no Brasil: Serasa Experian contou 2.466 CNPJs em RJ em 2025 (+13%, maior nivel da serie); 1T26 teve recorde pelo indicador RGF (5.931 pedidos -- metodologia diferente da Serasa, numeros NAO comparaveis); 1S26 em patamar recorde segundo CRCSP; agro com pico projetado ate inicio de 2027 (Opea: 1.263 produtores rurais em RJ no 1S, +66%). Analistas ligam a onda ao credito caro (Selic atual 13,75%). Gancho do dia: materia ADVFN de out/2026 "Recuperacao judicial bate recorde no Brasil. Juros altos mantem pressao sobre empresas endividadas" (data exata nao confirmada). Conecta com Casas Bahia/Braskem/Chilli Beans sem repetir nenhum.
+Fonte: ADVFN -- https://br.advfn.com/jornal/2026/10/recuperacao-judicial-bate-recorde-no-brasil-juros-altos-mantem-pressao-sobre-empresas-endividadas
+Fontes de apoio: Seu Dinheiro (Serasa 2025) https://www.seudinheiro.com/2026/seu-negocio/recuperacao-judicial-bate-recorde-e-atinge-maior-numero-de-empresas-da-historia-em-2025-segundo-dados-da-serasa-experian-cbcb/ ; Gazeta do Povo https://www.gazetadopovo.com.br/economia/recorde-falencias-recuperacao-judicial-2026/ ; Visao Agro (Opea) https://visaoagro.com.br/opea-preve-pico-de-recuperacoes-judiciais-no-agro-ate-inicio-de-2027/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 26/35
+Status: VENCEDOR DO DIA
+GUARDRAIL: "Polemica adjacente" pesou (juros/economia em ano eleitoral). O roteiro NAO comenta politica, partido ou governo; angulo = como o juro alto corroi o caixa de quem tem divida e o que o dono de PME faz (renegociar cedo, caixa, alongar prazo). Bem diferente do video da Casas Bahia por ser panorama, nao um caso.
+Cuidado: nao misturar Serasa (CNPJs) com RGF (pedidos); confirmar numeros e a data da materia.
+
+CANDIDATO 2 -- Governo e MEI: dividas tributarias (R$ 12,6 bi?) e teto de faturamento
+Fato: InfoMoney (13/10) cita Ministro do Empreendedorismo dizendo que o governo enviara projeto para perdoar R$ 12,6 bi em dividas tributarias de MEIs -- NAO confirmado: outras fontes mostram Desenrola MEI (lancado 03/07/2026, R$ 12,4 bi, descontos ate 70%, ate 145 parcelas, ~3,5 mi de contribuintes, dividas ate R$ 20 mil) e PLP 186/26 (teto MEI R$ 81 mil -> R$ 110 mil em 2027 e R$ 140 mil em 2028). Verificar se ha fato novo.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13102026/ (nao foi possivel abrir a pagina); apoio: https://jovempan.com.br/economia/governo-lancara-edital-para-renegociar-dividas-de-meis-com-70-de-desconto/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 24/35
+Status: runner-up (risco alto: tema politico-eleitoral e fato nao confirmado)
+
+CANDIDATO 3 -- Braskem: Petrobras resiste a aporte de US$ 3 bi; prazo da extrajudicial ate 24/11
+Fato: Recuperacao extrajudicial protocolada em 24/08 (~US$ 10,9 bi / R$ 56 bi), adesao inicial 39,6% dos credores; em 24/09 a Petrobras disse acreditar em consenso mas nao descartou RJ; rumor de que credores pedem US$ 3 bi dos controladores. Sem noticia nova de outubro encontrada. Ja coberto em 07/10 (dentro dos 10 dias) -- so reaproveitar se houver fato novo.
+Fonte: Agencia iNFRA -- https://agenciainfra.com/blog/?p=47917
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 24/35
+Status: runner-up (repeticao recente)
