@@ -1,0 +1,62 @@
+RASCUNHO -- 2026-10-15 (Etapa 1: pesquisa e pontuacao)
+
+NOTA DE QUALIDADE: dia fraco em fato novo. A busca nao achou nenhum evento grande de hoje/ontem fora dos assuntos ja cobertos nos ultimos 10 dias (Braskem 07/10, Casas Bahia 12/10, Chilli Beans 11/10, IPCA-15/energia 09/10, Selic 08/10, RJ recorde 14/10). Fontes consultadas via busca (WebFetch indisponivel nesta sandbox: DNS falhou), entao os numeros abaixo vem de trechos de busca e precisam de checagem na Etapa 2.
+
+CANDIDATO 1 -- IPCA de setembro estoura o teto da meta (4,58% em 12m) e ameaca o ritmo de queda da Selic: o que muda no credito da PME
+Fato: IBGE divulgou em 09/10/2026 o IPCA de setembro: +0,82% no mes (maior taxa desde marco; apos -0,32% em agosto), 4,58% em 12 meses (era 4,22% em agosto), acima do teto da meta (4,5%). Expectativa do mercado ficou entre 0,60% e 0,76% conforme a fonte. Habitacao +2,31%; energia residencial ~+7,9% (impacto ~0,32 p.p.), fim do Bonus de Itaipu e bandeira amarela. Todos os grupos subiram. [Divergencia entre fontes: 7,89% vs 7,98% na energia; 0,73% vs 0,76% de expectativa -- conferir no IBGE.]
+Angulo sugerido (gestao): inflacao pressionando custo + Copom com menos espaco pra cortar juros = credito continua caro; o que o dono de PME deve fazer com preco, caixa e divida.
+ALERTA DE REPETICAO: tema encosta no pauta de 09/10 (energia/IPCA-15) e 08/10 (Selic). Angulo precisa ser DIFERENTE: caminho dos juros/credito, nao custo de energia. Frescor rebaixado por ser de 6 dias atras.
+Fonte: DGABC -- https://www.dgabc.com.br/Noticia/4351839/inflacao-acelera-a-0-82-em-setembro-maior-taxa-desde-marco (conferir tambem https://euqueroinvestir.com/economia/ipca-sobe-082-em-setembro-puxado-por-energia-eletrica e https://www.canalrural.com.br/economia/ipca-sobe-082-em-setembro-e-fica-acima-do-esperado/ ; fonte primaria: agenciadenoticias.ibge.gov.br)
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 5/5
+TOTAL: 27/35
+Status: VENCEDOR DO DIA (com ressalva de repeticao parcial)
+GUARDRAIL POLITICO: fator 'Polemica adjacente' pesou no score (inflacao/juros em ano eleitoral). Roteiro NAO deve comentar politica, partidos, governo ou BC de forma critica; so efeito pratico em preco, caixa e credito da PME.
+
+CANDIDATO 2 -- Braskem: prazo ate 22/11 para adesao de credores e bloqueio de ~US$ 70 mi mantido pela Justica de SP
+Fato: Recuperacao extrajudicial protocolada em 24/08/2026 (~US$ 10,9 bi em dividas); noticia de 14/10 diz que a empresa tem ate 22/11 para obter adesao de mais da metade dos credores; Justica de SP manteve suspensao de ~US$ 70 mi destinados a Braskem Idesa (Chapter 11 nos EUA). Projecao de caixa negativo de US$ 821 mi ate dez/2026 (uma fonte).
+Fonte: Cada Minuto -- https://cadaminuto.com.br/noticia/2026/10/14/braskem-tem-bloqueio-de-us-70-milhoes-mantido-apos-decisao-da-justica (tambem NeoFeed: https://neofeed.com.br/negocios/o-impasse-de-us-109-bilhoes-braskem-recorre-a-recuperacao-extrajudicial/)
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 2/5
+TOTAL: 23/35
+Status: runner-up (EMPRESA REPETIDA: ja foi pauta em 07/10 -- dentro da janela de 10 dias)
+
+CANDIDATO 3 -- Inadimplencia de empresas em recorde: 9,2 mi de CNPJs negativados, 8,7 mi sao micro e pequenas
+Fato: Serasa Experian: junho/2026 passou de 9,1 mi de CNPJs (R$ 232,9 bi); levantamento de julho/2026 aponta 9,2 mi, sendo 8,7 mi MPEs com R$ 238,6 bi em atraso. Economista-chefe diz que, apesar dos cortes da Selic, nao ha mudanca estrutural no credito.
+Fonte: Mercado & Consumo / Letsmoney -- https://mercadoeconsumo.com.br/18/08/2026/economia/inadimplencia-de-empresas-bate-recorde-de-91-milhoes-puxada-por-pequenos-negocios/ ; https://www.letsmoney.com.br/noticias/serasa-inadimplencia-empresas-julho-2026/ (primaria: serasaexperian.com.br/sala-de-imprensa)
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 22/35
+Status: runner-up (assunto proximo ao de 14/10 -- RJ recorde e juros)
+
+CANDIDATO 4 -- Casas Bahia encerra leiloes de estoque em 20/10 em plena recuperacao judicial
+Fato: Em 14/10 a varejista anunciou ultima rodada de ofertas/leiloes com encerramento em 20/10; RJ pedida em agosto/2026 (~R$ 17,3 bi em dividas; 298 lojas fechadas). Fato novo e pequeno.
+Fonte: A Tarde -- https://atarde.com.br/economia/casas-bahia-anuncia-ultima-rodada-de-ofertas-com-moveis-por-r-211-1405725
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 2/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 2/5
+TOTAL: 20/35
+Status: runner-up (EMPRESA REPETIDA: pauta de 12/10)
