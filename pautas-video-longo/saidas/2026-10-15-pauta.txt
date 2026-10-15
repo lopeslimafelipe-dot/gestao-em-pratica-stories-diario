@@ -1,0 +1,42 @@
+PAUTA DO DIA -- 2026-10-15
+Assunto: IPCA de setembro estoura o teto da meta (4,58% em 12 meses) e o que isso significa pro credito e o caixa da PME
+Score final: 27/35 (Frescor 2/5, Relevancia do protagonista 4/5, Gravidade 3/5, Polemica adjacente 5/5, Volume de cobertura 5/5, Clareza do angulo 3/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: O IBGE divulgou em 09/10/2026 o IPCA de setembro: +0,82% no mes (apos -0,32% em agosto) e 4,58% em 12 meses (eram 4,22% em agosto), acima do teto de 4,5% da meta. Grupo Habitacao +2,31%, puxado pela energia eletrica residencial (+7,98% segundo a fonte verificada). O mercado esperava 0,60% para o mes e 4,34% em 12 meses (Rankia); o dado veio acima.
+Fonte confirmada via busca: bpmoney (https://bpmoney.com.br/?p=425837) e Rankia (expectativa). Fonte primaria (IBGE) nao foi acessada diretamente.
+ATENCAO ao verificar: o rascunho trazia energia ~7,9% (7,89%/7,98% em fontes diferentes); a unica fonte que localizei diz 7,98%. Antes de gravar, usar "perto de 8%" ou conferir no IBGE. A expectativa de mercado tambem varia por fonte (0,60% a 0,76%); usar "acima do esperado" sem numero, ou 0,60% (Rankia).
+
+Cadeia causal (o que levou a isso): 
+1) Agosto teve deflacao (-0,32%), o que deu base baixa de comparacao -> 
+2) Em setembro o fim do Bonus de Itaipu nas faturas (creditado nas faturas de agosto) e a bandeira amarela (R$ 1,885 a cada 100 kWh) elevaram a conta de luz -> (fonte: Poder360 sobre o IPCA-15 de setembro, energia residencial +7,42% na previa) 
+3) Energia pesa em todos os custos: a inflacao de 12 meses foi de 4,22% para 4,58%, acima do teto -> 
+4) Com inflacao e expectativas (Focus 2026 ~4,9%) acima da meta, o Banco Central tem menos espaco para acelerar cortes: em 16/09 a Selic caiu 0,25 p.p., de 14,00% para 13,75%, em decisao unanime, e o comunicado citou inflacao e nucleos acima da meta (fonte: Atlas Publico). Proxima reuniao do Copom: 3 e 4 de novembro (nao ha reuniao em outubro) -> 
+5) Efeito pratico: credito segue caro e custos sobem; a PME e espremida entre custo e juros.
+
+Por que esta repercutindo agora: Volume de cobertura (5/5) e identificacao com a audiencia (5/5): inflacao e juros afetam todo dono de PME. Polemica adjacente (5/5) so explica o volume de cobertura; nao entra no video. Frescor baixo (2/5): dado de 6 dias atras. Alerta de repeticao: tema encosta nas pautas de 09/10 (energia/IPCA-15) e 08/10 (Selic); angulo precisa ser diferente: caminho do credito e decisoes de caixa/preco, nao o custo da energia em si.
+
+Angulo de gestao sugerido: "Credito caro vai durar mais do que voce planejou: o que o dono de PME revisa agora." Licoes praticas: (1) refazer o planejamento de caixa sem contar com queda rapida de juros; (2) renegociar/alongar dividas caras antes de depender de novo credito; (3) revisar precos e margens com o custo atualizado em vez de absorver; (4) reduzir dependencia de capital de giro bancario (prazo de recebimento, estoque). Sem recomendacao de investimento pessoal.
+
+Dados de apoio:
+- IPCA agosto -0,32%; 12 meses passou de 4,22% (ago) para 4,58% (set) -- bpmoney / meusdividendos (https://www.meusdividendos.com/indicadores/ipca)
+- Selic cortada de 14,00% para 13,75% em 16/09/2026, decisao unanime; inflacao e nucleos acima da meta -- Atlas Publico (https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748)
+- Focus: mediana do IPCA 2026 em ~4,92% (sobe de 4,90%), acima do teto -- Jornal do Comercio (https://www.jornaldocomercio.com/economia/2026/09/1263944-mediana-de-ipca-2026-passa-de-490-para-492-diz-focus-acima-do-teto-da-meta-de-inflacao.html) [so o titulo foi verificado na busca]
+- Proximo Copom em 3-4/11/2026, sem reuniao em outubro -- Renova Invest (https://renovainvest.com.br/?p=106745) [fonte secundaria, conferir calendario no site do Banco Central]
+- IPCA-15 de setembro: +0,70%, energia residencial +7,42%; fim do Bonus de Itaipu e bandeira amarela -- Poder360 (https://www.poder360.com.br/poder-economia/previa-da-inflacao-tem-alta-de-070-em-setembro-de-2026/)
+- Contexto de inadimplencia PJ (candidato 3 do rascunho, nao verificado nesta etapa): usar so se for verificado.
+
+Ressalva/limite: O fator 'Polemica adjacente' pesou 5/5 (inflacao/juros em ano eleitoral). NAO comentar politica, partidos, governo, candidatos ou criticar o Banco Central. Falar so de efeito pratico em preco, caixa e credito. Nao dar previsao propria de juros nem recomendar investimento. Verificacao limitada: o numero do IPCA (0,82% / 4,58%) foi confirmado em uma fonte secundaria (bpmoney) e a expectativa de mercado em outra; o IBGE nao foi consultado diretamente nesta rotina. Repeticao parcial com 08/10 e 09/10.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto):
+- Hook: "A inflacao estourou o teto da meta e o juro que voce esperava cair pode demorar mais."
+- Contexto/causa raiz: agosto negativo, fim do bonus de energia, bandeira amarela -> 4,58% em 12 meses.
+- Desenvolvimento da cadeia causal: inflacao acima da meta -> Selic corta so 0,25 p.p. -> credito segue caro -> custo sobe e financiamento nao alivia.
+- Licao de gestao (a virada): planejar caixa sem contar com juro menor, renegociar divida cara, revisar preco/margem.
+- Fechamento + CTA: pergunta ao dono de empresa sobre como ele esta revisando preco e caixa + convite a seguir o canal.
+
+Fonte(s): bpmoney -- https://bpmoney.com.br/?p=425837 ; Rankia -- https://rankia.com.br/ipca-setembro-2026-expectativa-0-60-cenarios-tesouro-ipca/ ; DGABC -- https://www.dgabc.com.br/Noticia/4351839/inflacao-acelera-a-0-82-em-setembro-maior-taxa-desde-marco ; Atlas Publico -- https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748 ; Poder360 -- https://www.poder360.com.br/poder-economia/previa-da-inflacao-tem-alta-de-070-em-setembro-de-2026/
+
+Runners-up do dia (registro/transparencia):
+- Braskem: prazo ate 22/11 para adesao de credores e bloqueio de ~US$ 70 mi mantido -- 23/35 (empresa repetida de 07/10)
+- Inadimplencia de empresas em recorde (9,2 mi de CNPJs negativados) -- 22/35
+- Casas Bahia encerra leiloes de estoque em 20/10 -- 20/35 (empresa repetida de 12/10)
