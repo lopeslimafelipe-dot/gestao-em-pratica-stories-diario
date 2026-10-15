@@ -1,0 +1,29 @@
+ROTEIRO 1 -- O sistema virou chão de fábrica
+"A Workday abriu o sistema de RH e finanças pra agentes de IA de terceiros, como o Claude. Segundo a empresa, qualquer agente compatível com o protocolo MCP lê e age nesses dados sob as mesmas permissões, aprovações e trilhas de auditoria. É anúncio do próprio fornecedor, voltado a grandes empresas. Traduzindo: 🟡`o sistema deixa de ser a tela e vira base de dados e permissões; quem manda é a camada de controle.`🟡 O The New Stack relatou que, numa demo, um agente customizado mostrou vagas que o usuário não deveria ver. 🟡`Agente sem governança vaza dado.`🟡 Quem controla o acesso na sua empresa?"
+Fonte: Workday Newsroom -- https://newsroom.workday.com/2026-10-13-Workdays-Trusted-Agent-Platform-Now-Delivers-Headless-Access-to-HR-and-Finance,-Letting-Customers-Build-and-Run-Lawful-AI-Agents
+
+ROTEIRO 2 -- Lucro dobra, ação cai
+"A Movida divulgou a prévia do terceiro trimestre: lucro de R$ 152,1 milhões, alta de 117%, acima da meta de R$ 130 a 150 milhões. Mesmo assim, a ação chegou a cair 8,18% no dia, segundo o BP Money, depois de subir mais de 80% no ano. Os números são preliminares, sem auditoria. 🟡`A receita de locação cresceu 19%, a R$ 2,7 bilhões: o lucro vem do contrato recorrente.`🟡 🟡`Quando a virada já está precificada, resultado bom pode virar motivo de venda.`🟡 Quanto da sua receita se repete todo mês?"
+Fonte: BP Money -- https://bpmoney.com.br/mercado/acoes/movida-movi3-cai-10-apesar-lucro-recorde-previa-3-trimestre/
+
+ROTEIRO 3 -- Netflix confirmou o corte
+"Na sexta falei do plano da Netflix de cortar gente. Agora a empresa confirmou: cerca de 1.000 vagas, 6% da força de trabalho, o maior corte desde 2022, principalmente em produto, tecnologia, jurídico e RH. No memorando, os co-CEOs dizem que 🟡`o negócio é forte e está crescendo`🟡. Ou seja, 🟡`enxugar áreas-meio com a empresa crescendo, antes da crise, é decisão de gestão.`🟡 O número é aproximado; o oficial vem no resultado de 20 de outubro. Quando você revisou suas camadas de apoio?"
+Fonte: Variety -- https://variety.com/2026/tv/news/netflix-layoffs-1000-employees-1236911239/
+
+ROTEIRO 4 -- Regra mexe na folha
+"Segundo a ANJL, associação do setor de apostas, mais de 3.500 pessoas foram demitidas desde 25 de setembro, quando saiu a MP 1.394: 23% da força de trabalho do setor. Outras 4.167 estão em férias coletivas, e a projeção é de até 5.600 demissões em 90 dias, 37%. Os números são parciais e vêm da própria associação. 🟡`Em cerca de duas semanas, 1 em cada 4 empregos do setor foi cortado.`🟡 🟡`Se o seu negócio depende de uma regra, risco regulatório é risco de folha de pagamento.`🟡 Qual regra sustenta a sua receita?"
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/fim-das-bets-causa-3-500-demissoes-diretas-diz-associacao/
+
+ROTEIRO 5 -- Ser investível
+"Estudo do McKinsey Institute for Economic Mobility com a Heartland Forward, de 1º de outubro: o interior dos EUA tem 39% da população e cerca de 35% do PIB, mas recebe só 10% do capital de risco. Fechar essa lacuna somaria US$ 2 trilhões em produção. É dado americano, e só o release foi lido. 🟡`35% do PIB recebendo 10% do capital de risco mostra que o gargalo nem sempre é a demanda, é ser investível.`🟡 Pro empresário do interior, 🟡`organização, governança e números em dia abrem a porta do capital.`🟡 Seus números estão prontos?"
+Fonte: McKinsey -- https://www.mckinsey.com/institute-for-economic-mobility/media-center/heartland-forward-and-the-mckinsey-institute-for-economic-mobility-release-an-investment-readiness-guidebook
+
+ROTEIRO 6 -- IBS e CBS: dentro ou fora do DAS
+"Tem prazo até 30 de outubro pra quem está no Simples: a opção por recolher IBS e CBS fora do DAS, valendo de janeiro a junho de 2027. Segundo a Receita, quem não opta mantém tudo dentro do Simples. 🟡`Em 2027 o dono decide se entrega IBS e CBS dentro do DAS ou paga por fora.`🟡 Dá pra cancelar a opção de 3 de novembro a 20 de dezembro, e o cancelamento é irretratável. 🟡`Decida com simulação do contador, não no escuro.`🟡 Seu contador já simulou os dois cenários?"
+Fonte: Receita Federal -- https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 6] Em 2027, seu IBS/CBS vai ficar: A) Dentro do DAS B) Fora do DAS
+2. [Pergunta/Participacao, Roteiro 3] Caixinha: Quando foi a última vez que você enxugou uma área de apoio da sua empresa, mesmo sem crise? Conta o que mudou.
+3. [Virar Historia, Roteiro 2 -> Estilo Comparativo] Lado a lado: lucro +117% de um lado, ação -8,18% do outro. O contraste entre os dois números é o próprio gancho.
