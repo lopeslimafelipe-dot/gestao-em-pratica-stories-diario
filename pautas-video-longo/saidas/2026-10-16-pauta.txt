@@ -1,0 +1,40 @@
+PAUTA DO DIA -- 2026-10-16
+Assunto: Petroleo a ~US$ 106 e Petrobras em R$ 800 bi: o que o barril caro faz com o diesel, o frete e a margem da PME
+Score final: 26/35 (Frescor 4, Relevancia do protagonista 5, Gravidade 3, Polemica adjacente 4, Volume de cobertura 4, Clareza do angulo 3, Identificacao com audiencia 3). Pauta fraca no geral: nada explosivo hoje, mas acima do corte de ~15/35.
+
+Fato central verificado: Em 14/10/2026 a Petrobras atingiu R$ 800 bi de valor de mercado pela 1a vez (4o recorde seguido na bolsa; R$ 700 bi tinha sido em 02/10). PETR4 +1,92% (R$ 57,94), PETR3 +2,45% (R$ 65,34). Brent (contrato dez/ICE) +0,92%, a US$ 106,66. O motor da alta foi o petroleo, com tensao entre Arabia Saudita e houthis. Fact-check: valores de mercado e cotacoes batem entre A Critica e BP Money; Brent confirmado tambem por fechamento de 12/10 (US$ 106,65, +1,84%, ataques houthis a Arabia Saudita -- Jornal do Comercio/Diario de Pernambuco). Fontes: https://acritica.net/economia/petrobras-atinge-r-800-bilhoes-em-valor-de-mercado-e-bate-novo-recorde-na-bolsa/ ; https://bpmoney.com.br/economia/petrobras-petr4-atinge-800-bilhoes-valor-mercado-primeira-vez/
+(Nota de verificacao: a pagina original nao abriu via fetch; conferido por trechos de busca em varios veiculos. A producao de 2,96 mi bpd em setembro foi confirmada (BP Money, dados preliminares da ANP), mas NAO foi confirmada como "recorde" -- nao usar a palavra "recorde" para a producao. Cotacoes variam por horario; usar "perto de US$ 106".)
+
+Cadeia causal (o que levou a isso):
+1) Ataques dos houthis a infraestrutura e alvos sauditas (oleoduto Leste-Oeste, aeroportos) e incerteza sobre o Estreito de Ormuz -> medo de falta de oferta -> Brent sobe de ~US$ 100,6 (06/10) para ~US$ 106,6 (12-14/10).
+2) Petroleo mais caro -> petroleiras valorizam na bolsa (Petrobras de R$ 700 bi em 02/10 para R$ 800 bi em 14/10).
+3) Petroleo caro tende a encarecer o diesel: ANP/Garagem360 apontam diesel S10 a ~R$ 7,35/l na semana 27/09-03/10, +21,3% em 12 meses (fonte unica secundaria, nao confirmada no boletim da ANP; em agosto a media era R$ 6,949, informe mensal ANP/Poder360).
+4) Diesel pesa ~30-40% do custo do transporte rodoviario (CNT: ~35%) -> transportadora precisa reajustar frete -> custo logistico da PME sobe -> margem aperta se nao houver repasse.
+
+Por que esta repercutindo agora: Marco simbolico (R$ 800 bi, 4o recorde seguido) soma frescor (14/10) e protagonista de peso (Petrobras) com cobertura ampla; o Brent perto de US$ 106 da gancho de custo real. A ligacao direta com a PME (clareza 3/5, identificacao 3/5) e a parte que o video precisa construir.
+
+Angulo de gestao sugerido: Petroleo caro e custo que chega no frete e na logistica. Licao pratica: (a) saber quanto do seu custo e frete/logistica e quanto disso e diesel; (b) ter clausula de reajuste ligada ao diesel nos contratos de frete (tanto com transportador quanto com seus clientes) em vez de renegociar no susto; (c) simular a margem com frete +5%/+10%; (d) decidir o repasse ao preco com dado, nao com achismo.
+
+Dados de apoio:
+- Diesel e ~30-40% da estrutura de custos do transporte rodoviario (manutencao 15-20%, mao de obra 15-20%) -- reportagem de 2026 em Portal Tela: https://www.portaltela.com/noticias/economia/2026/05/05/custos-altos-e-gargalos-expoem-fragilidade-contratual-no-transporte-rodoviario/ ; CNT ~35% -- Poder360: https://www.poder360.com.br/economia/87-dos-empresarios-de-frete-sao-contra-reajustes-da-petrobras/
+- NTC&Logistica recomenda gatilho de diesel em contratos novos e antigos -- Mundo Logistica / Money Times: https://www.moneytimes.com.br/transportadoras-devem-reajustar-frete-rodoviario-apos-aumento-do-diesel/
+- Pela regra da ANTT, a tabela de pisos minimos de frete e revisada a cada 6 meses ou quando o diesel varia mais de 5% (resultado de busca; confirmar texto da norma antes de citar).
+- Precedente: diesel S10 foi de R$ 6,09 (fim de fev/2026) a R$ 7,58 (pico de abril), +24%; frete rodoviario com recorde no 2o tri/2026, +20% a/a (Frete.com) -- https://agenciainfra.com/blog/tag/preco-do-diesel/ ; https://mundologistica.com.br/artigos/fim-parcial-subvencao-diesel-combustivel-vai-voltar-a-subir
+- Diesel S10 ~R$ 7,35/l (ANP, semana 27/09-03/10, via Garagem360, nao confirmado no boletim): https://garagem360.com.br/?p=321256
+- Evitar numeros de repasse de 2021/2022 (ex.: 8,75%, 15,58%) como se fossem atuais; sao de choques passados.
+- Producao Petrobras 2,96 mi bpd em setembro (+1% vs agosto; dados preliminares ANP): https://bpmoney.com.br/?p=426783
+
+Ressalva/limite: O fator "Polemica adjacente" (4/5) pesou no score: o tema encosta no debate publico sobre preco de combustivel e estatal. NAO comentar politica de preco da Petrobras, governo, partidos ou figuras politicas, nem opinar se o valor da empresa/preco do diesel e justo. Foco exclusivo no efeito pratico de custo na PME. Tambem: nao e recomendacao de investimento (nao falar de comprar/vender acao); nao afirmar que o diesel subira em X% por causa do Brent sem dado -- o repasse Brent->diesel->frete nao esta confirmado para outubro; apresentar como risco/mecanismo, nao como fato consumado.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve e o Copywriter do canal, secao 2.4, adaptado pra duracao maior):
+- Hook: conflito especifico (ex.: o barril de petroleo passou de US$ 106 e voce paga isso no seu frete sem ver na nota)
+- Contexto/causa raiz: tensao no Oriente Medio -> Brent -> diesel
+- Desenvolvimento da cadeia causal: diesel = ~1/3 do custo do transportador -> reajuste de frete -> custo logistico da PME -> margem
+- Licao de gestao (a virada): clausula de reajuste atrelada ao diesel + simulacao de margem + decisao de repasse
+- Fechamento + CTA
+
+Fonte(s): A Critica -- https://acritica.net/economia/petrobras-atinge-r-800-bilhoes-em-valor-de-mercado-e-bate-novo-recorde-na-bolsa/ ; BP Money -- https://bpmoney.com.br/economia/petrobras-petr4-atinge-800-bilhoes-valor-mercado-primeira-vez/ ; Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/10/1266597-petroleo-fecha-em-alta-com-ataques-houthis-contra-sauditas-e-falha-de-cessar-fogo-na-ucrania.html
+
+Runners-up do dia (registro/transparencia):
+- Casas Bahia: acordo com sindicatos paga R$ 7,5 mil a ~4,3 mil demitidos -- 28/35 (maior score bruto, excluido pela regra de 10 dias: foi pauta em 12/10)
+- Granja Tres Arroyos (Argentina) demite 1.250 e pede concurso preventivo -- 16/35
