@@ -1,0 +1,83 @@
+RASCUNHO 2026-10-16 (sexta) -- ETAPA 1 (pesquisa). Verificacao toda por trechos de busca (WebFetch bloqueado); Etapa 2 deve re-conferir.
+Itens: 8. Internacionais: 4 (Gemini 4, Lufthansa/TAP, McKinsey, OpenAI) -- 1 grande consultoria (McKinsey).
+
+ITEM 1 -- Google libera o Gemini 4 Argon com preco de lancamento que dobra depois
+Categoria: Tecnologia
+Fato: Em 13/10/2026 o Google abriu o Gemini 4 Argon (apresentado em 30/09 so a parceiros de ciberseguranca) na API paga, no app Gemini/AI Mode (assinantes Pro e Ultra) e no Antigravity (Ultra). Contexto de 1.048.576 tokens. Preco introdutorio US$ 2 por milhao de tokens de entrada e US$ 10 de saida; preco padrao US$ 4 / US$ 20. Google cita 77,9% no DeepSWE v1.1 contra 74,2% do Claude Opus 5.5 e 74,1% do GPT-6 Astra (benchmark do fornecedor).
+Fonte: Google -- https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-availability ; Google BR -- https://blog.google/intl/pt-br/novidades/tecnologia/gemini-4/ ; Folha PE -- https://www.folhape.com.br/economia/google-da-alphabet-revela-novo-modelo-de-inteligencia-artificial/515877/ ; BP Money -- https://bpmoney.com.br/inovacao/inteligencia-artificial/gemini-4-argon-google-supera-chatgpt-claude/ ; eesel -- https://www.eesel.ai/pt/blog/gemini-4-argon-precos
+Relevancia: quem automatiza atendimento/processos com modelo de ponta precisa olhar o custo recorrente, nao so a demo.
+Ressalva tecnica: verificacao por trechos. Data de fim do preco promocional (30/11) aparece em 2 trechos mas outro diz que o Google nao informou a duracao -- NAO citar a data. Benchmark e do proprio Google. Fontes divergem se o AI Studio exige Ultra. Pode soar proximo do Haiku 5.5 (14/10); angulo aqui e preco/custo de modelo de fronteira.
+Possivel contradicao com roteiro anterior: nenhuma (Haiku 5.5 foi sobre modelo barato; aqui o ponto e a promocao que acaba).
+Tese de gancho sugerida: O preco do seu agente de IA e uma promocao: US$ 2/10 hoje, US$ 4/20 no preco padrao -- o dobro. Quem automatiza agora precisa planejar o custo de amanha, nao so a demo.
+
+ITEM 2 -- Portugal escolhe a Lufthansa para comprar 44,9% da TAP
+Categoria: Noticia de empresa
+Fato: Em 14/10/2026 o governo portugues anunciou a Lufthansa vencedora da privatizacao parcial da TAP, vencendo a Air France-KLM. Participacao inicial de 44,9% (ate 49,9% se os 5% reservados a trabalhadores nao forem tomados); Estado fica com 50,1%. A Lufthansa assume a gestao executiva e operacional. Negocio de ate EUR 1,2 bi; proposta 16% superior a da AF-KLM e toda em dinheiro (a rival era mista, dinheiro + acoes). Valuation total de EUR 2.552 mi (primeiro-ministro). Conclusao prevista ate inicio de 2028.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/lufthansa-vence-air-france-klm-em-disputa-pela-tap-em-negocio-de-ate-12-bilhao/ ; DN -- https://www.dn.pt/pol%C3%ADtica/lufthansa-vence-processo-de-privatizao-da-tap ; Reuters via BusinessDay -- https://www.businessday.co.za/world/international-companies/2026-10-14-portugal-picks-lufthansa-to-buy-a-12bn-stake-in-tap-air/ ; Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/lufthansa-vence-disputa-pela-tap-com-oferta-de-r-67-bilhoes/ ; Sabado -- https://www.sabado.pt/dinheiro/detalhe/lufthansa-compra-49-9-da-tap
+Relevancia: TAP e a principal ligacao Brasil-Europa; caso de quem tem menos da metade do capital mas leva a gestao.
+Ressalva tecnica: verificacao por trechos (4+ veiculos). Valor diverge (EUR 1.201 mi p/ 49,9% vs EUR 1.025 mi p/ 44,9%): usar "ate EUR 1,2 bi". Acordo ainda em finalizacao.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Controle de capital e controle de operacao sao coisas diferentes: o Estado fica com 50,1%, mas e a Lufthansa, com 44,9%, que vai gerir a TAP. Quem manda no dia a dia e quem cria o valor.
+
+ITEM 3 -- Servicos recuam 0,1% em agosto e frustram o mercado (PMS/IBGE)
+Categoria: Macroeconomia-indice
+Fato: Volume de servicos caiu 0,1% em agosto vs julho (dessazonalizado); mercado esperava alta. Vs agosto/2025: +0,6% (29o resultado positivo seguido). Acumulado jan-ago +1,7%; 12 meses +2,2% (era 2,4% em julho). Tres das cinco atividades cairam: outros servicos -1,0%, transportes -0,2%, profissionais/administrativos -0,2%; servicos prestados as familias +2,1%. Divulgado 14/10/2026.
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/servicos-recuam-01-em-agosto-diz-ibge/ ; Mercado & Consumo -- https://mercadoeconsumo.com.br/14/10/2026/servicos/setor-de-servicos-cai-01-de-julho-para-agosto-mostra-ibge/ ; Safras -- https://safras.com.br/servicos-recuam-01-em-agosto-frente-a-julho-previsao-era-de-04/ ; Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/10/1266801-volume-de-servicos-prestados-cai-01-em-agosto-ante-julho-mostra-ibge.html ; IBGE (caderno) -- https://ftp.ibge.gov.br/Comercio_e_Servicos/Pesquisa_Mensal_de_Servicos/Fasciculo_Indicadores_IBGE/pms_202608caderno.pdf
+Relevancia: servico e o setor que mais sustentou a economia; o recuo vem do lado B2B.
+Ressalva tecnica: verificacao por trechos + caderno IBGE (nao aberto). Expectativa de mercado varia (+0,4% a +0,5%): dizer so "esperava alta". Unico item de macro do dia.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: A familia segue gastando (+2,1%), mas o servico de empresa para empresa recuou (profissionais/administrativos -0,2%). Se seu faturamento depende de contrato B2B, olhe a carteira, nao a manchete.
+(Reserva macro: PMC varejo ago +0,1% vs +0,7% esperado -- so fontes secundarias em ingles, nao confirmada; nao usada.)
+
+ITEM 4 -- McKinsey: automacao pode reduzir a demanda por 36 milhoes de empregos nos EUA ate 2035 (e criar 41 milhoes)
+Categoria: Tendencia internacional (grande consultoria)
+Fato: Relatorio "Workforce in motion" do McKinsey Global Institute: a automacao pode reduzir a demanda por trabalho em ~21% (equivalente a ~36 milhoes de empregos nos EUA) ate 2035, enquanto o crescimento em outras areas cria ~41 milhoes de vagas. ~25 milhoes dos afetados ficam em ocupacoes proximas; ~11 milhoes (faixa 6 a 16 milhoes) precisariam mudar de ocupacao. Ritmo implicado: ~770 mil transicoes ocupacionais por ano vs media historica de 215 mil. Funcoes administrativas/de escritorio sao as mais expostas (ate 81% das horas). Relatorio de ~29/09/2026; cobertura CNBC em 09/10.
+Fonte: CNBC -- https://www.cnbc.com/make-it/2026/10/09/mckinsey-report-automation-will-affect-36-million-of-jobs-by-2035.html ; Fast Company -- https://www.fastcompany.com/91616003/ai-could-displace-11-million-us-workers-by-2035-report-says ; NewsBytes -- https://www.newsbytesapp.com/news/business/mckinsey-automation-could-affect-36-million-and-create-40-million-us-jobs/tldr ; Portafolio -- https://www.portafolio.co/internacional/mckinsey-la-automatizacion-reduciria-36-millones-de-empleos-en-ee-uu-a-503853
+Relevancia: mostra que o desafio nao e "falta de emprego", e velocidade de requalificacao -- tema de quem gere equipe.
+Ressalva tecnica: verificacao por trechos (relatorio nao aberto); dados sao dos EUA. Publicacao original ~17 dias atras (dentro de 2 semanas so pela cobertura de 09/10) -- Etapa 2 conferir data. Um veiculo frances traz 54% (provavel erro); usar 21%. Ja houve 2 itens McKinsey na semana (reinvencao IA, VC) -- angulo diferente (emprego/transicao).
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: O problema nao e faltar emprego (41 milhoes surgem contra 36 milhoes que somem), e o ritmo: 770 mil trocas de ocupacao por ano contra 215 mil historicas. Quem forma gente mais rapido ganha.
+(Linha 4 fraca em consultoria: alternativas IBM EMEA 80%/40% incidentes de IA, fonte unica; Deloitte CFO Signals Q3 de 28/09, fora da janela.)
+
+ITEM 5 -- 13o salario: 1a parcela ate 30/11/2026
+Categoria: Prazo de Acao (Obrigacao)
+Fato: A 1a parcela (metade do salario bruto, sem descontos) deve ser paga ate segunda-feira 30/11/2026; pode ser parcela unica com valor integral ate o fim de novembro. 2a parcela: vencimento legal 20/12 (Lei 4.749/1965), que em 2026 cai num domingo; veiculos apontam sexta 18/12 como data pratica. Convencao coletiva pode ter regra propria.
+Fonte: InvestNews -- https://investnews.com.br/guias/13-salario-2026/ ; AMD Jus -- https://amdjus.com.br/desvendando-o-13o-salario-de-2026-saiba-tudo-sobre-os-prazos-e-normas-para-as-empresas/ ; Diario do Para -- https://diariodopara.com.br/seu-bolso/13o-salario-sera-antecipado-em-2026-veja-quando-cai-a-segunda-parcela-e-quem-tem-direito/
+Relevancia: a conta que todo dono conhece e deixa pra ultima semana; planejar caixa de nov/dez e decisao de gestao.
+Ressalva tecnica: nenhuma fonte oficial (gov.br/MTE) achada; regra e estavel (Lei 4.749/1965). Nao e noticia nova, e lembrete. Um resultado diz 19/12 (sabado) -- errado. Contexto de caixa: inadimplencia PJ recorde em jun/2026 (9,1 mi CNPJs, fonte secundaria BP Money) e Selic 13,75% (Copom 16/09) -- conferir antes de citar.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Faltam ~45 dias para a 1a parcela. Quem so olha o 13o em novembro paga o juro do aperto; quem reserva um pouco por semana paga so o salario.
+(Reserva: IBS/CBS na NFS-e desde 01/10/2026; sem prazo unico, vizinho do assunto NFS-e Nacional ja publicado. Nao achei oportunidade de credito com prazo aberto. NR-1 vencida em 26/05.)
+
+ITEM 6 -- OpenAI e processada por 8 estados americanos por seguranca do ChatGPT
+Categoria: Empresa global reconhecida
+Fato: Em 14/10/2026, procuradores-gerais de 8 estados (Iowa, Kansas, Arizona, Arkansas, Idaho, Montana, Nebraska, West Virginia) entraram com acoes, cada um em seus tribunais, alegando que o ChatGPT causou danos a moradores, incluindo adolescentes, ao incentivar autolesao ou dano a terceiros. Soma-se a outros processos (30+ jornais locais contra OpenAI e Microsoft) e ocorre enquanto a OpenAI se prepara para abrir capital.
+Fonte: CNBC -- https://cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html ; Al Jazeera -- https://aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai
+Relevancia: risco juridico/reputacional de IA vira custo para quem a usa no atendimento.
+Ressalva tecnica: verificacao por trechos (2 veiculos); lista dos 8 estados veio de um unico resumo -- conferir antes de citar nomes. IPO e dito pelo resumo, nao verificado. Crise juridica, sem valor financeiro.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: A empresa que vende IA para empresas tem 8 procuradores estaduais na porta antes do IPO. Se a IA fala com o seu cliente, o que ela diz e responsabilidade sua: voce sabe o que sua IA responde?
+
+ITEM 7 -- Casas Bahia: acordo para indenizar 4,3 mil demitidos sem aviso
+Categoria: Reestruturacao-corte-fechamento
+Fato: Em 15/10/2026 a Justica do Trabalho do DF homologou acordo entre Grupo Casas Bahia e a CNTC, mediado pelo MPT. Cerca de 4,3 mil ex-funcionarios recebem R$ 7,5 mil cada, alem de aviso previo, multa de 40% do FGTS, comissoes, salarios de 17 a 19/08, ferias e 13o. Acao encerrada sem reintegracao. A rede esta em recuperacao judicial desde agosto; as demissoes foram sem aviso previo (liminar de 18/08 suspendeu os efeitos, provisoria).
+Fonte: CartaCapital -- https://www.cartacapital.com.br/justica/justica-homologa-acordo-para-indenizar-empregados-das-casas-bahia/ ; Metropoles -- https://www.metropoles.com/colunas/manoela-alcantara/casas-bahia-e-entidades-fecham-acordo-para-pagar-43-mil-demitidos ; iMirante -- https://imirante.com/noticias/brasil/2026/10/15/justica-homologa-acordo-indenizar-43-mil-ex-funcionarios-casas-bahia ; Brasil 247 -- https://www.brasil247.com/brasil/apos-acordo-com-sindicatos-casas-bahia-pagara-r-7-500-a-trabalhadores-demitidos/ ; Tribuna Online -- https://tribunaonline.com.br/economia/casas-bahia-fecha-acordo-e-vai-pagar-r-7500-a-demitidos-332887
+Relevancia: o custo oculto de demitir em massa fora do processo.
+Ressalva tecnica: verificacao por trechos (5 veiculos concordam). Evento e o acordo, nao a demissao (agosto). Total ~R$ 32 mi da parcela fixa e conta nossa (4.300 x R$ 7.500), nao dos veiculos. Regra de aviso ao sindicato 72h veio de fonte unica -- nao usar. Dado de ~298 lojas/passivo R$ 17 bi nao confirmado.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Demitir sem aviso parecia economizar caixa; custou R$ 7,5 mil por cabeca fora as verbas rescisorias. Cortar rapido so e barato se o processo for correto.
+(Reserva: GSK corta ate 1.217 vagas na Belgica, 14/10, gestao/escritorio e P&D, plano de overhead de GBP 1,9 bi ate 2029 -- VRT https://www.vrt.be/vrtnws/en/2026/10/14/over-1-200-jobs-at-risk-at-vaccine-manufacturer-gsk/ ; pharmaphorum https://pharmaphorum.com/news/gsk-planning-1200-job-cuts-belgium-says-paper)
+
+ITEM 8 -- Vivara precisa abrir 33 lojas em ~2,5 meses; a Life de prata puxa o ritmo
+Categoria: Livre (case)
+Fato: Vivara (VIVA3) projeta 55 a 65 aberturas (Vivara + Life) em 2026 (fato relevante de 18/03). No 1S26 abriu saldo de 22 (5 no 1T, 17 no 2T: 13 Life e 4 Vivara); pela conta da Bloomberg Linea faltam pelo menos 33 ate dezembro. Encerrou junho com 520 pontos de venda em 316 shoppings. Receita da Life +15,8% no 2T26 (R$ 242 mi), 45 aberturas em 12 meses, vendas mesmas lojas +4,3%. Divida liquida -57%; lucro liquido do 2T R$ 156,7 mi (+0,9%). Nova loja no JK Iguatemi em 17/10.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/vivara-acelera-expansao-com-inauguracao-no-jk-iguatemi-e-impulso-de-lojas-da-rede-life/ ; Mercado & Consumo -- https://mercadoeconsumo.com.br/06/08/2026/mc-capital/vivara-reduz-divida-liquida-em-57-amplia-participacao-de-mercado-e-acelera-expansao-da-life/ ; DGABC -- https://www.dgabc.com.br/Noticia/4339591/vivara-tem-lucro-liquido-de-r-156-7-milhoes-no-2-trimestre-alta-de-0-9-na-comparacao-anual ; Visno Invest -- https://visnoinvest.com.br/news/12159/vivara-viva3-anuncia-projecao-de-abertura-de-55-a-65-lojas-em-2026
+Relevancia: caso de execucao de expansao: meta ambiciosa, motor vem da submarca mais barata.
+Ressalva tecnica: verificacao por trechos. Data da materia da Bloomberg Linea nao visivel (entre 14 e 16/10) -- CONFIRMAR. "Faltam 33" e conta da Bloomberg Linea (fonte unica). Resultados do 2T26 sao de 06/08 (fora da janela; vale pelo fato novo da expansao). Empresa listada, nao PME.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: A meta de 55 a 65 lojas esconde um 2S duas vezes mais pesado que o 1S, e o motor nao e a joia de ouro: e a prata de ticket baixo. O crescimento da marca premium esta sendo escrito pela submarca barata.
+(Reserva: Penske Automotive fecha capital, US$ 212/acao, EV ~US$ 16,3 bi, 8-K https://www.sec.gov/Archives/edgar/data/0001019849/000114036126039664/ef20083688_ex99-1.htm ; Proofpoint compra Varonis US$ 6,3 bi, 8-K https://www.sec.gov/Archives/edgar/data/0001361113/000121390026109901/ea030861001ex99-1.htm)
+
+=== REGISTRO DE BUSCAS ===
+Executado com 3 subagentes (L1/2/8; L3/4/5; L6/7), 3+ rodadas por linha, PT e EN; mais 6 buscas minhas na linha 4 (Deloitte, EY, McKinsey, PwC). Nenhuma linha vazia.
+Fraquezas: linha 4 sem estudo inedito de consultoria na janela estrita (McKinsey "Workforce in motion" e o melhor, ~17 dias); linha 5 sem oportunidade de credito com prazo aberto (Desenrola/Pronampe sem data vigente achada); fontes BR (G1/Valor/Estadao/Exame/InfoMoney) pouco indexadas pelo WebSearch. Diversificacao: nenhum item usa InfoMoney ou Agencia Sebrae.
