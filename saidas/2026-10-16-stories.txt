@@ -1,0 +1,37 @@
+ROTEIRO 1 -- O preço do agente é promoção
+"O Google abriu o Gemini 4 Argon na API paga com preço de lançamento: US$ 2 por milhão de tokens de entrada e US$ 10 de saída. Só que, segundo o próprio Google, 🟡`o preço padrão é US$ 4 e US$ 20, o dobro.`🟡 O desempenho de 77,9% num teste de programação também é número do Google. Se você monta agente de IA no atendimento, 🟡`planeje o custo recorrente, não só a demo.`🟡 Você já calculou o seu?"
+Fonte: Google -- https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-availability
+
+ROTEIRO 2 -- 44,9% e quem manda é a Lufthansa
+"A Lufthansa venceu a disputa pela TAP, anunciou o governo português em 14 de outubro, batendo a Air France-KLM. Leva 44,9% do capital num negócio de até 1,2 bilhão de euros, com proposta 16% maior e toda em dinheiro, segundo o primeiro-ministro. 🟡`O Estado fica com 50,1%, mas quem assume a gestão é a Lufthansa.`🟡 🟡`Controle de capital e controle da operação são coisas diferentes.`🟡 No seu negócio, quem manda de fato?"
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/lufthansa-vence-air-france-klm-em-disputa-pela-tap-em-negocio-de-ate-12-bilhao/
+
+ROTEIRO 3 -- A família gasta, a empresa esfriou
+"O volume de serviços caiu 0,1% em agosto contra julho, segundo o IBGE, e o mercado esperava alta. Três das cinco atividades recuaram, entre elas 🟡`serviços profissionais e administrativos, com queda de 0,2%, enquanto serviços às famílias subiram 2,1%.`🟡 Ou seja, a família segue gastando, mas o serviço de empresa pra empresa esfriou. 🟡`Se o seu faturamento depende de contrato B2B, olhe a sua carteira, não a manchete.`🟡 Quanto da sua receita vem de outras empresas?"
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/servicos-recuam-01-em-agosto-diz-ibge/
+
+ROTEIRO 4 -- O problema é o ritmo
+"Segundo o McKinsey Global Institute, num relatório de 29 de setembro, a automação pode reduzir a demanda por trabalho nos EUA em cerca de 36 milhões de empregos até 2035, enquanto outras áreas criam cerca de 41 milhões. O dado é americano. 🟡`O ponto é o ritmo: 770 mil trocas de ocupação por ano, contra 215 mil na média histórica.`🟡 🟡`O problema não é faltar emprego, é requalificar gente rápido.`🟡 Como anda o treinamento da sua equipe?"
+Fonte: CNBC -- https://www.cnbc.com/make-it/2026/10/09/mckinsey-report-automation-will-affect-36-million-of-jobs-by-2035.html
+
+ROTEIRO 5 -- 13º: faltam 45 dias
+"Lembrete de gestão: a primeira parcela do 13º, metade do salário bruto, vence em 30 de novembro. A segunda vence em 20 de dezembro, que cai num domingo, e vários veículos apontam sexta, 18 de dezembro, como data prática; confira sua convenção coletiva. 🟡`Quem só olha o 13º em novembro paga o juro do aperto no caixa.`🟡 🟡`Quem reserva um pouco por semana paga só o salário.`🟡 Já separou o primeiro valor?"
+Fonte: InvestNews -- https://investnews.com.br/guias/13-salario-2026/
+
+ROTEIRO 6 -- Oito procuradores na porta da OpenAI
+"Em 14 de outubro, procuradores-gerais de oito estados americanos processaram a OpenAI, cada um no seu tribunal, alegando que o ChatGPT incentivou autolesão e violência, inclusive entre jovens. São alegações, ainda sem decisão. Mas o recado vale pra qualquer um: 🟡`se a IA fala com o seu cliente, o que ela diz é responsabilidade sua.`🟡 Você sabe o que a sua IA responde?"
+Fonte: CNBC -- https://cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html
+
+ROTEIRO 7 -- Demitir sem aviso saiu caro
+"Segundo reportagens, a Justiça do Trabalho homologou em 15 de outubro um acordo da Casas Bahia com a confederação dos trabalhadores do comércio: cerca de 4,3 mil demitidos sem aviso em agosto recebem R$ 7,5 mil cada, além das verbas rescisórias. Pela minha conta, 🟡`são uns R$ 32 milhões só nessa parcela.`🟡 Demitir sem aviso parecia economizar caixa. 🟡`Cortar rápido só é barato se o processo for correto.`🟡 Seu plano de corte passaria no teste?"
+Fonte: CartaCapital -- https://www.cartacapital.com.br/justica/justica-homologa-acordo-para-indenizar-empregados-das-casas-bahia/
+
+ROTEIRO 8 -- A prata puxa a joia
+"A Vivara prometeu abrir de 55 a 65 lojas em 2026, mas fez saldo de 22 no primeiro semestre. Segundo a Bloomberg Línea, faltam pelo menos 33 até dezembro. O motor é a Life, a marca de prata mais barata: 🟡`45 aberturas em 12 meses e receita de R$ 242 milhões no segundo trimestre, alta de 15,8%.`🟡 🟡`O crescimento da marca premium está sendo escrito pela submarca barata.`🟡 Qual é a sua versão acessível?"
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/vivara-acelera-expansao-com-inauguracao-no-jk-iguatemi-e-impulso-de-lojas-da-rede-life/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 5] Você já separou o caixa da 1ª parcela do 13º (30/11)? Sim, já está reservado / Ainda não
+2. [Pergunta/Participacao, Roteiro 6] Caixinha: sua empresa já usa IA pra falar com cliente? Me conta o que você faz pra conferir o que ela responde.
+3. [Virar Historia, Roteiro 4 -> Estilo Comparativo] 770 mil trocas de ocupação por ano contra 215 mil na média histórica: dois números lado a lado deixam o salto de ritmo visível sem explicar muito.
