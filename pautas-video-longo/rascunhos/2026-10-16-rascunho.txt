@@ -1,0 +1,45 @@
+RASCUNHO -- 2026-10-16 (Radar de Repercussao, Etapa 1)
+Obs de pesquisa: sites originais nao abriram via fetch (DNS); fatos conferidos apenas em resultados de busca de veiculos secundarios. Etapa 2 deve reconfirmar numeros na fonte antes de roteirizar.
+
+CANDIDATO 1 -- Petrobras bate R$ 800 bi de valor de mercado com Brent perto de US$ 106: petroleo caro, diesel e custo da PME
+Fato: Em 14/10/2026 a Petrobras atingiu R$ 800 bi em valor de mercado pela 1a vez (4o recorde seguido; R$ 700 bi foi em 02/10). PETR4 +1,92% (R$ 57,94), PETR3 +2,45% (R$ 65,34); Brent perto de US$ 106 (tensao Arabia Saudita x houthis); producao recorde de 2,96 mi bpd em setembro; acordos de exploracao na Bacia de Santos.
+Fonte: A Critica (Campo Grande) -- https://acritica.net/economia/petrobras-atinge-r-800-bilhoes-em-valor-de-mercado-e-bate-novo-recorde-na-bolsa/ (cobertura tambem em https://bpmoney.com.br/economia/petrobras-petr4-atinge-800-bilhoes-valor-mercado-primeira-vez/)
+Angulo sugerido: petroleo a US$ 106 pressiona diesel/frete/logistica -> custo e margem da PME; licao: repasse de custo e contrato de frete. Sem comentar politica de preco/governo da estatal.
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 4/5 (pesa: debate publico sobre preco de combustivel/estatal; roteiro NAO comenta politica, partido ou governo -- so efeito pratico em custo)
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5 (ligacao Brent -> diesel -> PME depende de dado de repasse nao confirmado)
+- Identificacao com audiencia: 3/5
+TOTAL: 26/35
+Status: VENCEDOR DO DIA (acima do corte de ~15/35, mas fraco: nada realmente explosivo hoje)
+
+CANDIDATO 2 -- Casas Bahia: acordo com sindicatos paga R$ 7,5 mil a ~4,3 mil demitidos
+Fato: Em 15/10/2026, acordo com sindicatos e MPT preve R$ 7,5 mil a ~4,3 mil demitidos em agosto; parte do pagamento depende da recuperacao judicial; aviso previo de 72h ao sindicato em demissoes em massa futuras, multa de R$ 1 mil por trabalhador. Divida ~R$ 17 bi, ~298 lojas fechadas.
+Fonte: Jornal da Midia -- https://www.jornaldamidia.com.br/2026/10/15/justica-homologa-acordo-para-indenizar-empregados-das-casas-bahia/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 28/35
+Status: runner-up (maior score bruto, mas EXCLUIDO da vitoria pela regra de 10 dias: Casas Bahia foi pauta em 12/10)
+
+CANDIDATO 3 -- Granja Tres Arroyos (Argentina) demite 1.250 e pede concurso preventivo
+Fato: Gigante alimenticia argentina demite 1.250 em tres fabricas e pediu recuperacao judicial (noticia de ~5 dias atras).
+Fonte: A Tarde -- https://atarde.com.br/economia/gigante-alimenticia-demite-1250-funcionarios-em-tres-fabricas-1405323
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 3/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 1/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 16/35
+Status: runner-up
