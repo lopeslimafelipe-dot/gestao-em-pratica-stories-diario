@@ -1,0 +1,59 @@
+RASCUNHO -- 2026-10-17 (sabado)
+Obs: WebFetch das paginas originais falhou (rede/DNS); fatos abaixo vem dos snippets de busca e precisam ser reconfirmados na Etapa 2. Casas Bahia (acordo com 4,3 mil demitidos, R$ 7,5 mil cada, homologado 15-16/10) ficou de fora por ja ter sido pauta em 12/10 (regra dos 10 dias).
+
+CANDIDATO 1 -- Getty Images: aposta de fusao que falhou vira Chapter 11 e acionistas ficam sem nada
+Fato: Getty anunciou em 12/10/2026 Chapter 11 pre-negociado e saida da bolsa, apos cancelar em 7/07 a fusao de US$ 3,7 bi com a Shutterstock (autoridade antitruste do Reino Unido exigiu venda de negocio editorial). Divida ~US$ 2,1 bi; detentores de 83,5% dos bonds aceitaram retirar US$ 270 mi; familia Getty + Koch Equity Development aportam ate US$ 533 mi e ficam com 100%; acionistas atuais nada recebem; empresa diz manter operacao e pagar fornecedores integralmente.
+Fonte: PetaPixel -- https://petapixel.com/2026/10/12/getty-going-private-as-the-beleaguered-stock-photo-brand-files-for-bankruptcy/ (complementar: Poder360 -- https://www.poder360.com.br/poder-midia/getty-images-pede-recuperacao-judicial-e-planeja-fechar-capital/ ; BeBeez -- https://bebeez.eu/2026/10/14/getty-images-to-carry-on-a-restructuring-ahead-of-a-delisting-with-the-support-of-koch-equity-development/)
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 24/35
+Status: VENCEDOR DO DIA (desempate por Gravidade sobre o Candidato 2). Fator polemica nao pesou; sem risco politico.
+Angulo sugerido: crescer por fusao alavancada depende de aprovacao externa; quando falha, a divida fica e quem perde primeiro e o dono do capital.
+
+CANDIDATO 2 -- Dolar fecha a semana em alta de 1,75% com eleicao no foco, Selic 13,75%
+Fato: dolar comercial fechou 16/10 a R$ 5,073 (-0,28% no dia), mas +1,75% na semana; Ibovespa +0,54% a 205.430 pts; mercado espera novo corte de 0,25 p.p. em novembro. Bloomberg Linea liga euforia eleitoral a ressaca da divida (inadimplencia do sistema 5% em agosto).
+Fonte: InfoMoney -- https://infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16102026
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 2/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 3/5
+TOTAL: 24/35
+Status: runner-up (guardrail: se virar pauta, nao comentar eleicao/politica; angulo so de caixa/custo de importados)
+
+CANDIDATO 3 -- Cencosud encerra GBarbosa e fecha as ultimas seis lojas em Fortaleza
+Fato: grupo chileno sai do Ceara, fechamento gradual ate o fim de outubro.
+Fonte: Band B -- https://www.bandab.com.br/economia/grupo-chileno-fecha-lojas-fortaleza-gbarbosa/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 17/35
+Status: runner-up
+
+CANDIDATO 4 -- Inadimplencia empresarial recorde (Serasa: 9,1 mi de CNPJs negativados em agosto)
+Fato: maior da serie historica; numeros 9,3 mi/R$ 244 bi citados em outra fonte nao confirmados. Tema ja coberto em 14/10 (recordes de RJ e juros).
+Fonte: Mercado & Consumo -- https://mercadoeconsumo.com.br/18/08/2026/economia/inadimplencia-de-empresas-bate-recorde-de-91-milhoes-puxada-por-pequenos-negocios/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 23/35
+Status: runner-up
