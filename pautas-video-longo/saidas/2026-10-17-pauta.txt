@@ -1,0 +1,41 @@
+PAUTA DO DIA -- 2026-10-17
+Assunto: Getty Images: a fusao que falhou virou Chapter 11, e os acionistas ficaram sem nada
+Score final: 24/35 (Frescor 3/5 | Relevancia do protagonista 4/5 | Gravidade 5/5 | Polemica adjacente 1/5 | Volume de cobertura 3/5 | Clareza do angulo 4/5 | Identificacao com audiencia 4/5)
+
+Fato central verificado:
+- Em 12/10/2026 a Getty Images anunciou um Chapter 11 pre-negociado ("prepackaged", equivalente a uma recuperacao judicial ja combinada com os credores) e a saida da bolsa. Todas as acoes atuais serao canceladas, sem nenhum valor aos acionistas. Familia Getty + Koch Equity Development aportam ate US$ 533 mi de capital novo e ficam com 100% da empresa. (Confirmado em varias fontes; o aporte e dividido: Koch ate ~US$ 158,2 mi, familia ate US$ 162 mi, segundo Debtwire.)
+- Detentores de 83,5% dos bonds sem garantia aceitaram retirar US$ 270 mi em notas. ATENCAO: US$ 270 mi e o valor de face; o pagamento em dinheiro aos credores e de cerca de US$ 170 mi (Debtwire). Nao dizer que "a divida caiu US$ 270 mi pagos".
+- Credores com garantia (~89% dos bonds/term loans e 100% do revolver) vao reduzir juros e estender prazos. Ha tambem um financiamento DIP de US$ 143 mi pra tocar a empresa durante o processo. Conclusao prevista ate o fim de 2026.
+- A empresa diz que a operacao segue normal e que fornecedores, funcionarios, contribuidores e clientes nao serao afetados (fornecedores pagos integralmente). O pedido cobre apenas certas entidades americanas.
+- Correcao ao rascunho: a divida total era ~US$ 2,1 bi (confirmado, balanco do 2T26). A fusao com a Shutterstock (US$ 3,7 bi) foi cancelada em 07/07/2026 (carta de rescisao; o board decidiu em 30/06). Nao houve "venda forcada": a autoridade antitruste do Reino Unido (CMA) disse em 15/05 que a fusao so passaria se a Shutterstock vendesse todo o negocio editorial, e a Getty se recusou a seguir.
+Fonte/URL confirmada: PetaPixel https://petapixel.com/2026/10/12/getty-going-private-as-the-beleaguered-stock-photo-brand-files-for-bankruptcy/ ; dados do 2T26 e da rescisao em documentos da propria empresa (SEC 8-K) https://www.sec.gov/Archives/edgar/data/0001898496/000162828026055270/gety-20260630xex991.htm ; Debtwire/Ion Analytics https://ionanalytics.com/insights/debtwire/getty-images-holdings-reaches-deal-with-lenders-shareholders-and-noteholders-to-take-company-private-and-wipe-out-warrant-litigation-claims-through-chapter-11-legal-analysis/
+(Observacao: verificacao feita via WebSearch; paginas originais nao abertas diretamente.)
+
+Cadeia causal (o que levou a isso):
+1. Mercado de imagens pressionado (concorrencia de imagem gerada por IA, queda de assinantes e de receita em Creative) -> 2. Getty aposta numa fusao com a Shutterstock (US$ 3,7 bi) como saida pra ganhar escala -> 3. Fusao dependia de aprovacao externa: o regulador britanico exigiu a venda do negocio editorial da Shutterstock; a Getty recusou e rescindiu a fusao (07/07), depois de gastar mais de US$ 100 mi em custos do negocio (fonte unica, briefglance) -> 4. Sem a fusao, ficou com divida de ~US$ 2,1 bi e caixa de ~US$ 51,6 mi (jun/26); resgatou US$ 628 mi de notas 10,5% (fonte unica, confirmar antes de usar) e sacou todo o revolver de US$ 30 mi em julho; a empresa suspendeu a projecao financeira e o balanco registrou duvida substancial sobre continuidade -> 5. Acoes cairam abaixo de US$ 1, sairam da NYSE (OTC em 30/09) -> 6. Chapter 11 pre-negociado: credores aceitam perdas/prazos, os donos de capital novo ficam com tudo e os acionistas antigos zeram.
+
+Por que esta repercutindo agora: Gravidade 5/5 (nome conhecido do mundo todo indo a recuperacao judicial, acionistas zerados) e Relevancia do protagonista 4/5; Clareza do angulo 4/5 (causa e consequencia limpas) e Identificacao 4/5 (dono de PME que ja pensou em crescer comprando/fundindo). Frescor 3/5: anuncio ha 5 dias, ainda com cobertura. Polemica adjacente baixa (1/5): sem risco politico.
+
+Angulo de gestao sugerido: crescer por aquisicao/fusao alavancada e uma aposta que depende de terceiros (regulador, credor, mercado). Se a aprovacao falha, a divida continua e quem perde primeiro e o dono do capital. Licao pro dono de PME: (1) nao deixe a sobrevivencia da empresa depender de um evento que voce nao controla; (2) tenha plano B pronto antes de apostar na operacao grande; (3) divida com prazo curto + caixa baixo tira o poder de negociar; (4) negociar com credores ANTES do colapso (o "pre-negociado") preserva a operacao: aqui a empresa segue pagando fornecedores.
+
+Dados de apoio:
+- Receita do 2T26: US$ 229,1 mi, -2,5% a/a (-4,1% em moeda constante); Creative -2,6% (US$ 127,4 mi), Editorial +9,2%; prejuizo liquido US$ 85,8 mi (vs US$ 34,4 mi) -- Getty 8-K/MarketBeat https://www.sec.gov/Archives/edgar/data/0001898496/000162828026055270/gety-20260630xex991.htm
+- Caixa US$ 51,6 mi vs divida US$ 2,1 bi (30/06/26) -- idem (via resumo de busca)
+- Queda de ~25% nos assinantes anuais (titulo de materia Panabee, nao verificado no corpo: so usar se reconfirmar) https://www.panabee.com/news/getty-images-earnings-q3-2026
+- Shutterstock caiu ~30% no after-hours ao anuncio da rescisao -- ground.news https://ground.news/article/getty-images-cancels-merger-with-shutterstock
+
+Ressalva/limite: Polemica adjacente nao pesou (1/5), nao ha tema politico; manter o foco so em gestao. Nao tratar como recomendacao de investimento (nada sobre comprar/vender acoes). Cuidado com os numeros: US$ 270 mi (face) x ~US$ 170 mi (caixa); US$ 533 mi e teto ("ate"); Chapter 11 e lei americana, nao e falencia com fechamento (operacao continua). Nao afirmar que IA foi causa direta do cancelamento da fusao: a causa direta foi a exigencia do regulador; a IA e contexto de pressao no negocio.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto):
+- Hook: a Getty, dona de uma das maiores bibliotecas de fotos do mundo, foi pro Chapter 11 e os acionistas ficaram com zero, depois de uma fusao que nao saiu.
+- Contexto/causa raiz: negocio pressionado + aposta na fusao com a Shutterstock pra ganhar escala, com divida de US$ 2,1 bi.
+- Desenvolvimento da cadeia causal: regulador exige venda -> Getty recusa e cancela -> caixa baixo e divida alta -> acoes caem, saem da bolsa -> acordo pre-negociado com credores; donos do capital novo ficam com 100%.
+- Licao de gestao (a virada): crescer na base de aprovacao externa e divida e apostar a empresa num evento que voce nao controla; tenha plano B e caixa antes da aposta grande, e converse com credores cedo.
+- Fechamento + CTA.
+
+Fonte(s): PetaPixel -- https://petapixel.com/2026/10/12/getty-going-private-as-the-beleaguered-stock-photo-brand-files-for-bankruptcy/ ; SEC (Getty 8-K) -- https://www.sec.gov/Archives/edgar/data/0001898496/000162828026055270/gety-20260630xex991.htm ; Debtwire -- https://ionanalytics.com/insights/debtwire/getty-images-holdings-reaches-deal-with-lenders-shareholders-and-noteholders-to-take-company-private-and-wipe-out-warrant-litigation-claims-through-chapter-11-legal-analysis/
+
+Runners-up do dia (registro/transparencia):
+- Dolar fecha a semana em alta de 1,75% (Selic 13,75%): 24/35
+- Inadimplencia empresarial recorde (Serasa, 9,1 mi de CNPJs): 23/35
+- Cencosud encerra GBarbosa e fecha ultimas 6 lojas em Fortaleza: 17/35
