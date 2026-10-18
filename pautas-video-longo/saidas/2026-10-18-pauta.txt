@@ -1,0 +1,46 @@
+PAUTA DO DIA -- 2026-10-18
+Assunto: Fim da escala 6x1 promulgado (Emenda Constitucional 141/2026): o que muda na folha e na escala da PME
+Score final: 33/35 (Frescor 5, Relevancia do protagonista 4, Gravidade 5, Polemica adjacente 5, Volume de cobertura 5, Clareza do angulo 4, Identificacao com audiencia 5)
+
+Fato central verificado: O Senado aprovou a PEC 221/2019 em 14/10/2026 por 75 a 1, sem alterar o texto da Camara (foi direto a promulgacao). O Congresso promulgou em sessao solene em 16/10/2026 (Emenda Constitucional 141/2026), com publicacao no DOU em edicao extra da mesma data segundo uma das fontes (nao consegui conferir o texto integral no DOU). A emenda garante 2 dias de descanso semanal remunerado (um preferencialmente aos domingos), sem reducao de salario. Cronograma: ~60 dias apos a publicacao -> jornada maxima de 44h para 42h; 12 meses depois dessa etapa (~14 meses no total) -> 40h semanais. Durante a transicao, acordos/convencoes coletivas podem redistribuir descansos e a jornada diaria, desde que preservados os 2 dias de repouso e a media semanal. Data de inicio da 1a etapa: reportagens citam ~15/12/2026 (60 dias contados de 16/10); o prazo exato depende da leitura do texto no DOU -- tratar como "meados de dezembro".
+Fontes confirmadas: Poder360, Radio Senado, Senado Noticias, Camara dos Deputados, TV Senado, CNN Brasil (via busca; WebFetch bloqueado no ambiente).
+
+CORRECAO ao rascunho da Etapa 1: o "+17% na folha" NAO e uma estimativa oficial da ABLOS. Segundo a cobertura, o numero de ~17% vem de um lojista (Ricardo Rossette, marca Victoria Regia) para cobrir as mesmas horas; a associacao AGAS (supermercados do RS) cita 17% a 20%, outro setor. A ABLOS fala em necessidade de contratar para manter o funcionamento 7 dias e pede transicao e desoneracao. Usar o numero apenas como "estimativa de um lojista", nunca como dado da ABLOS ou do setor.
+
+Cadeia causal (o que levou a isso):
+1. Empresas que operam 6 dias/semana (comercio, shopping, servicos, alimentacao) organizam a cobertura em torno de cada funcionario trabalhando ~44h em 6 dias.
+2. A emenda reduz a jornada (44h -> 42h -> 40h) e exige 2 dias de descanso, sem cortar salario: o custo por hora trabalhada sobe.
+3. Para manter o mesmo horario de funcionamento, a cobertura de horas precisa vir de algum lugar: mais contratacao, hora extra, reorganizacao de turnos ou reducao de horario. Conta simples: 44h -> 40h por pessoa e ~10% menos horas por funcionario; manter a mesma cobertura exige ~10% mais horas contratadas (aritmetica, coerente com a estimativa de consultor citada na Etapa 1).
+4. O custo adicional pressiona margem e caixa e, onde o mercado permite, preco -- por isso o planejamento antes do prazo (dezembro) e o ponto central.
+
+Por que esta repercutindo agora: promulgacao ocorreu ha 2 dias (frescor maximo); afeta diretamente quem tem funcionarios em escala (identificacao maxima com dono de PME); alta gravidade (mudanca constitucional com prazo curto de 60 dias); cobertura massiva da imprensa e de entidades empresariais.
+
+Angulo de gestao sugerido: "Voce tem ate meados de dezembro: como calcular o impacto na SUA operacao". Licao pratica: (a) calcular as horas de cobertura necessarias por turno/dia e comparar com as horas disponiveis em 42h e depois 40h; (b) simular custo: contratar vs. hora extra vs. reorganizar escala vs. ajustar horario de funcionamento; (c) mapear o que pode ser resolvido por acordo/convencao coletiva durante a transicao; (d) projetar caixa para os 14 meses e decidir o que vira ganho de produtividade ou revisao de preco; (e) a transicao em duas etapas da tempo de testar a nova escala na 1a etapa antes da 2a. Tom neutro e pratico.
+
+Dados de apoio (cada um com fonte):
+- MTE estima que o modelo 5x2 pode beneficiar 14,9 milhoes de trabalhadores -- via cobertura do Senado/imprensa: https://www.dgabc.com.br/Noticia/4352797/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-para-40-horas
+- FecomercioSP estima alta de ~22% no custo do trabalho e ~R$ 158 bi/ano para as empresas (estimativa de entidade patronal, projecao): https://forbes.com.br/forbes-money/2026/05/os-impactos-do-fim-da-escala-6x1-fecomercio-estima-que-pode-custar-r-158-bilhoes-as-empresas-do-brasil/
+- Pesquisa Pulso dos Pequenos Negocios (Sebrae, 12a edicao): 51% dos donos de micro/pequenas empresas e MEI avaliam que nao haveria impacto no proprio negocio: via busca (ver Mercado & Consumo / Sebrae)
+- ABLOS: pequenos e medios lojistas sao ~65% das lojas de shopping; alerta de repasse de custo via condominio e necessidade de contratar: https://mercadoeconsumo.com.br/16/10/2026/noticias-varejo/fim-da-escala-6x1-exige-planejamento-no-varejo-de-shopping-centers-alerta-ablos/
+- Abrasce (encomendou estudo): projeta queda de >12% em vendas e emprego em shoppings -- estimativa contestada, usar so com ressalva.
+Obs: todas as estimativas de custo vem de entidades com interesse no debate; apresentar como projecoes, nao fatos.
+
+Ressalva/limite: GUARDRAIL POLITICO -- "Polemica adjacente" pesou 5/5 (ano eleitoral, 2o turno). NAO comentar a politica: nao citar Lula, Flavio Bolsonaro, Mourao, partidos ou candidatos; nao opinar se a mudanca e boa ou ma, nem sobre inflacao/emprego como argumento de debate. So efeito pratico de gestao. Cuidados factuais: (1) prazo exato da 1a etapa diverge entre fontes -- dizer "cerca de 60 dias, meados de dezembro" e orientar a conferir o texto no DOU; (2) nao atribuir 17% a ABLOS; (3) numeros de custo sao projecoes de entidades; (4) nao e consultoria juridica/trabalhista -- sugerir conversar com contador/advogado trabalhista para o caso especifico (regras de convencao coletiva variam por categoria). Sem recomendacao de investimento.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve e o Copywriter do canal, secao 2.4, adaptado pra duracao maior):
+- Hook: conflito especifico (ex.: "Sua loja abre 6 dias. Em ~60 dias cada funcionario trabalha menos horas, com o mesmo salario. Quem cobre o turno?")
+- Contexto/causa raiz: o que a emenda estabelece e o calendario 42h -> 40h
+- Desenvolvimento da cadeia causal: horas por pessoa -> horas de cobertura -> custo (contratar x hora extra x reorganizar)
+- Licao de gestao (a virada): simule agora com a sua folha; use a transicao para testar a nova escala
+- Fechamento + CTA
+
+Fonte(s):
+- Poder360 -- https://www.poder360.com.br/poder-congresso/congresso-promulga-pec-que-extingue-a-escala-de-trabalho-6-x-1/
+- Radio Senado -- https://www12.senado.leg.br/radio/1/noticia/2026/10/14/senado-aprova-pec-que-acaba-com-escala-6x1-texto-segue-para-promulgacao
+- Senado Noticias -- https://www12.senado.leg.br/noticias/materias/2026/10/16/congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-de-agentes-de-saude
+- Camara -- https://www.camara.leg.br/noticias/1311797-congresso-promulga-emenda-que-acaba-com-escala-6x1-e-estabelece-jornada-maxima-de-40-horas-semanais
+- Mercado & Consumo (ABLOS) -- https://mercadoeconsumo.com.br/16/10/2026/noticias-varejo/fim-da-escala-6x1-exige-planejamento-no-varejo-de-shopping-centers-alerta-ablos/
+
+Runners-up do dia (registro/transparencia):
+- Grupo Gennius (Habib's/Ragazzo) em recuperacao judicial -- 22/35
+- Braskem: recuperacao extrajudicial (~US$ 10,9 bi) -- 20/35
