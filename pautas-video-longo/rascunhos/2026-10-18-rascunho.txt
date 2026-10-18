@@ -1,0 +1,45 @@
+CANDIDATO 1 -- Fim da escala 6x1 promulgado: o que muda na folha e na escala da PME
+Fato: Senado aprovou a PEC em 14/10/2026 (75 a 1); Congresso promulgou em sessao solene em 16/10/2026 (Emenda Constitucional 141/2026). Jornada maxima cai de 44h para 42h com 2 dias de descanso remunerado apos ~60 dias da publicacao (reportagens apontam ~15/12/2026; fontes divergem) e para 40h apos 12 meses, sem reducao de salario. ABLOS (lojistas de shopping) estima folha ate +17%; consultor trabalhista estima ~10% mais horas contratadas para manter a mesma cobertura.
+Fonte: Poder360 -- https://www.poder360.com.br/poder-congresso/congresso-promulga-pec-que-extingue-a-escala-de-trabalho-6-x-1/
+Fontes complementares: Radio Senado https://www12.senado.leg.br/radio/1/noticia/2026/10/14/senado-aprova-pec-que-acaba-com-escala-6x1-texto-segue-para-promulgacao ; Brasil de Fato https://www.brasildefato.com.br/2026/10/16/com-presenca-de-lula-congresso-promulga-pec-e-oficializa-fim-da-escala-6x1-nesta-sexta-16/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 33/35
+Status: VENCEDOR DO DIA
+ATENCAO GUARDRAIL POLITICO: Polemica adjacente pesou muito (ano eleitoral, 2o turno, tema usado por candidatos). O roteiro NAO deve citar Lula, Flavio Bolsonaro, partidos, nem opinar se a mudanca e boa ou ma. Angulo unico: gestao -- calculo de cobertura de escala, custo de folha, reorganizacao de turnos, produtividade, preco, planejamento de caixa antes do prazo. Tom neutro e pratico.
+
+CANDIDATO 2 -- Grupo Gennius (Habib's/Ragazzo) em recuperacao judicial: juro, delivery e divida de R$ 265 mi
+Fato: RJ pedida em agosto/2026, divida declarada ~R$ 265,2 mi, KPMG como administradora judicial, 60 dias para apresentar plano. Fato antigo (agosto), sem novidade confirmada hoje.
+Fonte: InfoMoney -- https://www.infomoney.com.br/business/com-divida-de-r-265-milhoes-dono-do-habibs-anuncia-recuperacao-judicial/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 22/35
+Status: runner-up (possivel gancho: prazo de 60 dias para o plano vence perto do fim de outubro)
+
+CANDIDATO 3 -- Braskem: recuperacao extrajudicial para reestruturar ~US$ 10,9 bi
+Fato: pedido protocolado em 24/08/2026; 90 dias de protecao para negociar. Fato de agosto, sem novidade confirmada hoje; assunto denso para PME.
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/08/braskem-decide-pedir-recuperacao-extrajudicial-para-reestruturar-us109-bi-em-dividas/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 2/5
+TOTAL: 20/35
+Status: runner-up
+
+Obs: busca web no sandbox nao retornou ranking de mais lidas do dia; fato do vencedor confirmado em varias fontes (Poder360, Radio Senado, Brasil de Fato). Prazo exato de vigencia da 1a etapa diverge entre fontes -- confirmar no DOU na Etapa 2.
