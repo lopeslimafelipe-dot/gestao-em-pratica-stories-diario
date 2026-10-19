@@ -1,0 +1,50 @@
+RADAR DE REPERCUSSAO -- 2026-10-19 (segunda)
+AVISO: dia fraco em fatos novos. Nenhum candidato passa de ~25/35; todos acima do corte de 15/35, mas nenhum e explosivo.
+Limitacao: fetch direto de G1/Exame/InfoMoney bloqueado na sandbox; candidatos levantados via busca. Antes de gravar, confirmar numeros nas fontes primarias (BC/Focus, Copom).
+
+EXCLUIDO PELA REGRA DOS 10 DIAS (nao concorre): Casas Bahia -- Justica do Trabalho (DF) homologou em 15/10 acordo de R$ 7,5 mil por demitido para 4,3 mil ex-funcionarios, com aviso de 72h aos sindicatos antes de novas dispensas coletivas (cobertura em 19/10: Maringa Post, Revista Oeste, D'Ponta News). Empresa ja foi pauta em 12/10. Tambem fora: fim da escala 6x1 (pauta de 18/10, 33/35).
+
+CANDIDATO 1 -- Copom (3 e 4/nov) a 2 semanas: o que o corte (ou nao) de juros muda de verdade pro caixa da PME
+Fato: Reuniao do Copom em 3-4/11. Mercado projeta novo corte de 0,25 p.p. (Selic a ~13,75% pelas fontes consultadas; nivel atual NAO confirmado, fontes divergem) e pausa depois, com retomada em marco/2027 (Febraban, pesquisa de 22-28/09: 50% dos bancos veem 13,50%). IPCA 12m em 4,58% (acima do teto) segura o ritmo. Serasa: 9,1 mi de CNPJs negativados em junho (recorde) mesmo com cortes iniciados.
+Fonte: Boletim Focus/BC (segunda-feira) e cobertura de mercado -- URL exata do Focus de 19/10 NAO localizada; referencias: https://www.moneytimes.com.br/tempo-real-10-10-26-apsa-lils/ (Ibovespa abre a semana de olho no Focus); https://www.suno.com.br/noticias/?p=666635 (Selic 2026: 70% dos bancos veem mais cortes)
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 2/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: VENCEDOR DO DIA (por margem minima)
+Flags: (a) assunto juros ja apareceu em 14/10 e 15/10 -- angulo precisa ser novo (ex.: "corte de 0,25 nao muda seu custo de credito; o que fazer enquanto isso"). (b) GUARDRAIL POLITICO: fator Polemica adjacente (5/5) pesa no score -- roteiro NAO deve comentar governo, BC como alvo de critica, partido ou eleicao; angulo so de gestao/caixa/credito.
+
+CANDIDATO 2 -- Nasdaq tem pior semana desde junho: chips caem ~10% e a divida das big techs pra financiar IA vira alerta
+Fato: Semana encerrada em 16/10: Nasdaq -4%+, S&P 500 ~-2%, ETF de semicondutores (SMH) -10%, maior perda semanal desde abril/2025. Causas citadas: concorrencia chinesa em chips, endividamento das empresas de tecnologia para expandir infraestrutura de IA e alta do petroleo. Nasdaq ensaia recuperacao em 19/10. Licao de gestao: crescer alavancado em cima de expectativa.
+Fonte: Times Brasil (CNBC) -- https://timesbrasil.com.br/investimentos/bolsa/nasdaq-recua-2-e-registra-pior-semana-desde-junho-pressionado-por-acoes-ligadas-a-ia-e-alta-do-petroleo/ ; apoio: https://xtb.com/pt/analise-de-mercado/noticias-de-mercado/destaques-da-manha-19-10-2026
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 23/35
+Status: runner-up (ressalva: confirmar que a materia e mesmo da semana de 16/10; o resultado de busca mistura semanas de jun/2026 e nov/2025)
+
+CANDIDATO 3 -- Black Friday (27/11) comeca a ser decidida agora: planejamento de estoque e margem com consumidor endividado
+Fato: Black Friday 2026 em 27/11. Levantamento LWSA (set/2026): 50% dos consumidores pesquisam ofertas mais de 1 mes antes; 54% pretendem distribuir compras ao longo de novembro. Projecao CNC/Serasa de 2026 ainda nao localizada.
+Fonte: Central do Varejo -- https://centraldovarejo.com.br/black-friday-2026-data-faturamento-e-preparacao-do-varejo/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 1/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 19/35
+Status: runner-up
+
+DESCARTADOS: Saraiva/falencia (resultados de busca sao de 2023, sem fato de 2026 confirmado); Americanas 4.314 demissoes (dado de abril/2026); Serasa inadimplencia 9,1 mi CNPJs (dado de junho, sem divulgacao nova); Anthropic fundo "bem publico" (so manchete via agregador, nao confirmada e distante da audiencia).
