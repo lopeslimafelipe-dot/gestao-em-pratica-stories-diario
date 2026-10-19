@@ -1,0 +1,32 @@
+PAUTA DO DIA -- 2026-10-19
+Assunto: Copom (3 e 4/nov) a 2 semanas: o que um corte de 0,25 p.p. muda (e nao muda) no caixa da PME
+Score final: 24/35 (Frescor 3/5; Relevancia do protagonista 3/5; Gravidade 2/5; Polemica adjacente 5/5; Volume de cobertura 3/5; Clareza do angulo 3/5; Identificacao com audiencia 5/5)
+Obs.: dia fraco, nenhum candidato explosivo; vencedor por margem minima (24 vs 23).
+
+Fato central verificado: A Selic esta em 13,75% a.a. desde o corte unanime de 0,25 p.p. na reuniao de 15-16/09/2026 (de 14%). O Boletim Focus de 13/10/2026 projeta Selic de 13,25% no fim de 2026 (antes 13,50%), 12,00% em 2027 e 10,50% em 2028, com cortes de 0,25 p.p. esperados nas duas reunioes restantes do ano (Copom de 3-4/11, decisao na noite de 4/11, e dezembro), condicionados a desaceleracao da inflacao. CORRECAO ao rascunho: a "pausa apos novembro / retomada em marco/2027" e o dado Febraban/IPCA 4,58% NAO foram confirmados no fact-check e foram retirados; o consenso verificado e de cortes em nov e dez.
+Fontes: https://conteudos.xpi.com.br/economia/boletim-focus-mercado-espera-taxa-selic-em-1325-neste-ano-13-10-2026/ ; https://forbes.com.br/forbes-money/2026/10/selic-juros-eleicoes-2026/ ; https://tmc.com.br/economia/mercado-reduz-previsao-de-selic-ao-final-do-ano-para-1325-e-eleva-projecao-de-inflacao-no-focus/ ; https://www.patrimo.app/blog/copom-novembro-2026-o-que-esperar-selic (todas via busca; fontes oficiais BC/Copom nao acessadas diretamente).
+
+Cadeia causal (o que levou a isso): Juros altos por muito tempo encarecem o credito -> empresas de menor porte carregam dividas rolando a taxas altas e acumulam contas atrasadas -> inadimplencia de CNPJs bate recorde (9,1 mi em junho/2026, R$ 232,9 bi em dividas) mesmo com a Selic ja em queda -> o corte de 0,25 p.p. e gradual e demora a chegar ao custo do credito do pequeno negocio -> quem espera "o juro cair" pra se reorganizar segue pagando caro e arrisca o caixa. Segundo o economista-chefe da Serasa, juros altos e economia desacelerando explicam o quadro, e as condicoes financeiras seguem restritivas.
+
+Por que esta repercutindo agora: Copom a duas semanas, Focus semanal revisando a Selic de fim de ano (13,50% -> 13,25%) e identificacao altissima com o dono de PME (credito, caixa, divida). Fatores que mais pesaram: Identificacao com audiencia 5/5 e Polemica adjacente 5/5 (ver Ressalva).
+
+Angulo de gestao sugerido: "Um corte de 0,25 ponto nao salva seu caixa." Licao pratica: nao planejar a empresa em cima de expectativa de queda de juros; renegociar/alongar dividas caras primeiro, priorizar quitar a mais cara, olhar prazo de recebimento vs. pagamento, reduzir dependencia de capital de giro bancario, projetar caixa com o juro de hoje. (Sem recomendacao de investimento pessoal.)
+
+Dados de apoio:
+- 9,1 mi de CNPJs inadimplentes em junho/2026, recorde da serie iniciada em 2016; dividas de R$ 232,9 bi, alta de ~16,7% vs junho/2025 (Serasa Experian, release de 17/08/2026: https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/recorde-inadimplencia-das-empresas-superou-9-milhoes-de-reais-em-junho-e-dividas-chegaram-a-232-bilhoes-de-reais-revela-serasa-experian/ )
+- 8,6 mi dos inadimplentes sao micro e pequenas empresas; media de 7,3 contas em atraso e divida media de R$ 25.508,96 por CNPJ; 55,7% do setor de servicos; SP lidera com 3,1 mi (mesma fonte / https://www.letsmoney.com.br/noticias/serasa-inadimplencia-empresas-recorde-junho-2026/ )
+- Selic 14% -> 13,75% em 16/09/2026, decisao unanime (https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748 ). Fontes divergem sobre quantos cortes seguidos (4o ou 5o) -- NAO citar essa contagem.
+Ressalva/limite: (1) GUARDRAIL POLITICO: o fator Polemica adjacente (5/5) pesou. NAO comentar governo, Banco Central como alvo de critica, partidos, eleicao ou o debate sobre a taxa de juros em si; falar so de efeito pratico no caixa e no credito da empresa. (2) Assunto juros ja foi pauta em 14/10 e 15/10: manter o angulo novo (o que fazer enquanto o corte e pequeno). (3) Previsao de mercado nao e certeza: dizer "o mercado espera", nunca garantir o corte. (4) Nivel exato de Selic e projecoes vieram de veiculos de noticias; conferir no site do BC/Focus antes de gravar. (5) Nao dar recomendacao de investimento.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve e o Copywriter do canal, secao 2.4, adaptado pra duracao maior):
+- Hook: conflito especifico (ex.: "A Selic vai cair de novo, e mesmo assim 9 milhoes de empresas estao com conta atrasada")
+- Contexto/causa raiz: juros altos + credito caro + inadimplencia recorde
+- Desenvolvimento da cadeia causal: por que 0,25 ponto pouco muda o custo do credito da PME
+- Licao de gestao (a virada): nao espere o juro cair; reorganize divida e caixa com a taxa de hoje
+- Fechamento + CTA
+
+Fonte(s): XP -- https://conteudos.xpi.com.br/economia/boletim-focus-mercado-espera-taxa-selic-em-1325-neste-ano-13-10-2026/ ; Serasa Experian -- link acima
+
+Runners-up do dia (registro/transparencia):
+- Nasdaq tem pior semana desde junho: chips caem ~10% e divida das big techs pra IA vira alerta -- 23/35
+- Black Friday (27/11): planejamento de estoque e margem com consumidor endividado -- 19/35
