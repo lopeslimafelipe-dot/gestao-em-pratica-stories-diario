@@ -1,0 +1,81 @@
+RASCUNHO 2026-10-20 (Etapa 1) -- 8 itens. Verificacao por trechos de WebSearch (WebFetch bloqueado); Etapa 2 re-confere.
+
+ITEM 1 -- Idealab.ai: Bill Gross lanca plataforma gratuita com 1,2 milhao de ideias de negocio geradas por IA
+Categoria: Tecnologia
+Fato: Lancado em 19/10/2026. A plataforma analisou mais de 17 milhoes de fontes (noticias, papers, patentes, filings) e gerou 1,2 milhao de ideias de negocio, buscaveis por interesse, local e custo de partida. Cada ideia vem com "business brief": clientes potenciais, concorrentes, primeiros passos e motivos pelos quais pode falhar. Usa 31 metodos de Gross. Segundo o release: parceiro Cloudflare com US$ 100 mil em creditos; meta de 1 milhao de novos negocios e 100 milhoes de empregos (alegacoes da empresa).
+Fonte: Axios -- https://www.axios.com/2026/10/19/bill-gross-idealab-ai-startup-factory-ideas ; Fortune -- https://fortune.com/2026/10/19/bill-gross-idealab-ai-million-startups-jobs/ ; Release GlobeNewswire -- https://www.globenewswire.com/news-release/2026/10/19/3383464/0/en/bill-gross-the-entrepreneur-behind-175-companies-launches-idealab-ai-to-give-away-millions-of-business-ideas-and-help-people-everywhere-build-them.html
+Relevancia: Mostra pra onde vai o custo de "ter ideia": quase zero. Quem gere negocio precisa pensar no que continua escasso.
+Ressalva tecnica: Axios, Fortune e release concordam em 17 mi/1,2 mi; Fortune confirmado so por titulo/URL. US$ 100 mil Cloudflare e metas so no release (alegacao da empresa). Fonte com interesse comercial; sem validacao independente da qualidade das ideias. Usar "ideias".
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A ideia de negocio virou commodity: 1,2 milhao de graca, cada uma com a lista de motivos pra falhar. O gargalo do dono nao e mais ideia, e execucao, caixa e distribuicao.
+
+ITEM 2 -- Ri Happy pede recuperacao extrajudicial de R$ 827,4 milhoes menos de 50 dias depois de trocar controle e CEO
+Categoria: Noticia de empresa
+Fato: Ri Happy e cinco afiliadas (entre elas PBKids) protocolaram em Sao Paulo (18 ou 19/10, veiculos divergem) pedido de recuperacao extrajudicial para renegociar R$ 827,4 milhoes em dividas. Credores de R$ 308,8 milhoes (cerca de 42%) ja aderiram, com 90 dias para ampliar. Cerca de 300 lojas operando normalmente. Venda a BluSun Capital Partners divulgada em 31/08/2026; Hector Nunez voltou como CEO no lugar de Thiago Rebello. Em 2023 a rede ja havia renegociado cerca de R$ 289 milhoes. Causas citadas pela empresa: juros altos, mudanca de consumo, concorrencia, e-commerce estrangeiro.
+Fonte: NeoFeed -- https://neofeed.com.br/negocios/com-divida-de-r-8274-milhoes-ri-happy-entra-com-pedido-de-recuperacao-extrajudicial ; InfoMoney -- https://www.infomoney.com.br/mercados/ri-happy-pede-recuperacao-extrajudicial-para-renegociar-dividas-de-mais-de-r-800-mi/ ; Seu Dinheiro -- https://www.seudinheiro.com/2026/seu-negocio/menos-de-50-dias-apos-troca-de-ceo-ri-happy-pede-recuperacao-extrajudicial-com-divida-de-r-8274-milhoes-o-que-aconteceu-giov/ ; Poder360 -- https://www.poder360.com.br/poder-economia/ri-happy-pede-recuperacao-extrajudicial-para-renegociar-r-8274-mi/
+Relevancia: Caso concreto de que comprar uma empresa e comprar o passivo; tambem vale pra quem pensa em M&A ou sucessao.
+Ressalva tecnica: 6 fontes concordam em R$ 827,4 mi; adesao diverge (R$ 308,8 mi vs 42,38%) -- usar "cerca de 42%", que e adesao ao plano, nao aprovacao. Extrajudicial e acordo privado homologado, nao e recuperacao judicial. Causas vem do comunicado da empresa. Sem G1/Valor/Estadao/Exame nos resultados.
+Possivel contradicao com roteiro anterior: nenhuma (mesmo setor de Casas Bahia de 16/10, assunto diferente)
+Tese de gancho sugerida: 48 dias depois de trocar controle e CEO, a empresa foi pra recuperacao. A gestao nova nao quebrou a Ri Happy: herdou uma conta que ja existia (R$ 289 mi em 2023, R$ 827 mi agora). Quem compra um negocio "pra salvar" compra o passivo junto; troca de CEO nao reestrutura balanco.
+
+ITEM 3 -- Confianca da industria sobe 1,3 ponto em outubro, mas pessimismo ja dura 22 meses (ICEI/CNI)
+Categoria: Macroeconomia-indice
+Fato: ICEI = 46,2 pontos em outubro (+1,3 vs 44,9 de setembro), abaixo de 50 pelo 22o mes seguido. Expectativas: +2,1 para 49,3. Condicoes atuais: -0,2 para 40,0, o pior nivel desde julho de 2020. Pesquisa de 1 a 7/10 com 1.103 empresas industriais. Divulgacao em 14/10/2026.
+Fonte: A Critica -- https://acritica.net/economia/confianca-da-industria-melhora-em-outubro-mas-pessimismo-ja-dura-22-meses-no-brasil/ ; Acessa.com -- https://www.acessa.com/economia/2026/10/342267-confianca-da-industria-sobe-em-outubro-mas-setor-segue-pessimista.html ; Sou Brasilia -- https://soubrasilia.com/confianca-industria-icei-46-2-pontos-22-meses-sem-confianca-cni-14-outubro-2026/
+Relevancia: Retrato do humor de quem produz no Brasil: otimismo no futuro, caixa apertado hoje.
+Ressalva tecnica: 3 veiculos concordam; release oficial da CNI nao foi visto (Etapa 2 conferir no site da CNI). Dado de industria, nao de PME em geral. Janela: 6 dias.
+Possivel contradicao com roteiro anterior: nenhuma (PMS e PMC dos dias 16 e 19 sao outros indicadores)
+Tese de gancho sugerida: A industria espera melhorar (49,3), mas hoje sofre como em 2020 (40,0). Quem decide pelo otimismo do futuro esta apostando contra o caixa de hoje.
+
+ITEM 4 -- EY-Parthenon: IA aumenta produtividade, mas so 16% dos CEOs enxergam o retorno em tempo real
+Categoria: Tendencia internacional (grande consultoria)
+Fato: Pesquisa com 1.200 CEOs em 21 paises (ago-set 2026), divulgada em 12/10/2026. Metade cita a IA como principal motor de ganhos de produtividade nos ultimos 12 meses (a frente de redesenho de processos, 46%). 48% reinvestem a capacidade extra em crescimento, inovacao e transformacao. 23% dizem que sistemas legados, complexidade e regulacao absorvem os ganhos. Somente 16% tem visibilidade clara e em tempo real do ROI da IA; 56% tem alguma visibilidade; 24% rastreiam alguns custos mas nao medem o ROI total.
+Fonte: EY (UK) -- https://www.ey.com/en_uk/newsroom/2026/10/ai-drives-productivity-but-barriers-to-growth-remain ; EY (global) -- https://www.ey.com/en_gl/newsroom/2026/10/ai-drives-productivity-but-ceos-struggle-to-turn-gains-into-grow (URL truncada como aparece na busca) ; CFO Dive -- https://www.cfodive.com/news/companies-struggle-turning-ai-productivity-gains-profits-ey/831948/
+Relevancia: Gestor de qualquer porte esta investindo em IA; quase ninguem sabe medir o retorno.
+Ressalva tecnica: Numeros vieram de trechos de busca do release e do CFO Dive. Amostra de CEOs de grandes empresas, nao PME. EY vende consultoria de IA (interesse comercial). Conferir URL global completa.
+Possivel contradicao com roteiro anterior: nenhuma (McKinsey de 14/10 trata de reinvencao com IA; angulo diferente: medicao de ROI)
+Tese de gancho sugerida: Todo mundo diz que a IA aumenta a produtividade, mas so 16% sabe provar quanto dinheiro isso rende. Se voce nao mede o retorno, nao e produtividade, e aposta.
+
+ITEM 5 -- Receita Federal: regularize creditos de PIS/Pasep e Cofins sem multa de oficio ate 10/11/2026
+Categoria: Prazo de Acao (Oportunidade)
+Fato: Receita identificou R$ 1,3 bilhao em inconsistencias de creditos de PIS/Pasep e Cofins. Data-limite para autorregularizacao: 10 de novembro de 2026. Quem corrige paga so o tributo, sem multa de oficio. Focos: apropriacao indevida de creditos em insumos para revenda; creditos na contratacao de transporte de carga de transportadoras optantes do Simples. Avisos pelos Correios e caixa postal do e-CAC. Edicao anterior: cerca de R$ 900 milhoes regularizados; para quem nao aderiu, R$ 1,8 bilhao em lancamentos previstos. Comunicado da Receita de 15/09/2026.
+Fonte: Fenacon -- https://fenacon.org.br/noticias/receita-federal-indica-oportunidade-de-regularizacao-de-creditos-de-pis-pasep-e-cofins/ ; CRC-MA -- https://crcma.org.br/noticias/receita-federal-indica-oportunidade-de-regularizacao-de-creditos-de-pis-pasep-e-cofins ; Jornal Contabil -- https://jornalcontabil.com.br/noticia/empresas-tem-ate-novembro-para-regularizar-creditos-sem-pagar-multa/ ; Reforma Tributaria -- https://www.reformatributaria.com/reforma-tributaria-brasil/contribuintes-tem-ate-10-de-novembro-para-regularizar-creditos-de-pis-pasep-e-cofins-receita-identificou-r-13-bi-em-inconsistencias/
+Relevancia: Prazo curto (21 dias) e custo zero de checar o e-CAC; ignorar pode virar autuacao.
+Ressalva tecnica: 5 fontes concordam; texto no gov.br nao visto. Aplica-se so a quem recebeu o aviso (nao e obrigacao geral). Alvo sao empresas que tomam credito ao contratar transportadora do Simples. Fontes de entidades contabeis, sem interesse comercial relevante. Valor da multa (75%) NAO confirmado para este programa -- nao citar.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A Receita ja sabe do erro de credito e esta avisando antes de multar. Abrir o e-CAC hoje custa zero; deixar passar de 10/11 vira fiscalizacao.
+
+ITEM 6 -- Lindt demite o CEO Adalbert Lechner com efeito imediato apos dois alertas de resultado em 12 meses
+Categoria: Empresa global reconhecida
+Fato: Em 19/10/2026 a Lindt & Spruengli afastou o CEO Adalbert Lechner (65 anos, 33 na casa, pouco mais de 4 no cargo). Previsao de crescimento organico de 2026 caiu de 6-8% para 0-2% (precos mais altos e calor de verao na Europa). Alemanha e Austria estavam sob a gestao dele. Dieter Weisskopf assume como interino; novo CEO ate o 2o trimestre de 2027. Certificado cai cerca de 1,3-1,7%, acumulando cerca de -25% no ano.
+Fonte: Boersen-Zeitung -- https://www.boersen-zeitung.de/personen/lindt-spruengli-saegt-ceo-adalbert-lechner-ab ; Blick -- https://www.blick.ch/wirtschaft/lindt-and-spruengli-ceo-per-sofort-weg/63pk4pg ; cash.ch -- https://www.cash.ch/news/lindt-sprungli-wirft-konzernchef-lechner-raus-977606 ; Manila Times (20/10) -- https://www.manilatimes.net/2026/10/20/business/foreign-business/lindt-ousts-ceo-after-poor-european-results/2448999
+Relevancia: Marca premium centenaria que nao cresce: lição sobre reajuste de preco e velocidade de reacao do conselho.
+Ressalva tecnica: 5+ fontes (suicas/alemas) concordam no fato central; sem Reuters/Bloomberg/FT em ingles indexados. 6-8% -> 0-2% e 65 anos vieram de um unico resumo, sem checagem cruzada. Empresa e fontes estrangeiras.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Marca forte nao protege de reajuste que afasta o cliente. Dois alertas de resultado em um ano e o CEO sai: o gestor que "explica" o primeiro alerta costuma nao sobreviver ao segundo.
+
+ITEM 7 -- NAB (National Australia Bank) corta cerca de 2.500 empregos (~6% da equipe)
+Categoria: Reestruturacao-corte-fechamento
+Fato: Em 20/10/2026 o NAB informou a bolsa australiana que cortara cerca de 2.500 vagas, cerca de 6% da equipe, ate meados de 2027. Custo de reestruturacao projetado de cerca de A$ 300 milhoes antes de impostos. Detalhes completos nos resultados anuais de 05/11. Sindicatos e uma senadora cobram transparencia sobre o papel da IA nos cortes.
+Fonte: ABC Australia -- https://abc.net.au/news/2026-10-20/nab-slashes-jobs-in-massive-restructure/107286316 ; AAP via Daily Liberal -- https://www.dailyliberal.com.au/story/9371589/sweeping-job-cuts-to-hit-thousands-of-nab-workers/ ; Capital Brief -- https://www.capitalbrief.com/newsletter/nab-and-tuck-5626eb05-43ec-4f27-a4bb-e90fc681ecaf/
+Relevancia: Banco lucrativo enxugando antes de crise; debate sobre IA como causa, que todo gestor vai enfrentar.
+Ressalva tecnica: ABC e AAP concordam em 2.500 e A$ 300 mi. "1.500 ate fim de 2026" e queda de 2,9% da acao vieram de um unico resumo (nao citar sem confirmar). Sem Reuters/Bloomberg. Empresa e fontes estrangeiras. Nao ha confirmacao de que IA e a causa.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Um banco lucrativo corta 6% da equipe antes de qualquer crise de resultado e o debate publico ja e se a IA esta por tras. Quem demite primeiro e explica depois entrega a narrativa aos outros.
+
+ITEM 8 -- Penske Automotive Group vai a capital fechado: Penske Corp e Mitsui pagam US$ 212 por acao (EV ~US$ 16,3 bi)
+Categoria: Livre (case / empresa)
+Fato: Acordo anunciado em 15/10/2026. Motown Acquisition Corp., controlada por Penske Corporation e Mitsui & Co., compra o restante (cerca de 27,8%, ~US$ 3,9 bi) a US$ 212,00 em dinheiro por acao; valor corporativo ~US$ 16,3 bi; premio de ~8,8% sobre o fechamento de 14/10 (lance inicial era US$ 210). Pos-fechamento: Penske Corp 64%, Mitsui 36%. Fechamento previsto para 1T27, sujeito a voto dos minoritarios e aprovacoes. Aprovado por unanimidade por comite de conselheiros independentes.
+Fonte: Release 8-K (SEC) -- https://www.sec.gov/Archives/edgar/data/0001019849/000114036126039664/ef20083688_ex99-1.htm ; Wards Auto -- https://www.wardsauto.com/news/penske-automotive-goes-private-at-163b-valuation/833132/ ; Pulse 2.0 -- https://pulse2.com/penske-automotive-group-to-be-taken-private-by-penske-corporation-and-mitsui-in-16-3-billion-deal/
+Relevancia: Fundador tirando a empresa da bolsa: capital aberto como ferramenta, nao destino. Raro formato "case de controle e capital".
+Ressalva tecnica: Release oficial + veiculos. Fontes divergem em 27,8% vs 28%, premio 8,6% vs 8,84% e US$ 3,8 vs 3,9 bi -- citar a base de cada um. Janela: 5 dias. Empresa/fontes estrangeiras.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Quando o dono compra de volta a propria empresa da bolsa, esta dizendo que o mercado paga menos do que o negocio vale. Capital aberto e uma ferramenta; o dono decide quando ela deixou de servir.
+
+--- RESERVAS (nao usados) ---
+- Anthropic Public Benefit Fund (5% das acoes; CNBC 18/10 https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html ; Bloomberg https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund) -- numeros de um unico resumo, promessa sujeita a acionistas, empresa e a mesma do modelo desta rotina (evitar conflito de interesse editorial).
+- 3M x Amazon warrant (SEC 8-K 19/10), KFC larga Pepsi pela Coca-Cola (CNBC 15/10), Uber vence acao de taxistas em Londres (19/10, decisao processual), IPCA setembro 0,82% (fora da janela), NFIB setembro 97,9, Receita Malha Fiscal PIS/Cofins ate 30/10 (2 fontes, advocacia).
+
+--- NOTAS DE COBERTURA ---
+Internacionais: itens 1, 4, 6, 7, 8 (cota de 2 + grande consultoria EY cumprida). Macro: 1 item (teto ok). Linha 6: Lindt; linha 7: NAB. Fontes BR: nenhum G1/Valor/Estadao/Exame apareceu nos resultados de busca de hoje (3 subagentes, 3+ rodadas por linha). Nao ha McKinsey/PwC/Deloitte novos na janela de 7 dias (so EY).
+Consultas: ver relatorios dos subagentes (15+ consultas por grupo, PT e EN, extended em varias).
