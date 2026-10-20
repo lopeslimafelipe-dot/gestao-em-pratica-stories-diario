@@ -1,0 +1,60 @@
+RADAR DE REPERCUSSAO -- 2026-10-20 (Etapa 1)
+Obs.: fontes primarias (G1, InfoMoney, Exame) inacessiveis por fetch nesta sandbox; fatos obtidos via busca e republicacao do fato relevante. Confirmar numeros na Etapa 2 (CVM / processo 0803087-20.2023.8.19.0001 no TJRJ).
+
+CANDIDATO 1 -- Americanas: Justica encerra a recuperacao judicial apos 3 anos
+Fato: Em 19/10/2026 a Americanas divulgou fato relevante: a 4a Vara Empresarial do RJ decretou o encerramento da RJ da companhia e de 3 subsidiarias (ST Importacoes, JSM Global, B2W Digital Lux), por cumprimento das obrigacoes do plano vencidas ate 2 anos apos a homologacao (fev/2024). Administracao judicial e MP-RJ deram parecer favoravel; objecoes de bondholders e 10 fornecedores foram rejeitadas. Nao significa quitacao de todas as dividas do plano; cabe recurso. Origem: inconsistencias contabeis de ~R$ 20 bi (jan/2023), divida declarada de R$ 43 bi.
+Fonte: Atlas Publico (reproduz fato relevante) -- https://atlaspublico.com.br/cvm/noticias/justica-do-rio-decreta-o-encerramento-da-recuperacao-93320
+Fontes complementares: https://www.spacemoney.com.br/investimentos/acoes/americanas-fim-recuperacao-judicial-2 | https://www.ativanoticias.com.br/noticia/justica-encerra-a-recuperacao-judicial-da-americanas-apos-cumprimento-de-metas | https://www.meionews.com/noticias/justica-do-rio-encerra-recuperacao-judicial-da-americanas-apos-crise-bilionaria-578614
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+Nota guardrail: fator 'Polemica adjacente' (juro alto/crise do varejo) pesa no score; o roteiro NAO deve comentar politica/partidos/figuras politicas -- angulo apenas gestao: o que o ciclo fraude contabil -> RJ -> saida ensina sobre governanca, caixa, renegociacao com credores e fornecedores. Nota: Casas Bahia (pauta de 12/10) e RJ do mesmo setor, mas empresa diferente; sem conflito de repeticao.
+
+CANDIDATO 2 -- Casas Bahia: acordo de R$ 7,5 mil a ~4,3 mil demitidos e fechamento de 298 lojas
+Fato: Justica do Trabalho (Brasilia) homologou em 15/10/2026 acordo com sindicatos e MPT: ~4,3 mil ex-funcionarios recebem R$ 7,5 mil cada alem das verbas rescisorias; empresa deve avisar sindicato antes de novas demissoes coletivas (multa de R$ 1 mil por trabalhador). Empresa em RJ desde agosto; Valor citou ~600 desligamentos no contexto do fechamento de 298 lojas.
+Fonte: Correio da Manha -- https://www.correiodamanha.com.br/economia/justica/2026/10/327557-acordo-preve-indenizacao-a-43-mil-demitidos-das-casas-bahia.html
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 26/35
+Status: runner-up (empresa ja foi pauta em 12/10, dentro da janela de 10 dias -- penalizada por repeticao de assunto)
+
+CANDIDATO 3 -- Netflix: corte de ~1.000 vagas (6%) e reajuste de ate 23,9% no Brasil
+Fato: WSJ (14/10) reportou plano de demitir ~1.000 pessoas (~6% da forca de trabalho), maior corte desde 2022, focado em produto, tecnologia, juridico e RH. Em 15/10 a Netflix reajustou planos no Brasil (com anuncios R$ 20,90 -> R$ 25,90, +23,9%; Premium R$ 59,90 -> R$ 71,90). Veiculos nao ligam explicitamente as duas noticias.
+Fonte: Meio & Mensagem -- https://www.meioemensagem.com.br/midia/netflix-reajusta-precos-dos-planos-de-assinatura-no-brasil
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 20/35
+Status: runner-up
+
+CANDIDATO 4 -- Inadimplencia empresarial em recorde (Serasa Experian)
+Fato: Serasa: 9,2 mi de empresas inadimplentes em julho/2026 (+14,8% a/a); 8,7 mi MPEs (+15,2%); junho teve R$ 232,9 bi negativados. Dado de setembro/outubro nao localizado.
+Fonte: Serasa Experian -- https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 22/35
+Status: runner-up
