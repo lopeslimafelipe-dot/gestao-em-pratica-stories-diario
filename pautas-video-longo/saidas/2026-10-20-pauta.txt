@@ -1,0 +1,40 @@
+PAUTA DO DIA -- 2026-10-20
+Assunto: Americanas: Justica encerra a recuperacao judicial apos 3 anos
+Score final: 29/35 (Frescor 5 | Relevancia do protagonista 5 | Gravidade 4 | Polemica adjacente 3 | Volume de cobertura 4 | Clareza do angulo 4 | Identificacao com audiencia 4)
+
+Fato central verificado: Em 19/10/2026, a Justica do Rio (4a Vara Empresarial) decretou o encerramento da recuperacao judicial da Americanas e de 3 subsidiarias (ST Importacoes, JSM Global e B2W Digital Lux), por considerar cumpridas as obrigacoes do plano vencidas ate 2 anos apos a homologacao (fev/2024). Administracao judicial e MP deram parecer favoravel; objecoes de bondholders foram rejeitadas. As empresas devem retirar "em recuperacao judicial" do nome. Ressalva da propria companhia: o encerramento NAO quita todas as dividas do plano, e a decisao ainda cabe contestacao/recurso. A RJ foi pedida em jan/2023, com divida declarada de ~R$ 43 bi, apos inconsistencias contabeis de ~R$ 20 bi. Pedido de encerramento protocolado em 25/03/2026.
+Fonte/URL confirmada no fact-check (via busca; WebFetch bloqueado): Jornal de Brasilia, SpaceMoney, Sem Pauta News (URLs abaixo).
+Obs. de verificacao: o numero de "~R$ 20 bi" vem de varias fontes; algumas citam ~R$ 25 bi -- usar "cerca de R$ 20 bilhoes (segundo a companhia na epoca)". Divida: R$ 42,5 bi a R$ 43 bi conforme fonte. Detalhe "10 fornecedores" do rascunho NAO foi confirmado -- nao usar.
+
+Cadeia causal (o que levou a isso): jan/2023: empresa revela inconsistencias contabeis de ~R$ 20 bi (parte ligada a operacoes de financiamento junto a bancos, como risco sacado, fora do balanco ou contabilizadas indevidamente) -> perda de confianca de bancos e fornecedores, caixa travado -> pedido de RJ com ~R$ 43 bi em dividas -> dez/2023: credores aprovam o plano (classe 3: 97,19% dos creditos) -> plano: aumento de capital total de R$ 24 bi (R$ 12 bi dinheiro novo + R$ 12 bi de conversao de divida em acoes), reduzindo a divida a cerca de R$ 1,9 bi; homologado em fev/2024 -> venda de ativos (ex.: Uni.Co/Imaginarium por R$ 152,9 mi, mar/2026) e cumprimento das obrigacoes -> out/2026: encerramento da RJ.
+
+Por que esta repercutindo agora: Frescor maximo (decisao de 19/10, fato relevante no mesmo dia), protagonista de altissima relevancia (um dos maiores varejistas do pais), gravidade alta (uma das maiores RJs da historia empresarial brasileira) e grande cobertura. Angulo claro: ciclo crise -> recuperacao -> saida.
+
+Angulo de gestao sugerido: (1) governanca e controles: um problema contabil escondido pode destruir a confianca de credores e fornecedores em dias; (2) caixa e credibilidade sao o ativo real numa crise; (3) renegociacao com credores exige plano critico, executavel e com dinheiro novo -- nao so "pedir prazo"; (4) sair da RJ nao e fim do problema: cumprir o plano e o que conta, e as obrigacoes de longo prazo continuam; (5) pro dono de PME: acompanhar endividamento e relacao com bancos/fornecedores antes de a crise bater, e manter numeros transparentes.
+
+Dados de apoio:
+- Divida declarada ~R$ 43 bi (R$ 42,5 bi em outras fontes) e inconsistencias de ~R$ 20 bi em jan/2023 -- Diario do Nordeste / Suno.
+- Aprovacao do plano em 19/12/2023: 91,14% por cabeca e 97,19% dos creditos na classe de quirografarios -- Suno/O Povo.
+- Aumento de capital de R$ 24 bi (R$ 12 bi + R$ 12 bi conversao), acoes a R$ 1,30, lock-up de 3 anos, divida projetada em ~R$ 1,9 bi -- Suno (https://www.suno.com.br/noticias/?p=503048).
+- Venda da Uni.Co (Imaginarium/Puket) ao grupo BandUP! por R$ 152,9 mi, em 25/03/2026 -- Itatiaia (https://www.itatiaia.com.br/economia/negocios/americanas-pede-saida-da-recuperacao-judicial-entenda/).
+
+Ressalva/limite: GUARDRAIL POLITICO -- o fator 'Polemica adjacente' (3/5, juro alto/crise do varejo) pesou no score. NAO comentar politica, partidos, figuras politicas nem o debate macroeconomico (juros, governo, CPI etc.); falar so do efeito pratico de gestao. Nao dizer que a Americanas "esta curada/quitou tudo" (nao quitou; cabe recurso). Nao afirmar culpados da fraude (apuracoes ao parecer da Justica). Nenhuma recomendacao de investimento (nao comentar acao AMER3).
+
+Estrutura sugerida pro roteiro (referencia; roteiro final com o Copywriter, secao 2.4, adaptado a duracao maior):
+- Hook: "A Americanas acabou de sair da recuperacao judicial -- 3 anos depois de um buraco de R$ 20 bilhoes que ninguem viu."
+- Contexto/causa raiz: inconsistencias contabeis -> confianca quebrada -> RJ de R$ 43 bi.
+- Desenvolvimento da cadeia causal: plano, dinheiro novo, conversao de divida, venda de ativos, cumprimento.
+- Licao de gestao (a virada): transparencia dos numeros e relacionamento com credores sao o que sustenta a empresa; sair da RJ e cumprir, nao so sobreviver.
+- Fechamento + CTA: pergunta ao dono de empresa (voce sabe hoje o real nivel de endividamento e prazos da sua empresa?) + CTA do canal.
+
+Fonte(s):
+- Jornal de Brasilia -- https://jornaldebrasilia.com.br/noticias/economia/justica-decreta-encerramento-da-recuperacao-judicial-da-americanas/
+- SpaceMoney -- https://www.spacemoney.com.br/investimentos/acoes/americanas-fim-recuperacao-judicial-2
+- Sem Pauta News -- https://sempauta.com.br/noticia/51421/justica-decreta-fim-da-recuperacao-judicial-da-americanas.html
+- Atlas Publico (reproducao do fato relevante, nao reconferida por fetch) -- https://atlaspublico.com.br/cvm/noticias/justica-do-rio-decreta-o-encerramento-da-recuperacao-93320
+- Contexto: Suno -- https://www.suno.com.br/noticias/?p=503048 | Itatiaia (link acima)
+
+Runners-up do dia (registro/transparencia):
+- Casas Bahia: acordo de R$ 7,5 mil a ~4,3 mil demitidos e fechamento de 298 lojas -- 26/35
+- Inadimplencia empresarial em recorde (Serasa Experian) -- 22/35
+- Netflix: corte de ~1.000 vagas e reajuste de ate 23,9% no Brasil -- 20/35
