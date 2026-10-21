@@ -1,0 +1,60 @@
+RASCUNHO -- RADAR DE REPERCUSSAO 2026-10-21
+Obs.: fontes primarias (G1, InfoMoney, Exame direto) inacessiveis via fetch nesta sandbox; fatos confirmados via busca, cruzando varios veiculos. Divergencia de data do protocolo da Ri Happy (Forbes: 10/10; maioria: dom. 18/10) -- verificar na Etapa 2.
+
+CANDIDATO 1 -- Ri Happy pede recuperacao extrajudicial (R$ 827 mi) um mes apos ser vendida
+Fato: Grupo Ri Happy, PBKids e mais 4 empresas pediram recuperacao extrajudicial na 2a Vara de Falencias e RJ de SP pra renegociar R$ 827,4 mi. Credores com R$ 308,8 mi (42,38%) ja aderiram; pedem 90 dias pra completar adesoes e 180 dias de suspensao de cobrancas. 204 lojas proprias, 88 franquias, +2.600 empregados, receita ~R$ 1,2 bi/ano. Pedido veio pouco mais de um mes apos a aquisicao pela BluSun Capital (ago/2026). Causas alegadas: pandemia, juros altos, migracao pro online, concorrencia de plataformas estrangeiras. Lojas seguem funcionando.
+Fonte: Gazeta do Povo -- https://www.gazetadopovo.com.br/economia/ri-happy-pede-recuperacao-extrajudicial-por-divida-de-ais-de-827-milhoes/
+Outras: Forbes Brasil -- https://forbes.com.br/geral/2026/10/ri-happy-recuperacao-extrajudicial-divida-827-milhoes/ | SBT News -- https://sbtnews.sbt.com.br/noticia/economia/ri-happy-pede-recuperacao-extrajudicial-de-r-827-milhoes | Meio & Mensagem -- https://www.meioemensagem.com.br/marketing/ri-happy-pede-recuperacao-extrajudicial-veja-casos-de-2026
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+Nota guardrail: "Polemica adjacente" (juro alto/crise do varejo) pesa no score; roteiro fala so de gestao (divida, juros no caixa, compra alavancada, concorrencia), sem politica.
+
+CANDIDATO 2 -- Casas Bahia: acionistas ratificam pedido de recuperacao judicial (assembleia 19/10)
+Fato: Em 19/10/2026 acionistas ratificaram o pedido de RJ (protocolado 16/08), passivo ~R$ 17,3 bi; juizo ainda nao decidiu sobre processamento; tutela de urgencia de 28/08 (180 dias) segue.
+Fonte: SpaceMoney -- https://www.spacemoney.com.br/investimentos/acoes/casas-bahia-acionistas-ratificam-recuperacao-judicial
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 29/35
+Status: runner-up (nao elegivel: Casas Bahia foi tema da pauta de 12/10, dentro dos 10 dias; ratificacao e fato menor)
+
+CANDIDATO 3 -- Ibovespa volta aos 208 mil pontos com aposta eleitoral; dolar a R$ 5,01
+Fato: Ibovespa fechou em alta de 1,57% em 20/10, aos 208.295,98 pts, puxado por bancos e consumo domestico; dolar recua pra ~R$ 5,01.
+Fonte: Exame -- https://exame.com/invest/mercados/ibovespa-volta-aos-208-mil-pontos-com-aposta-eleitoral-e-bancos-dolar-recua-para-r-501/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 2/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 3/5
+TOTAL: 25/35
+Status: runner-up (angulo depende de leitura eleitoral; risco alto de violar guardrail)
+
+CANDIDATO 4 -- Marcopolo mira Europa em 2027 apos vendas fracas no Brasil
+Fato: Receita trimestral +3% (R$ 2,37 bi), margem Ebitda caiu de 17,3% pra 14,3%; empresa planeja entrar na Europa em 2027.
+Fonte: Exame -- https://exame.com/insight/na-marcopolo-uma-avenida-de-crescimento-na-europa-apos-vendas-abaixo-do-previsto-no-brasil/p
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 2/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 19/35
+Status: runner-up
