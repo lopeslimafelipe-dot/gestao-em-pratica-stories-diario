@@ -1,0 +1,45 @@
+PAUTA DO DIA -- 2026-10-21
+Assunto: Ri Happy pede recuperacao extrajudicial (R$ 827,4 mi) 48 dias apos ser vendida a BluSun Capital
+Score final: 29/35 (Frescor 4, Relevancia do protagonista 5, Gravidade 4, Polemica adjacente 3, Volume de cobertura 4, Clareza do angulo 4, Identificacao com audiencia 5)
+
+Fato central verificado: Grupo Ri Happy, PBKids e mais 4 empresas do grupo pediram recuperacao extrajudicial em SP (2a Vara de Falencias e Recuperacoes Judiciais) pra renegociar R$ 827,4 mi (valor consta da peticao, segundo NeoFeed/BPMoney; a empresa confirmou o pedido sem detalhar valores). Credores com R$ 308,8 mi (42,38% do total do plano) ja aderiram. Protocolo em 18/10/2026 (maioria das fontes; a divergencia "10/10" da Forbes nao se confirmou). Compra pela BluSun Capital Partners anunciada em 31/08/2026 (100% do negocio; Hector Nunez, fundador da BluSun, assumiu como CEO) -> pedido veio 48 dias depois. Lojas fisicas (~292, contagens variam de 290 a 293) e online seguem operando, com foco em Black Friday e Natal. Passivo formado principalmente por dividas sem garantia (bancos, fornecedores, shoppings).
+Verificado via WebSearch (cruzando varios veiculos); WebFetch direto bloqueado. NAO confirmados na busca (nao usar sem conferir): prazos de 90/180 dias, numero de franquias/empregados e receita de ~R$ 1,2 bi citados no rascunho.
+
+Cadeia causal (o que levou a isso): 
+1) Pandemia, juros altos, queda de vendas no varejo e concorrencia de plataformas internacionais pressionam caixa (causas apontadas pela empresa) -> 
+2) Em ago/2023 a Ri Happy ja havia renegociado ~R$ 289 mi (alguns veiculos: R$ 292 mi) com 9 instituicoes financeiras, alongando vencimentos pra 2027/2028, com aporte de R$ 75 mi da Carlyle; a reestruturacao nao teve o efeito economico desejado -> 
+3) Em ago/2026 o controle muda de maos (BluSun) -> 
+4) 48 dias depois, o passivo total (R$ 827,4 mi) vai a mesa de negociacao com credores, ja com 42% de adesao. 
+Obs.: nao ha confirmacao de que as dividas de 2023 integram o processo atual -- nao afirmar que e a mesma divida.
+
+Por que esta repercutindo agora: marca conhecida de todo dono de empresa/consumidor (protagonista 5), timing chocante de 48 dias apos a venda (clareza do angulo), valor alto, cobertura ampla na semana, proximidade com Black Friday/Natal.
+
+Angulo de gestao sugerido: o que o dono de PME aprende com divida de varejo: (a) renegociar divida alonga prazo mas nao corrige o modelo de negocio -- se a operacao nao gera caixa pra pagar, o problema volta; (b) divida sem garantia de fornecedores/shoppings/bancos se acumula e vira passivo unico na hora da crise; (c) mudanca de controle nao zera passivo -- antes de comprar/vender empresa, due diligence do passivo; (d) caixa e margem acima de faturamento; (e) sinais de alerta: alongar prazo repetidas vezes sem reduzir custo/divida. Sempre enquadrado como efeito pratico de gestao.
+
+Dados de apoio:
+- Credores aderentes: R$ 308,8 mi = 42,38% -- Meio & Mensagem / mercadoeconsumo (ver fontes)
+- Reestruturacao 2023: R$ 289 mi (ou ~R$ 292 mi) com 9 instituicoes, vencimentos pra 2027/2028, aporte Carlyle R$ 75 mi -- economicnewsbrasil / Meio & Mensagem
+- Compra BluSun anunciada em 31/08/2026; pedido 48 dias depois -- Times Brasil (CNBC)
+- Passivo majoritariamente sem garantia (bancos, fornecedores, shoppings) -- InvestNews/economicnewsbrasil
+
+Ressalva/limite: "Polemica adjacente" (juros altos/crise do varejo) pesou no score: NAO comentar politica economica, governo, partidos ou figuras politicas, nem opinar sobre juros como decisao de governo; tratar juros apenas como custo de caixa da empresa. Recuperacao extrajudicial ainda depende de adesoes/homologacao -- nao dizer que "faliu". Nao atribuir culpa a BluSun/nova gestao (causa do pedido nao esta provada por fonte). Nada de recomendacao de investimento.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- Copywriter do canal, secao 2.4, adaptado pra duracao maior):
+- Hook: "Vendida em agosto, em recuperacao extrajudicial 48 dias depois."
+- Contexto/causa raiz: divida acumulada, renegociacao de 2023 que nao resolveu
+- Desenvolvimento da cadeia causal: divida alongada -> caixa pressionado -> mudanca de dono -> passivo total na mesa
+- Licao de gestao (a virada): renegociar prazo nao e consertar o negocio; olhe geracao de caixa e passivo antes de comprar/vender
+- Fechamento + CTA
+
+Fonte(s): 
+Gazeta do Povo -- https://www.gazetadopovo.com.br/economia/ri-happy-pede-recuperacao-extrajudicial-por-divida-de-ais-de-827-milhoes/
+Forbes Brasil -- https://forbes.com.br/geral/2026/10/ri-happy-recuperacao-extrajudicial-divida-827-milhoes/
+Meio & Mensagem -- https://www.meioemensagem.com.br/marketing/ri-happy-pede-recuperacao-extrajudicial-veja-casos-de-2026
+Mercado & Consumo -- https://mercadoeconsumo.com.br/19/10/2026/noticias-varejo/grupo-ri-happy-pede-recuperacao-extrajudicial-para-renegociar-dividas/
+Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/ri-happy-pede-recuperacao-extrajudicial-48-dias-apos-trocar-de-dono/
+Economic News Brasil -- https://economicnewsbrasil.com.br/2026/10/19/recuperacao-extrajudicial-da-ri-happy/
+
+Runners-up do dia (registro/transparencia):
+- Casas Bahia: acionistas ratificam RJ (19/10) -- 29/35 (inelegivel: tema da pauta de 12/10)
+- Ibovespa volta aos 208 mil pontos; dolar a R$ 5,01 -- 25/35
+- Marcopolo mira Europa em 2027 -- 19/35
