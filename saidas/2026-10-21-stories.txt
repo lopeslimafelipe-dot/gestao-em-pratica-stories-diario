@@ -1,0 +1,33 @@
+ROTEIRO 1 -- Imposto entra no preço
+"A Tradeweb anunciou a compra da Trumid, plataforma de negociação de crédito corporativo, por cerca de US$ 1,97 bilhão, segundo o release à SEC. 🟡`Desse total, US$ 220 milhões são ativos fiscais, pagos além dos US$ 1,75 bilhão pelo negócio.`🟡 Ou seja, o comprador paga também pelo benefício tributário. O fechamento depende de aprovação regulatória e está previsto pro primeiro semestre de 2027. 🟡`Quem pensa em comprar empresa precisa olhar a eficiência tributária, porque ela entra no preço.`🟡 Você já colocou o imposto na sua conta de aquisição?"
+Fonte: Tradeweb (release, 8-K na SEC) -- https://www.sec.gov/Archives/edgar/data/0001758730/000119312526425378/d140509dex991.htm
+
+ROTEIRO 2 -- O mês subiu, o trimestre caiu
+"Já falei aqui de serviços e varejo do IBGE. O IBC-Br, a prévia do PIB do Banco Central, é outro índice: soma agro, indústria e serviços. Em agosto, a atividade subiu 0,3% sobre julho. 🟡`Mas o trimestre encerrado em agosto fechou em queda de 0,6%.`🟡 Julho foi revisado pra baixo, e o IBC-Br não é o PIB oficial. 🟡`Se o seu faturamento não acompanha o número do mês, olhe o trimestre.`🟡 Como foi o seu trimestre?"
+Fonte: O Liberal -- https://www.oliberal.com/economia/previa-do-pib-avanca-0-3-em-agosto-e-acumula-alta-de-1-6-em-um-ano-1.1183404
+
+ROTEIRO 3 -- O gargalo é gente
+"O índice de otimismo das pequenas empresas americanas, da NFIB, caiu 0,8 ponto em setembro, pra 97,9, um pouco abaixo da média de 52 anos, que é 98,0. 🟡`Pra 26% dos donos, qualidade ou falta de mão de obra é o maior problema, à frente da inflação, com 20%.`🟡 A amostra é pequena, mas o padrão é conhecido. 🟡`O gargalo do pequeno negócio é gente, não capital.`🟡 E no seu, o que trava: caixa ou time?"
+Fonte: NewKerala (sobre pesquisa NFIB) -- https://www.newkerala.com/news/a/us-small-business-optimism-index-falls-below-52-year-average-639.htm
+
+ROTEIRO 4 -- Dívida de MEI pela metade
+"Prazo pra MEI: a PGFN abriu o Desenrola MEI Pequeno Valor, pela Portaria 2.970, no Portal Regularize. Vale pra dívida só do MEI de até cinco salários mínimos, R$ 8.105. 🟡`São 5% de entrada e 50% de desconto sobre o saldo, mas só até o fim de janeiro de 2027.`🟡 As fontes divergem na data exata, entre 29 e 31 de janeiro, então confira no Regularize. 🟡`Renegociar dentro do prazo custa metade do saldo.`🟡 Quem você conhece que precisa saber disso?"
+Fonte: Jornal Contábil -- https://jornalcontabil.com.br/noticia/pgfn-lanca-renegociacao-de-dividas-para-meis-com-descontos-exclusivos/
+
+ROTEIRO 5 -- Corte por desempenho
+"A Qualcomm vai cortar vagas no mundo todo, por desempenho, segundo memo do CEO Cristiano Amon revelado pela Reuters. Os cortes vêm depois das avaliações anuais, com notificações a partir de novembro. 🟡`O memo não diz quantas vagas, e a empresa não comentou.`🟡 O pano de fundo é demanda fraca de celulares e a promessa de uma cultura de desempenho mais forte. 🟡`Avaliar e corrigir o time antes de o caixa obrigar é gestão; depois, é emergência.`🟡 Com que frequência você avalia o seu?"
+Fonte: Reuters via US News -- https://money.usnews.com/investing/news/articles/2026-10-20/exclusive-qualcomm-to-cut-jobs-worldwide-in-performance-focused-layoffs-internal-memo-shows
+
+ROTEIRO 6 -- Quem paga pra baixar o preço
+"A Kroger vai cortar cerca de 3.000 vagas corporativas, 37% dos 8.200 empregos de escritório, em três anos, segundo memo do CEO Greg Foran. Lojas e centros de distribuição ficam de fora. 🟡`O objetivo declarado é reduzir trabalho duplicado, baixar preços e investir nos funcionários de loja.`🟡 O memo fala em camadas e repasses demais. 🟡`Pra baixar preço, quem paga é a camada de gestão, não a de quem atende o cliente.`🟡 Quantas camadas da sua empresa o cliente nunca vê?"
+Fonte: AP via ABC News -- https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598
+
+ROTEIRO 7 -- 45% e chamam de desaceleração
+"Segundo o Financial Times e a Reuters, a Anthropic teria faturado US$ 16,8 bilhões no terceiro trimestre, alta de 45% sobre o segundo. É relato de um investidor em reunião fechada: a empresa não publicou os números. 🟡`No trimestre anterior a receita mais que dobrou, por isso 45% já é chamado de desaceleração.`🟡 Pro dono que comemora 15% ao ano, a pergunta é outra. 🟡`Quanto do seu crescimento vem de fazer melhor, e quanto de estar no lugar certo na hora certa?`🟡 Qual é o seu?"
+Fonte: The Next Web (FT) -- https://thenextweb.com/news/anthropic-q3-revenue-16-8bn-ipo
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] "Você é MEI ou tem MEI na sua cadeia de fornecedores? A) Sim  B) Não"
+2. [Pergunta/Participacao, Roteiro 3] "Hoje o que mais trava o seu negócio: gente ou caixa? Responde na caixinha que eu comento as respostas."
+3. [Virar Historia, Roteiro 2 -> Estilo Comparativo] Dois cartões lado a lado: "Agosto: +0,3%" e "Trimestre: -0,6%". O contraste entre o mês e o trimestre é o ponto do dado e fica claro em segundos no visual.
