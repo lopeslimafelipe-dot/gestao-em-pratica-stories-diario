@@ -1,0 +1,73 @@
+RASCUNHO 2026-10-21 (Etapa 1) -- 7 itens. Verificacao por trechos de busca (WebFetch bloqueado); Etapa 2 re-confere.
+
+ITEM 1 -- Tradeweb compra a Trumid por ~US$ 1,97 bi
+Categoria: Noticia de empresa
+Fato: Em 19/10/2026 a Tradeweb anunciou a compra da Trumid (plataforma eletronica de negociacao de credito corporativo) por ~US$ 1,97 bi: ~US$ 1,75 bi pelo negocio + ~US$ 220 mi em ativos fiscais. Pagamento ~US$ 1,89 bi em caixa + US$ 82 mi em acoes. Conselhos aprovaram por unanimidade; fechamento previsto no 1o semestre de 2027 (sujeito a HSR e CMA); multa de rescisao US$ 105 mi.
+Fonte: Release oficial (SEC 8-K) -- https://www.sec.gov/Archives/edgar/data/0001758730/000119312526425378/d140509dex991.htm ; MarketsMedia -- https://www.marketsmedia.com/tradeweb-to-acquire-trumid/ ; Mondo Visione -- https://mondovisione.com/media-and-resources/news/tradeweb-to-acquire-trumid-expanding-tradewebs-credit-capabilities-across-the-20261019/
+Relevancia: Mostra o que um comprador paga de verdade numa aquisicao: fluxo de negociacao/clientes, nao so tecnologia, e como o componente fiscal entra no preco.
+Ressalva tecnica: Verificado por trechos de busca; MarketsMedia/Mondo Visione podem republicar o release. Operacao pendente de aprovacao. Tema distante de PME (credito institucional).
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: ~US$ 220 mi dos quase US$ 2 bi sao ativos fiscais: quem compra empresa paga tambem pelo imposto que deixa de pagar. Licao pra PME que pensa em adquirir: o preco real inclui a eficiencia tributaria.
+
+ITEM 2 -- Previa do PIB (IBC-Br) de agosto: +0,3% no mes, mas -0,6% no trimestre
+Categoria: Macroeconomia-indice
+Fato: IBC-Br de agosto/2026 (divulgado 16/10): atividade +0,3% sobre julho (fontes citam 0,30% e 0,34%); industria +0,9%, servicos +0,2%, agropecuaria -1,8%; +1,2% sobre agosto/2025 e +1,6% em 12 meses; trimestre encerrado em agosto: -0,6%. Julho revisado para queda.
+Fonte: O Liberal -- https://www.oliberal.com/economia/previa-do-pib-avanca-0-3-em-agosto-e-acumula-alta-de-1-6-em-um-ano-1.1183404 ; Itatiaia -- https://www.itatiaia.com.br/economia/previa-do-pib-cresce-03-em-agosto-puxada-pela-industria-e-pelos-servicos/ ; Times Brasil -- https://timesbrasil.com.br/brasil/pib-brasileiro-avanca-034-em-agosto-aponta-previa-do-banco-central/ ; BB Investalk -- https://investalk.bb.com.br/radar/bc-ibc-br-de-agosto-sobe-034-ante-queda-de-022-em-julho-e-acima-da-mediana-das-projecoes
+Relevancia: Da o pano de fundo da atividade pra quem planeja caixa e metas do fim de ano.
+Ressalva tecnica: IBC-Br e proxy do BC, nao o PIB oficial. Fontes divergem na revisao de julho (-0,22% a -0,4%) e na mediana das projecoes. Fonte primaria (BC) nao apareceu direto.
+Possivel contradicao com roteiro anterior: 15-19/10 publicaram servicos -0,1% e varejo +0,1% (PMS/PMC, IBGE). Diferenca: IBC-Br e indice modelado do BC que agrega agro, industria e servicos; PMS/PMC sao pesquisas do IBGE de setores especificos. Podem divergir sem se contradizer. (Usar como o unico item macro do dia.)
+Tese de gancho sugerida: A economia "cresceu" 0,3% em agosto, mas o trimestre fechou em -0,6%. Se seu faturamento nao acompanha o numero do mes, olhe o trimestre.
+
+ITEM 3 -- NFIB: otimismo do pequeno negocio americano cai a 97,9; gente e o maior problema
+Categoria: Tendencia internacional
+Fato: Indice NFIB de setembro/2026 (divulgado 13/10): 97,9, queda de 0,8 ponto, abaixo da media de 52 anos (98,0). Incerteza em 90 (media historica 68). Qualidade/falta de mao de obra e o maior problema para 26% dos donos (+3), inflacao 20% (+4). So 22% planejam investimento nos proximos 6 meses (-2). Indice de emprego 100,6 (-1,2). Amostra: 411 respostas de 5.000 (8,2%).
+Fonte: NewKerala -- https://www.newkerala.com/news/a/us-small-business-optimism-index-falls-below-52-year-average-639.htm ; WebIndia123 -- https://news.webindia123.com/news/articles/Business/20261013/4510557.html
+Relevancia: Termometro de dono de pequeno negocio em outro pais; o gargalo apontado (gente) e universal.
+Ressalva tecnica: Dois agregadores concordam; nao abri o site da NFIB (busca dirigida nao trouxe a pagina oficial). 8 dias corridos (1 acima da janela de 7; NFIB esta na lista de fontes). Amostra pequena. Nao e de grande consultoria.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: O dono de PME americano sofre mais pra achar gente (26%) do que com inflacao (20%): o gargalo do crescimento e talento, nao capital.
+
+ITEM 4 -- Desenrola MEI Pequeno Valor: renegociar divida do MEI com 50% de desconto ate 29/01/2027
+Categoria: Prazo de Acao (Oportunidade)
+Fato: PGFN abriu em 01/10/2026 (Portaria PGFN 2.970, de 29/09/2026) a renegociacao on-line no Portal Regularize para MEI com debitos (so do MEI) de ate 5 salarios minimos (R$ 8.105): entrada de 5% sem desconto, 50% de desconto sobre o saldo, saldo em ate 55 meses (um veiculo cita 60). DATA-LIMITE: 29/01/2027, 19h (texto da portaria segundo busca).
+Fonte: Lex (portaria) -- https://www.lex.com.br/portaria-pgfn-no-2-970-de-29-de-setembro-de-2026/ ; Fenacon -- https://fenacon.org.br/noticias/microempreendedores-individuais-podem-renegociar-dividas-com-desconto/ ; Poder360 -- https://www.poder360.com.br/poder-empreendedor/governo-lula-lanca-desenrola-mei-pequeno-valor/ ; O Povo -- https://www.opovo.com.br/noticias/economia/2026/10/01/como-renegociar-debitos-do-mei-com-50-de-desconto.html ; Jornal Contabil -- https://jornalcontabil.com.br/noticia/pgfn-lanca-renegociacao-de-dividas-para-meis-com-descontos-exclusivos/
+Relevancia: Oportunidade concreta com prazo pra quem e MEI ou fornece/emprega MEI.
+Ressalva tecnica: Data final diverge entre fontes (Fenacon 31/01/2027; Poder360 31/07/2027); a portaria (via Lex) diz 29/01/2027 -- Etapa 2 deve confirmar no Regularize/DOU. Parcelas 55 vs 60 a confirmar. Programa distinto do Desenrola MEI comum (ate R$ 20 mil, tambem ate 29/01/2027).
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: R$ 8.105 de divida de MEI com 50% de desconto, mas so ate janeiro: renegociar agora custa metade do que custara esperar.
+
+ITEM 5 -- Qualcomm vai demitir no mundo todo por desempenho
+Categoria: Empresa global reconhecida
+Fato: Reuters (exclusivo, 20/10/2026): memo do CEO Cristiano Amon (19/10) anuncia cortes mundiais "performance-focused" apos avaliacoes anuais; notificacoes a partir de novembro. O memo nao informa quantas vagas. Contexto: receita do 3T fiscal (ate 28/06/2026) caiu 4% a/a para US$ 9,95 bi. Citacao do memo: "a stronger performance culture".
+Fonte: Reuters via US News -- https://money.usnews.com/investing/news/articles/2026-10-20/exclusive-qualcomm-to-cut-jobs-worldwide-in-performance-focused-layoffs-internal-memo-shows ; The Star -- https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-qualcomm-to-cut-jobs-worldwide-in-performance-focused-layoffs-internal-memo-shows ; The Next Web -- https://thenextweb.com/news/qualcomm-layoffs-global-job-cuts-performance ; The Week -- https://theweek.in/news/biz-tech/2026/10/20/qualcomm-announces-layoffs-reuters-exclusice.html
+Relevancia: Corte por desempenho em empresa com queda moderada de receita: gestao preventiva vs corte linear.
+Ressalva tecnica: Vazamento de memo; empresa nao comentou; sem numero de vagas; marca menos familiar que Amazon/Google. Por trechos de busca.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Receita caiu so 4% e a Qualcomm ja decidiu avaliar e cortar quem nao entrega. Voce roda essa conta no seu time antes de o mercado obrigar?
+
+ITEM 6 -- Kroger corta 3.000 vagas corporativas (~37%) em 3 anos, apostando em IA
+Categoria: Reestruturacao-corte-fechamento
+Fato: Memo do CEO Greg Foran (12/10/2026): ~3.000 cortes, ~37% dos ~8.200 empregos corporativos (ficaria ~5.200) ao longo de 3 anos. Lojas e centros de distribuicao nao afetados. Objetivo declarado: reduzir trabalho duplicado, baixar precos e investir nos funcionarios de loja. Kroger: 409.000 funcionarios, 2.700+ lojas.
+Fonte: AP via ABC News -- https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598 ; News4Jax -- https://www.news4jax.com/business/2026/10/13/kroger-to-layoff-3000-corporate-employees-over-3-years-as-it-leans-into-artificial-intelligence/ ; Chain Store Age -- https://chainstoreage.com/kroger-reportedly-cut-3000-corporate-jobs ; Techstrong -- https://techstrong.ai/articles/kroger-to-slash-3000-corporate-jobs-in-9-billion-legal-battle-and-ai-efficiency-push/
+Relevancia: Cortar camadas de escritorio e proteger a ponta que atende o cliente; IA como justificativa de eficiencia.
+Ressalva tecnica: Anuncio em 12/10, primeira publicacao 13/10 (fora da janela estrita de 5 dias uteis; republicacoes de 14/10). Numeros de memo/AP, nao de 8-K. Techstrong cita "US$ 9 bi de batalha legal" nao verificado (nao usar).
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Kroger corta 37% do corporativo e blinda o chao de loja: pra baixar preco, quem paga e a camada de gestao. Quantas camadas da sua empresa o cliente nao enxerga?
+
+ITEM 7 -- Anthropic teria faturado US$ 16,8 bi no 3T, +45%, a caminho do IPO
+Categoria: Livre
+Fato: Segundo FT (14-15/10/2026, fonte: participante de evento fechado a investidores), receita do 3T de US$ 16,8 bi, +45% sobre o 2T (US$ 11,6 bi); 1T teria sido US$ 4,7 bi (crescimento 1T->2T ~147%). Lucrativa em base ajustada. Marketing do IPO poderia comecar na semana de 09/11; outro relato fala em adiamento pos-eleicoes.
+Fonte: The Next Web (FT) -- https://thenextweb.com/news/anthropic-q3-revenue-16-8bn-ipo ; Reuters via BusinessDay -- https://www.businessday.co.za/world/international-companies/2026-10-15-anthropic-revenue-jumps-45-to-168bn/ ; InvestingLive -- https://investinglive.com/stocks/anthropic-q3-revenue-rises-45-to-16-8-billion-ahead-of-ipo/ ; DealStreetAsia -- https://www.dealstreetasia.com/?p=498196
+Relevancia: Parametro de crescimento: 45% em um trimestre e chamado de desaceleracao.
+Ressalva tecnica: Anthropic nao publicou os numeros; todos derivam de um relato (FT) de fonte anonima; "ajustado" sem definicao; pequenas divergencias (16,7 vs 16,8). Fonte comercialmente interessada no assunto de IA; citar como "segundo relato". Claude Haiku 5.5 foi publicado em 14/10 (assunto diferente: produto vs receita).
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Crescer 45% num trimestre e ser chamado de "desaceleracao": pro dono de PME que comemora 15% ao ano, a pergunta e quanto do crescimento vem de fazer melhor e quanto de estar no lugar certo na hora certa.
+
+---- LINHAS SEM ITEM / JUSTIFICATIVAS ----
+Linha 1 (Tecnologia): vazia. Candidatos: ChatGPT Slides (16/10) -- so uma fonte secundaria (pasqualepillitteri.it, varias traducoes), release oficial nao apareceu; Microsoft MAI-Base-2 (15/10) -- fonte unica e modelo indisponivel. Reprovados na regra de 2 fontes independentes. Reserva para Etapa 2 se confirmar no release note da OpenAI: https://pasqualepillitteri.it/en/news/24910/chatgpt-slides-launches-pro-business-enterprise . Consultas: IA ferramenta lancamento gestao outubro 2026; AI agents enterprise launch October 2026; OpenAI/Anthropic/Google/Microsoft announces new launch; TechCrunch AI startup launches October 2026; Exame lanca plataforma IA pequenas empresas; GPT-6.1; Claude for Small Business; agentes Omie/Conta Azul/TOTVS; ChatGPT Slides; MAI-Base-2.
+Meta de 8 nao atingida (7 itens): linha 1 vazia, e nenhum item BR de case (linha 2/8) na janela: WebSearch quase nao retornou G1/Valor/Exame/NeoFeed/Brazil Journal com materia de 14-21/10. Reservas BR fora da janela: Selbetti (consolidadora de TI, 48 aquisicoes desde 2014; InfoMoney sem data), Ruiz Coffees RJ (pedido 08/10, divida R$ 1,6 bi; InvestNews https://investnews.com.br/negocios/como-a-ruiz-coffees-2a-maior-produtora-de-cafe-do-brasil-chegou-a-r-16-bilhao-em-dividas-e-pediu-rj/ ).
+Cota internacional: 5 de 7 itens com fonte/empresa estrangeira (NFIB, Tradeweb, Qualcomm, Kroger, Anthropic). Grande consultoria (McKinsey/PwC/Deloitte/EY): ZERO -- nada novo na janela alem do ja publicado (McKinsey IA/empregos/VC, EY CEOs, Deloitte fim de ano); candidato fraco: McKinsey Future of Wellness (84% priorizam bem-estar, 13% atingem metas) so por revista de spa, sem data. Consultas: McKinsey/PwC/Deloitte/EY outubro 2026, WEF, HBR, Bloomberg, Forbes.
+Linha 3 reserva: Serasa inadimplencia (dado de julho, fora da janela). IPCA-15 sai 23/10 -- reconsultar. 
+Linha 5 reservas: janela de cancelamento irretratavel Simples/regime regular IBS/CBS de 03/11 a 20/12/2026 (Res. CGSN 194/2026, so Jornal Contabil); NR-1 (multas suspensas pelo STF, sem data exata).
+Linha 6 reserva: Amazon (cortes 07/10, fora da janela). Linha 7 reserva: Ruiz Coffees; Royal Mail 2.500 (07/10); HubSpot 660 (06/10) -- fora da janela.
+Fontes BR: nenhuma de G1/Estadao/Valor/Exame/InfoMoney nos resultados; Sebrae/InfoMoney nao usados.
