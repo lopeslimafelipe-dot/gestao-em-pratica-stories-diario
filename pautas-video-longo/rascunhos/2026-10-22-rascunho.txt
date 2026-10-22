@@ -1,0 +1,48 @@
+RASCUNHO -- RADAR DE REPERCUSSAO 2026-10-22
+Obs.: fontes primarias (G1, InfoMoney, Exame, Estadao direto) inacessiveis via fetch nesta sandbox; fatos confirmados via busca cruzando varios veiculos. Original do Estadao (gancho do candidato 1) nao foi aberto -- numeros vem de reportagens que o citam e do BC; conferir na Etapa 2 (data-base: junho/2026; divergencia entre veiculos sobre saldo liquido, ex. US$ 5,1 bi).
+Dia relativamente fraco: nenhum fato novo "explosivo" fora da cobertura recorrente de Casas Bahia/Ri Happy (ja usadas).
+
+CANDIDATO 1 -- Brasil volta a ser devedor externo liquido apos 19 anos (BC)
+Fato: Dados do Banco Central divulgados em 21/10/2026: a divida externa brasileira (US$ ~407,1 bi, recorde) passou a superar os ativos externos/reservas (~US$ 402 bi), encerrando 19 anos como credor liquido (desde 2007). ~73% do total e de empresas privadas e bancos (setor publico segue credor). Gancho: Estadao, "divida externa cresce mais que reservas"; analistas (ex. BTG) nao veem risco iminente, mas alertam pra deficit em conta corrente alto (US$ 69 bi no ultimo ano).
+Fonte: DCI (cita BC/Estadao) -- https://www.dci.com.br/economia/brasil-volta-a-ser-devedor-internacional-apos-19-anos-aponta-banco-central/
+Outras: O Hoje -- https://ohoje.com/2026/10/21/brasil-perde-posicao-de-credor-internacional-apos-reducao-da-folga-entre-ativos-e-dividas-externas/ | Revista Oeste -- https://revistaoeste.com/economia/brasil-volta-a-ser-devedor-externo-depois-de-19-anos/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+Nota guardrail: "Polemica adjacente" (5/5) pesa forte no score. Varios veiculos partidarios enquadram o dado como "efeito Lula"/"governo Lula" -- o roteiro NAO pode usar esse enquadramento, nao cita governo/partido/figura politica de forma critica nem toma lado. Angulo so de gestao: divida em moeda estrangeira e dolar (custo de insumo/importacao, divida em dolar de empresas), por que a maior parte e privada, licao de descasamento cambial e caixa da PME. Cuidado com clareza: explicar "credor x devedor liquido" em linguagem simples.
+
+CANDIDATO 2 -- Casas Bahia: Justica defere processamento da recuperacao judicial (R$ 17,3 bi, 10 empresas)
+Fato: Em 21/10/2026 a Justica de SP deferiu o processamento da RJ do Grupo Casas Bahia e de mais 9 empresas (incl. Bartira); divida declarada R$ 17,3 bi; protecao contra cobrancas ate 15/02/2027; 30 dias pra documentos pendentes; plano ainda passa pelos credores. Contexto: acordo de R$ 7.500 por demitido (~4,3 mil) homologado em 15/10.
+Fonte: Gazeta do Povo -- https://www.gazetadopovo.com.br/economia/justica-aprova-recuperacao-casas-bahia-17-3-bilhoes/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 31/35 (bruto)
+Status: runner-up -- EXCLUIDO como vencedor pela regra de nao-repeticao (Casas Bahia foi pauta em 12/10, dentro dos ultimos 10 dias corridos; assunto ja foi tema do video de referencia). Seria o vencedor se a janela permitisse; vale considerar pra amanha/depois se nao houver pauta forte.
+
+CANDIDATO 3 -- WEG cai ~5-7% apos balanco do 3T26 (margem comprimida por cobre, dolar e tarifas)
+Fato: Em 21/10/2026 a WEG reportou lucro liquido de R$ 1,67 bi (+0,9% a/a) e receita de R$ 10,86 bi (+5,7%), abaixo do consenso (lucro R$ 1,71 bi; Ebitda R$ 2,40 bi). Margem Ebitda de 21,6%, a menor desde inicio de 2025, pressionada por cobre/insumos, tarifas nos EUA e custos de novas fabricas. Mercado interno +1,8% vs. exterior +8,3%. Acao WEGE3 caiu entre ~4,7% e ~7,3% intradia (R$ ~45).
+Fonte: BP Money -- https://bpmoney.com.br/mercado/acoes/weg-wege3-margens-decepcionam-acoes-caem-7-apos-3t26/
+Outras: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/weg-wege3-amarga-queda-no-ibovespa-com-balanco-pressionado-por-dolar-e-tarifas-exagero-ou-sinal-de-alerta-lmrs/ | Money Times -- https://www.moneytimes.com.br/foi-exagerado-weg-wege3-derrete-apos-divulgacao-do-3t26-hora-de-comprar-acoes-mlem/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 2/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 24/35
+Status: runner-up
