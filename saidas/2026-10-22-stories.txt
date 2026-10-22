@@ -1,0 +1,37 @@
+ROTEIRO 1 -- A IA que age sozinha
+"A Anthropic lançou ontem o Claude Duet, um agente que trabalha em segundo plano: manda resumo matinal dos seus apps e avisa quando algo pede decisão, segundo VentureBeat e Engadget. É preview, só pra assinantes Pro e Max nos EUA. 🟡`Mas ele pede aprovação humana antes de enviar mensagem, pagar, assinar ou apagar arquivo.`🟡 Repare: a própria empresa mostra o que acha arriscado delegar. 🟡`O gargalo da IA não é executar, é decidir o que ela pode fazer sozinha.`🟡 O que você deixaria um agente fazer sem te perguntar?"
+Fonte: VentureBeat -- https://venturebeat.com/technology/anthropics-answer-to-muse-is-here-claude-duet-a-mobile-and-desktop-ai-agent-that-takes-actions-proactively
+
+ROTEIRO 2 -- Benefício virou porta de entrada
+"O iFood Benefícios assinou acordo pra comprar a Caju, segundo o release do iFood. Valor não divulgado; a imprensa fala em torno de R$ 1 bilhão, sem confirmação. 🟡`Somadas, são cerca de 135 mil empresas clientes e 3 milhões de usuários`🟡, e falta aprovação do Cade e do Banco Central. Isso não é só tecnologia: é carteira de clientes. 🟡`O cartão de benefício virou porta de entrada pra vender folha e relacionamento com o RH.`🟡 Você sabe quem fornece o benefício da sua equipe?"
+Fonte: iFood (release) -- https://institucional.ifood.com.br/releases/ifood-beneficios-compra-caju/
+
+ROTEIRO 3 -- Pessimismo no humor, não no plano
+"Nesta semana a indústria brasileira apareceu otimista com o futuro; aqui é outra pesquisa, com CEOs americanos. Segundo a Conference Board, 🟡`a confiança dos CEOs caiu de 52 pra 46, a menor desde o 2º trimestre de 2025.`🟡 Os que esperam piora nos próximos seis meses foram de 19% pra 41%. Só que 33% ainda planejam ampliar o quadro. 🟡`Quem decide por manchete trava; quem decide pelo próprio caixa segue em frente.`🟡 Você decide por qual dos dois?"
+Fonte: Conference Board via PR Newswire -- https://www.prnewswire.com/news-releases/ceo-confidence-declined-in-q4-2026-302909406.html
+
+ROTEIRO 4 -- Faltam 10 dias pra nota nacional
+"Em 1º de novembro, daqui a 10 dias, a Resolução CGSN 191 obriga ME e EPP do Simples que prestam serviço a emitir nota pelo Emissor Nacional, e não mais pela prefeitura, segundo Fenacon e COAD. O prazo já foi adiado uma vez, de setembro. 🟡`Quem não se cadastrar pode ficar sem emitir nota na virada do mês.`🟡 Descobrir isso no dia 1º trava o faturamento do fechamento. 🟡`Hoje, peça pro seu contador confirmar se você já está no Emissor Nacional.`🟡 Quem cuida disso aí na sua empresa?"
+Fonte: Fenacon -- https://fenacon.org.br/reforma-tributaria/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026/
+
+ROTEIRO 5 -- Duas rodadas, uma estratégia
+"A eBay vai cortar cerca de 1.000 vagas, uns 9% do quadro, segundo memorando do CEO visto pela Reuters. É a segunda rodada do ano: em fevereiro foram cerca de 800, 6%, segundo a Bloomberg. 🟡`São cerca de 1.800 vagas em oito meses, e a empresa diz que segue contratando em áreas prioritárias.`🟡 Isso não é corte de crise, é rebalanceamento. 🟡`Revisar a equipe por prioridade uma vez por ano custa menos moral do que cortar em parcelas.`🟡 Quando foi a última vez que você revisou a sua?"
+Fonte: Reuters via BNN Bloomberg -- https://www.bnnbloomberg.ca/business/company-news/2026/10/21/reuters-exclusive-ebay-to-lay-off-9-of-workforce-internal-memo-shows/
+
+ROTEIRO 6 -- Nome histórico não paga a conta
+"A Electronic Arts anunciou o fechamento da BioWare, estúdio de 30 anos, e o cancelamento do próximo Mass Effect. Segundo a Bloomberg, com fonte anônima, 🟡`são cerca de 400 demissões, uns 3% do quadro, e cerca de 50 delas na BioWare.`🟡 É a primeira grande decisão depois da compra que tirou a EA da bolsa. 🟡`Produto de estimação que não fecha a conta é o primeiro a cair quando o dono cobra resultado.`🟡 Qual produto seu já morreu no caixa e você sustenta por apego?"
+Fonte: Bloomberg -- https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware
+
+ROTEIRO 7 -- Capital sem vender ação
+"A Otter.ai captou US$ 320 milhões com a General Catalyst, mas sem vender nenhuma ação, segundo o TechCrunch. 🟡`O pagamento é atrelado à receita que o dinheiro gera em aquisição de clientes.`🟡 Juros e prazo não foram divulgados, e é uma empresa grande de tecnologia, não PME. Mas veja o que ela vendeu: previsibilidade do funil. 🟡`Pro dono, o que destrava dinheiro barato é saber quanto custa trazer um cliente e quanto ele devolve.`🟡 Você sabe o seu custo de aquisição?"
+Fonte: TechCrunch -- https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/
+
+ROTEIRO 8 -- O selo e o caixa
+"A Justiça do Rio encerrou a recuperação judicial da Americanas, segundo InfoMoney e Money Times, reconhecendo o cumprimento do plano. Cabe recurso. A ação chegou a subir 25% no pregão seguinte. 🟡`Mas analistas dizem que o fim da RJ não garante crédito barato.`🟡 O rombo contábil original foi de cerca de R$ 20 bilhões. 🟡`O selo vale mais pra ação do que pro caixa, e o fornecedor pequeno que esperou o plano financiou o tempo.`🟡 Você sabe quanto tem a receber de cliente em recuperação?"
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/amer3-justica-do-rj-aprova-fim-de-recuperacao-judicial-da-americanas/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] "Você já está cadastrado no Emissor Nacional de NFS-e? A) Sim  B) Ainda não"
+2. [Pergunta/Participacao, Roteiro 1] "O que você deixaria um agente de IA fazer sozinho na sua empresa, sem te perguntar? Responde aqui na caixinha."
+3. [Virar Historia, Roteiro 3 -> Estilo Comparativo] Colocar lado a lado os 41% de CEOs esperando piora e os 33% que ainda planejam contratar: o contraste entre humor e plano fica visível num único quadro.
