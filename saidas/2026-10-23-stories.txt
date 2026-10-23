@@ -1,0 +1,37 @@
+ROTEIRO 1 -- Fornecedor de IA virou cardápio
+"A OpenAI levou três modelos do GPT-6 pro Google Cloud, em prévia privada pra clientes corporativos selecionados, segundo o anúncio de 21 de outubro. 🟡`A cobrança vem numa fatura única do Google, abatendo os compromissos de gasto que a empresa já tem.`🟡 Com isso, a nuvem do Google passa a oferecer Gemini, Claude e OpenAI lado a lado. Os nomes dos modelos variam entre veículos, e o Google tem interesse em contar essa história. 🟡`Fornecedor de IA deixou de ser casamento e virou cardápio: quem escolhe pelo logo paga caro pelo lock-in.`🟡 Seu processo aguenta trocar de modelo amanhã?"
+Fonte: Techzine -- https://www.techzine.eu/news/applications/145174/openais-models-are-finally-fully-supported-on-google-cloud/
+
+ROTEIRO 2 -- Deferir não é salvar
+"A Justiça de São Paulo deferiu o processamento da recuperação judicial do Grupo Casas Bahia e de outras nove empresas, em 21 de outubro. 🟡`A dívida declarada pela empresa é de R$ 17,3 bilhões, valor ainda não auditado.`🟡 A própria juíza ressaltou que a decisão não é juízo sobre viabilidade. As cobranças seguem suspensas e há 30 dias pra completar documentos. 🟡`Deferimento não é salvação: só abre a fase em que o plano precisa convencer os credores.`🟡 O momento de enxergar a dívida impagável é muito antes do pedido. Você sabe quanto da sua dívida é cara demais?"
+Fonte: Exame -- https://exame.com/invest/mercados/justica-aceita-pedido-de-recuperacao-judicial-da-casas-bahia-o-que-acontece-agora/
+
+ROTEIRO 3 -- Caixa negativo, controle intacto
+"A Meta fechou o terceiro trimestre com receita de US$ 64,6 bilhões, alta de 26%, e fluxo de caixa livre negativo de cerca de US$ 2,1 bilhões, o primeiro em mais de uma década. 🟡`O motivo é o investimento de US$ 34,9 bilhões em um trimestre, com previsão de US$ 135 a 145 bilhões no ano.`🟡 Ela também anunciou ações sem voto, segundo a imprensa, preservando o controle do fundador. 🟡`Pro dono que vai captar, a pergunta não é quanto consegue levantar, e sim quanto controle aceita ceder.`🟡 Qual é o seu limite?"
+Fonte: CNBC -- https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html
+
+ROTEIRO 4 -- Vai faltar gente qualificada
+"Um estudo do McKinsey Global Institute, noticiado pela Fortune, diz que a IA pode automatizar mais da metade das horas de trabalho nos EUA até 2035. Parece ameaça, mas 🟡`a demanda por 36 milhões de empregos pode se perder, enquanto o crescimento pode criar cerca de 41 milhões de vagas.`🟡 Cerca de 11 milhões de americanos podem precisar trocar de ocupação, e cargos de escritório são os mais expostos, com uns 80% das horas. 🟡`O que vai faltar é gente qualificada, não emprego: quem treina a equipe agora fica com o talento.`🟡 Quem na sua equipe você já começou a requalificar?"
+Fonte: Fortune -- https://fortune.com/2026/10/12/mckinsey-automation-could-absorb-half-of-u-s-work-hours-by-2035-bigger-challenge-skills/
+
+ROTEIRO 5 -- Sexta que vem fecha a escolha
+"Até 30 de outubro, sexta que vem, empresas do Simples podem optar por recolher IBS e CBS fora do DAS, pelo Portal do Simples Nacional, conforme a Resolução CGSN 194. 🟡`Quem não optar segue com IBS e CBS dentro do DAS, e a opção vale de janeiro a junho de 2027.`🟡 Segundo a Receita, eram 917.331 pedidos em 20 de outubro. O cancelamento é possível de 3 de novembro a 20 de dezembro, mas é irretratável. 🟡`O Simples era o 'não preciso pensar em imposto'; agora exige decisão, e quem não decide fica por inércia.`🟡 Fale com seu contador: cada caso é um caso."
+Fonte: CRC-SP -- https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11355
+
+ROTEIRO 6 -- Comitê independente
+"Na call de resultados da SpaceX, em 20 de outubro, Elon Musk disse que os conselhos de Tesla e SpaceX formaram comitês especiais pra avaliar uma fusão. Atenção: é exploração, sem termos acordados e sem garantia, e exigiria voto dos acionistas. 🟡`Musk disse que não participa dos comitês por ser parte conflitada.`🟡 Quando o negócio original estagna, o dono tende a mudar o perímetro, não o produto. 🟡`Pro dono de PME, a lição é governança: comitê independente e voto de acionistas separam estratégia de autonegociação.`🟡 Você mistura CNPJs por conveniência?"
+Fonte: Bloomberg -- https://www.bloomberg.com/news/articles/2026-10-20/musk-says-spacex-tesla-have-formed-committees-to-explore-merger
+
+ROTEIRO 7 -- Corte sem receita
+"A Volvo Cars reportou, em 23 de outubro, prejuízo operacional ajustado de 3,7 bilhões de coroas suecas no terceiro trimestre, contra lucro de 5,8 bilhões um ano antes, segundo a Reuters e outros veículos. 🟡`Vai cortar cerca de 2.500 vagas, um ano depois do plano de 3.000 cortes.`🟡 O CEO chamou o resultado de 'profundamente decepcionante'; as causas citadas são a rampa lenta do SUV EX60 e a demanda fraca na China e nos EUA. 🟡`Corte de custo não é estratégia: se o problema é receita e produto, enxugar vira corte recorrente.`🟡 Seu corte atacou o custo ou a causa?"
+Fonte: Reuters via US News -- https://money.usnews.com/investing/news/articles/2026-10-23/volvo-cars-to-cut-2-500-jobs-as-third-quarter-swings-to-loss
+
+ROTEIRO 8 -- Pagar pelo cliente
+"A Salesforce vai comprar a Braze, plataforma de engajamento de clientes, por US$ 5,66 bilhões em valor empresarial, em dinheiro, a US$ 47,50 por ação. 🟡`É um prêmio de cerca de 58% sobre o fechamento de 19 de outubro, com conclusão prevista no ano fiscal de 2028 da Salesforce.`🟡 Ninguém paga isso só por tecnologia: paga por base de clientes e dados. 🟡`Em tempos de IA, quem tem relacionamento com o cliente tem o ativo mais caro da mesa.`🟡 Você conhece seu cliente pelo nome e registra isso em algum lugar?"
+Fonte: Salesforce (release) -- https://www.salesforce.com/news/press-releases/2026/10/20/salesforce-signs-definitive-agreement-to-acquire-braze/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 5] Você já decidiu se vai optar pelo regime regular de IBS e CBS no Simples até 30/10? A) Já decidi / B) Ainda não
+2. [Pergunta/Participação, Roteiro 2] Qual foi o primeiro sinal de dívida cara demais que você ignorou no seu negócio? Conta na caixinha, sem citar nome de ninguém.
+3. [Virar História, Roteiro 7 -> Estilo Comparativo] Lado a lado: lucro de 5,8 bi de coroas vs prejuízo de 3,7 bi, e 3.000 cortes em 2025 vs 2.500 agora. O contraste mostra que o corte se repetiu e o problema de receita continuou.
