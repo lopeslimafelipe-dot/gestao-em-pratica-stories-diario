@@ -1,0 +1,31 @@
+PAUTA DO DIA -- 2026-10-23
+Assunto: Inadimplencia empresarial bate novo recorde: 9,3 milhoes de CNPJs no vermelho
+Score final: 27/35 (Frescor 4/5, Relevancia do protagonista 3/5, Gravidade 4/5, Polemica adjacente 4/5, Volume de cobertura 3/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: Indicador de Inadimplencia das Empresas da Serasa Experian (dados de agosto/2026, divulgado em 21/10/2026): 9,3 milhoes de CNPJs inadimplentes, recorde da serie, +14,3% vs agosto/2025 (8,1 milhoes na epoca). 68,2 milhoes de dividas negativadas somando R$ 244,4 bi; divida media de R$ 26.355,13 por CNPJ; 7,4 contas em atraso por empresa; valor medio de R$ 3.583,96 por divida. Micro e pequenas: 8,8 milhoes de CNPJs, 61,4 milhoes de dividas, R$ 211 bi. Setores: servicos 56% dos inadimplentes, comercio 32%. Confirmado via busca web em varias coberturas (Poder360 + PDF do indicador, Jornal do Comercio, DGABC, Diario do Comercio) com numeros coincidentes com o rascunho. Obs.: WebFetch bloqueado; release original da Serasa nao lido diretamente -- numeros conferidos por trechos de busca em multiplas fontes.
+Cadeia causal (o que levou a isso): Credito caro e vendas/margem pressionadas -> caixa apertado, empresa precisa de capital de giro e paga juro alto -> atrasa fornecedor, imposto, banco (media de 7,4 contas em atraso por CNPJ: o problema nao e uma divida so, e acumulo) -> negativacao -> credito fica ainda mais caro ou some -> mais aperto de caixa (ciclo que se retroalimenta). Segundo a economista-chefe da Serasa, Camila Abdelmalack, o ritmo de alta desacelerou (variacao anual caiu de 28,7% para 14,3%), mas o credito segue caro, o caixa pressionado e o ambiente restritivo para os negocios menores.
+Por que esta repercutindo agora: Recorde sucessivo (9 mi em abril, 9,1 mi em junho, 9,3 mi em agosto, segundo rascunho da Etapa 1), divulgacao fresca (21/10), gravidade alta e identificacao maxima com o publico: 8,8 de 9,3 milhoes sao micro e pequenas, o perfil do dono de PME.
+Angulo de gestao sugerido: Inadimplencia e problema de caixa antes de ser problema de credito. Licao pratica: (1) projetar fluxo de caixa semanal; (2) alinhar prazo de recebimento x prazo de pagamento; (3) politica de cobranca e limite de prazo por cliente; (4) renegociar cedo, antes da negativacao, quando ainda ha poder de barganha; (5) sinais de alerta: atrasar um fornecedor "so este mes", usar cheque especial/rotativo pra pagar conta fixa, juntar varias dividas pequenas. Servicos (56%) e comercio (32%) concentram os casos -- bom gancho de identificacao.
+Dados de apoio: 
+- Dividas totais R$ 244,4 bi em 68,2 mi de operacoes (Serasa Experian via Jornal do Comercio/Diario do Comercio).
+- Micro e pequenas: 61,4 mi de dividas, R$ 211 bi, ou seja ~86% do valor total (calculo a partir dos dados Serasa).
+- Divida media R$ 26.355,13 por CNPJ; media R$ 3.583,96 por divida (Serasa via busca).
+- Variacao anual caiu de 28,7% para 14,3%: alta desacelera, mas segue em dois digitos (Serasa, Camila Abdelmalack).
+Ressalva/limite: 'Polemica adjacente' pesou (4/5): juro alto, programa federal de renegociacao de dividas, ano politico. NAO comentar politica, partido, governo nem o programa de renegociacao de forma opinativa; falar so de caixa, prazo, cobranca e renegociacao. Nao citar nivel exato da Selic (fontes divergiram entre 14% e 14,25%); dizer apenas "juro alto". Nao dar recomendacao de investimento nem de credito especifico. Usar "recorde" apenas para o total de CNPJs (fato confirmado). Caveat: numeros de micro/pequenas vieram com erros de formatacao em algumas fontes; valores acima batem entre ao menos duas.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto):
+- Hook: "9,3 milhoes de empresas no Brasil estao com nome sujo. E 8,8 milhoes delas sao pequenas."
+- Contexto/causa raiz: credito caro + caixa apertado; media de 7,4 contas em atraso por empresa.
+- Desenvolvimento da cadeia causal: juro -> caixa -> atraso -> negativacao -> credito mais caro -> ciclo.
+- Licao de gestao (a virada): inadimplencia comeca no fluxo de caixa; prazo, cobranca e renegociar cedo.
+- Fechamento + CTA: "Quando foi a ultima vez que voce projetou seu caixa das proximas 8 semanas?" + convite pra seguir o canal.
+
+Fonte(s): 
+- Poder360 (sobre dados Serasa Experian) -- https://www.poder360.com.br/poder-economia/inadimplencia-bate-recorde-e-chega-a-93-milhoes-de-empresas/
+- Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/10/1267683-numero-de-empresas-inadimplentes-atinge-recorde-de-93-milhoes-diz-serasa-experian.html
+- DGABC -- https://www.dgabc.com.br/Noticia/4353988/numero-de-empresas-inadimplentes-atinge-recorde-de-9-3-milhoes-diz-serasa-experian
+- PDF do indicador (via Poder360) -- https://static.poder360.com.br/uploads/2026/10/inadimplencia-empresas-agosto2026.pdf
+
+Runners-up do dia (registro/transparencia):
+- Ri Happy: recuperacao extrajudicial de R$ 827,4 mi -- 27/35 bruto (inelegivel: pauta de 2026-10-21, regra dos 10 dias)
+- Braskem: OPA por mudanca de controle (FIP Shine) -- 18/35
