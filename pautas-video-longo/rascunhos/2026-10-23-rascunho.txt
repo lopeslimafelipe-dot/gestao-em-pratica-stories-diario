@@ -1,0 +1,46 @@
+RASCUNHO -- PAUTA DE VIDEO LONGO -- 2026-10-23
+Obs.: sites de noticias (G1, InfoMoney, Exame, Poder360) nao abriram via fetch nesta sandbox; pesquisa feita so por busca web. Dia fraco em manchetes novas: varios temas fortes ja foram cobertos nos ultimos 10 dias (Americanas 10-20, Ri Happy 10-21, devedor externo 10-22, recuperacoes judiciais 10-14). Nenhum candidato verificado diretamente na fonte primaria (Serasa) -- so via Poder360 + PDF; reconfirmar na Etapa 2.
+
+CANDIDATO 1 -- Inadimplencia empresarial bate novo recorde: 9,3 milhoes de CNPJs no vermelho
+Fato: Serasa Experian (divulgado em 21/10/2026, dados de agosto/2026): 9,3 milhoes de CNPJs inadimplentes, +14,3% vs agosto/2025; 68,2 milhoes de dividas negativadas somando R$ 244,4 bi; media de R$ 26.355 por CNPJ e 7,4 contas negativadas por empresa; 8,8 milhoes dos CNPJs sao micro e pequenas. Serie de recordes (9 mi em abril, 9,1 mi em junho). Cobertura menciona programa federal de renegociacao de dividas.
+Fonte: Poder360 (sobre dados da Serasa Experian) -- https://www.poder360.com.br/poder-economia/inadimplencia-bate-recorde-e-chega-a-93-milhoes-de-empresas/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 27/35
+Status: VENCEDOR DO DIA
+Nota guardrail: 'Polemica adjacente' pesa (juro alto, programa do governo de perdao de dividas, ano politico). O roteiro NAO comenta politica, partido nem o programa do governo de forma opinativa -- angulo so de gestao: caixa, prazo de recebimento, credito, renegociacao, sinais de alerta de inadimplencia.
+Angulo: juro alto + vendas fracas -> caixa apertado -> atraso -> negativacao -> credito mais caro (ciclo). Licao: gestao de caixa, capital de giro, politica de cobranca e de prazo, renegociar cedo.
+
+CANDIDATO 2 -- Braskem: OPA por mudanca de controle (FIP Shine)
+Fato: CVM deferiu registro de OPA por alienacao de controle; leilao na B3 em data a definir (noticia da semana de 21-25/09/2026, segundo busca; data exata nao confirmada).
+Fonte: Vis no Invest -- https://visnoinvest.com.br/news/15443/movimentacoes-societarias-e-opa-pautam-as-mais-lidas-da-semana
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 2/5
+TOTAL: 18/35
+Status: runner-up
+
+CANDIDATO 3 -- Ri Happy (follow-up): recuperacao extrajudicial de R$ 827,4 mi apos venda
+Fato: Grupo Ri Happy/PBKids e mais empresas pediram recuperacao extrajudicial em 18/10/2026 (R$ 827,4 mi), 2a reestruturacao em poucos anos; culpa juros altos, queda do varejo e Shopee/AliExpress.
+Fonte: Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/10/1267354-grupo-ri-happy-entra-com-pedido-de-recuperacao-extrajudicial.html
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 27/35 bruto -> descartado por repeticao: ja foi a pauta de 2026-10-21 (regra dos 10 dias). Seria 27 empatando com o vencedor, mas inelegivel.
+Status: runner-up (inelegivel)
