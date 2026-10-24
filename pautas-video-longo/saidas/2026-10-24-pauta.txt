@@ -1,0 +1,49 @@
+PAUTA DO DIA -- 2026-10-24
+Assunto: Casas Bahia: Justica de SP defere o processamento da recuperacao judicial (cerca de R$ 17,3 bi em dividas)
+Score final: 30/35 (Frescor 3/5; Relevancia do protagonista 5/5; Gravidade 5/5; Polemica adjacente 4/5; Volume de cobertura 4/5; Clareza do angulo 4/5; Identificacao com audiencia 5/5)
+
+Fato central verificado: Em 21/10/2026 a 2a Vara de Falencias e Recuperacoes Judiciais de SP (juiza Taina Maria Leonardo de Oliveira) deferiu o processamento da RJ do Grupo Casas Bahia e de 9 empresas do grupo. Ha 30 dias para sanar pendencias documentais, sob risco de revogacao da decisao. Divida total de ~R$ 17,3 bi, dos quais R$ 16,4 bi sao quirografarios (sem garantia real). O pedido foi protocolado em 16/08/2026 (uma fonte cita a noite de domingo, 17/08). Stay period (suspensao de acoes e execucoes) de 180 dias a partir de 19/08. O plano de RJ deve ser apresentado em ate 60 dias da publicacao da decisao. ATENCAO: deferir o processamento NAO e aprovar a RJ nem o plano -- a juíza checou so requisitos legais e regularidade documental, sem avaliar viabilidade economica; os credores ainda votam o plano. Alguns veiculos titulam "aprova", o que supervaloriza a decisao -- nao repetir.
+Fontes de verificacao: TJSP (oficial), DGABC, Mercado&Consumo, Euqueroinvestir (URLs abaixo). Pagina do DGABC nao abriu via WebFetch; os dados vieram de trechos de busca que batem com o rascunho e com o TJSP.
+NAO CONFIRMADOS nesta checagem (nao usar como fato no video sem validar na decisao/edital): R$ 754 mi trabalhistas e R$ 154 mi com micro e pequenas empresas; AJ Ruiz como administrador judicial aparece em uma fonte (confirmar); AGE de 19/10.
+
+Cadeia causal (o que levou a isso): 
+1) Cenario de juros altos, restricao de credito e queda no consumo das familias (alegacao da propria empresa, em comunicado a CVM e na peticao) -> 
+2) custos financeiros maiores e pressao sobre capital de giro, com negocio ja fragilizado: em 2023 fechou 55 lojas deficitarias (Plano de Transformacao) e em abril/2024 fez recuperacao extrajudicial de ~R$ 4,1 bi, da qual saiu em ~3 meses (a divida voltou a crescer) -> 
+3) 2o tri/2026: prejuizo liquido de R$ 10,1 bi (R$ 9,1 bi ligados a efeitos contabeis extraordinarios e despesas da reestruturacao; sem eles, perda de ~R$ 978 mi), patrimonio liquido negativo e ressalva de continuidade operacional (incerteza relevante) apontada pela EY -> 
+4) fechamento de 298 lojas (~28,6% da rede do fim de 2025) e ~1,9 mil demissoes em 13-17/08 (suspensas provisoriamente pela Justica do Trabalho) -> 
+5) pedido de RJ em agosto e deferimento do processamento em 21/10 -> proximos passos: regularizar documentos em 30 dias e plano em ate 60 dias.
+(Numeros de lojas e demissoes variam entre fontes; usar "cerca de".)
+
+Por que esta repercutindo agora: Relevancia do protagonista (5/5: marca presente na vida de todo brasileiro), Gravidade (5/5: ~R$ 17 bi, maior RJ do varejo recente), Identificacao com audiencia (5/5: dono de PME entende alavancagem, juro e caixa; ha tambem credores PME no processo) e volume de cobertura alto (4/5). Frescor 3/5: a decisao e de 21/10 e o pedido, de agosto.
+
+Angulo de gestao sugerido: Como uma empresa gigante chega a RJ pelo mesmo caminho que quebra PME: alavancagem + custo financeiro alto + queda de venda = caixa que nao fecha. Licoes praticas: (a) reestruturar divida sem corrigir o modelo de negocio so compra tempo (2024 -> 2026); (b) acompanhar custo da divida versus margem, nao so faturamento; (c) capital de giro e cobertura de juros como indicadores de alerta; (d) agir cedo, negociar antes da crise de caixa; (e) o que a RJ significa de fato: protege o caixa por 180 dias, mas nao resolve nada sem plano viavel. Diferenciar do video anterior do canal sobre o tema (nao repetir o que ja foi dito; aprofundar deferimento, prazos, credores e plano em 60 dias).
+
+Dados de apoio:
+- Prejuizo liquido 2T26 de R$ 10,1 bi; ajustado ~R$ 978 mi (Gazeta do Povo / Jornal Opcao -- URLs abaixo).
+- 298 lojas fechadas (~28,6% da rede de fim de 2025) (Jornal Opcao).
+- RE de R$ 4,1 bi em abril/2024 (dados de busca; citar como "cerca de" e confirmar no CVM antes de afirmar).
+- Stay period de 180 dias (Mercado&Consumo); 60 dias pro plano e 30 dias pra documentos (TJSP / Euqueroinvestir).
+- Decisao exige planilha de depositos recursais trabalhistas em 15 dias e prestacao de contas mensal (Bahia Noticias, via busca).
+
+Ressalva/limite: 'Polemica adjacente' pesou (4/5: juros altos e situacao economica do pais). Lembrete explicito: NAO comentar politica, partido, governo ou figura politica, nem tomar posicao sobre o debate economico maior (inclusive nas vesperas do 2o turno). Falar de juro apenas como custo de capital e seu efeito pratico na gestao. Nao dar recomendacao de investimento (acao BHIA3). Nao dizer que a RJ foi "aprovada". A causa e a versao da empresa (peticao/CVM); atribuir a ela ("segundo a empresa").
+
+Estrutura sugerida pro roteiro (referencia; o roteiro final e do Copywriter):
+- Hook: conflito especifico (ex.: a empresa que ja renegociou R$ 4 bi em 2024 voltou com R$ 17 bi de divida em 2026)
+- Contexto/causa raiz: RE de 2024, juros/credito/consumo, prejuizo e patrimonio negativo
+- Desenvolvimento da cadeia causal: divida -> custo financeiro -> caixa -> fechamento de lojas -> RJ; o que o deferimento significa e o que vem em 30 e 60 dias
+- Licao de gestao (a virada): custo da divida vs margem, e renegociar sem mudar o modelo
+- Fechamento + CTA
+
+Fonte(s):
+- TJSP -- https://portal.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115802
+- DGABC -- https://www.dgabc.com.br/Noticia/4353973/justica-de-sp-aprova-recuperacao-judicial-do-grupo-casas-bahia
+- Gazeta do Povo -- https://www.gazetadopovo.com.br/economia/justica-aprova-recuperacao-casas-bahia-17-3-bilhoes/
+- Mercado&Consumo -- https://mercadoeconsumo.com.br/31/08/2026/mc-capital/casas-bahia-obtem-suspensao-de-acoes-e-execucoes-por-180-dias/
+- Euqueroinvestir -- https://euqueroinvestir.com/mercados/casas-bahia-bhia3-tem-pedido-de-recuperacao-judicial-aceito
+- Jornal Opcao -- https://www.jornalopcao.com.br/economia/casas-bahia-pede-recuperacao-judicial-apos-prejuizo-de-r-101-bilhoes-e-fechamento-de-298-lojas-858448/
+- Capital Aberto -- https://capitalaberto.com.br/empresas/2026/08/casas-bahia-pede-recuperacao-judicial-por-divida-de-r-17-bi
+
+Runners-up do dia (registro/transparencia):
+- Embraer bate recorde de carteira de pedidos no 3T26 (US$ 35,7 bi) -- 22/35
+- Braskem: recuperacao extrajudicial de US$ 10,9 bi segue em curso -- 21/35
+- Netflix: ~1.000 demissoes e saida de 2 executivos antes do balanco -- 21/35
