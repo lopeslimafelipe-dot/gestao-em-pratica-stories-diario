@@ -1,0 +1,59 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-10-24 (sabado)
+
+CANDIDATO 1 -- Casas Bahia: Justica de SP defere o processamento da recuperacao judicial (R$ 17,3 bi em dividas)
+Fato: Em 21/10/2026 a 2a Vara de Falencias e Recuperacoes Judiciais de SP (juiza Taina Maria Leonardo de Oliveira) deferiu o processamento da RJ do Grupo Casas Bahia e de 9 empresas do grupo (incl. Cnova, ASAP Log, Cntlog Express). Pedido protocolado em 16/08/2026; dividas de ~R$ 17,3 bi (R$ 16,4 bi quirografarios, R$ 754 mi trabalhistas, R$ 154 mi com micro e pequenas empresas). Ha 30 dias para sanar pendencias documentais, sob risco de revogacao; administrador judicial: AJ Ruiz. Acionistas ratificaram o pedido em AGE de 19/10. Plano de RJ deve ser apresentado em ate 60 dias. Reportagens indicam pressao de juros altos, queda de consumo e fechamento de lojas (298 lojas / ~3 mil demissoes citadas, data nao confirmada). Obs.: valores conferidos em agregado de buscas (nao consegui abrir as paginas); validar na Etapa 2.
+Fonte: DGABC -- https://www.dgabc.com.br/Noticia/4353973/justica-de-sp-aprova-recuperacao-judicial-do-grupo-casas-bahia (complementar: https://www.gazetadopovo.com.br/economia/justica-aprova-recuperacao-casas-bahia-17-3-bilhoes/)
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 30/35
+Status: VENCEDOR DO DIA
+Nota GUARDRAIL POLITICO: o fator 'Polemica adjacente' pesa (juro alto/situacao economica do pais, 2o turno das eleicoes em 25/10). O roteiro NAO comenta politica, partido ou figura politica; angulo apenas gestao: alavancagem + juro + estoque/credito ao consumidor -> caixa -> RJ -> licao pra PME. Caso de referencia do canal (video sobre a RJ da Casas Bahia teve boa repercussao) -- ver o que ja foi dito la pra nao repetir e aprofundar o novo fato (deferimento, credores, plano em 60 dias).
+Obs.: nenhuma pauta longa dos ultimos 10 dias teve Casas Bahia como tema (Ri Happy em 21/10 foi outro caso).
+
+CANDIDATO 2 -- Embraer bate recorde de carteira de pedidos no 3T26 (US$ 35,7 bi)
+Fato: Em 23/10/2026 a Embraer divulgou carteira de pedidos firmes de US$ 35,7 bi no 3T26 (+3% vs 2T26, +14% a/a), novo recorde. Aviacao comercial US$ 15,8 bi, executiva US$ 8,2 bi, Defesa US$ 6,1 bi (+56%), Servicos US$ 5,6 bi. 66 entregas no trimestre (175 no ano, +14%). Balanco completo so em 10/11. Analistas divididos (JP Morgan viu entregas abaixo do esperado; XP ve receita visivel ate o fim da decada).
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/carteira-de-pedidos-firmes-da-embraer-soma-us-357-bi-no-3o-tri-novo-recorde/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 2/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 22/35
+Status: runner-up
+
+CANDIDATO 3 -- Braskem: recuperacao extrajudicial de US$ 10,9 bi segue em curso (prazo com credores ate ~24/11)
+Fato: Braskem e controladas protocolaram RE em 24/08/2026 (2a Vara de Falencias SP) para reestruturar ~US$ 10,9 bi (~R$ 56 bi) em dividas financeiras; adesao de 39,6% dos credores (minimo 1/3); Petrobras e Shine I apoiam. Nao achei fato novo hoje -- candidato de contexto, nao de noticia fresca.
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/infra/braskem-protocola-pedido-de-recuperacao-extrajudicial-2/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 2/5
+TOTAL: 21/35
+Status: runner-up
+
+CANDIDATO 4 -- Netflix: ~1.000 demissoes e saida de 2 executivos em uma semana, antes do balanco
+Fato: Segundo a Exame (20/10/2026), a Netflix anunciou cerca de mil demissoes e saida de dois executivos de alto escalao em uma semana, seguidas do balanco do 3T. Detalhes nao verificados alem do titulo/resumo.
+Fonte: Exame -- https://exame.com/invest/mercados/com-debandada-e-demissoes-netflix-divulga-balanco-e-precisa-convencer-o-mercado/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 21/35
+Status: runner-up
