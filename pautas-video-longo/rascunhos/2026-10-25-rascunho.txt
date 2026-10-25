@@ -1,0 +1,59 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-10-25 (domingo)
+Obs. de qualidade: fetch direto de sites bloqueado na sandbox (DNS); fatos abaixo vem de resultados de busca (snippets) e precisam ser reconfirmados na fonte original pela Etapa 2. Dia fraco em fato novo de empresa: sem evento corporativo grave inedito achado; Casas Bahia (30/35) foi vetada por repeticao (pauta de 24/10, regra dos 10 dias).
+
+CANDIDATO 1 -- Juros futuros despencam apos 1o turno (DI 2031 de ~13,99% p/ ~12,65%) na vespera do 2o turno: o que juro longo menor muda (e nao muda) no caixa da PME
+Fato: Apos o 1o turno (05/10/2026), Ibovespa fechou em alta de ~7,7% (max. intradiaria ~209,6 mil pts), dolar caiu ~4,1% p/ ~R$ 5,00 e o DI de jan/2031 caiu de ~13,99% p/ ~12,65%, segunda maior queda diaria no Tesouro Direto desde 2005 (segundo InfoMoney, via Nord Investimentos). Segundo turno e HOJE (25/10); veiculos cobrem reacao do mercado e demanda por hedge. Analistas alertam que euforia de bolsa dura pouco e credibilidade fiscal leva anos.
+Fonte: Nord Investimentos (cita InfoMoney) -- https://www.nordinvestimentos.com.br/blog/maior-alta-ibovespa-desde-2020-primeiro-turno-eleicao-2026/ ; complementar: Poder360 -- https://www.poder360.com.br/economia/bolsa-sobe-mais-de-4-e-dolar-cai-a-r-522-depois-do-1o-turno/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 27/35
+Status: VENCEDOR DO DIA
+GUARDRAIL POLITICO: 'Polemica adjacente' pesa 5/5 no score (eleicao). Roteiro da Etapa 2 NAO pode comentar candidato, partido, resultado eleitoral nem tomar lado; angulo exclusivo = custo de capital (taxa longa vs Selic ~14%), por que juro futuro menor nao vira credito barato de imediato, e licao de gestao (nao planejar caixa/expansao em cima de euforia de mercado). Checar tambem se algo mudou apos o 2o turno antes de gravar.
+
+CANDIDATO 2 -- Recuperacao judicial no agro cai 20,7% no 2T26 (448 pedidos), apos alta de 21,9% no 1T26
+Fato: Serasa Experian: 448 pedidos de RJ no agro no 2T26 (-20,7% vs 565 no 2T25; -5,5% vs 1T26). Produtores PJ recuaram 34,2%; MT lidera (107); soja 70 pedidos. Serasa atribui a sazonalidade, mais receita e renegociacoes; diz que cenario segue desafiador. No 1T26 haviam sido 474 (+21,9%), PJ +73,5%.
+Fonte: Forbes Agro (Serasa) -- https://forbes.com.br/forbes-agro/2026/10/recuperacao-judicial-no-agro-cai-207-no-2o-trimestre-de-2026-aponta-serasa/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 3/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 20/35
+Status: runner-up
+
+CANDIDATO 3 -- Treasuries de 10 anos perto de 5% e venda de techs/IA: o juro americano que encarece o credito da PME brasileira
+Fato: Treasuries de 10 anos em ~5,0%-5,3% (maxima em decadas) ligados a Brent acima de US$ 100 e receio inflacionario; Citi coloca Brasil entre os mais expostos. Bloomberg Linea: techs pressionam bolsas globais com sinais de desaceleracao da IA (CoreWeave -15%, chips em 6 dias de queda; data da materia ~15/10, nao de hoje).
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/mercados/acoes-de-tecnologia-pressionam-bolsas-globais-apos-sinais-de-desaceleracao-da-ia/ ; Investidor10 -- https://investidor10.com.br/noticias/treasuries-batem-maxima-historica-e-citi-coloca-o-brasil-no-olho-do-furacao-entenda-122951/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 2/5
+TOTAL: 19/35
+Status: runner-up
+
+CANDIDATO 4 -- Casas Bahia: acionistas ratificam RJ (19/10) e Justica processa pedido (21/10; ~R$ 17,3 bi, ~28 mil credores, 180 dias de protecao)
+Fato: ver pauta de 24/10 (mesmo assunto).
+Fonte: Gazeta do Povo -- https://www.gazetadopovo.com.br/economia/justica-aprova-recuperacao-casas-bahia-17-3-bilhoes/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 30/35
+Status: DESCLASSIFICADO por repeticao (pauta de 2026-10-24, regra dos 10 dias)
