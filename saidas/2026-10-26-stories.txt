@@ -1,0 +1,29 @@
+ROTEIRO 1 -- IA vende processo, não ferramenta
+"Uma startup de IA jurídica, a Legora, captou US$ 550 milhões e passou a valer US$ 8,8 bilhões, segundo a TechCrunch. Pelos números da própria empresa, 🟡`a receita recorrente foi de US$ 1 milhão a US$ 100 milhões em menos de 18 meses, e os US$ 100 milhões seguintes vieram em menos de 6 meses`🟡. Ela vende hora de advogado automatizada. Quer dizer que 🟡`IA não vende ferramenta, vende a troca do processo que você paga por hora`🟡: advogado, contador, consultor. Qual dessas horas pesa mais na sua empresa?"
+Fonte: TechCrunch -- https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/
+
+ROTEIRO 2 -- Vender também é estratégia
+"A americana Prudential Financial fechou a venda de suas operações no Brasil e no México para a francesa CNP Assurances, segundo o comunicado da própria empresa. 🟡`O preço é de US$ 4,025 bilhões em dinheiro`🟡, e o fechamento só deve sair no segundo semestre de 2027, com aprovação regulatória. A Prudential quer concentrar capital onde é mais forte: EUA, Japão e Europa. 🟡`Vender uma operação grande para focar também é estratégia`🟡. Qual linha do seu negócio valeria mais nas mãos de outra pessoa?"
+Fonte: Prudential Financial (release via Finviz) -- https://finviz.com/news/404359/prudential-financial-announces-sale-of-prudential-of-brazil-and-prudential-of-mexico-to-cnp-assurances
+
+ROTEIRO 3 -- O mês esfriou, o ano esquentou
+"O IPCA-15 de outubro subiu 0,32%, abaixo dos 0,70% de setembro, segundo o IBGE. Mas 🟡`o acumulado em 12 meses foi a 4,62%, acima dos 4,47% anteriores e acima do teto da meta, de 4,5%`🟡. Quem puxou foi a comida, com alta de 0,88% em alimentação e bebidas, enquanto energia e passagem aérea aliviaram. Na prática, a inflação do mês esfriou, mas a do ano esquentou. 🟡`Reajuste de preço se faz por categoria de custo, não pelo índice cheio`🟡. Você já revisou o seu?"
+Fonte: IBGE -- https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48349-o-ipca-15-e-de-0-32-em-outubro
+
+ROTEIRO 4 -- Até 29 de janeiro, dívida com a União
+"Já falei do prazo do MEI; o mesmo edital da PGFN vale também para empresas em geral. A transação tributária foi reaberta, e 🟡`dá para aderir até as 19h de 29 de janeiro de 2027, pelo portal Regularize`🟡, segundo o edital. Há descontos sobre juros, multas e encargos, conforme a modalidade e o limite legal. 🟡`Quem não adere continua com a dívida crescendo com juros`🟡. Vale conferir no Regularize se a sua dívida entra. Você já olhou a sua?"
+Fonte: PGFN (Edital PGDAU 10/2026) -- https://www.gov.br/pgfn/pt-br/servicos/orientacoes-contribuintes/acordo-de-transacao/edital-no-6-2026/edital-de-transacao-por-adesao-pgdau-no-10-de-30-de-setembro-de-2026.pdf/view
+
+ROTEIRO 5 -- A IA é a cereja, não o bolo
+"O Barclays anunciou em outubro de 2026 o corte de cerca de 5.000 vagas, 5% do quadro, segundo a CNBC. Cerca de 60% são em funções de apoio, e o banco ligou parte do movimento à IA. Mas 🟡`o próprio CEO, segundo a imprensa, disse que a IA é só a cereja do bolo`🟡. A lição é que 🟡`enxugar camadas e processos vem antes de automatizar`🟡. Você já simplificou a sua estrutura antes de comprar tecnologia?"
+Fonte: CNBC -- https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html
+
+ROTEIRO 6 -- Onde produzir, em 12 meses?
+"A Dexco, dona da Deca, vai fechar a fábrica de louças sanitárias de Cabo de Santo Agostinho, em Pernambuco, e concentrar a produção em Jundiaí, segundo fato relevante de 19 de outubro. A empresa não disse quantos serão demitidos nem quando a fábrica para. O detalhe é que 🟡`em julho de 2025 ela já tinha fechado a de João Pessoa e concentrado tudo em Pernambuco`🟡. Concentrar produção reduz custo, mas 🟡`decidir onde produzir pede um horizonte maior que 12 meses`🟡. Com que prazo você decide onde operar?"
+Fonte: InvestNews -- https://investnews.com.br/negocios/dexco-dona-da-deca-encerra-producao-de-loucas-sanitarias-em-pernambuco/amp/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] Você já reajustou os preços da sua empresa este ano? Sim / Ainda não
+2. [Pergunta/Participacao, Roteiro 2] Qual linha do seu negócio valeria mais nas mãos de outra pessoa? Responde aqui na caixinha, sem se identificar se preferir.
+3. [Virar Historia, Roteiro 1 -> Estilo Comparativo] Colocar lado a lado "processo manual cobrado por hora" e "o mesmo processo automatizado" deixa a tese (IA vende processo, não ferramenta) visual em segundos, e os US$ 100 milhões em 6 meses viram o fecho do comparativo.
