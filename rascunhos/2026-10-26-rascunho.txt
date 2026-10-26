@@ -1,0 +1,79 @@
+RASCUNHO 2026-10-26 (Etapa 1) -- 8 itens. Verificacao de todos os itens por trechos de busca (WebFetch bloqueado); Etapa 2 re-confere.
+
+ITEM 1 -- Legora (IA juridica) capta US$ 550 mi e vale US$ 8,8 bi
+Categoria: Tecnologia
+Fato: Series E de US$ 550 milhoes, avaliacao de US$ 8,8 bilhoes (antes US$ 5,6 bi), liderada pela Atreides Management. ARR foi de US$ 1 mi a US$ 100 mi em menos de 18 meses e os US$ 100 mi seguintes vieram em menos de 6 meses (ARR acima de US$ 200 mi). Mais da metade das 50 maiores bancas dos EUA (AmLaw 50) sao clientes; escritorios internos de empresas foram mais de 40% dos novos clientes no 3T. Base: 140 mil profissionais, 2.400 clientes, 80+ mercados. Data: 21/10/2026.
+Fonte: TechCrunch -- https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/ ; Tech.eu -- https://tech.eu/2026/10/21/legoras-valuation-leaps-to-88bn-as-raises-550m/ ; SiliconANGLE -- https://siliconangle.com/2026/10/21/legal-ai-startup-legora-raises-550m-at-8-8b-to-change-the-face-of-law/ ; release -- https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth
+Relevancia: mostra onde a IA ja gera receita real: servico profissional cobrado por hora, o mesmo tipo de despesa que toda empresa tem (juridico, contabil, consultoria).
+Ressalva tecnica: ARR e "recorde de velocidade" autodeclarados pela empresa (interesse comercial). PYMNTS cita a Series D anterior como US$ 550 mi; o restante diz US$ 600 mi. Nao e noticia PME direta.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: US$ 100 mi de receita nova em menos de 6 meses vendendo hora de advogado automatizada indica que IA nao vende "ferramenta", vende a substituicao do processo que o dono paga por hora (advogado, contador, consultor).
+
+ITEM 2 -- Prudential Financial vende Brasil e Mexico para a francesa CNP por US$ 4,025 bi
+Categoria: Noticia de empresa
+Fato: em 20/10/2026, acordo de venda da Prudential do Brasil e da Prudential do Mexico a CNP Assurances por US$ 4,025 bi em dinheiro (Reuters arredonda US$ 4,03 bi), sujeito a ajustes. Fechamento previsto para o 2o semestre de 2027, dependente de aprovacao regulatoria. O CEO Andy Sullivan disse em agosto que a presenca geografica cairia de mais de uma duzia de paises para cerca de metade; ja houve vendas na Indonesia, Africa do Sul e Quenia. Recursos irao para EUA, Japao e Europa. No Brasil, ~2.500 consultores franqueados.
+Fonte: Release via Finviz -- https://finviz.com/news/404359/prudential-financial-announces-sale-of-prudential-of-brazil-and-prudential-of-mexico-to-cnp-assurances ; AP via KSL -- https://www.ksl.com/article/51638581/prudential-financial-to-sell-brazil-mexico-units-for-4-billion ; Revista Apolice -- https://revistaapolice.com.br/?p=143478 ; Economic News Brasil -- https://economicnewsbrasil.com.br/2026/10/20/venda-da-prudential-no-brasil/
+Relevancia: caso de venda de operacao saudavel por decisao de foco estrategico, com o Brasil como ativo vendido.
+Ressalva tecnica: 5+ veiculos e release oficial concordam. Times Brasil (citando Exame/Valor) ja noticiara antes que a operacao estava a venda por mais de US$ 3 bi (pre-noticia); o fato novo e o acordo fechado. Prudential Financial e menos conhecida do grande publico.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: US$ 4 bi por um negocio que a propria dona considera "nao central": vender uma operacao que funciona, para concentrar capital onde se e mais forte, tambem e estrategia. Qual linha do seu negocio valeria mais nas maos de outro?
+
+ITEM 3 -- IPCA-15 de outubro: 0,32% no mes, mas 12 meses sobem a 4,62% (acima do teto da meta)
+Categoria: Macroeconomia-indice
+Fato: IPCA-15 subiu 0,32% em outubro (divulgado em 23/10/2026), abaixo de setembro (0,70%) e da mediana de mercado (0,43% a 0,45%). Acumulado no ano 4,15%; em 12 meses 4,62% (antes 4,47%), acima do teto da meta (4,5%). Alimentacao e Bebidas +0,88% (impacto 0,19 p.p.), maior variacao e maior impacto. Energia eletrica e passagens aereas cairam. Habitacao -0,10%; Despesas pessoais +0,55%.
+Fonte: IBGE -- https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48349-o-ipca-15-e-de-0-32-em-outubro ; InfoMoney -- https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-outubro-2026/ ; CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/macroeconomia/previa-inflacao-ipca-15-hoje-23-outubro-2026/ ; Agencia Gov -- https://agenciagov.ebc.com.br/noticias/202610/previa-da-inflacao-de-outubro-e-menor-com-queda-de-precos-de-agua-e-luz
+Relevancia: custo de insumo alimentar pressionado enquanto energia da folga; reajuste por categoria, nao pelo indice cheio.
+Ressalva tecnica: subagente teve uma consulta que nao achou o 0,32% (so o IPCA-15 de setembro), mas 5 fontes concordam, incluindo release do IBGE; Etapa 2 deve abrir a pagina do IBGE. IPCA cheio de outubro so sai em novembro (nao confundir).
+Possivel contradicao com roteiro anterior: nenhuma (ICEI/CNI, IBC-Br e PMC/PMS tratam de atividade, nao preco).
+Tese de gancho sugerida: a inflacao do mes desacelerou, mas a de 12 meses acelerou e furou o teto; quem puxou foi a comida (+0,88%) e quem aliviou foi energia e passagem aerea.
+
+ITEM 4 -- PwC: confianca de CEOs em crescimento sobe de 39% para 42%, mas ~70% dizem que custos subiram em 2026
+Categoria: Tendencia internacional
+Fato: snapshot de meio de ano da 29a Global CEO Survey da PwC (351 CEOs, divulgado em 19/10/2026): parcela de CEOs "muito ou extremamente confiantes" no crescimento da receita nos proximos 12 meses subiu de 39% para 42%; cerca de 70% disseram que os custos subiram em 2026 por choques globais.
+Fonte: PwC -- https://www.pwc.com/gx/en/1/issues/c-suite-insights/ceo-survey/mid-year-snapshot-2026.html (numeros vistos em resumo de busca; data de 19/10 vem do resumo)
+Relevancia: termometro global de quem decide em empresas grandes: confianca estavel com custo pressionado.
+Ressalva tecnica: so trecho de busca, nao li a pagina; Etapa 2 deve confirmar numeros e data na pagina da PwC. Amostra de grandes empresas (351 CEOs). PwC vende consultoria.
+Possivel contradicao com roteiro anterior: Conference Board (CEOs americanos, 46, queda; publicado 22/10) e EY-Parthenon (20/10). A PwC mede confianca no crescimento da receita em 12 meses (global, leve alta); o Conference Board mede um indice composto de confianca de CEOs dos EUA (queda). Metodologias e amostras diferentes.
+Tese de gancho sugerida: 42% confiam no crescimento, mas 70% pagaram mais caro: o otimismo do CEO convive com margem apertada.
+
+ITEM 5 -- Transacao tributaria da PGFN reaberta ate 29/01/2027 (Edital PGDAU 10/2026)
+Categoria: Prazo de Acao (Oportunidade)
+Fato: Edital de Transacao por Adesao PGDAU n 10, de 30/09/2026 (DOU de 01/10/2026) reabriu a adesao ao Edital PGFN 6/2026 das 8h de 01/10/2026 ate as 19h (Brasilia) de 29/01/2027, pelo portal Regularize, nas modalidades capacidade de pagamento, dificil recuperacao e garantidas. Descontos de ate 100% sobre juros, multas e encargos (dentro do limite legal), dividas de ate R$ 45 mi. Novo corte de inscricao em divida ativa: ate 03/07/2026. DATA-LIMITE: 29/01/2027.
+Fonte: PGFN (edital) -- https://www.gov.br/pgfn/pt-br/servicos/orientacoes-contribuintes/acordo-de-transacao/edital-no-6-2026/edital-de-transacao-por-adesao-pgdau-no-10-de-30-de-setembro-de-2026.pdf/view ; LegisWeb -- https://www.legisweb.com.br/legislacao/?id=502387 ; Sarkis & Angelo -- https://www.sarkisangelo.com.br/guias/transacao-pgfn-prorrogada-edital-10-2026/ ; TX Kapital -- https://txkapital.com.br/2026/10/01/edital-10-2026-da-pgfn-prazos-prorrogados-e-novos-debitos-elegiveis-a-transacao/
+Relevancia: janela de ~3 meses para PME com divida inscrita na divida ativa negociar com desconto.
+Ressalva tecnica: URL oficial apareceu em busca, nao foi aberta; escritorios citados tem interesse comercial. Uma fonte (okai.com.br) cita datas de corte diferentes sob "n 12" (divergencia; usar so o edital 10). Elegibilidade depende do tipo de divida. Um resultado indicou prazo de pequeno valor ate 29/07/2027 (fonte unica; nao usar).
+Possivel contradicao com roteiro anterior: o mesmo Edital 10 reabriu o Desenrola MEI Pequeno Valor (ate 29/01/2027, publicado em 21/10). Mesmo prazo, mas aqui o publico e PME em geral (transacao por capacidade de pagamento), nao MEI. Risco de percepcao de repeticao do prazo.
+Tese de gancho sugerida: divida inscrita ate 03/07/2026 pode ser negociada com ate 100% de desconto em juros e multas ate 29/01/2027; sem adesao, o passivo segue corrigido pela Selic.
+
+ITEM 6 -- Barclays corta ~5.000 vagas (5%) e ata o corte a IA
+Categoria: Empresa global reconhecida
+Fato: em 22/10/2026, junto do resultado do 3T, o Barclays anunciou ~5.000 cortes (~5% do quadro). ~1.000 ja sairam no 1o semestre; 4.000 restantes ate o fim do ano. ~60% em funcoes de suporte, incluindo desenvolvedores. Banco cita "simplificacao organizacional e eficiencia de mudanca tecnologica" via IA; o CEO C.S. Venkatakrishnan disse que IA e "icing on the cake, not the cake". Economia esperada acima de GBP 1,1 bilhao em 2027.
+Fonte: CNBC -- https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html ; Bloomberg -- https://www.bloomberg.com/news/articles/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-starts-creating-efficiency ; TechRepublic -- https://www.techrepublic.com/article/news-barclays-job-cuts-ai-productivity-emea-uk/ ; The Star (cita NYT) -- https://www.thestar.com.my/tech/tech-news/2026/10/23/barclays-to-cut-5000-jobs-in-ai-driven-push-to-lower-costs
+Relevancia: caso de enxugamento justificado por IA, com o CEO reconhecendo que a base e simplificar estrutura.
+Ressalva tecnica: 4+ veiculos concordam. Barclays ja cortou 5.000 vagas em 2023 (anunciado jan/2024); buscas em portugues so trazem essa noticia antiga, citar sempre "outubro de 2026". Banco britanico, menos reconhecido pelo publico brasileiro. Eventual item de linha 7 tambem.
+Possivel contradicao com roteiro anterior: nenhuma (tema proximo a Kroger/eBay, IA como justificativa de corte, mas empresa e setor diferentes).
+Tese de gancho sugerida: o proprio CEO diz que a IA e a cereja, nao o bolo: 5.000 cortes contra GBP 1,1 bi de economia sao fruto de simplificar estrutura. Enxugar camadas e processos vem antes de automatizar.
+
+ITEM 7 -- Dexco (Deca) fecha fabrica de loucas em Pernambuco e concentra producao em Jundiai
+Categoria: Reestruturacao-corte-fechamento
+Fato: conselho aprovou em 19/10/2026 o encerramento da fabrica de loucas sanitarias em Cabo de Santo Agostinho (PE); producao concentrada em Jundiai (SP). Fato relevante a CVM. A empresa NAO informou numero de demitidos, data de parada nem custo; efeitos contabeis nao recorrentes. Em jul/2025 ja havia fechado a fabrica de Joao Pessoa (PB) e concentrado o Nordeste em Pernambuco.
+Fonte: Movimento Economico -- https://movimentoeconomico.com.br/economia/industria-empresas/2026/10/19/deca-fecha-fabrica-de-loucas-em-pernambuco-e-transfere-producao-para-sao-paulo/ ; InvestNews -- https://investnews.com.br/negocios/dexco-dona-da-deca-encerra-producao-de-loucas-sanitarias-em-pernambuco/amp/ ; Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/dexco-encerra-fabrica-loucas-sanitarias-cabo-de-santo-agostinho-jundiai/ ; Movimento Economico (reforma) -- https://movimentoeconomico.com.br/economia/lei-de-incentivos/tributacao/reforma-tributaria/2026/10/21/saida-da-deca-acende-alerta-sobre-futuro-das-industrias-no-nordeste-apos-reforma/
+Relevancia: consolidacao de parque industrial brasileiro; decisao de localizacao revista em pouco mais de um ano.
+Ressalva tecnica: 3+ veiculos e fato relevante CVM; sem Exame/Valor/InfoMoney nos resultados. Nao ha numero de demitidos: nao inventar manchete numerica.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: a Deca fechou Joao Pessoa em 2025 e agora Cabo de Santo Agostinho: concentrar a producao num so polo reduz custo, mas o ciclo de decisao de onde produzir precisa de horizonte maior que 12 meses.
+
+ITEM 8 -- Mercado Pago: assistente MAGO passa de 5 milhoes de empreendedores
+Categoria: Livre
+Fato: assistente financeiro com IA (Pix, boletos, fluxo de caixa, simulacao de cenarios; cada operacao exige confirmacao do cliente; integrado ao Open Finance). Mais de 5 milhoes de empreendedores ja usaram/interagiram, segundo a empresa. Usos mais comuns: pagamentos programados, gestao de vendas, analise de sazonalidade. Reportagens citam 17 mi de usuarios do assistente no total e expansao gradual para a base de 88 mi de clientes.
+Fonte: Central do Varejo -- https://centraldovarejo.com.br/mago-assistente-financeiro-com-ia-do-mercado-pago-alcanca-mais-de-5-milhoes-de-empreendedores-em-2026/ ; MobileTime -- https://www.mobiletime.com.br/tag/mercado-pago?swcfpc=1
+Relevancia: ferramenta de IA de uso real por pequenos negocios no Brasil.
+Ressalva tecnica: numeros de adocao sao da propria empresa (interesse comercial), sem dado independente. DATA NAO CONFIRMADA: um veiculo ata o marco de 5 mi a uma coletiva em uma quinta-feira "dia 24"; outro lembra a apresentacao do MAGO em 13/08. Etapa 2 deve confirmar a data (pode estar fora da janela de 7 dias). So 2 veiculos, um deles pagina de tag.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: 5 milhoes de donos de negocio pedindo ao chat para pagar conta e analisar sazonalidade indicam que o gerente financeiro de bolso ja virou habito; quem ainda faz fluxo de caixa so em planilha gasta horas que o concorrente nao gasta.
+
+--- NOTAS ---
+Cota internacional: Legora (TechCrunch), PwC (grande consultoria), Barclays, Prudential: cumprida.
+Fontes BR: IBGE/InfoMoney/CNN Brasil, Movimento Economico, InvestNews; G1/Estadao/Valor/Exame nao apareceram nos resultados.
+Descartados: Volvo Cars (publicado 23/10), EA/BioWare (22/10), Amex 3.500 cortes (23/10; so 2 fontes e buscas inconsistentes, e mesmo subtema do Barclays; reserva), GM resultado + recompra US$ 20 bi (20/10; reserva L6), Brazil Journal/Vorcaro (1 fonte so, tema sensivel), Stripe Treasury for agents (data nao confirmada), Deloitte CFO Signals Q3 (28-29/09, fora da janela), Receita IN 2.341 beneficios fiscais ate 31/12 (reserva L5), SBE Council (redundante com NFIB).
+Consultas por linha: ver relatorios dos subagentes; linha 4 teve busca extra deliberada (KPMG, EY, PwC, Gartner, Conference Board em out/2026). Obs.: Gartner (20/10): 44% dos CEOs tem dificuldade para demonstrar retorno financeiro de IA (reserva L4, proximo do EY ja publicado).
