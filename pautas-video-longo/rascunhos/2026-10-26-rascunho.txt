@@ -1,0 +1,46 @@
+RASCUNHO -- 2026-10-26
+Obs. de pesquisa: sites-fonte (InfoMoney, Exame, G1, NeoFeed) nao abriram por fetch direto nesta sandbox; candidatos levantados via busca. O fechamento real do pregao de 26/10 NAO foi confirmado -- as fontes sao previas/projecoes pre-abertura. Etapa 2 deve checar o fechamento antes de citar numeros.
+
+CANDIDATO 1 -- Mercado reage a reeleicao de Lula: dolar, juro futuro e varejo sob pressao na 1a sessao pos-2o turno
+Fato: Apos o 2o turno (25/10), analistas projetam abertura com forte pressao de baixa: dolar futuro em Chicago ~R$ 5,52 (+~10%), EWZ chegou a cair ~19,6% no after-market, projecao de dolar R$ 5,30-5,50 e alta de 60-100 bps nos juros futuros medios/longos. Setores mais expostos segundo InfoMoney: varejo, construcao civil, credito ao consumidor. Contexto: Ibovespa tinha subido 6,9% entre os turnos (205.082 pts em 23/10) e dolar ~R$ 4,99. Numeros sao PROJECOES pre-abertura; fechamento de 26/10 nao verificado.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/como-os-mercados-vao-abrir-nesta-segunda-apos-a-reeleicao-de-lula/
+Fontes adicionais: Reuters/Investing -- https://br.investing.com/news/economy-news/abertura-de-mercados-sera-de-forte-pressao-de-baixa-para-ativos-do-brasil-apos-reeleicao-de-lula-dizem-analistas-2101990 ; Bloomberg Linea -- https://www.bloomberglinea.com.br/mercados/dolar-futuro-dispara-com-reeleicao-de-lula-e-etf-brasileiro-no-japao-despenca-13/ ; Poder360 -- https://www.poder360.com.br/poder-eleicoes/mercado-espera-dia-de-sangria-apos-reeleicao-de-lula/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 30/35
+Status: VENCEDOR DO DIA
+GUARDRAIL POLITICO: 'Polemica adjacente' pesou forte (5/5). O roteiro NAO deve comentar o resultado eleitoral, candidatos, partidos nem tomar posicao. Angulo unico: efeito de dolar/juro mais altos no custo de insumo importado, credito e capital de giro da PME, e o que o gestor faz (hedge natural, renegociar prazo, caixa, repasse de preco). Nota: pauta de 25/10 foi o juro longo caindo; esta e o movimento inverso, angulo distinto.
+
+CANDIDATO 2 -- Casas Bahia: Justica suspende demissoes coletivas (fechamento de 298 lojas) e exige intervencao sindical
+Fato: Justica do Trabalho suspendeu dispensas ligadas ao fechamento de 298 lojas, determinou restabelecimento provisorio de vinculos e intervencao sindical antes de novos cortes em massa; RJ de R$ 17,3 bi teve processamento deferido em 21/10. Detalhe de data/numeros so em fonte secundaria, nao confirmado em 2a fonte. Assunto ja foi pauta em 24/10 (dentro dos 10 dias, penalizado em frescor/novidade).
+Fonte: Ver o Fato (agregador, confirmar na fonte primaria) -- https://ver-o-fato.com.br/em-meio-a-recuperacao-judicial-justica-manda-casas-bahia-reverter-demissoes/ ; Migalhas -- https://www.migalhas.com.br/quentes/467016/justica-autoriza-processamento-da-recuperacao-judicial-das-casas-bahia
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 25/35
+Status: runner-up
+
+CANDIDATO 3 -- Grupo Euro17 pede recuperacao judicial: R$ 1,72 bi de divida, 5.034 credores, ~4 mil pessoas fisicas com debentures
+Fato: 8 empresas do grupo (Euro Securitizadora, Prime Euro) pediram RJ na 1a Vara de Falencias de SP; passivo declarado R$ 1,72 bi; R$ 1,28 bi em debentures privadas vendidas a ~4 mil pessoas fisicas; grupo alega inadimplencia e contagio do caso Banco Master; carteira de credito pessoal fechou 2024 com 37,8% de inadimplencia; queima R$ 30-40 mi/mes. Dados de um unico veiculo (NeoFeed); data do protocolo nao divulgada.
+Fonte: NeoFeed -- https://neofeed.com.br/negocios/exclusivo-com-divida-de-r-172-bilhao-grupo-euro17-pede-recuperacao-judicial/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 22/35
+Status: runner-up
