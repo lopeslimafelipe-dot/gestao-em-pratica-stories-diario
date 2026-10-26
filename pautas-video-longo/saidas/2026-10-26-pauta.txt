@@ -1,0 +1,35 @@
+PAUTA DO DIA -- 2026-10-26
+Assunto: Dolar e juros futuros disparam na primeira sessao pos-2o turno -- o que isso faz com o custo e o caixa da PME
+Score final: 30/35 (Frescor 5, Relevancia do protagonista 4, Gravidade 4, Polemica adjacente 5, Volume de cobertura 5, Clareza do angulo 3, Identificacao com audiencia 4)
+
+Fato central verificado: Na noite de 25/10 (pos-2o turno), antes da abertura da B3, o dolar futuro (CME, Chicago) subiu cerca de 10%, para ~R$ 5,52-5,56; o ETF brasileiro EWZ chegou a cair ~19,6% no after-market (Poder360 registrou ~18% as 21h52; outra fonte citou 26% no pre-mercado, numero NAO confirmado por outras). Analistas projetavam abertura com forte pressao: dolar a vista entre R$ 5,30 e R$ 5,50 e alta de 60-100 bps nos juros futuros medios/longos; mercado esperava acionamento de mecanismos de interrupcao de negociacao (dolar futuro pode parar com alta de 6%). Contexto: o dolar fechou a R$ 5,00 em 5/10 (-4,12%) e o Ibovespa fechou em 207.190 pts (+7,85%) apos o 1o turno.
+ATENCAO -- LIMITE DA VERIFICACAO: todos os numeros acima sao PREVIAS/PROJECOES pre-abertura. O FECHAMENTO do pregao de 26/10 NAO foi encontrado em nenhuma busca. Nao citar valores como "o dolar fechou a X" sem conferir antes de gravar. A fonte InfoMoney nao abriu por fetch (bloqueio de rede); a conferencia foi por trechos de busca, que bateram com o rascunho.
+Cadeia causal (o que levou a isso): mercado vinha precificando um cenario no 1o turno e nos dias seguintes (dolar de volta a ~R$ 5,00, bolsa em alta de ~7-8%) -> resultado do 2o turno diferente do precificado -> reprecificacao brusca de risco: dolar sobe e curva de juros futuros abre -> dolar mais alto encarece insumo/mercadoria importada ou cotada em dolar; juros futuros mais altos encarecem credito e capital de giro, e comprimem margem de quem depende de financiamento -> setores mais expostos segundo InfoMoney: varejo, construcao civil e credito ao consumidor -> o dono de PME sente em custo de reposicao, prazo de fornecedor e taxa do banco.
+Por que esta repercutindo agora: Frescor 5 (aconteceu entre ontem e hoje), Volume de cobertura 5 (InfoMoney, Reuters/Money Times, Bloomberg Linea, Poder360) e Gravidade 4 (dolar +10% no futuro, ETF -~19%); Polemica adjacente 5 pesou, mas NAO sera explorada.
+Angulo de gestao sugerido: "Dolar e juro subiram de um dia pro outro: o que o dono de empresa revisa essa semana." Licao pratica: (1) mapear quanto do custo e dolarizado (insumo direto, embalagem, frete, software, equipamento); (2) renegociar prazo e preco com fornecedores, buscando contrato em reais ou alternativa local (hedge natural); (3) proteger caixa antes de precisar de credito mais caro (rever capital de giro, linhas pre-aprovadas, prazo de recebimento); (4) revisar tabela de preco/repasse com criterio, sem reagir ao susto do primeiro dia. Reforco: empresas menores, com margem apertada e dependentes de capital de terceiros, tendem a sofrer mais quando juro e dolar sobem juntos, e raramente tem area de risco cambial (InfoMoney, analise generica de PMEs).
+Dados de apoio:
+- Dolar fechou a R$ 5,0022 (-4,12%) e Ibovespa subiu 7,85% a 207.190,44 pts em 5/10 -- fontes: resultados de busca (Mais Retorno/InfoMoney; confirmar URL exata antes de citar em video).
+- Selic: reducao de 0,25 p.p. para 14% no Copom de 5/8/2026 (4a queda seguida); Focus de 3/8 projetava 13,75% ao fim de 2026 -- situacao atual NAO confirmada (nao ha reuniao em outubro; proxima em 3-4/11). So citar se conferido no Banco Central.
+- Apuracao: Lula reeleito com ~51,8% dos votos validos (fontes divergem entre 51,77% e 51,79%) -- dado de contexto, NAO usar no video.
+- Sebrae-SP (1999): 90% das MPEs paulistas citaram alta no custo de materia-prima apos desvalorizacao do real -- dado antigo, usar so como ilustracao historica.
+Ressalva/limite: GUARDRAIL POLITICO. 'Polemica adjacente' pesou 5/5. NAO comentar resultado eleitoral, candidatos, partidos, governo ou oposicao, nem tomar posicao ou dizer se a reacao do mercado e "justa". Tratar o movimento como fato de mercado (dolar e juro) e ficar so no efeito pratico na gestao. Se mencionar a origem, usar no maximo "movimento do mercado apos o fim das eleicoes". Alem disso: nao dar recomendacao de investimento nem prever onde dolar/juro vao fechar; checar o fechamento real antes de gravar; ha risco de a sessao ter sido menos (ou mais) severa que a previa.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- o Copywriter do canal escreve o final):
+- Hook: "O dolar saltou ~10% no mercado futuro em uma noite. Seu custo de reposicao vai atras."
+- Contexto/causa raiz: o dolar vinha em R$ 5,00 e a curva de juros tinha caido; mercado reprecificou de uma vez.
+- Desenvolvimento da cadeia causal: dolar -> insumo/mercadoria; juros futuros -> credito e capital de giro; setores expostos (varejo, construcao, credito ao consumidor); por que PME sente mais (margem apertada, sem area de risco cambial).
+- Licao de gestao (a virada): mapeie sua exposicao em dolar e proteja o caixa antes de repassar preco ou tomar credito no susto.
+- Fechamento + CTA: "Qual parte do seu custo e em dolar? Conta nos comentarios / segue o canal."
+
+Fonte(s):
+- InfoMoney -- https://www.infomoney.com.br/mercados/como-os-mercados-vao-abrir-nesta-segunda-apos-a-reeleicao-de-lula/
+- InfoMoney -- https://www.infomoney.com.br/mercados/real-cai-10-no-mercado-futuro-ante-dolar-apos-reeleicao-de-lula/
+- Bloomberg Linea -- https://www.bloomberglinea.com.br/mercados/dolar-futuro-dispara-com-reeleicao-de-lula-e-etf-brasileiro-no-japao-despenca-13/
+- Money Times/Reuters -- https://www.moneytimes.com.br/abertura-de-mercados-sera-de-forte-pressao-de-baixa-para-ativos-do-brasil-apos-reeleicao-de-lula-dizem-analistas-fets/
+- Poder360 -- https://www.poder360.com.br/poder-eleicoes/mercado-espera-dia-de-sangria-apos-reeleicao-de-lula/
+- Mixvale -- https://www.mixvale.com.br/2026/10/25/etf-ibovespa-despenca-ate-1963-nos-eua-e-dolar-futuro-chega-a-r-556-em-chicago-apos-reeleicao-de-lula/
+- InfoMoney (PMEs, juros+dolar) -- https://www.infomoney.com.br/?p=2715107
+
+Runners-up do dia (registro/transparencia):
+- Casas Bahia: Justica suspende demissoes coletivas (298 lojas) e exige intervencao sindical -- 25/35 (ja foi pauta em 24/10)
+- Grupo Euro17 pede recuperacao judicial: R$ 1,72 bi de divida, ~4 mil pessoas fisicas com debentures -- 22/35
