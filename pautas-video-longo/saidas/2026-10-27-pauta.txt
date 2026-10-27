@@ -1,0 +1,32 @@
+PAUTA DO DIA -- 2026-10-27
+Assunto: Varejo derrete na bolsa (Magalu -58%, Vamos -57%, Hapvida -55%, C&A -47%): por que empresa endividada e dependente de credito e a primeira a sentir quando juro e dolar disparam
+Score final: 32/35 (Frescor 4, Relevancia do protagonista 5, Gravidade 5, Polemica adjacente 5, Volume de cobertura 5, Clareza do angulo 4, Identificacao com audiencia 4)
+
+Fato central verificado: Em 26/10/2026, primeiro pregao apos o 2o turno das eleicoes, o Ibovespa fechou em queda de 13,88% (176.608,23 pts; -28.474 pts no dia) apos acionar o circuit breaker no inicio do pregao -- primeiro desde marco de 2020. Dolar comercial +8,21%, a R$ 5,4029 (maior alta diaria desde 18/01/1999; Ptax +9,19%, R$ 5,5007). Maiores quedas segundo NeoFeed/Suno: Magazine Luiza -58,23%, Vamos -56,79%, Hapvida -54,93%, C&A ~-47,5% (C&A conferida so na fonte do rascunho/NeoFeed; Magalu, Vamos e Hapvida bateram em mais de uma fonte). Confirmado por busca (trechos) em: Suno, InfoMoney, SpaceMoney, Canal Rural, Money Times, CNN Brasil, BP Money, NeoFeed. WebFetch bloqueado (ENOTFOUND); verificacao feita por WebSearch.
+Cadeia causal (o que levou a isso): 
+1) Movimento forte de aversao a risco no 1o pregao pos-eleicao -> dolar dispara (+8,21%) e juros futuros sobem (so "movimento do mercado", sem entrar no porque politico).
+2) Juro mais alto encarece o credito e aumenta o custo de rolar divida -> empresa com divida e capital de giro financiado por credito vira a mais exposta (Selic hoje 13,75% a.a., apos corte de 0,25 p.p. do Copom em 16/09/2026; CDI 13,65%).
+3) Negocios dependentes de consumo financiado e credito (varejo, saude suplementar, locadoras/frotas com divida e ativos caros) perdem valor mais rapido; exportadoras, com receita em dolar, foram as poucas que subiram (Seu Dinheiro: so 6 acoes sobem).
+4) Licao: o que decide quem aguenta o choque e estrutura de divida (prazo, custo, indexador), caixa e dependencia de credito -- nao o tamanho da empresa.
+Por que esta repercutindo agora: Gravidade 5 (circuit breaker, maior alta do dolar em 27 anos), Volume de cobertura 5 (todos os portais), Relevancia 5 (marcas conhecidas do publico). Fechamento real do pregao de ontem, ainda fresco.
+Angulo de gestao sugerido: "Divida cara + prazo curto + dependencia de credito = fragilidade." Perguntas praticas ao dono de PME: quanto da minha divida vence em 12 meses? Qual e pos-fixada/atrelada a dolar? Quantos meses de caixa aguento se o credito encarecer ou secar? Meus clientes dependem de parcelamento/credito? Renegociar prazos e alongar divida antes da necessidade; reserva de caixa; reduzir exposicao cambial de insumos. Sem recomendacao de investimento.
+Dados de apoio:
+- Selic 13,75% a.a. apos corte de 0,25 p.p. em 16/09/2026, quinto corte seguido -- fonte: Jornal de Brasilia/DGABC (Focus) e noticias do Copom (via busca).
+- CDI/over 13,65% a.a. em 26/10 -- fonte: DGABC "Fechamento do mercado financeiro 26/10/2026" https://www.dgabc.com.br/Noticia/4365151/fechamento-do-mercado-financeiro
+- Contrato futuro do Ibovespa -14,5% (177.925 pts) -- mesma fonte.
+- Ibovespa chegou a cair ~16,4% no intradia (Suno/InfoMoney, via busca).
+- NAO verificados (nao usar no video sem checar): "juros longos acima de 16%" e "Tesouro cancelou leiloes de prefixados". Alavancagem de Magalu/Vamos: dados encontrados conflitantes entre empresa (~1,0x, 2T26) e projecao S&P (~4,0x) por metodologias diferentes -- nao citar sem conferir no RI.
+Ressalva/limite: 'Polemica adjacente' pesou 5/5. NAO citar candidatos, partidos, governo ou oposicao, nem opinar se a reacao do mercado e justa ou prever recuperacao; no maximo "movimento do mercado apos as eleicoes". Nao falar de comprar/vender acao. Nao reciclar o roteiro de 26/10 (previas + custo/caixa); este e fechamento real + estrutura de divida. Numeros variam entre veiculos (Ibov -13,88% a ~-14%; dolar +8,21% a +9,7% conforme Ptax/maxima) -- usar os do fechamento oficial acima. Pregao de 27/10 nao encontrado; falar sempre "ontem (26/10)".
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto):
+- Hook: "Ontem Magalu perdeu 58% em um dia na bolsa. Nao foi a venda que caiu -- foi a conta da divida."
+- Contexto/causa raiz: dolar +8%, juros sobem, credito encarece.
+- Desenvolvimento da cadeia causal: divida + prazo + dependencia de credito; quem tem receita em dolar vs quem deve em juro.
+- Licao de gestao (a virada): estrutura de divida e caixa decidem quem sobrevive ao choque; checklist de 3 perguntas.
+- Fechamento + CTA.
+
+Fonte(s): NeoFeed -- https://neofeed.com.br/negocios/bolsa-despenca-com-vitoria-de-lula-mas-passado-mostra-que-ressaca-eleitoral-pode-ser-curta/ ; Suno -- https://www.suno.com.br/noticias/ibovespa-hoje-26-outubro-magazine-luiza-mglu3-eleicoes-mt/ ; Canal Rural -- https://www.canalrural.com.br/economia/ibovespa-fecha-em-queda-de-1388-e-dolar-comercial-sobe-821/ ; SpaceMoney -- https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-cai-dolar-sobe-fechamento-2 ; CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/mercado/acoes-recuam-mais-de-50-em-dia-de-circuit-breaker-veja-maiores-perdas/ ; Seu Dinheiro -- https://www.seudinheiro.com/2026/bolsa-dolar/ibovespa-em-choque-varias-acoes-derretem-mais-de-40-apos-virada-de-lula-no-segundo-turno-apenas-6-acoes-sobem-bdap/
+
+Runners-up do dia (registro/transparencia):
+- Circuit breaker e dolar com maior alta diaria desde 1999 (visao geral do pregao) -- 29/35
+- Recuperacoes judiciais em nivel recorde: 6.341 empresas (jun/2026) -- 23/35
