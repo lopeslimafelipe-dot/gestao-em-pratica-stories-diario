@@ -1,0 +1,37 @@
+ROTEIRO 1 -- Quem aluga IA não é dono do jogo
+"O Itaú comprou 100% da NeoSpace, startup brasileira de IA, por R$ 2,925 bilhões, segundo o fato relevante do banco. Detalhe: ele já era sócio, com 15% desde 2025, e cliente da empresa. 🟡`Depois de quase dois anos usando a tecnologia, o maior banco privado decidiu ser dono dela`🟡. O fechamento ainda depende de Cade e Banco Central. A lição: 🟡`o que é central demais pro seu negócio não pode ficar só na mão de fornecedor`🟡. Qual parte da sua empresa depende de algo que você não controla?"
+Fonte: Fato Relevante do Itaú (SEC) -- https://www.sec.gov/Archives/edgar/data/0001132597/000113259726000245/materialfact_neospace.htm
+
+ROTEIRO 2 -- O encanamento virou produto
+"A Sea, dona da Shopee, anunciou em memorando interno a Sea Cloud, uma plataforma de nuvem com IA que vai vender a clientes externos a infraestrutura que já roda a Shopee, segundo Bloomberg e NeoFeed. Ela também avalia abrir o capital da Monee, sua fintech, sem prazo definido. São planos, não lançamentos. 🟡`Empresa que já construiu o próprio encanamento pode transformá-lo em produto`🟡. Sua empresa tem um processo, dado ou sistema que outros pagariam pra usar?"
+Fonte: NeoFeed -- https://neofeed.com.br/negocios/dona-da-shopee-lanca-divisao-de-computacao-em-nuvem-e-avalia-ipo-de-sua-fintech/
+
+ROTEIRO 3 -- O juro caiu, o vermelho ficou
+"Recorde: 9,3 milhões de CNPJs inadimplentes em agosto, segundo a Serasa Experian, 14,3% a mais que um ano antes. A dívida soma R$ 244,4 bilhões, e 8,8 milhões dessas empresas são micro e pequenas. 🟡`A Selic caiu, mas o número de empresas no vermelho segue em recorde`🟡. Segundo a economista da Serasa, 🟡`os cortes de juros ainda não mudaram a dinâmica financeira das empresas`🟡. Sua empresa carrega dívida velha que pesa mais que o juro de hoje?"
+Fonte: Serasa Experian -- https://www.serasaexperian.com.br/sala-de-imprensa/indicadores/novo-recorde-inadimplencia-das-empresas-chegou-a-93-milhoes-em-agosto-revela-serasa-experian/
+
+ROTEIRO 4 -- O medo do CEO não é a economia
+"Pesquisa da KPMG com cerca de 1.400 CEOs: 31% apontam cibersegurança e proteção de dados como maior ameaça ao crescimento nos próximos três anos, à frente da incerteza econômica, com 28%. E 45% dizem estar investindo mais em resiliência digital. 🟡`O maior medo dos CEOs não é a economia, é o ataque digital`🟡. A KPMG vende serviço de risco, então vale o filtro. Mas 🟡`risco digital é risco de negócio, não só de TI`🟡. Quem cuida disso na sua empresa?"
+Fonte: KPMG -- https://kpmg.com/xx/en/media/press-releases/2026/10/ceo-make-cybersecurity-top-investment-priority.html
+
+ROTEIRO 5 -- O 13º é conta de outubro
+"Prazos do 13º salário, segundo O Povo: a primeira parcela vai até 30 de novembro, uma segunda-feira, e costuma ser metade do valor, sem descontos. A segunda vai até 18 de dezembro, porque o dia 20 cai num domingo, e nela entram INSS e Imposto de Renda. 🟡`Com 9,3 milhões de CNPJs inadimplentes, quem não reservou esse dinheiro corre risco de atrasar a folha`🟡. 🟡`Planejar o 13º é decisão de fluxo de caixa, não de RH`🟡. Você já separou o valor?"
+Fonte: O Povo -- https://www.opovo.com.br/trends/13o-salario-de-2026-tem-duas-datas-chave-primeira-parcela-ate-30-de-novembro-e-segunda-ate-18-de-dezembro/
+
+ROTEIRO 6 -- IA disputa caixa com a folha
+"A Microsoft ofereceu desligamento voluntário a cerca de 60 mil funcionários, perto de um quarto dos 223 mil, segundo CNBC e Bloomberg. A decisão sai no início de dezembro e a saída é em 31 de dezembro. É o terceiro movimento do ano, depois de abril e julho. 🟡`Em muitos casos, a IA não substitui pessoas: ela disputa caixa com a folha de pagamento`🟡, por causa do custo da infraestrutura. Seus investimentos e sua folha cabem no mesmo caixa?"
+Fonte: CNBC -- https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html
+
+ROTEIRO 7 -- Corte de camadas com receita subindo
+"A American Express vai cortar cerca de 5% do quadro global, algo como 3,5 mil vagas segundo a imprensa, com encargo de US$ 336 milhões, informou a CNBC. Isso no trimestre em que a receita foi de US$ 20,1 bilhões, alta de 9%. O foco é reduzir camadas de gestão. 🟡`O corte não veio de crise, veio de excesso de camadas`🟡. 🟡`Quem espera a crise pra enxugar a chefia chega atrasado`🟡. Quantos níveis da sua empresa só repassam informação?"
+Fonte: CNBC -- https://www.cnbc.com/2026/10/23/american-express-job-cuts.html
+
+ROTEIRO 8 -- Quem mostra pesa tanto quanto o produto
+"O robô Microduck, de US$ 399, viralizou depois que Jensen Huang, da Nvidia, deu comandos de voz a vários deles no palco da GTC Berlin, em 21 de outubro. Há relatos de mais de 20 mil pré-pedidos, número que o CEO da Hugging Face projetou, e ainda sem entrega. 🟡`O que fez o produto viralizar foi quem o mostrou`🟡. 🟡`Quem mostra o seu produto pesa tanto quanto a tecnologia`🟡. Quem coloca o seu na mão de quem importa?"
+Fonte: TechCrunch -- https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] Sua empresa tem alguma dívida vencida hoje? (Sim / Não)
+2. [Pergunta/Participacao, Roteiro 7] Caixinha de pergunta: Quantos níveis de chefia existem entre você e o cliente na sua empresa? Conta aqui.
+3. [Virar Historia, Roteiro 1 -> Estilo Duplo Eu] Um "Eu Aluguel" defende pagar mensalidade pela IA e um "Eu Dono" rebate com os R$ 2,925 bilhões do Itaú, que já era sócio e cliente. O dado de quem alugou e depois comprou rende bem esse debate interno.
