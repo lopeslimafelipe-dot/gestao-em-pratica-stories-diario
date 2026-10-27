@@ -1,0 +1,47 @@
+RASCUNHO -- 2026-10-27
+Obs. de pesquisa: sites-fonte nao abrem por fetch direto nesta sandbox (ENOTFOUND); candidatos levantados via busca e conferidos por trechos de varias fontes. Os numeros do fechamento de 26/10 variam um pouco entre veiculos (indicado abaixo). Pregao de 27/10 NAO encontrado -- Etapa 2 deve conferir antes de citar "hoje".
+ATENCAO REPETICAO: a pauta de 26/10 tratou o MESMO gatilho (dolar/juro pos-2o turno), mas so com PREVIAS pre-abertura e angulo de custo/caixa da PME. O vencedor de hoje usa o FECHAMENTO real e um angulo distinto (empresas endividadas/dependentes de credito e o colapso do varejo na bolsa). Etapa 2 nao deve reciclar o roteiro de ontem.
+
+CANDIDATO 1 -- Varejo derrete na bolsa: Magalu -58%, Vamos -57%, Hapvida -55%, C&A -47% -- por que empresa endividada e a primeira a quebrar quando o juro longo dispara
+Fato: No 1o pregao apos o 2o turno (26/10), o Ibovespa fechou em queda de 13,88% (176.608 pts, menor nivel desde 31/8) apos circuit breaker as 9h57 (primeiro em ~6 anos); dolar +~8,2% a ~R$ 5,40 (maxima R$ 5,60; fontes citam de 8,21% a 9,72%); juros futuros longos acima de 16%. Quedas no fechamento segundo NeoFeed: Magazine Luiza -58,2%, Vamos -56,8%, Hapvida -54,9%, C&A -47,5%; Seu Dinheiro: varias acoes caem mais de 40%, so 6 sobem (exportadoras ganham com dolar). Angulo: juro longo alto + divida alta + dependencia de credito/consumo = empresa mais punida; licao de gestao sobre alavancagem, prazo de divida e caixa. Divergencias: queda do Ibov (13,88% vs ~14% vs 14,64% em um veiculo), dolar (8,2%-9,7%).
+Fonte: NeoFeed -- https://neofeed.com.br/negocios/bolsa-despenca-com-vitoria-de-lula-mas-passado-mostra-que-ressaca-eleitoral-pode-ser-curta/
+Fontes adicionais: Seu Dinheiro -- https://www.seudinheiro.com/2026/bolsa-dolar/ibovespa-em-choque-varias-acoes-derretem-mais-de-40-apos-virada-de-lula-no-segundo-turno-apenas-6-acoes-sobem-bdap/ ; BP Money -- https://bpmoney.com.br/mercado/acoes/acoes-varejo-queda-pregao-reeleicao-lula/ ; SpaceMoney -- https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-queda-reeleicao-lula ; Investing.com -- https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ibov-derrete-14-com-lula-reeleito-e-temor-de-risco-fiscal-2103345 ; Money Times -- https://www.moneytimes.com.br/tempo-real-ibovespa-reage-a-vitoria-de-lula-rens-apsa-lils-jcav/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 32/35
+Status: VENCEDOR DO DIA
+GUARDRAIL POLITICO: 'Polemica adjacente' pesou 5/5 (gatilho foi o resultado eleitoral). O roteiro NAO deve citar candidatos, partidos, governo ou oposicao, nem opinar se a reacao do mercado e justa ou prever recuperacao; no maximo "movimento do mercado apos as eleicoes". Angulo unico: efeito de juro/dolar altos sobre empresas alavancadas e licao de gestao (divida, prazo, caixa). Sem recomendacao de investimento (nao falar de comprar/vender acao).
+
+CANDIDATO 2 -- Circuit breaker e dolar com maior alta diaria desde 1999 (visao geral do pregao)
+Fato: Bolsa fecha em queda de ~14% apos primeiro circuit breaker em seis anos; dolar a ~R$ 5,40; juros disparam; Tesouro teria cancelado leiloes de prefixados (so em parte das fontes, nao confirmado). Mesmo assunto da pauta de 26/10 (mudou de previa para fechamento) -- penalizado em novidade/clareza.
+Fonte: Jornal de Brasilia -- https://jornaldebrasilia.com.br/noticias/economia/bolsa-fecha-em-queda-de-14-apos-primeiro-circuit-breaker-em-seis-anos-e-dolar-e-juros-disparam/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 29/35
+Status: runner-up
+
+CANDIDATO 3 -- Recuperacoes judiciais em nivel recorde: 6.341 empresas (jun/2026), grandes como Casas Bahia, Pao de Acucar, Tok&Stok
+Fato: Monitor RGF: 6.513 empresas em RJ em maio/2026 (maior da serie), 6.341 em junho (+6,2% vs fim de 2025); outra contagem da RGF: 7.726 em 12 meses (+20,5%); agro +66%; varejo lidera em numero absoluto; criterios de contagem divergem. Dados defasados (junho) e assunto ja trabalhado em pautas anteriores (Casas Bahia 24/10, Americanas 20/10).
+Fonte: Gazeta do Povo -- https://www.gazetadopovo.com.br/economia/recuperacao-judicial-setores-crise/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 23/35
+Status: runner-up
