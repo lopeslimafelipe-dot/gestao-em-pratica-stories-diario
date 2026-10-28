@@ -1,0 +1,39 @@
+PAUTA DO DIA -- 2026-10-28
+Assunto: Braskem em recuperacao extrajudicial: credores exigem US$ 1,85 bi de aporte dos acionistas e o dono e quem banca a conta quando o caixa nao fecha
+Score final: 27/35 (Frescor 5, Relevancia do protagonista 4, Gravidade 5, Polemica adjacente 3, Volume de cobertura 4, Clareza do angulo 3, Identificacao com audiencia 3)
+
+Fato central verificado: A Braskem pediu recuperacao extrajudicial em 24/08/2026 para renegociar ~US$ 10,9 bi de dividas financeiras (Fato Relevante; confirmado por varias fontes). Em 27/10/2026 (Exame, Rio Times, InvestNews) os credores deram mais prazo, mas nenhuma proposta foi aceita: o prazo para acordo sobre os termos principais e 30/10 (sexta) e o limite final citado e 22/11. Os credores pedem compromisso de US$ 1,85 bi dos acionistas, com garantias antecipadas, e a conversao de outros US$ 1,85 bi de divida em acoes no fechamento -- reducao de pelo menos US$ 3,7 bi na divida liquida, segundo o comite. A Braskem sinalizou aporte de ate US$ 1,7 bi, em parcelas. Reportagem aponta que o pedido equivale a quase 4x o valor de mercado da empresa. A acao BRKM5 subiu 16,35% em 27/10, apos queda de 23,6% na vespera (via busca; numeros vindos de uma unica sintese, conferir antes de citar). Propostas anteriores foram descritas pela empresa como indicativas e nao vinculantes (comunicado a B3 de 31/07, confirmado; a repeticao desse comunicado em 27/10 nao foi localizada de forma independente).
+Verificacao: WebFetch bloqueado (exame.com fora da rede permitida); checagem feita por WebSearch, com trechos de Exame, Rio Times e InvestNews batendo com o rascunho. Divergencia: valor da conversao adicional em 2029 (US$ 450 mi vs US$ 500 mi) -- nao citar.
+
+Cadeia causal (o que levou a isso):
+1) Divida alta em dolar + geracao de caixa fraca: a divida cresceu e o caixa nao acompanhou. Alavancagem reportada: 14,7x EBITDA (uma fonte) e 20,4x divida liquida ajustada/EBITDA recorrente em 12 meses ate 1T26 (nota do Santander, jun/2026; 16,2x sem a Braskem Idesa) -- metodologias diferentes, usar so a ideia de "muito acima do saudavel".
+2) Rebaixamentos de rating em 2025-2026 tiraram a empresa do grau de investimento e encareceram o credito; credores recusaram reestruturar so alongando prazo (bondholders, ~US$ 7 bi, foram os mais resistentes).
+3) Sem caixa, a empresa pede protecao (recuperacao extrajudicial, 24/08), limitada a divida financeira -- fornecedores e clientes seguem sendo pagos.
+4) Credores condicionam o acordo a capital novo dos donos + conversao de divida em acoes (diluicao).
+5) Impasse atual: quem garante o aporte, quando e em que valor.
+
+Por que esta repercutindo agora: Frescor 5 (prazo de 30/10 em 2 dias, atualizacao de ontem), Gravidade 5 (maior reestruturacao privada do momento, ~US$ 11 bi) e Volume 4 (Exame, InvestNews, Money Times, Bloomberg Linea, Rio Times). Clareza e Identificacao pesaram menos (3): tema grande e distante da PME, exige a analogia.
+
+Angulo de gestao sugerido: "Quando o caixa nao fecha a conta, o credor olha pro dono." Divida alta + custo de capital + geracao de caixa fraca -> credor exige capital novo do socio e participacao no negocio. Paralelo PME: o socio que precisa aportar dinheiro pessoal ou ceder participacao para renegociar com o banco. Perguntas praticas: quanto da minha divida depende de eu cobrir com recurso proprio? Minha geracao de caixa cobre o servico da divida? Qual minha alavancagem (divida liquida/EBITDA) e o que o banco aceita antes de pedir garantia ou aporte? Negociar cedo, antes de precisar. Sem recomendacao de investimento.
+
+Dados de apoio:
+- Divida em reestruturacao: ~US$ 10,9 bi (R$ 54-59 bi conforme cambio) -- Fato Relevante via Movimento Economico https://movimentoeconomico.com.br/estados/alagoas/2026/08/24/braskem-pede-recuperacao-extrajudicial-para-negociar-divida-de-us-109-bilhoes/
+- Alavancagem 20,4x (16,2x ex-Idesa), 12m ate 1T26 -- Santander https://cms.santander.com.br/sites/WPS/documentos/arq-notas-informativas-braskem-2/26-07-01_181655_20260626+-+braskem.pdf
+- Pedido exige adesao de 33% dos credores; ~US$ 7 bi estao com bondholders -- Trademap https://trademap.com.br/noticias/news-8218625
+- Braskem Idesa (Mexico): acordo para reduzir divida senior de ~US$ 2,5 bi para US$ 1,6 bi, com aporte de US$ 476 mi da controladora (US$ 126 mi ja feitos) -- via busca (Acionista), maio/2026.
+- NAO verificado (nao usar): pedido de Chapter 11 involuntario nos EUA contra subsidiaria financeira (fonte unica); proposta de conversao em 2029.
+Ressalva/limite: 'Polemica adjacente' pesou 3/5 (Petrobras, estatal, e co-controladora com a IG4 Capital). NAO comentar governo, politica, partidos nem opinar se a estatal deve ou nao aportar; falar de Petrobras e IG4 apenas como "acionistas controladores" e do tema como estrutura de capital e divida. Nao dizer se a acao vale a pena, nao prever desfecho. Falar "ate sexta (30/10) como meta de acordo; 22/11 como limite". Evitar repetir o enquadramento de juros/dolar/bolsa das pautas de 25-27/10: o foco e quem banca a conta da divida.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto):
+- Hook: "Os credores da Braskem querem US$ 1,85 bi dos donos -- quase 4x o que a empresa vale na bolsa. Quando o caixa nao fecha, quem paga e o dono."
+- Contexto/causa raiz: divida em dolar, caixa fraco, rating rebaixado.
+- Desenvolvimento da cadeia causal: recuperacao extrajudicial -> credor exige aporte + conversao em acoes -> impasse de prazo.
+- Licao de gestao (a virada): alavancagem e caixa decidem quanto poder voce tem na mesa de negociacao; o paralelo do socio PME que aporta pra renegociar.
+- Fechamento + CTA.
+
+Fonte(s): Exame -- https://exame.com/insight/credores-da-braskem-dao-mais-prazo-para-acordo-e-pedem-aporte-de-us-185-bilhao/p ; Rio Times -- https://www.riotimesonline.com/brazil-braskem-creditors-extend-deadline-us185-billion/ ; Investirecocaresocomecar -- https://investirecocaresocomecar.com.br/braskem-brkm5-credores-aporte/ ; Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/braskem-recebe-propostas-de-credores-mas-segue-sem-acordo-a-tres-dias-de-prazo-final/ ; Forbes Brasil -- https://forbes.com.br/forbes-money/2026/08/braskem-recuperacao-extrajudicial-quem-sao-os-donos/
+
+Runners-up do dia (registro/transparencia):
+- Ibovespa volta ao nivel de 28/ago; ganho de 2026 encolhe de 29,8% para 9,1% -- 28/35 (descartado por repeticao tematica)
+- Juros futuros zeram cortes da Selic antes do Copom de 3-4/nov -- 27/35 (repete pautas de 19, 25 e 26/10)
+- Recuperacoes judiciais batem recorde (6.341 no 2o tri) e Forbes lista 15 grandes reestruturando -- 24/35
