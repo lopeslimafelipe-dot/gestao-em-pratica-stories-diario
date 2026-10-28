@@ -1,0 +1,83 @@
+RASCUNHO 2026-10-28 (Etapa 1) -- 8 itens. Verificacao por trechos de busca (WebFetch bloqueado); Etapa 2 re-confere.
+
+ITEM 1 -- Anthropic publica o S-1 do IPO (Nasdaq, "ANT")
+Categoria: Noticia de empresa
+Fato: S-1 publico arquivado em 26/10/2026 (Goldman Sachs e Morgan Stanley coordenam). Receita do 1S26 de cerca de US$ 16,3 bi vs cerca de US$ 1,16 bi um ano antes; 2T26 sozinho cerca de US$ 11,6 bi. Prejuizo liquido do semestre de US$ 80,7 bi, dos quais cerca de US$ 72,4 bi sao variacao de valor justo de notas conversiveis/derivativos/SAFEs (contabil, nao caixa). Prejuizo operacional de cerca de US$ 693 mi no semestre, com lucro operacional de cerca de US$ 974 mi no 2T. Preco, numero de acoes e valuation em branco no S-1.
+Fonte: CNBC -- https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html ; Yahoo Finance -- https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html ; Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/anthropic-atinge-receita-de-us-168-bi-antes-de-ipo-mas-desaceleracao-frustra-mercado/ ; Anthropic (release) -- https://www.anthropic.com/news/s1-sec ; S-1 -- https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm
+Relevancia: Um dos maiores IPOs de tecnologia do ano e o preco real da IA que muitos gestores estao contratando; mostra como a economia do setor e financiada por capital.
+Ressalva tecnica: Anthropic e a empresa dona do Claude (conflito de interesse editorial a declarar se o roteiro tocar na ferramenta). Fonte primaria e a propria empresa. Numeros divergem: Bloomberg Linea fala em receita de US$ 16,8 bi, demais em US$ 16,3 bi -> usar "cerca de US$ 16 bi". Concentracao de clientes (~25% em dois clientes) so por agregador; compromissos de computacao (~US$ 518 bi) vem do rascunho vazado, NAO do S-1 publico -- nao usar. Verificado por trechos.
+Possivel contradicao com roteiro anterior: nenhuma (22/10 tratou do produto Claude Duet, nao da empresa/IPO).
+Tese de gancho sugerida: A empresa que vende IA pra cortar custo dos outros perdeu US$ 80,7 bi no papel em seis meses (so ~US$ 693 mi operacionais) e vai a bolsa. O preco da IA hoje e subsidiado por capital, nao por lucro: antes de amarrar o processo da sua empresa a uma ferramenta, pergunte quem paga a conta quando o subsidio acabar.
+
+ITEM 2 -- Shopee abre 4 centros de distribuicao no Brasil e vai a 30
+Categoria: Livre (case / empresa)
+Fato: Quatro novos CDs (Recife, Rio de Janeiro, Vitoria, Blumenau); total de 30 centros contra 16 um ano antes; capacidade de processamento +60% em 12 meses (cerca de 2,4 milhoes de pedidos/dia); preparacao pra Black Friday. Shopee aguarda Anvisa pra vender medicamentos.
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/negocios/shopee-amplia-capacidade-em-60-e-aguarda-anvisa-para-vender-medicamentos/ ; SBT News -- https://sbtnews.sbt.com.br/noticia/economia/shopee-abre-4-centros-de-distribuicao-e-prepara-black-friday ; BP Money -- https://bpmoney.com.br/negocios/shopee-amplia-capacidade-60-aguarda-anvisa-medicamentos/ ; base de 26 CDs -- https://mercadoeconsumo.com.br/29/07/2026/logistica/shopee-aumenta-em-mais-de-60-o-numero-de-centros-de-distribuicao-no-brasil-em-2026/
+Relevancia: Logistica virou o campo de batalha do varejo online; quem vende em marketplace compete com a velocidade da plataforma.
+Ressalva tecnica: Dados vem de release da propria Shopee (interesse comercial). Data exata (27/10) por trechos de busca; nao confirmada nas 3 primeiras fontes. Nao confundir com capacidade de 3,8 mi/dia de uma unidade isolada.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: A Shopee quase dobrou a malha logistica em um ano (16 para 30 CDs). Quem vende pelo marketplace nao compete com o preco do vizinho, compete com a promessa de entrega da plataforma; a Black Friday se perde no prazo, nao no preco.
+
+ITEM 3 -- Confianca do consumidor sobe, mas intencao de consumo recua pelo setimo mes (FecomercioSP)
+Categoria: Macroeconomia-indice
+Fato: FecomercioSP (22/10/2026), capital paulista: ICC subiu 0,2% em setembro, a 121,1 pontos (vinha de duas quedas; +9,9% vs set/2025). ICF (intencao de consumo) caiu 0,2%, a 110,7 pontos, setimo recuo seguido, ainda acima de 100 e 4,6% acima de set/2025. Entidade cita juros altos, endividamento e renda comprometida. (FGV, 26/10: ICC nacional +0,5 ponto em outubro; nivel 84,7 so em um trecho -- nao usar o nivel.)
+Fonte: FecomercioSP -- https://fecomercio.com.br/imprensa/confianca-do-consumidor-volta-a-subir-apos-duas-quedas-mas-intencao-de-consumo-das-familias-recua-pelo-setimo-mes-seguido/ ; Mercado & Consumo -- https://mercadoeconsumo.com.br/22/10/2026/economia/confianca-do-consumidor-sobe-em-setembro-mas-endividamento-limita-consumo/ ; Monitor Mercantil -- https://monitormercantil.com.br/confianca-do-consumidor-volta-a-subir-apos-duas-quedas/
+Relevancia: Mostra a distancia entre humor e carteira do cliente, o que importa pra planejar fim de ano.
+Ressalva tecnica: Indice so da cidade de SP, nao nacional; nao misturar com o da FGV. Fonte institucional, sem conflito relevante.
+Possivel contradicao com roteiro anterior: parcial com 27/10 (inadimplencia recorde, Serasa) -- nao e contradicao: aqui e pesquisa de percepcao/intencao (Fecomercio), la registro objetivo de bureau de credito; juntos mostram cliente otimista mas endividado.
+Tese de gancho sugerida: Confianca nao paga fatura. O cliente diz que esta otimista (ICC subiu) e mesmo assim compra menos, pelo setimo mes seguido, porque a renda esta presa em divida e juros. Planejar o fim de ano pela confianca e errar o caixa; olhe intencao de compra e credito.
+
+ITEM 4 -- McKinsey: IA pode destravar US$ 2,52 tri/ano, mas "a economia da IA e local"
+Categoria: Tendencia internacional (grande consultoria)
+Fato: Relatorio "The AI value curve: The economics of applying AI to existing work" estima US$ 2,52 trilhoes/ano de oportunidade global ao aplicar IA onde faz sentido economico. Se o custo efetivo da IA subir 30%, o total cai a US$ 1,67 tri (queda de cerca de US$ 850 bi, -34%; teste de sensibilidade, nao previsao). Conclusao: "AI economics are local, not global" -- o mesmo caso de uso tem economia diferente em cada pais por causa do custo da mao de obra.
+Fonte: McKinsey -- https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work ; NewsBytes -- https://www.newsbytesapp.com/news/business/ai-could-unlock-annual-global-economic-value-worth-2-52t/story ; EconoTimes -- https://econotimes.com/McKinsey-Models-850-Billion-Cut-to-AI-Work-Value-Under-Higher-Costs-1762949 ; NewKerala -- https://www.newkerala.com/news/a/ai-could-unlock-usd-252-trillion-annual-global-968.htm
+Relevancia: Da um criterio pratico pra decidir onde automatizar: comparar custo da tarefa com custo da IA.
+Ressalva tecnica: McKinsey vende consultoria em IA (interesse comercial). Numeros vieram da imprensa, nao do texto do relatorio; data de publicacao incerta (14/10 segundo um resumo; cobertura 24-25/10) -- dentro de 2 semanas. Estudo anterior da McKinsey sobre IA e trabalho (automacao ate 2035, publicado 23/10) e tema vizinho; este e outro estudo e foca em custo. Tratar como cenario modelado.
+Possivel contradicao com roteiro anterior: nenhuma (complementa o de 23/10).
+Tese de gancho sugerida: A propria McKinsey diz que IA e "local": o valor depende do custo da mao de obra, e +30% no custo da IA apaga um terco do valor. A pergunta nao e se a IA vale trilhoes, e se a tarefa que voce automatizaria custa mais que a IA. Quem faz a conta antes lucra; quem compra pela moda paga.
+
+ITEM 5 -- NovoPAT: recadastramento obrigatorio ate 09/11/2026
+Categoria: Prazo de Acao (Obrigacao)
+Fato: MTE exige recadastramento de empresas beneficiarias, fornecedoras, facilitadoras e nutricionistas ja registrados no PAT, no sistema NovoPAT (novopat.trabalho.gov.br, login gov.br). DATA-LIMITE: 09/11/2026 (segunda-feira). Prazo fixado em 60 dias pela Portaria MTE 1.599/2026. Dados do sistema antigo nao migram: preencher tudo de novo. Quem perder o prazo tem exclusao automatica do cadastro no PAT.
+Fonte: Contabeis -- https://www.contabeis.com.br/noticias/79471/pat-recadastramento-obrigatorio-ate-9-de-novembro/ ; Jornal Contabil -- https://jornalcontabil.com.br/noticia/recadastramento-no-novo-pat-segue-ate-09-de-novembro/ ; Correio -- https://www.correio24horas.com.br/economia/recadastramento-do-pat-deve-ser-feito-ate-9-de-novembro-para-evitar-exclusao-do-cadastro-0926 ; Sinat -- https://www.sinat.com.br/pat-recadastramento-obrigatorio-deve-ser-feito-ate-9-de-novembro/
+Relevancia: Afeta toda empresa que oferece vale-refeicao/alimentacao com incentivo do PAT; faltam 12 dias.
+Ressalva tecnica: Texto da portaria no DOU nao visto; 5+ veiculos de contabilidade/RH concordam na data (interesse comercial leve). Prazo ja foi prorrogado antes (era 25/07) -- risco pequeno de nova prorrogacao; conferir portal do MTE. Data da portaria diverge entre fontes (8 ou 10/09). Vale so pra quem ja tem cadastro no PAT.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Quem da vale-refeicao tem 12 dias pra refazer do zero um cadastro que ja tinha, e o sistema novo nao herda nada do antigo. Perder o prazo exclui a empresa do PAT: o que parece burocracia e, na pratica, um beneficio fiscal que some.
+
+ITEM 6 -- Tesla lucra cerca de 43% menos com receita estavel: reinvestimento em IA e robos
+Categoria: Empresa global reconhecida
+Fato: 3T26 (divulgado 21/10): receita US$ 28,05 bi (US$ 28,10 bi no 3T25). Lucro liquido GAAP US$ 787 mi, queda de cerca de 43%. Lucro operacional US$ 718 mi (-56%). Despesas operacionais US$ 4,78 bi (+39%); P&D US$ 2,76 bi (+69%); capex US$ 4,73 bi, mais que dobrou. Fluxo de caixa livre US$ 1,53 bi (negativo no 2T26). Entregas 486.532 (-2%). Receita de servicos e outros +33% (US$ 4,61 bi); energia -16%.
+Fonte: Electrek -- https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/ ; Olhar Digital -- https://olhardigital.com.br/2026/10/21/pro/tesla-ve-lucro-cair-enquanto-investe-em-ia-e-robos/ ; DGABC -- https://www.dgabc.com.br/Noticia/4354084/tesla-supera-em-lucro-e-melhora-fluxo-de-caixa-apesar-de-investimentos-em-ia ; Just Auto -- https://www.just-auto.com/newsletters/teslas-q3-profit-falls-43 ; 10-Q -- https://www.sec.gov/Archives/edgar/data/0001318605/000162828026066775/tsla-20260930.htm
+Relevancia: Caso didatico de distinguir lucro que cai por o negocio piorar de lucro que cai por escolha de reinvestir.
+Ressalva tecnica: Queda exata varia (42,7% ou 43,8%) -> "cerca de 43%". P&D trimestral +69% vem de fontes secundarias. Lucro ajustado caiu so ~4%; GAAP inclui ~US$ 275 mi do premio de CEO (fonte unica). Nao usar relatos de "capex ~US$ 20 bi" ou "Musk reduz investimentos" (nao confirmados). Verificado por trechos.
+Possivel contradicao com roteiro anterior: nenhuma (23/10 tratou da fusao Tesla-SpaceX, outro angulo).
+Tese de gancho sugerida: Tesla fatura o mesmo e lucra 43% menos de proposito: despesas +39%, P&D +69%, capex dobrado. Lucro que cai porque o negocio piorou e lucro que cai porque voce reinvestiu sao decisoes opostas, e so uma tem caixa positivo (FCF de US$ 1,53 bi) pra sustentar. Sua empresa tem caixa pra fazer essa aposta?
+
+ITEM 7 -- Generali Alemanha corta ~800 vagas e fecha 3 escritorios sem anunciar demissoes
+Categoria: Reestruturacao-corte-fechamento
+Fato: Anunciado em 23/10/2026: ate o fim de 2030, corte de cerca de 800 vagas (cerca de 9% dos ~9.100 funcionarios na Alemanha). Fecha escritorios de Aachen, Nuremberg e Stuttgart; ficam 5 centros regionais. Corte feito sobretudo por aposentadorias, rotatividade e saidas voluntarias; alguns servicos de apoio terceirizados. Empresa cita produtividade, digitalizacao/IA e menor demanda de escritorio no modelo hibrido. Diretrizes ainda a negociar com conselho de trabalhadores.
+Fonte: Boersen-Zeitung -- https://www.boersen-zeitung.de/banken-finanzen/generali-deutschland-baut-stellen-ab ; Trend.at -- https://www.trend.at/news/generali-streicht-800-stellen-in-deutschland ; Heidelberg24 -- https://www.heidelberg24.de/politik-und-wirtschaft/generali-baut-800-stellen-ab-drei-standorte-schliessen-zr-94556736.html ; Option Finance -- https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-23-generali-va-supprimer-800-postes-dans-le-cadre-dun-plan-de-transformation.html
+Relevancia: Mostra o corte "silencioso" e planejado, e o escritorio vazio do trabalho hibrido como primeiro ativo a cair.
+Ressalva tecnica: Plano sujeito a negociacao; um relato fala em funcoes equivalentes, nao pessoas demitidas. Fontes so europeias (sem Reuters/Bloomberg/BR); marca menos conhecida no Brasil e foco na Alemanha. Verificacao por trechos.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Demitir sem demitir: 800 vagas somem (9% da estrutura) sem anuncio de demissao, via aposentadoria, giro e terceirizacao. O corte mais barato e o planejado; quantas funcoes seu negocio ja poderia fazer com menos gente antes de a crise forcar?
+
+ITEM 8 -- Boeing: backlog recorde de US$ 745 bi, mas prejuizo no 3T26
+Categoria: Empresa global reconhecida
+Fato: Release do 3T26 (27/10/2026): prejuizo GAAP de US$ 0,26 por acao e prejuizo core (non-GAAP) de US$ 0,34; receita US$ 24,2 bi; fluxo operacional US$ 1,5 bi e FCF de cerca de US$ 464 mi, mesmo com cerca de US$ 0,7 bi pagos ao DOJ; FCF acumulado em 9 meses ainda negativo (-US$ 359 mi); backlog recorde de US$ 745 bi.
+Fonte: Boeing (release, via SEC) -- https://www.sec.gov/Archives/edgar/data/0000012927/000162828026067411/a202609sep308kprex991.htm
+Relevancia: Mostra que carteira de pedidos nao e lucro nem caixa.
+Ressalva tecnica: Apenas release oficial (atende o criterio de documento oficial); nao achei cobertura independente (Reuters/CNBC) nem prejuizo liquido em US$. Etapa 2 deve buscar segunda fonte; se nao achar, descartar. Nao usar numeros de sites nao confiaveis.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Pedidos recordes de US$ 745 bi e prejuizo no mesmo trimestre. Faturamento contratado nao e lucro nem caixa; backlog sem margem e sem prazo de recebimento e risco, em Boeing ou na sua PME.
+
+--- NOTAS ---
+Cota internacional: Item 4 (McKinsey, grande consultoria), Item 6 (Tesla/Electrek), Item 7 (Generali/fontes europeias), Item 8 (Boeing/SEC), Item 1 (Anthropic/CNBC) -- cota cumprida.
+Fontes BR: FecomercioSP, CNN Brasil, Contabeis, Olhar Digital, Bloomberg Linea; G1/Estadao/Valor/Exame nao apareceram nos resultados utilizaveis.
+
+LINHAS VAZIAS / FRACAS:
+Linha 1 (Tecnologia) -- VAZIA como linha dedicada (Anthropic/S-1 entrou na linha 2). Consultas (5 rodadas pelo subagente + 2 minhas): "inteligencia artificial empresas lancamento ferramenta gestao 27 de outubro de 2026"; "AI agents enterprise launch October 27 2026"; "OpenAI announces new product businesses this week October 2026"; "startup brasileira lanca plataforma IA PME outubro 2026"; "GPT-6.1 Terra OpenAI launch"; "Replit for Business"; "Google Gemini OR Microsoft Copilot OR OpenAI OR Salesforce new AI agents business launch October 27 2026"; "lanca agente de IA para empresas PME plataforma anuncia 27 de outubro 2026". Motivo: so achados de fonte unica (Replit for Business, dev.to) ou boato/conflitante (GPT-6.1 Terra); o resto repetido (Claude Duet, GPT-6 Google Cloud, Legora, NeoSpace).
+Linha 7 BR -- sem caso BR datado de 21-28/10 (consultas: "demissao em massa OR layoff OR reestruturacao OR fechamento de lojas outubro 2026"; "demissoes fechamento fabrica lojas 27 outubro 2026 Estadao OR G1 OR Exame"; "fecha lojas OR fabrica Brasil semana 26 outubro 2026"; PDV Correios/BB/Petrobras/Braskem/Azul/Gol; Stellantis/Whirlpool/Ambev/JBS/Magalu; Natura/Azul/Oi/Marisa/Renner/C&A). Casos BR achados (Kohler 31/08, Mateus jul) fora da janela. Reservas fora da janela: Kroger 3.000 (12-13/10), Netflix 1.000 (14/10), Qualcomm (20/10, sem numero).
+Pendencias pra amanha: resultados de Microsoft/Alphabet (27-28/10), Amazon e Intel (29/10).
+Reservas: ICEI/CNI 14/10 (46,2 pontos, 22o mes abaixo de 50; fora da janela); KPMG CEO Outlook angulo emprego (53% planejam cortes em areas, 89% esperam quadro maior); Simples Nacional janela de cancelamento 03/11 a 20/12 (so 2 fontes).
