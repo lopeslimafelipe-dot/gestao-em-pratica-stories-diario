@@ -1,0 +1,37 @@
+ROTEIRO 1 -- Quem paga a conta da IA?
+"A Anthropic, dona do Claude, publicou o S-1 do IPO: receita de cerca de US$ 16,3 bilhões no primeiro semestre, contra cerca de US$ 1,2 bilhão um ano antes, segundo a CNBC. O prejuízo líquido foi de US$ 80,7 bilhões, mas 🟡`cerca de US$ 72,4 bilhões são ajuste contábil, não caixa`🟡. O prejuízo operacional foi de cerca de US$ 693 milhões. Traduzindo: 🟡`a IA que você contrata ainda é bancada por capital, não por lucro`🟡. 🟡`Antes de amarrar seu processo a uma ferramenta, pergunte quem paga a conta quando o subsídio acabar`🟡. Seu fornecedor de IA fecha a conta sozinho?"
+Fonte: CNBC -- https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html
+
+ROTEIRO 2 -- A Black Friday se perde no prazo
+"A Shopee abriu quatro centros de distribuição, no Recife, Rio, Vitória e Blumenau, e chega a 30, contra 16 há um ano, segundo a própria empresa. 🟡`A capacidade de processamento cresceu 60% em 12 meses`🟡, perto de 2,4 milhões de pedidos por dia, de olho na Black Friday. 🟡`Quem vende no marketplace não compete com o preço do vizinho: compete com a promessa de entrega da plataforma`🟡. 🟡`A Black Friday se perde no prazo, não no preço`🟡. Seu prazo de entrega aguenta a promessa que você faz?"
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/negocios/shopee-amplia-capacidade-em-60-e-aguarda-anvisa-para-vender-medicamentos/
+
+ROTEIRO 3 -- Confiança não paga fatura
+"Ontem foi a empresa no vermelho; hoje, o cliente. Segundo a FecomercioSP, na capital paulista a confiança do consumidor subiu 0,2% em setembro, a 121,1 pontos. Mas 🟡`a intenção de consumo caiu 0,2%, a 110,7 pontos, o sétimo recuo seguido`🟡. A entidade cita juros altos e renda comprometida com dívida. 🟡`Confiança não paga fatura: o cliente diz que está otimista e compra menos`🟡. Planejar o fim de ano pela confiança é errar o caixa; olhe intenção de compra e crédito. Você planeja pelo humor ou pela carteira do cliente?"
+Fonte: FecomercioSP -- https://fecomercio.com.br/imprensa/confianca-do-consumidor-volta-a-subir-apos-duas-quedas-mas-intencao-de-consumo-das-familias-recua-pelo-setimo-mes-seguido/
+
+ROTEIRO 4 -- A IA é local
+"A McKinsey estima que a IA pode destravar US$ 2,52 trilhões por ano quando aplicada onde compensa. Mas, num teste de sensibilidade, 🟡`se o custo efetivo da IA subir 30%, o total cai para US$ 1,67 trilhão, cerca de 34% a menos`🟡. A conclusão do relatório: a economia da IA é local, depende do custo da mão de obra. 🟡`A pergunta não é se a IA vale trilhões, é se a tarefa que você automatizaria custa mais que a IA`🟡. A McKinsey vende consultoria em IA. Você já mediu o custo dessa tarefa?"
+Fonte: McKinsey -- https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work
+
+ROTEIRO 5 -- Faltam 12 dias pro PAT
+"Se sua empresa dá vale-refeição ou alimentação com o PAT, o recadastramento no NovoPAT vai até 9 de novembro, segunda-feira, segundo a maioria dos veículos de contabilidade; confira no portal do MTE. 🟡`Os dados do sistema antigo não migram: é preciso preencher tudo de novo`🟡, com login gov.br. 🟡`Quem perde o prazo é excluído automaticamente do PAT`🟡. O que parece burocracia é, na prática, um benefício fiscal que some. Faltam 12 dias: quem na sua empresa cuida disso?"
+Fonte: Contabeis -- https://www.contabeis.com.br/noticias/79471/pat-recadastramento-obrigatorio-ate-9-de-novembro/
+
+ROTEIRO 6 -- Lucro que cai de propósito
+"A Tesla faturou US$ 28,05 bilhões no terceiro trimestre, praticamente igual ao ano passado, mas o lucro líquido GAAP caiu cerca de 43%, a US$ 787 milhões, segundo a empresa. A P&D subiu 69%, com foco em IA e robôs. 🟡`Lucro que cai porque o negócio piorou é diferente de lucro que cai porque você reinvestiu`🟡. A Tesla gerou 🟡`fluxo de caixa livre de US$ 1,53 bilhão`🟡 pra sustentar a aposta. Sua empresa tem caixa pra essa aposta?"
+Fonte: Electrek -- https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/
+
+ROTEIRO 7 -- Demitir sem demitir
+"A Generali Alemanha anunciou em 23 de outubro o corte de cerca de 800 vagas até 2030, perto de 9% dos 9.100 funcionários, e o fechamento dos escritórios de Aachen, Nuremberg e Stuttgart, segundo a imprensa alemã. 🟡`A redução virá sobretudo de aposentadorias, rotatividade e saídas voluntárias`🟡, e ainda depende de negociação com o conselho de trabalhadores. A empresa cita produtividade e digitalização. 🟡`O corte mais barato é o planejado`🟡. Quantas funções seu negócio já poderia fazer com menos gente?"
+Fonte: Boersen-Zeitung -- https://www.boersen-zeitung.de/banken-finanzen/generali-deutschland-baut-stellen-ab
+
+ROTEIRO 8 -- Backlog não é caixa
+"A Boeing fechou o terceiro trimestre com backlog recorde de US$ 745 bilhões e, no mesmo trimestre, prejuízo de US$ 0,26 por ação, segundo o release da própria empresa. O fluxo de caixa livre foi de cerca de US$ 464 milhões, mesmo com cerca de US$ 0,7 bilhão pagos ao Departamento de Justiça, mas no acumulado do ano ainda é negativo em US$ 359 milhões. 🟡`Pedido na carteira não é lucro nem caixa`🟡. 🟡`Backlog sem margem e sem prazo de recebimento é risco, na Boeing ou na sua PME`🟡. Quanto da sua carteira já virou caixa?"
+Fonte: Boeing (release, via SEC) -- https://www.sec.gov/Archives/edgar/data/0000012927/000162828026067411/a202609sep308kprex991.htm
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] Seu cliente está comprando menos hoje do que há 6 meses? (Sim / Não)
+2. [Pergunta/Participacao, Roteiro 5] Caixinha de pergunta: Sua empresa já refez o cadastro no NovoPAT? Conta aqui o que travou ou o que você ainda não sabia.
+3. [Virar Historia, Roteiro 6 -> Estilo Comparativo] Dois cenários lado a lado, "lucro caiu porque piorou" x "lucro caiu porque reinvestiu", ambos com a mesma receita de US$ 28,05 bi. O dado de faturamento igual com lucro 43% menor deixa a diferença visual e imediata.
