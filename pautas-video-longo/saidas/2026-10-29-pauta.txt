@@ -1,0 +1,35 @@
+PAUTA DO DIA -- 2026-10-29
+Assunto: Marabraz: Justica aceita recuperacao judicial de 6 empresas do grupo (passivo ~R$ 140 mi), mas nega por ora juntar patrimonios e dividas
+Score final: 25/35 (Frescor 4/5, Relevancia do protagonista 3/5, Gravidade 3/5, Polemica adjacente 3/5, Volume de cobertura 3/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: A juiza Fernanda Perez Jacomini (3a Vara de Falencias e Recuperacoes Judiciais de SP) aceitou, em 27/10/2026, o pedido de recuperacao judicial de 6 empresas do grupo Marabraz (dividas de ~R$ 140 mi). A Justica suspendeu cobrancas/execucoes por 180 dias, nomeou a Deloitte como administradora judicial e deu 60 dias pra apresentar o plano de recuperacao. Negou, por ora, a consolidacao substancial (tratar patrimonio e dividas do grupo como um so), por falta de prova de confusao patrimonial; concedeu a consolidacao processual (cada empresa apresenta seu plano). Impediu concessionarias (Enel, CPFL) de cortar energia de lojas por dividas anteriores ao pedido, conforme reportado. Pedido original protocolado em 15/08/2026 (5 empresas; a Marabraz Comercial foi incluida depois, em setembro). Divergencias menores entre veiculos (data do protocolo 15 ou 17/08; numero de lojas) -- tratar com cautela.
+Fontes confirmadas via busca (varios veiculos coincidem): Exame, SBT News, Times Brasil, SpaceMoney, TMC, Diario ESP. A fonte primaria do rascunho (InvestNews) nao pode ser aberta (bloqueio de rede); a decisao NAO foi conferida no processo do TJSP.
+
+Cadeia causal (o que levou a isso): juros altos e endividamento -> disputa societaria/familiar na holding que detinha imoveis usados como garantia -> bancos reduziram limites, exigiram novas garantias e deixaram de renovar linhas de capital de giro -> caixa estrangulado, lojas fechadas (reportado: de 111 lojas, 25 abertas e 86 temporariamente fechadas; ja chegou a ter 135) -> pedido de RJ em 15/08 -> concessionarias ameacam cortar energia -> Justica manda manter servicos e aceita o processamento em 27/10 -> 60 dias pra plano e juiz recusa juntar patrimonios.
+
+Por que esta repercutindo agora: Frescor (decisao de 27/10, cobertura em 28/10), Clareza do angulo (cadeia causal simples: credito secou antes da dissolucao) e Identificacao com audiencia (5/5: dono de PME vive dependencia de credito e conflito societario). Vem no rastro da RJ da Casas Bahia.
+
+Angulo de gestao sugerido: o que mata a empresa muitas vezes nao e o prejuizo, e a perda de credito; garantia pessoal/familiar misturada com a empresa e conflito societario sem governanca viram risco de caixa; planejar caixa e relacionamento bancario ANTES do aperto; separar patrimonio da familia do da empresa (tema que a propria decisao tocou ao negar a juncao de patrimonios). Licao pratica pra PME: acordo de socios, governanca e caixa de reserva.
+
+Dados de apoio:
+- Passivo sujeito a RJ: R$ 140,188 mi (Poder360, https://www.poder360.com.br/poder-economia/marabraz-pede-recuperacao-judicial-com-divida-de-r-140-mi/)
+- Pedido de protecao de 180 dias contra credores e manutencao de servicos essenciais (Poder360, https://www.poder360.com.br/poder-economia/marabraz-pede-protecao-de-180-dias-contra-credores/)
+- Empresa atribui a crise a juros altos, endividamento e disputa familiar que limitou credito (DGABC, https://www.dgabc.com.br/Noticia/4341475/marabraz-pede-recuperacao-judicial-em-meio-a-juros-e-disputa-familiar)
+- Lojas: 111, sendo 25 abertas e 86 fechadas (GIRO News, https://gironews.com/redes-shopping/marabraz-pede-protecao-de-180-dias-contra-credores/ -- fonte unica, confirmar antes de citar)
+- Decisao: https://exame.com/negocios/justica-aceita-pedido-de-recuperacao-da-marabraz-que-ja-teve-135-lojas-e-agora-deve-r-140-milhoes/ e https://timesbrasil.com.br/empresas-e-negocios/justica-aceita-recuperacao-da-marabraz-e-suspende-cobrancas/
+
+Ressalva/limite: "Polemica adjacente" (juros/economia) pesou no score: NAO comentar politica, governo, partidos ou o debate sobre juros; mencionar juros apenas como fator de custo de credito pro gestor. Nao citar nomes de membros da familia nem tomar lado na disputa societaria (fontes nao detalham). Nao dar recomendacao de investimento. Nao afirmar que a empresa vai falir: RJ e processo de reestruturacao. Numero de lojas e data do protocolo divergem entre fontes; confirmar antes de roteirizar.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto):
+- Hook: "A Marabraz nao quebrou por falta de venda: o banco fechou a torneira antes."
+- Contexto/causa raiz: disputa na familia controladora -> garantias comprometidas -> credito cortado
+- Desenvolvimento da cadeia causal: limite reduzido, capital de giro sem renovacao, lojas fechadas, RJ, energia ameacada, decisao de 27/10
+- Licao de gestao (a virada): credito e oxigenio; governanca entre socios e separacao patrimonio pessoal/empresa protegem o caixa
+- Fechamento + CTA: pergunta ao dono de empresa sobre quantos dias de caixa tem se o banco cortar o limite amanha
+
+Fonte(s): Exame -- https://exame.com/negocios/justica-aceita-pedido-de-recuperacao-da-marabraz-que-ja-teve-135-lojas-e-agora-deve-r-140-milhoes/ ; Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/justica-aceita-recuperacao-da-marabraz-e-suspende-cobrancas/ ; SBT News -- https://sbtnews.sbt.com.br/noticia/economia/justica-aceita-pedido-de-recuperacao-da-marabraz
+
+Runners-up do dia (registro/transparencia):
+- Bolsa cai pelo 3o dia pos-eleicao, Ibovespa -2,68% -- 31/35 (inelegivel: repete pautas de 26/10 e 27/10)
+- Casas Bahia pede liberar depositos judiciais pra pagar 4.435 demitidos -- 28/35 (inelegivel: repete empresa da pauta de 24/10)
+- Varejo perde vagas (Novo Caged) -- 22/35
