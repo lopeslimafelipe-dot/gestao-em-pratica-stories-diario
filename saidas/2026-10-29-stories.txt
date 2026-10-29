@@ -1,0 +1,34 @@
+
+ROTEIRO 1 -- Alugar IA sai caro
+"A Canva lançou o Craft, o primeiro modelo próprio de imagens, treinado em templates feitos por designers. Segundo a Fortune, em agosto ela 🟡`cortou a previsão de crescimento de receita de 2026 de cerca de 30% para cerca de 20%`🟡, culpando o custo de servir IA. A empresa diz que o custo por tarefa caiu cerca de 90%, número dela, não auditado. Traduzindo: alugar modelo dos outros virou conta alta. 🟡`A saída foi usar o ativo que só ela tem: os templates`🟡. Qual é o seu ativo que ninguém copia?"
+Fonte: Canva (oficial) -- https://www.canva.com/newsroom/news/canva-craft/
+
+ROTEIRO 2 -- A peça que dita o preço
+"A GE Vernova assinou a compra do Trench Group, da Triton, por 🟡`cerca de US$ 9 bilhões, metade em caixa e metade em dívida`🟡, segundo o release do terceiro trimestre. O Trench faz buchas e componentes de alta tensão, e a conclusão só deve sair no fim de 2027, com aprovação regulatória. A GE tem cerca de US$ 17 bilhões em caixa. Traduzindo: ela paga caro por uma peça da rede elétrica. 🟡`Quem controla o componente escasso da cadeia dita o preço`🟡. Qual peça, se faltar no seu negócio, para tudo?"
+Fonte: GE Vernova (release 3T26, SEC) -- https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm
+
+ROTEIRO 3 -- O juro cai, mas devagar
+"O Boletim Focus de 26 de outubro mostra o mercado apostando em 🟡`Selic de 13,25% no fim de 2026, contra 13,75% hoje`🟡. Para o fim de 2027, a mediana caiu de 12% para 11,75%. É expectativa de mercado, não decisão do Copom, que decide em 4 de novembro. Traduzindo: 🟡`o juro cai, mas devagar, dois cortes de 0,25 ponto até dezembro`🟡, e o juro do seu crédito costuma não acompanhar essa velocidade. Vai renegociar a dívida agora ou esperar?"
+Fonte: DGABC (Focus de 26/10) -- https://www.dgabc.com.br/Noticia/4365014/estimativa-para-a-selic-no-fim-de-2026-segue-em-13-25-na-pesquisa-focus-
+
+ROTEIRO 4 -- Todo mundo adota, ninguém mede
+"Pesquisa da EY-Parthenon com cerca de 100 CEOs do Reino Unido: 50% dizem que ferramentas de IA estão entre os maiores ganhos de produtividade do ano, mas 🟡`só 14% têm visão completa do custo e do retorno da IA`🟡. Outros 32% relatam lacunas significativas para avaliar esse retorno. A EY vende consultoria, então vale o cuidado. Traduzindo: 🟡`todo mundo adota, quase ninguém mede`🟡. Você está investindo em IA ou só pagando assinatura e torcendo?"
+Fonte: EY -- https://www.ey.com/en_uk/newsroom/2026/10/ai-drives-productivity-but-barriers-to-growth-remain
+
+ROTEIRO 5 -- O dinheiro mudou de lado
+"Terça falei do desligamento voluntário na Microsoft. Agora vem o balanço: receita de US$ 92,3 bilhões, alta de 19%, e 🟡`o Azure cresceu 48%, com US$ 33,17 bilhões, valor divulgado pela primeira vez`🟡, segundo SiliconANGLE e Yahoo Finance. Já as vendas de Windows e dispositivos caíram 22%. Traduzindo: 🟡`o dinheiro migrou de quem vende máquina para quem aluga capacidade`🟡. Seu negócio está no lado que cresce ou no que paga a conta?"
+Fonte: SiliconANGLE -- https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/
+
+ROTEIRO 6 -- Lucrar não protege vaga
+"A Dropbox informou à SEC que vai 🟡`cortar cerca de 9% do quadro global para focar nas prioridades de crescimento`🟡, e o CTO, Ali Dasdan, sai em 18 de novembro. Segundo o Olhar Digital, a empresa é lucrativa. Traduzindo: lucrar não protege vaga. 🟡`É reestruturação por escolha, não por crise`🟡. A pergunta para o gestor: você prefere cortar por decisão ou esperar cortar por necessidade?"
+Fonte: Dropbox (8-K, SEC) -- https://www.sec.gov/Archives/edgar/data/0001467623/000146762326000052/dbx-20261028.htm
+
+ROTEIRO 7 -- Dinheiro sobrando, empresa boa faltando
+"A Advent International captou US$ 30 bilhões em dois fundos: 🟡`quase US$ 27 bilhões no GPE XI, acima da meta de US$ 26 bilhões`🟡, e mais de US$ 3 bilhões no fundo de médio porte, segundo a própria gestora. A captação veio mesmo com saídas lentas no private equity. Traduzindo: 🟡`tem muito dinheiro procurando empresa para comprar, e empresa arrumada é escassa`🟡. Se alguém batesse na sua porta com uma oferta, seus números aguentariam uma due diligence?"
+Fonte: Advent (release) -- https://www.adventinternational.com/pt/news/advent-capta-us-30-bilhoes-em-fundos-globais-de-private-equity/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] Você sabe quanto a IA custa e quanto ela devolve na sua empresa? A) Sei os dois / B) Não sei
+2. [Pergunta/Participacao, Roteiro 3] Caixinha de pergunta: Você vai renegociar sua dívida agora ou esperar o juro cair? Conta aqui o que pesa mais na sua decisão.
+3. [Virar Historia, Roteiro 5 -> Estilo Comparativo] Dois lados da tela: Azure +48% (US$ 33,17 bi) x Windows e dispositivos -22%, com a mesma empresa nos dois. O contraste de crescimento e queda no mesmo balanço fica visual e imediato.
