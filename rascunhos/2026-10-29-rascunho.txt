@@ -1,0 +1,85 @@
+RASCUNHO 2026-10-29 (quinta) -- Etapa 1 (Pesquisa) -- 8 itens
+Verificacao por trechos de busca (WebFetch bloqueado); a Etapa 2 re-confere.
+
+ITEM 1 -- Canva lanca o Craft, primeiro modelo proprio de imagens, depois de cortar a previsao de receita por custo de IA
+Categoria: Tecnologia
+Fato: Lancado em 22-23/10/2026. Gera imagens ate 2K em mais de 30 proporcoes; treinado em templates feitos por designers (posters, posts, infograficos, cardapios), nao em fotos. Disponivel a todos os usuarios e por API publica; Canva planeja levar ao ChatGPT e ao Gemini via MCP. Em agosto/2026 a Canva cortou a previsao de crescimento de receita de 2026 de cerca de 30% para cerca de 20%, culpando o custo de servir tarefas de IA; receita do 2T: US$ 921,9 mi (+25,2%). A empresa afirma que o custo por tarefa de IA caiu cerca de 90% com modelos proprios e a compra da Leonardo.AI.
+Fonte: TechRadar -- https://techradar.com/pro/canva-launches-craft-its-first-image-generation-model-trained-on-human-designed-templates ; Canva (oficial) -- https://www.canva.com/newsroom/news/canva-craft/ ; CMSWire -- https://www.cmswire.com/digital-experience/canva-debuts-inhouse-ai-image-model-craft/ ; Fortune (corte de previsao, 12/08) -- https://fortune.com/2026/08/12/canva-startup-growth-ai-costs-revenue-forecast-by-third/ ; TheNextWeb -- https://thenextweb.com/news/canva-valuation-cut-ai-costs-blackbird-airtree
+Relevancia: Mostra que a IA virou a principal despesa de quem a vende, e como uma empresa tenta transformar custo em ativo proprio. Panorama util pra qualquer gestor que esta "plugando IA em tudo".
+Ressalva tecnica: Verificacao por trechos de busca. Ranking (4o no DesignArena; empresa se diz 2a entre laboratorios de imagem) e queda de 90% no custo sao alegacoes da propria Canva. Item no limite da janela de 7 dias (6-7 dias). Evitar o enquadramento de que o custo "triplicou", que so um veiculo usa.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A previsao de crescimento da Canva caiu de 30% para 20% porque a IA saiu cara demais -- ela so recuperou margem quando parou de alugar modelo alheio e treinou o proprio com o ativo que so ela tem (os templates). A conta da IA tambem chega pra PME que assina ferramenta em tudo; o diferencial e saber qual e o seu ativo.
+
+ITEM 2 -- GE Vernova compra o Trench Group, da Triton, por cerca de US$ 9 bi
+Categoria: Noticia de empresa
+Fato: Contrato assinado em 25/10/2026 e divulgado com o resultado do 3T em 28/10. Valor de cerca de EUR 8,0 bi (US$ 9,0 bi a EUR/USD 1,12, conversao do release); pagamento metade caixa, metade divida. O Trench fabrica componentes de alta e media tensao (buchas, transformadores de instrumento, bobinas), com mais de 3.000 funcionarios e 11 fabricas. Conclusao esperada para o fim de 2027, sujeita a aprovacoes regulatorias. A GE Vernova tinha cerca de US$ 17 bi em caixa no trimestre e elevou a guidance de receita de 2026 para US$ 46,5-47,5 bi. Em out/2025 ja havia comprado o restante da Prolec GE por US$ 5,275 bi.
+Fonte: GE Vernova (release 3T26, SEC) -- https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm ; 10-Q -- https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000163/gev-20260930.htm ; Investing.com Brasil -- https://br.investing.com/news/company-news/ge-vernova-anuncia-aquisicao-do-trench-group-por-us-90-bilhoes-93CH-2105455 ; contexto Prolec (Business Wire) -- https://www.businesswire.com/news/home/20251021305840/en/ge-vernova-to-fully-acquire-prolec-ge-joint-venture
+Relevancia: Num boom de IA e data centers, o gargalo virou o fornecedor de peca de rede eletrica; comprar o fornecedor e estrategia de controle de cadeia valida pra qualquer porte.
+Ressalva tecnica: Verificacao por documento oficial (SEC) + Investing.com; nao achei Reuters/Bloomberg com os numeros. Reacao das acoes nao encontrada. EUR 8,0 bi (10-Q) e US$ 9,0 bi (release) sao o mesmo negocio em moedas diferentes.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A GE Vernova paga US$ 9 bi, metade em divida, por uma fabricante de bucha de alta tensao -- porque quem controla o componente escasso da cadeia dita o preco. Qual e a "bucha de alta tensao" do seu negocio, aquilo que, se faltar, para tudo?
+
+ITEM 3 -- Focus: mercado ja precifica Selic de 13,25% em dez/2026 e 11,75% no fim de 2027
+Categoria: Macroeconomia-indice
+Fato: Boletim Focus de 26/10/2026: mediana da Selic de fim de 2026 segue em 13,25%; a de fim de 2027 caiu de 12,00% para 11,75% (depois de 18 semanas estavel); a de 2028 caiu de 10,50% para 10,00%; 2029 em 10,00% pela 25a semana. Selic atual: 13,75% (corte de 0,25 p.p. em 16/09/2026, unanime, 5o corte seguido). Proximo Copom: 3 e 4 de novembro. Conta nossa: 13,75% -> 13,25% = dois cortes de 0,25 ate dezembro; ~2 p.p. de queda ate o fim de 2027.
+Fonte: DGABC -- https://www.dgabc.com.br/Noticia/4365014/estimativa-para-a-selic-no-fim-de-2026-segue-em-13-25-na-pesquisa-focus- ; Diario de Pernambuco -- https://www.diariodepernambuco.com.br/economia/2026/10/11727653-estimativa-para-a-selic-no-fim-de-2026-segue-em-1325-na-pesquisa-focus-do-bc.html ; Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/10/1267325-expectativa-para-a-selic-no-fim-de-2026-continua-em-1325-no-focus-do-bc.html ; Copom 16/09 -- https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748
+Relevancia: Quem toma credito ou financia estoque precisa decidir o que fazer enquanto a Selic cai devagar.
+Ressalva tecnica: Verificacao por trechos de busca; e expectativa de mercado, nao decisao do Copom; veiculos sao republicadores (confirmar no site do BC). Respostas enviadas antes do 2o turno da eleicao.
+Possivel contradicao com roteiro anterior: nenhuma (unico item macro do dia)
+Tese de gancho sugerida: O mercado ja precificou a queda -- 13,75% hoje, 13,25% em dezembro, 11,75% em 2027 -- mas o juro do seu credito nao cai na mesma velocidade. Vai renegociar a divida agora ou esperar o juro vir ate voce?
+
+ITEM 4 -- EY-Parthenon: so 14% dos CEOs do Reino Unido tem visao completa do custo e do retorno da IA
+Categoria: Tendencia internacional (grande consultoria -- EY)
+Fato: Pesquisa EY-Parthenon com CEOs (amostra global de 1.200, campo em ago-set/2026; recorte do Reino Unido com cerca de 100 CEOs). Metade dos CEOs britanicos atribui ganhos de produtividade a ferramentas de IA, mas apenas 14% tem visibilidade abrangente de custos e ROI da IA (86% nao tem); 32% relatam lacunas significativas na capacidade de avaliar o ROI.
+Fonte: EY -- https://www.ey.com/en_uk/newsroom/2026/10/ai-drives-productivity-but-barriers-to-growth-remain ; IT Brief -- https://itbrief.co.uk/story/uk-ceos-see-ai-productivity-gains-but-struggle-on-roi ; Resultsense -- https://www.resultsense.com/news/2026-10-20-ey-uk-ceos-ai-roi-visibility/
+Relevancia: Conecta com o custo de IA do item 1: todo mundo adota, quase ninguem mede.
+Ressalva tecnica: Verificacao por trechos de busca. Data do release EY (12/10) vem de um unico resumo; cobertura de 20/10 -- 9 a 17 dias, no limite das 2 semanas (relatorio inedito pro canal). Recorte e Reino Unido (n ~100), nao global nem Brasil; conferir % no release. Fonte com interesse comercial (consultoria).
+Possivel contradicao com roteiro anterior: nenhuma (complementa McKinsey de 28/10 sem contradizer)
+Tese de gancho sugerida: Metade dos CEOs diz que a IA aumenta a produtividade, mas so 14% sabe quanto ela custa e quanto devolve. Voce esta investindo em IA ou apenas pagando assinatura e torcendo?
+
+ITEM 5 -- Simples/IBS-CBS: janela pra cancelar a opcao vai de 03/11 a 20/12/2026
+Categoria: Prazo de Acao (Obrigacao/Oportunidade com prazo)
+Fato: Resolucao CGSN 194/2026 (DOU de 28/09/2026): a opcao pelo regime regular de IBS/CBS fora do DAS termina amanha, 30/10/2026; depois disso, quem optou pode cancelar a opcao, em carater irretratavel, de 03/11 a 20/12/2026 (antes a janela ia ate 30/11). Apos 20/12 a opcao vale a partir de jan/2027.
+Fonte: Legisweb -- https://www.legisweb.com.br/noticia/?id=34449 ; CRC-SP -- https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11355 ; Prefeitura de Porto Alegre -- https://prefeitura.poa.br/smf/noticias/empresas-tem-ate-30-de-outubro-para-optar-pelo-regime-regular-de-ibs-e-cbs ; Poder360 (PDF) -- https://static.poder360.com.br/uploads/2026/09/Governo-amplia-Simples-Nacional-2027-29-set-2026.pdf
+Relevancia: Amanha vence o prazo de opcao; a informacao nova e que existe uma segunda janela, so de cancelamento, e irreversivel.
+Ressalva tecnica: Verificacao por trechos de busca; nenhuma fonte oficial (DOU/Receita) aberta -- conferir a Resolucao CGSN 194/2026. Parte da cobertura antiga ainda cita 30/11 como fim da janela de cancelamento (superado). Mesmo programa ja publicado em 23/10 (opcao ate 30/10); aqui a informacao e a janela de cancelamento (nova) e o lembrete final de amanha.
+Possivel contradicao com roteiro anterior: o item de 23/10 falava em opcao ate 30/10; este acrescenta a janela de cancelamento 03/11-20/12 e substitui a data de 30/11 que circulou antes.
+Tese de gancho sugerida: A porta de entrada fecha amanha, mas existe uma de saida entre 3/11 e 20/12 -- uma so vez, sem volta. Voce simulou o custo do IBS/CBS no regime regular ou escolheu no chute?
+
+ITEM 6 -- Microsoft: Azure cresce 48% e informa valor em dolar pela primeira vez; Windows/PC cai 22%
+Categoria: Empresa global reconhecida
+Fato: Resultado do 1T do ano fiscal 2027, divulgado em 28/10/2026. Receita US$ 92,3 bi (+19%; consenso ~US$ 90,69 bi). LPA ajustado US$ 4,89 vs ~US$ 4,73 esperado. Azure +48% (guidance ~45%; trimestre anterior 42%), com valor absoluto divulgado pela 1a vez: US$ 33,17 bi. Vendas de dispositivos e licencas Windows -22% a/a (Nadella atribuiu a precos maiores de memoria/armazenamento). Acoes subiram cerca de 2,5% a 4% no after-hours (fontes divergem).
+Fonte: SiliconANGLE -- https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/ ; Yahoo Finance -- https://finance.yahoo.com/technology/articles/microsoft-beats-wall-street-estimates-202200438.html ; Benzinga -- https://www.benzinga.com/markets/earnings/26/10/62675569/microsoft-q1-highlights-double-beat-cloud-revenue-up-30-azure-growth-up-48 ; QNC News -- https://qncnews.com/2026/10/28/microsoft-beats-q1-forecasts-as-azure-cloud-sales-jump-48/ ; Investing.com -- https://www.investing.com/news/company-news/microsoft-q1-fy27-slides-cloud-surge-drives-19-revenue-growth-93CH-4981234
+Relevancia: Mostra onde o dinheiro de tecnologia esta migrando: de quem vende maquina pra quem aluga capacidade.
+Ressalva tecnica: Verificacao por trechos de busca (5 fontes concordam em receita/Azure/US$ 33,17 bi); variacao after-hours diverge; capex nao confirmado. Nao confundir com o item de 27/10 (desligamento voluntario de ~60 mil) -- mesmo ator, evento diferente.
+Possivel contradicao com roteiro anterior: nenhuma; complementa o item de 27/10 (corte voluntario com receita em alta).
+Tese de gancho sugerida: A Microsoft cresce 19%, a nuvem 48% -- e mesmo assim abriu saida voluntaria pra ~60 mil pessoas e viu Windows/PC cair 22%. O dinheiro migrou de quem opera maquinas pra quem aluga capacidade. Seu negocio esta no lado que cresce ou no que paga a conta?
+
+ITEM 7 -- Dropbox corta cerca de 9% do quadro mesmo lucrativa; CTO deixa a empresa
+Categoria: Reestruturacao-corte-fechamento
+Fato: Form 8-K de 28/10/2026: Dropbox anunciou reducao de cerca de 9% da forca de trabalho global para concentrar investimento nos produtos e prioridades de crescimento; o CTO Ali Dasdan sai em 18/11/2026. O Olhar Digital reporta cerca de 200 demissoes e que a empresa e lucrativa. Balanco previsto para 5/11.
+Fonte: Dropbox (8-K, SEC) -- https://www.sec.gov/Archives/edgar/data/0001467623/000146762326000052/dbx-20261028.htm ; Olhar Digital -- https://olhardigital.com.br/2026/10/28/pro/dropbox-demite-200-funcionarios-mesmo-sendo-lucrativa-veja-o-motivo/
+Relevancia: Corte com a empresa lucrativa, pra redirecionar recursos -- exemplo de reestruturacao preventiva, nao de crise.
+Ressalva tecnica: Documento oficial (SEC) + 1 veiculo; numero absoluto (~200) so no Olhar Digital -- o 8-K fala em ~9%. Nao ha cobertura de imprensa adicional indexada. Cortes anteriores (2021: 11%; 2023-24: 16-20%) sao outros eventos.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Lucrar nao protege vaga: a Dropbox corta 9% do quadro, troca o CTO e diz que e pra focar. Reestruturar com caixa positivo e escolha de prioridade -- a pergunta pro gestor e se voce prefere cortar por decisao ou por necessidade.
+
+ITEM 8 -- Advent International capta US$ 30 bi em dois fundos, mesmo com saidas lentas
+Categoria: Livre (case / empresa)
+Fato: Anunciado em 27/10/2026. O fundo global GPE XI fechou em quase US$ 27 bi, acima da meta de US$ 26 bi; o fundo Mid-Market teve mais de US$ 3 bi. Fundo anterior (2022): US$ 25 bi. Captacao veio com saidas (exits) lentas no mercado de private equity. O NeoFeed diz que o veiculo sera combinado com o fundo da America Latina para negocios acima de US$ 400 mi.
+Fonte: Advent (release) -- https://www.adventinternational.com/pt/news/advent-capta-us-30-bilhoes-em-fundos-globais-de-private-equity/ ; DealStreetAsia -- https://www.dealstreetasia.com/?p=499347 ; Finimize -- https://finimize.com/content/advent-raised-30-billion-even-as-exits-stayed-slow ; NeoFeed -- https://neofeed.com.br/negocios/os-planos-da-advent-para-investir-bilhoes-de-dolares-no-brasil/
+Relevancia: Dinheiro de private equity sobrando e relevante pra quem pensa em vender, comprar ou crescer por aquisicao.
+Ressalva tecnica: Verificacao por trechos de busca + release oficial. E captacao de fundo, nao operacao de empresa operacional. Release e fonte interessada. Nao usar "maior fundo do ano" (so fonte secundaria).
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Tem US$ 30 bi novos de private equity procurando o que comprar, com saidas travadas -- quem tem empresa arrumada e escassez de ativo bom. Se alguem batesse na sua porta com uma oferta, seus numeros aguentariam due diligence?
+
+--- RESERVAS (nao usados) ---
+Alphabet 3T26 (28/10): receita US$ 127,6 bi (+25%), Google Cloud US$ 30,7 bi (+103%), capex trimestre ~US$ 51,4 bi, FCF negativo ~US$ 9,1 bi (fonte unica). Fonte oficial: https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm . Nao usado por subtema (nuvem/IA, igual ao item 6) e proximidade com Meta (23/10). Boa troca se o item 6 cair.
+1Password for Agents (22/10); Amazon 250 demissoes (fonte fraca; Amazon reporta o 3T hoje apos o fechamento); ConocoPhillips Canada (sem numero); Grupo Mateus (fato antigo, junho); NR-1 (sem data exata confirmada); NF-e com IBS/CBS em 01/12 (conflito sobre suspensao).
+
+--- NOTAS DE EXECUCAO ---
+Fontes BR: Legisweb, CRC-SP, DGABC, Diario de PE, Jornal do Comercio, Olhar Digital, NeoFeed, Investing.com BR. G1/Estadao/Valor/Exame/InfoMoney nao apareceram nos resultados utilizaveis (indice de busca fraco para 28-29/10).
+Internacionais: itens 1, 2, 4, 6, 7, 8; grande consultoria: EY (item 4).
+Linha 3: 1 item (teto cumprido). Reserva macro: IBC-Br agosto (+0,34%, fora da janela).
+Linha 7 (pesquisa dedicada, ~12 consultas PT/EN): maiores cortes de out/2026 (Kroger 3.000, NAB 2.500, Netflix 1.000, Royal Mail, GSK, Telia) cairam antes de 22/10; Gerdau Divinopolis (~400 demissoes segundo sindicato) nao confirmado pela empresa; nenhum corte brasileiro novo confirmado em 2 fontes na janela. Consultas principais: "demissao em massa OR layoff OR fechamento de lojas outubro 2026", "layoffs announced October 23/26/27/28 2026", "PDV outubro 2026", "Dropbox layoffs", "Gerdau Divinopolis", "Grupo Mateus lojas".
+Data: dados esperados hoje/amanha ainda nao indexados (IGP-M, credito BC, Caged, PNAD) -- por isso so 1 item macro.
