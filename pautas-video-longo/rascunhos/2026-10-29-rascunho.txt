@@ -1,0 +1,59 @@
+RASCUNHO -- 2026-10-29
+Obs.: dia sem candidato explosivo "novo". Os dois temas mais quentes (queda da bolsa pos-eleicao e Casas Bahia) repetem assunto/empresa de pautas dos ultimos 10 dias (26/10, 27/10, 24/10) e ficaram como runners-up. Vencedor = melhor candidato elegivel pela regra de nao-repeticao. Fontes originais (investnews, forbes.com.br etc.) bloqueadas por rede na sandbox: fatos abaixo vem de resultados de busca; CONFIRMAR na fonte antes do roteiro (Etapa 2).
+
+CANDIDATO 1 -- Marabraz: Justica aceita recuperacao judicial de 6 empresas, com ressalvas
+Fato: A juiza Fernanda Perez Jacomini (Falencias e RJ de SP) autorizou a recuperacao conjunta de 6 empresas ligadas a Marabraz (passivo ~R$ 140 mi; rede com ~135 lojas), mas negou por ora a consolidacao substancial (juntar patrimonios e dividas). Prazo de 60 dias pro plano. Pedido feito em 15/08 em meio a juros altos, perda de acesso a credito e disputa familiar; antes, Justica mandou religar energia de lojas. DATA EXATA DA DECISAO A CONFIRMAR (noticia aparece junto de cobertura de 28/10).
+Fonte: InvestNews -- https://investnews.com.br/negocios/recuperacao-judicial-marabraz (complementar: SBT News -- https://sbtnews.sbt.com.br/noticia/economia/justica-aceita-pedido-de-recuperacao-da-marabraz)
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 25/35
+Status: VENCEDOR DO DIA (elegivel pela regra de nao-repeticao)
+Angulo sugerido: credito que seca antes da RJ (bancos cortam limite), disputa societaria familiar, estoque/energia como o que mantem a operacao; licao pro dono de PME. Polemica adjacente (juros/economia): so como pano de fundo de gestao, sem comentar politica.
+
+CANDIDATO 2 -- Bolsa cai pelo 3o dia pos-eleicao: Ibovespa -2,68% (171.006 pts), -16,6% na semana
+Fato: Em 28/10 o Ibovespa fechou a 171.006,10 pts, menor nivel desde 20/08; dolar R$ 5,34 (+6,95% na semana). Analistas citam preocupacao fiscal. Fed manteve juros (fontes divergem nos detalhes).
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ibovespa-cai-268-e-dolar-fecha-em-leve-baixa-r-534 ; Forbes Brasil -- https://forbes.com.br/forbes-money/2026/10/ibovespa-fecha-em-queda-em-novo-capitulo-de-ajustes-pos-eleicao-dolar-recua/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 31/35
+Status: runner-up (MAIOR SCORE, mas REPETE assunto das pautas de 26/10 e 27/10 -- inelegivel pela regra de 10 dias; so usar se o usuario quiser abrir excecao com angulo novo, ex.: acumulado da semana)
+
+CANDIDATO 3 -- Casas Bahia: pede liberar depositos judiciais pra pagar 4.435 demitidos
+Fato: Casas Bahia voltou a pedir a Justica de SP uso de depositos judiciais/recursais pra pagar verbas dos demitidos; sindicato contesta; juiza ainda nao autorizou. TRT-10 homologou em 15/10 acordo pra indenizar 4.435 demitidos em agosto. RJ de R$ 17,3 bi.
+Fonte: O Tempo -- https://otempo.com.br/economia/2026/10/28/casas-bahia-pede-liberacao-de-verba-trabalhista-para-pagar-demitidos
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 28/35
+Status: runner-up (REPETE empresa da pauta de 24/10 -- inelegivel pela regra de 10 dias)
+
+CANDIDATO 4 -- Varejo perde vagas: -45,9 mil no 1o semestre, -51,7 mil ate julho (pior desde a pandemia)
+Fato: Novo Caged mostra desaceleracao do emprego com juros e credito pressionando o comercio; varejo fecha vagas enquanto grandes redes reestruturam.
+Fonte: Jornal Grande Bahia (Novo Caged) -- https://jornalgrandebahia.com.br/2026/10/geracao-de-empregos-desacelera-no-brasil-em-2026-enquanto-juros-e-credito-pressionam-o-comercio-aponta-novo-caged/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 22/35
+Status: runner-up
