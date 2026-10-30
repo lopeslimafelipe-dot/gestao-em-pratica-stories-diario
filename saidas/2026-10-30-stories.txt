@@ -1,0 +1,17 @@
+ROTEIRO 1 -- Quem fica no meio vira alvo
+"A DoorDash vai comprar a Instacart por cerca de US$ 17 bilhões, a US$ 65 por ação, segundo o comunicado oficial das duas empresas. 🟡`O prêmio é de 26% sobre o fechamento de 22 de outubro, e pelo menos 75% será pago em dinheiro.`🟡 A compra ainda depende dos reguladores. 🟡`O intermediário entre o negócio e o cliente vale caro, mas tende a acabar na mão de quem tem mais escala.`🟡 Quanto dos seus clientes chega por um app que não é seu?"
+Fonte: DoorDash/Instacart (8-K, SEC) -- https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm
+
+ROTEIRO 3 -- Dia 1º muda a nota fiscal
+"Prestador de serviço no Simples, atenção: a partir de 1º de novembro, ME e EPP precisam emitir NFS-e pelo Emissor Nacional, mesmo que a prefeitura tenha sistema próprio, segundo a Receita Federal. É a Resolução 191 do Comitê Gestor do Simples. 🟡`Depois dessa data, o sistema da prefeitura deixa de ser o caminho para quem é do Simples.`🟡 Algumas prefeituras têm calendário próprio, então confira a sua. 🟡`Cadastre-se e confira seu acesso antes, não no dia de faturar.`🟡 Você já testou o seu?"
+Fonte: Receita Federal -- https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026
+
+ROTEIRO 4 -- Dobrou a nuvem, secou o caixa
+"O Google dobrou a nuvem: US$ 30,7 bilhões no trimestre, alta de 103%, segundo o balanço da Alphabet. Mas 🟡`o investimento chegou a US$ 51,4 bilhões e o caixa livre ficou negativo em US$ 9,1 bilhões.`🟡 A ação caiu cerca de 13% no dia seguinte, o pior dia da empresa em bolsa, segundo a CNBC. Parte do lucro menor é perda contábil em investimentos. 🟡`Crescer sem gerar caixa não é vitória, nem pra quem fatura centenas de bilhões.`🟡 Seu crescimento está virando caixa?"
+Fonte: Alphabet (8-K, SEC) / CNBC -- https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm ; https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] Sua empresa cresceu esse ano. O caixa cresceu junto? A) Sim B) Não, apertou
+2. [Pergunta/Participacao, Roteiro 3] Caixinha: você no Simples já emitiu nota pelo Emissor Nacional? Conta pra mim o que travou ou o que foi fácil.
+3. [Virar Historia, Roteiro 1 -> Estilo Quadro Branco] Desenhar no quadro o caminho negócio -> app -> cliente e riscar o app: mostra na hora quem fica com o cliente quando o intermediário é comprado.
