@@ -1,0 +1,29 @@
+PAUTA DO DIA -- 2026-10-30
+Assunto: Vale: receita sobe 2%, lucro do 3T26 despenca 53% (minerio mais barato + custo maior)
+Score final: 25/35 (Frescor 5, Relevancia do protagonista 5, Gravidade 3, Polemica adjacente 2, Volume de cobertura 4, Clareza do angulo 4, Identificacao com audiencia 2)
+
+Fato central verificado: Em 29/10/2026 (apos o fechamento) a Vale reportou lucro liquido de ~US$ 1,25 bi no 3T26, queda de ~53% a/a (Money Times fala em 54%; arredondamento/criterio diferente), ~R$ 6,4 bi contra R$ 14,6 bi no 3T25. Ficou abaixo do consenso Bloomberg (US$ 1,508 bi). Receita liquida ~US$ 10,5 bi (+2%); EBITDA ajustado ~US$ 3,33 bi (-24%). Preco realizado do minerio ~10% menor; custos operacionais maiores (combustivel e frete); EBITDA de cobre +66%. Vale manteve metas de producao de 2026. Verificado por buscas que retornaram as materias originais (WebFetch bloqueado na rede).
+Cadeia causal (o que levou a isso): minerio de ferro mais barato (~-10% no preco realizado) -> receita praticamente estavel (+2%) porque o volume/mix segurou -> custo caixa em alta (no 2T26 o C1 foi US$ 24,10/t, +9% a/a, e a empresa elevou o guidance de C1 do minerio para US$ 22,5-23,5/t, ante US$ 20,0-21,5/t; diesel e frete caros e real forte pressionam) -> EBITDA cai 24% -> lucro cai mais que o EBITDA (efeitos financeiros/contabeis e impostos pesam abaixo da linha operacional; no 2T26 a Suno atribuiu a queda a resultado financeiro pior e mais tributos) -> lucro -53%. Espinha dorsal: faturar um pouco mais nao protege o lucro quando preco de venda cai e custo sobe ao mesmo tempo.
+Por que esta repercutindo agora: Frescor maximo (balanco saiu ontem a noite), protagonista de peso (Vale) e muita cobertura por ter vindo abaixo do consenso. Polemica adjacente baixa. Menor identificacao com a audiencia (empresa gigante), por isso o angulo precisa traduzir pra PME.
+Angulo de gestao sugerido: "Receita subiu, lucro caiu pela metade": margem importa mais que faturamento; entender quais custos e precos voce controla e quais nao (commodity, cambio, combustivel); acompanhar custo unitario e margem por produto/contrato, nao so vendas; ter plano pra quando preco e custo andam contra voce ao mesmo tempo. Foco exclusivo em gestao/negocio.
+Dados de apoio:
+- Lucro US$ 1,255 bi vs consenso Bloomberg US$ 1,508 bi -- Money Times https://www.moneytimes.com.br/lucro-liquido-da-vale-vale3-cai-54-no-3t26-para-us-125-bilhao-abaixo-das-expectativas-do-mercado-bdap/
+- Receita ~US$ 10,5 bi (+2%), EBITDA ajustado US$ 3,33 bi (-24%) -- Eu Quero Investir https://euqueroinvestir.com/acoes/vale-vale3-lucro-cai-53-3t26-resultados
+- Lucro R$ 6,4 bi vs R$ 14,6 bi no 3T25; minerio ~10% mais barato; EBITDA cobre +66% -- https://investirecocaresocomecar.com.br/vale3-lucro-3-trimestre-2026/
+- Metas de producao 2026 mantidas -- BP Money https://bpmoney.com.br/mercado/vale-vale3-lucra-us-125-bilhao-no-3t26-queda-anual-de-53/
+- Custo caixa C1 2T26 US$ 24,10/t (+9%) e guidance elevado para US$ 22,5-23,5/t -- Safra/Money Times (busca; conferir no release): https://oespecialista.safra.com.br/analise/vale-resultados-segundo-trimestre-2026-custos-caixa/
+- Previa do Citi: margem EBITDA ajustada ~32% (vs 39% no 2T26 e 42% um ano antes) -- Seu Dinheiro https://www.seudinheiro.com/2026/empresas/vale-vale3-sob-pressao-o-que-leva-o-citi-a-projetar-queda-de-23-no-ebitda-do-terceiro-trimestre-e-o-que-fazer-com-a-acao-bdap/
+Ressalva/limite: Fontes divergem em pontos secundarios -- queda de 53% vs 54%; EBITDA US$ 3,33 bi vs ~3,5 bi proforma; fluxo de caixa livre (US$ 1,4 bi recorrente no Money Times vs US$ 2,23 bi na Gazeta Mercantil) -- NAO usar fluxo de caixa sem conferir no release oficial da Vale (RI). Divida liquida (US$ 16,41 bi) e ajuste de US$ 322 mi na provisao da Samarco constam do rascunho da Etapa 1 (InfoMoney) mas nao foram reconfirmados por segunda fonte -- conferir antes de usar. A explicacao de "lucro cai mais que EBITDA" por efeitos financeiros/impostos e inferencia a partir do 2T26; nao afirmar como causa do 3T26 sem o release. Nao e recomendacao de investimento: nao comentar a acao/preco. Polemica adjacente pesou pouco (2/5), mas manter lembrete: nao comentar politica, partidos ou governo; so efeito pratico de gestao.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: a Vale vendeu mais e lucrou metade -- conflito entre receita e lucro
+- Contexto/causa raiz: minerio ~10% mais barato + custo de operar subindo
+- Desenvolvimento da cadeia causal: preco cai, custo sobe, margem espreme, lucro despenca
+- Licao de gestao (a virada): faturamento nao e lucro; olhe margem e custo unitario, e saiba o que voce nao controla
+- Fechamento + CTA
+
+Fonte(s): InfoMoney -- https://www.infomoney.com.br/mercados/vale-vale3-balanco-3t26/ (da Etapa 1; nao abriu na sandbox); Money Times, Eu Quero Investir, BP Money, links acima.
+
+Runners-up do dia (registro/transparencia):
+- Ibovespa cai pela 4a sessao seguida e dolar dispara (29/10) -- 26/35 (excluido por repeticao de assunto das pautas de 26 e 27/10)
+- Juro do credito empresarial sobe mesmo com Selic em queda; recuperacoes judiciais em recorde (6.341 empresas no 2T26) -- 24/35
