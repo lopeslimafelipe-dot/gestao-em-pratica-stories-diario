@@ -1,0 +1,48 @@
+RADAR DE REPERCUSSAO -- 2026-10-30 (Etapa 1)
+Nota: sites de noticia nao abrem direto na sandbox (rede restrita); fatos confirmados via buscas que retornaram as materias originais. Conferir numeros no release da Vale antes do roteiro (fontes divergem: lucro -53% vs -54%; EBITDA US$ 3,33 bi vs 3,5 bi proforma).
+Descartados por repeticao (<10 dias, mesmo pipeline): Casas Bahia pede liberar R$ 750 mi p/ pagar demitidos (29/10; empresa ja foi pauta em 24/10); dolar/juros/Ibovespa em queda (4a baixa seguida em 29/10; tema ja foi pauta em 26 e 27/10).
+
+CANDIDATO 1 -- Vale: lucro do 3T26 cai 53% com minerio mais barato, custo maior e real forte
+Fato: Em 29/10/2026 (apos o fechamento) a Vale reportou lucro liquido de US$ 1,25 bi no 3T26 (-53% a/a; R$ 6,4 bi, -56%), abaixo do consenso (~US$ 1,4-1,5 bi). Receita ~US$ 10,5 bi (+2%), EBITDA ajustado ~US$ 3,33 bi (-24%), divida liquida US$ 16,41 bi, ajuste de US$ 322 mi na provisao da Samarco. Causas: preco do minerio menor, custos maiores, valorizacao do real. Cobre com EBITDA +66%.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/vale-vale3-balanco-3t26/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 2/5
+TOTAL: 25/35
+Status: VENCEDOR DO DIA
+Angulo sugerido: receita sobe e lucro despenca -- margem, custo e dependencia de preco de commodity/cambio; licao de gestao: crescer faturamento nao protege lucro quando custo e preco fogem do controle.
+
+CANDIDATO 2 -- Juro do credito empresarial sobe mesmo com Selic em queda; recuperacoes judiciais em recorde (6.341 empresas no 2T26)
+Fato: Monitor RGF-BizDoc: 6.341 empresas em RJ ao fim do 2T26, maior numero da serie; juro medio do credito livre PJ foi de 23,5% a 25,4% a.a. (dez-jul) apesar dos cortes da Selic; inadimplencia PJ 4,2% em julho (BC).
+Fonte: Times Brasil -- https://timesbrasil.com.br/brasil/economia-brasileira/juros-e-selic/selic-queda-credito-caro-recuperacao-judicial-recorde-empresas/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: runner-up (tema proximo de pautas de 23/10 e 24/10; dado nao e de hoje)
+
+CANDIDATO 3 -- Ibovespa cai pela 4a sessao seguida e dolar dispara (29/10)
+Fato: InfoMoney (29/10): Ibovespa em 4a queda seguida, pressionado por exterior, balancos e preocupacao fiscal; dolar em alta.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 3/5
+TOTAL: 26/35
+Status: runner-up -- pontua mais que o vencedor, mas EXCLUIDO da vitoria por repeticao de assunto (pautas 26 e 27/10 ja cobriram dolar/juros/bolsa pos-eleicao). Se o usuario preferir, e a alternativa.
+
+GUARDRAIL POLITICO: fator Polemica adjacente nao pesa no vencedor (2/5). Nos candidatos 2 e 3 pesa; roteiro deve ficar em gestao/negocio, sem comentar politica ou partidos.
