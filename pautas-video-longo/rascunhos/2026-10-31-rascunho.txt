@@ -1,0 +1,60 @@
+RASCUNHO -- 2026-10-31 (sabado)
+Obs: busca web limitada nesta execucao (moneytimes.com.br bloqueado no fetch; fatos abaixo vieram de snippets de busca, nao de leitura da pagina). Etapa 2 deve reconfirmar nas fontes originais.
+Obs: pasta saidas/ dos ultimos 10 dias ja cobriu 3 pautas de macro pos-eleicao (25/10 juro longo, 26/10 dolar+juros, 27/10 varejo na bolsa). Candidato 1 teria sobreposicao forte de assunto -> rebaixado a runner-up por regra anti-repeticao, apesar do maior score bruto.
+
+CANDIDATO 1 -- Pior semana da Bolsa desde 2020 e maior alta semanal do dolar desde 2008
+Fato: Em 30/10/2026 o Ibovespa fechou em -0,75%, a 167.921,80 pts; na semana -18,12% (maior queda semanal desde a pandemia), -9,88% em outubro (pior mes desde jun/2022). Dolar a R$ 5,4443 (+1,05% no dia, ~+9% na semana, maior alta semanal desde out/2008, +5,22% no mes). Atribuido a reprecificacao pos-eleicao e incerteza fiscal.
+Fonte: Cada Minuto -- https://www.cadaminuto.com.br/noticia/2026/10/30/ibovespa-tem-pior-semana-desde-a-pandemia-com-ajustes-pos-eleicao (tambem: https://moneytimes.com.br/tempo-real-30-10-26-lils ; https://gazetamercantil.com/ibovespa-outubro-2026-queda-dolar-alta)
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 31/35
+Status: runner-up (rebaixado por repeticao de assunto com pautas de 26/10 e 27/10)
+
+CANDIDATO 2 -- Selic: fim do ciclo de cortes? Copom de 3-4/11 deve manter 13,75%; o que a PME faz com credito quando o juro para de cair
+Fato: Apos cinco cortes seguidos desde marco, mercado precifica manutencao da Selic em 13,75% na reuniao de 3-4/11 (decisao dia 4/11); Opcoes de Copom indicavam ~63-66% de probabilidade de manutencao; Itau e Safra projetam pausa, citando risco fiscal e cenario mais adverso. Contexto: dolar e juros futuros disparados na semana.
+Fonte: Sou Brasilia -- https://soubrasilia.com/dolar-bolsa-semana-pos-eleicao-30-outubro-2026-copom/ ; NeoFeed -- https://neofeed.com.br/economia/itau-ve-fim-do-ciclo-de-cortes-da-selic-diante-de-cenario-mais-adverso/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+GUARDRAIL: 'Polemica adjacente' (ano eleitoral/risco fiscal) pesa no score. Roteiro NAO comenta politica, partido, governo ou eleito; angulo apenas gestao: juro alto por mais tempo -> custo de capital de giro -> decisoes de caixa, prazo, estoque e expansao. Atencao: fato e expectativa (decisao ainda nao ocorreu); nao tratar como consumado. Evitar repetir o enquadramento de 25/10 e 26/10 (foco em decisao pratica do dono, nao em mercado).
+
+CANDIDATO 3 -- Big techs decepcionam no 3T26: Alphabet, Amazon e Intel caem apos balancos (gasto com IA vs retorno)
+Fato: Alphabet (28/10): receita US$ 127,6 bi (+25%), lucro US$ 26,2 bi (-25%), fluxo de caixa livre negativo US$ 9,1 bi, acoes -10%+ na abertura. Intel chegou a cair 20%+ por guidance fraco; Amazon com lucro/receita abaixo do esperado (29/10 apos fechamento).
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/internacional/quem-tem-medo-da-ia-acoes-da-amazon-e-intel-derretem-apos-balancos-do-3t26-entenda-o-que-decepcionou-os-investidores-davs/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 22/35
+Status: runner-up
+
+CANDIDATO 4 -- Usiminas cai 7% apos balanco fraco do 3T26
+Fato: Em 30/10 USIM5 foi a maior queda do Ibovespa; Ebitda de Aco R$ 538 mi (-21,8% t/t), lucro de R$ 243 mi, perspectivas negativas para o 4T26.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/usiminas-usim5-analise-resultados-terceiro-trimestre-2026-desempenho-acoes/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 2/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 19/35
+Status: runner-up
