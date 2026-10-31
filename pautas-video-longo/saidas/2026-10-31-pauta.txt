@@ -1,0 +1,29 @@
+PAUTA DO DIA -- 2026-10-31
+Assunto: Selic: fim do ciclo de cortes? Copom de 3-4/11 deve manter 13,75%; o que a PME faz com credito quando o juro para de cair
+Score final: 29/35 (Frescor 4, Relevancia do protagonista 4, Gravidade 3, Polemica adjacente 5, Volume de cobertura 4, Clareza do angulo 4, Identificacao com audiencia 5)
+
+Fato central verificado: A Selic esta em 13,75% a.a. desde 16/09/2026, quando o Copom fez o 5o corte consecutivo de 0,25 p.p. (de 14,00%); o ciclo comecou em marco/2026, com a taxa saindo de 15%. A decisao da proxima reuniao sai na noite de quarta, 04/11/2026 (reuniao 3-4/11). Segundo opcoes de Copom da B3 (levantamento de 29/10), a probabilidade de MANUTENCAO em 13,75% e de ~63,1% a 66,5% (fontes variam), contra ~28% de corte de 0,25 p.p. IMPORTANTE: e expectativa de mercado, a decisao AINDA NAO ocorreu -- nao tratar como consumada.
+  Fontes confirmadas: https://bpmoney.com.br/politica/banco-central/selic-copom-63-chance-pausa-juros-137/ ; https://www.spacemoney.com.br/economia/macroeconomia/opcoes-copom-selic-estavel ; https://www.suno.com.br/noticias/selic-copom-probabilidade-manutencao-b3/
+Cadeia causal (o que levou a isso): Selic em 15% no inicio de 2026 -> Copom inicia cortes em marco e faz 5 cortes seguidos de 0,25 p.p. ate 13,75% (16/09) -> na ultima semana de outubro dolar (+~9%) e juros futuros disparam -> a pressao cambial e o risco de inflacao mais alta reduzem o espaco pra novos cortes -> mercado passa a apostar em pausa (a chance de pausa saltou de ~17,5% pra ~62% em poucos dias) -> o dono de empresa perde a expectativa de credito mais barato no curto prazo e precisa planejar caixa com juro estavel e alto.
+Por que esta repercutindo agora: Decisao do Copom a poucos dias (Frescor/Volume de cobertura), semana de forte oscilacao em dolar e juros (Gravidade) e tema que toca direto o custo de capital de giro de toda PME (Identificacao com audiencia 5/5, Clareza do angulo 4/5).
+Angulo de gestao sugerido: Juro alto por mais tempo muda a conta do dono: (1) parar de adiar decisao esperando credito barato -- planejar com a taxa atual; (2) rever o custo real do capital de giro e das linhas pos-fixadas/atreladas a Selic; (3) negociar prazo com fornecedores e clientes, encurtando o ciclo financeiro; (4) estoque e expansao: so com retorno que supere o custo de capital atual; (5) caixa como prioridade antes de alavancar. Foco 100% em decisao pratica do dono (NAO repetir o enquadramento de mercado das pautas de 25/10 e 26/10).
+Dados de apoio:
+ - Selic 13,75% desde 16/09/2026, 5o corte consecutivo (fonte: cobertura do Copom de set/2026 -- https://economicnewsbrasil.com.br/2026/09/16/nova-taxa-selic-projecao-dezembro-2026/)
+ - Probabilidade de manutencao 62% a 66,5% e de corte ~28% conforme B3/Valor Investe (fontes acima e https://investirecocaresocomecar.com.br/selic-copom-novembro-pausa-cortes/)
+ - Dolar subiu ~9,04% na semana, a R$ 5,44, maior alta semanal desde 2008 (https://soubrasilia.com/dolar-bolsa-semana-pos-eleicao-30-outubro-2026-copom/)
+ - Focus anterior projetava Selic de 13,25% no fim de 2026 (hoje menos provavel; https://rankia.com.br/focus-selic-13-25-fim-2026-corte-novembro-ipca-5-22/)
+Ressalva/limite: (a) 'Polemica adjacente' pesou 5/5 no score: NAO comentar politica, partido, governo, eleito nem o resultado da eleicao; o video fala so de juro, credito e caixa. (b) Fato e expectativa: a decisao e dia 04/11 -- se o video for gravado/publicado depois, atualizar com o resultado real. (c) NAO confirmado no fact-check: a afirmacao do rascunho de que Itau e Safra projetam pausa (a materia da NeoFeed nao foi localizada; buscas retornaram vises de Itau divergentes/antigas) -- nao citar Itau/Safra. (d) Percentuais das opcoes variam por fonte e dia (62%-66,5%): usar 'cerca de 2/3 do mercado' ou 'a maioria'. (e) Nenhuma recomendacao de investimento pessoal.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico (ex.: "Voce esta esperando o juro cair pra tomar credito? O mercado aposta que ele vai parar.")
+- Contexto/causa raiz: 5 cortes seguidos, de 15% a 13,75%, e a freada
+- Desenvolvimento da cadeia causal: dolar e juros futuros -> menos espaco pra cortar -> credito caro por mais tempo
+- Licao de gestao (a virada): planejar caixa, prazo e investimento com a taxa de hoje, nao com a taxa que voce gostaria
+- Fechamento + CTA
+
+Fonte(s): BPMoney -- https://bpmoney.com.br/politica/banco-central/selic-copom-63-chance-pausa-juros-137/ ; Space Money -- https://www.spacemoney.com.br/economia/macroeconomia/opcoes-copom-selic-estavel ; Sou Brasilia -- https://soubrasilia.com/dolar-bolsa-semana-pos-eleicao-30-outubro-2026-copom/ ; Economic News Brasil -- https://economicnewsbrasil.com.br/2026/09/16/nova-taxa-selic-projecao-dezembro-2026/
+
+Runners-up do dia (registro/transparencia):
+ - Pior semana da Bolsa desde 2020 e maior alta semanal do dolar desde 2008 -- 31/35 (rebaixado por repeticao de assunto com pautas de 26/10 e 27/10)
+ - Big techs decepcionam no 3T26 (Alphabet, Amazon, Intel) -- 22/35
+ - Usiminas cai 7% apos balanco fraco do 3T26 -- 19/35
