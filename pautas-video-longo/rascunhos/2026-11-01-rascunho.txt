@@ -1,0 +1,47 @@
+RASCUNHO DE REPERCUSSAO -- 2026-11-01 (domingo)
+
+LIMITES DA PESQUISA: WebFetch bloqueado nesta sandbox (suno.com.br, mercadoeconsumo.com.br fora da rede permitida); verificacao so por trechos de WebSearch. A busca nao retornou manchetes datadas de 30/10-01/11 (fim de semana, poucas publicacoes). Fechamento de mercado de 30/10 NAO encontrado. Pool de candidatos mais fraco que o normal; varios temas quentes da semana ja foram pauta nos ultimos 10 dias (Copom 31/10, Braskem 28/10, Vale 30/10, dolar/juros 26-27/10, Casas Bahia 24/10, Marabraz 29/10, inadimplencia PJ 23/10) e ficam fora por regra de nao-repeticao.
+
+CANDIDATO 1 -- Black Friday 2026 com consumidor endividado e juro alto: vender mais ou ganhar mais?
+Fato: Projecoes para a Black Friday 2026 (28/11) apontam e-commerce de ~R$ 16,6 bi (Abiacom) com ticket medio de R$ 766,50, abaixo dos R$ 808,50 do ano passado; outra estimativa cita R$ 13,3 bi (+20,7%) -- metodologias divergem, NAO usar valor unico sem conferir. Pesquisa do Mercado Pago indica intencao de compra alta apesar do endividamento. Juro medio para pessoa fisica de 61,7% a.a. em agosto/2026 (dado citado pelo Ibevar, via busca; conferir). Economista ouvido pelo OHoje: descontos muitas vezes nao compensam os juros do parcelamento. Consumidor mais pesquisador, ticket menor.
+Fonte: Mercado&Consumo -- https://mercadoeconsumo.com.br/22/10/2026/black-friday/black-friday-2026-deve-movimentar-mais-de-r-16-bilhoes-no-e-commerce/ | Mercado&Consumo (Mercado Pago) -- https://mercadoeconsumo.com.br/28/10/2026/black-friday/black-friday-intencao-de-compra-salta-de-23-para-71-diz-pesquisa-do-mercado-pago/ | Mercado&Consumo -- https://mercadoeconsumo.com.br/21/10/2026/artigos/o-que-devemos-esperar-da-black-friday-em-2026/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 2/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 23/35
+Status: VENCEDOR DO DIA (acima do corte de ~15, mas score baixo para o padrao recente -- sem fato grave novo hoje)
+Nota guardrail: Polemica adjacente (3) vem do contexto de juro/endividamento das familias; o roteiro fica 100% em gestao (margem, caixa, prazo de recebimento, risco de vender no parcelado), sem comentar politica.
+Angulo sugerido: "Vender mais na Black Friday nao e lucrar mais": margem x volume, custo do parcelamento (juro/antecipacao de recebiveis), estoque comprado com dolar mais alto, nao entrar em guerra de preco que o caixa nao sustenta; definir piso de margem e limite de estoque antes da data.
+
+CANDIDATO 2 -- Braskem: prazo de 30/10 para termos do acordo com credores (desfecho nao localizado)
+Fato: Recuperacao extrajudicial pedida em 24/08 (~US$ 10,9 bi); prazo de negociacao estendido ate 30/10 (comunicado a B3 de 27/10); limite do plano 22-24/11 (fontes divergem); credores pedem US$ 1,85 bi dos acionistas; Petrobras resiste a aportar sozinha. O que aconteceu apos 30/10 NAO foi encontrado.
+Fonte: Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/braskem-prorroga-negociacao-com-credores-ate-sexta-feira-30/ | Exame -- https://exame.com/insight/credores-da-braskem-dao-mais-prazo-para-acordo-e-pedem-aporte-de-us-185-bilhao/p
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 23/35 (empata com o vencedor; desempate por gravidade a favor da Braskem, MAS e REPETICAO da pauta de 28/10 -- inelegivel pela regra de 10 dias)
+Status: runner-up (inelegivel; reavaliar se houver desfecho do acordo)
+
+CANDIDATO 3 -- Recuperacoes judiciais em alta no varejo/industria: o que a onda de RJs ensina sobre caixa
+Fato: estoque de empresas em RJ atingiu recorde de 6.513 em maio/2026 e caiu para 6.341 em junho (Poder360, via busca; dado desatualizado). Contexto recente: Casas Bahia (R$ 17,3 bi), Marabraz, Braskem.
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/pedidos-de-recuperacao-judicial-batem-recorde-no-1o-semestre/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 22/35
+Status: runner-up (dado velho; assunto proximo de pautas de 24/10 e 29/10)
