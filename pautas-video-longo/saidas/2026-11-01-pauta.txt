@@ -1,0 +1,38 @@
+PAUTA DO DIA -- 2026-11-01
+Assunto: Black Friday 2026 com consumidor endividado e juro alto: vender mais ou ganhar mais?
+Score final: 23/35 (Frescor 3/5, Relevancia do protagonista 3/5, Gravidade 2/5, Polemica adjacente 3/5, Volume de cobertura 3/5, Clareza do angulo 4/5, Identificacao com audiencia 5/5)
+Obs.: score baixo para o padrao recente -- sem fato grave novo hoje; pauta valida por clareza de angulo e identificacao com a audiencia.
+
+Fato central verificado: A Abiacom projeta R$ 16,60 bi no e-commerce na semana da Black Friday 2026 (data: 27/11), alta de 24,37% sobre R$ 13,35 bi em 2025, com 21,66 milhoes de pedidos (vs 16,51 mi em 2025) e ticket medio de R$ 766,50, queda de 5,2% frente aos R$ 808,50 do ano anterior. Estimativa diferente (Confi com E-Commerce Brasil): R$ 13,3 bi entre 26 e 29/11 -- bases de medicao distintas, NAO sao comparaveis; citar sempre a fonte junto do numero e nunca misturar. (Verificado via trechos de WebSearch; WebFetch bloqueado nesta rede.)
+Fontes: Mercado&Consumo -- https://mercadoeconsumo.com.br/22/10/2026/black-friday/black-friday-2026-deve-movimentar-mais-de-r-16-bilhoes-no-e-commerce/ | Meio&Mensagem (estimativa R$ 13,3 bi) -- https://www.meioemensagem.com.br/marketing/black-friday-deve-movimentar-r-133-bi-no-e-commerce
+
+Cadeia causal (o que levou a isso):
+1) Familias endividadas e credito caro -> o consumidor depende do parcelamento para comprar (pesquisa citada pelo Monitor do Mercado: para 56% de quem vai gastar, parcelar e sempre/frequentemente decisivo) ->
+2) Para vender, o varejo empurra parcelamento longo "sem juros" (ex.: Mercado Pago oferece ate 21x sem juros no cartao proprio) -> o lojista absorve o custo financeiro (taxa de antecipacao de recebiveis) ou espera meses para receber ->
+3) Consumidor pesquisa mais e compra tickets menores (ticket medio projetado -5,2%), o que pressiona a margem por pedido ->
+4) Mais pedidos, ticket menor, desconto alto e custo financeiro do parcelamento: o faturamento sobe, mas a margem e o caixa podem encolher. Vender mais nao e lucrar mais.
+
+Por que esta repercutindo agora: Falta menos de um mes para a Black Friday (27/11), com projecoes divulgadas entre 21 e 28/10 e pesquisas de intencao de compra circulando. Pesaram: Identificacao com audiencia (5/5, todo dono de varejo/servico decide preco e estoque agora) e Clareza do angulo (4/5).
+
+Angulo de gestao sugerido: "Vender mais na Black Friday nao e lucrar mais." Antes da data, o gestor define: (a) piso de margem por produto/servico, abaixo do qual nao se da desconto; (b) custo real do parcelamento (taxa de antecipacao x prazo de recebimento) embutido no preco; (c) limite de estoque/compra, para nao imobilizar caixa em produto que nao gira; (d) quanto do caixa suporta esperar recebiveis; (e) acao para clientes ja existentes em vez de guerra de preco com grandes players.
+
+Dados de apoio:
+- Abiacom: R$ 11,32 bi seriam vendas geradas especificamente pela Black Friday (vs R$ 9,10 bi em 2025); metodologia nao detalhada pela associacao -- usar com cautela. (Mercado&Consumo, link acima)
+- Pesquisa LWSA/Opinion Box: 54% dos consumidores pretendem distribuir compras ao longo de novembro (nao so na sexta). Fonte: Mercado&Consumo -- https://mercadoeconsumo.com.br/21/09/2026/noticias-varejo/black-friday-se-espalha-por-novembro-e-so-20-concentram-compras-na-sexta-feira/ (conferir ano/metodologia antes de citar).
+- Juros: o rascunho citava 61,7% a.a. (PF, agosto/2026) -- NAO confirmado no fact-check. Dado encontrado: taxa media do credito livre PF de 64% a.a. em junho/2026, segundo o BC citado por veiculo secundario (O Cafezinho -- https://www.ocafezinho.com/2026/07/30/juros-das-familias-seguem-elevados-e-chegam-a-64-ao-ano-diz-banco-central/amp/). Para citar no video, conferir na serie SGS 20740 do Banco Central; ou falar apenas "juros altos" sem numero.
+- Mercado Pago (Panorama de Consumo 2026, via Mercado&Consumo): intencao de compra alta apesar do endividamento; o titulo diz "salta de 23% para 71%", mas o trecho verificado nao detalha a comparacao -- NAO usar esse numero sem abrir a materia. https://mercadoeconsumo.com.br/28/10/2026/black-friday/black-friday-intencao-de-compra-salta-de-23-para-71-diz-pesquisa-do-mercado-pago/
+
+Ressalva/limite: (1) 'Polemica adjacente' pesou 3/5 por causa do contexto de juros/endividamento das familias: NAO comentar politica, governo, Banco Central como alvo de critica ou o debate economico maior -- falar so de margem, caixa, prazo de recebimento e estoque. (2) Projecoes sao estimativas de associacoes e divergem entre si; apresentar como projecao, nunca como fato consumado. (3) Nao e recomendacao de investimento nem de endividamento pessoal. (4) Dois numeros do rascunho (juro de 61,7% e "23% para 71%") nao foram confirmados.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- o Copywriter do canal escreve o final, secao 2.4, adaptado a duracao maior):
+- Hook: conflito especifico (ex.: a projecao de pedidos sobe ~31% enquanto o ticket medio cai 5,2% -- vender mais pode significar ganhar menos)
+- Contexto/causa raiz: consumidor depende do parcelamento; lojista banca o custo
+- Desenvolvimento da cadeia causal: parcelamento -> custo de antecipacao/prazo -> ticket menor -> margem apertada, com exemplo numerico simples (desconto + taxa = margem restante)
+- Licao de gestao (a virada): defina piso de margem, custo do parcelamento e limite de estoque ANTES da data
+- Fechamento + CTA
+
+Fonte(s): Mercado&Consumo -- https://mercadoeconsumo.com.br/22/10/2026/black-friday/black-friday-2026-deve-movimentar-mais-de-r-16-bilhoes-no-e-commerce/ ; Meio&Mensagem -- https://www.meioemensagem.com.br/marketing/black-friday-deve-movimentar-r-133-bi-no-e-commerce ; Mercado&Consumo (Mercado Pago) -- link acima
+
+Runners-up do dia (registro/transparencia):
+- Braskem: prazo de 30/10 para acordo com credores -- 23/35 (inelegivel: repeticao da pauta de 28/10)
+- Recuperacoes judiciais em alta no varejo/industria -- 22/35 (dado velho, proximo de pautas de 24/10 e 29/10)
