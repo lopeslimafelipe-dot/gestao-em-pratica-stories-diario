@@ -1,0 +1,38 @@
+RASCUNHO RADAR DE REPERCUSSAO -- 2026-11-02
+(Nota: WebFetch bloqueado nesta rede; fatos verificados via trechos de WebSearch de varios veiculos. Conferir numeros na materia original antes de usar no roteiro.)
+
+CANDIDATO 1 -- Chilli Beans pede recuperacao extrajudicial (R$ 340 mi)
+Fato: Em 30/10/2026 a Chilli Beans (oculos/acessorios, ~900 franquias, faturamento informado de R$ 1,2 bi em 2025) pediu recuperacao extrajudicial pra renegociar ~R$ 340 mi em dividas BANCARIAS; plano preve aporte de ate R$ 50 mi. Fornecedores, funcionarios e demais parceiros ficam fora do acordo. Em agosto/2026 a empresa negava RJ e dizia negociar com bancos; causas citadas na imprensa: pandemia (sustentou operacao dos franqueados), alavancagem e juros altos. Numeros de divida anteriores (R$ 290 mi em 2024; ~R$ 600 mi nao auditados) divergem -- usar so o numero do pedido, com a fonte.
+Fonte: Correio Braziliense -- https://www.correiobraziliense.com.br/economia/2026/10/7531475-chilli-beans-pede-recuperacao-extrajudicial.html (tambem: https://oantagonista.com.br/economia/chilli-beans-pede-recuperacao-extrajudicial/ ; https://www.piranot.com.br/2026/10/31/noticias/economia/chilli-beans-recuperacao-extrajudicial-dividas/ ; contexto agosto: https://mercadoeconsumo.com.br/31/08/2026/franquias/chilli-beans-analisa-pedido-de-recuperacao-judicial-e-anuncia-novo-ceo-diz-site/)
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+Obs. GUARDRAIL: 'Polemica adjacente' (3/5) pesou por causa do debate sobre juros/economia. O roteiro NAO deve comentar politica, governo ou Banco Central como alvo; angulo so de gestao: alavancagem, custo da divida, caixa, relacao com franqueados. Angulo sugerido: crescer com divida cara + sustentar a rede (pandemia) -> juros altos -> divida bancaria impagavel -> reestruturacao. Licao: alavancagem x geracao de caixa, nao crescer na base de credito caro, proteger o caixa da operacao.
+
+CANDIDATO 2 -- Copom 3-4/11: fim do ciclo de cortes da Selic
+Fato: Selic em 13,75%; reuniao do Copom em 3 e 4/11/2026 (Focus de 26/10 projeta 13,25% no fim do ano).
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-reduz-juros-basicos-para-1375-ao-ano
+Score de Repercussao: Frescor 3, Relevancia 3, Gravidade 3, Polemica 4, Volume 4, Clareza 3, Identificacao 4
+TOTAL: 24/35
+Status: runner-up (inelegivel: tema ja foi a pauta de 31/10)
+
+CANDIDATO 3 -- Onda de fechamento de fabricas (Parker Hannifin Jacarei, Karsten Ibirama, Nova Motores/Schroeder)
+Fato: fechamentos reportados entre 29/10 e 01/11/2026 (Parker Hannifin: ~100 trabalhadores, anuncio em julho; Karsten: ~75; Nova Motores e Fios: autofalencia). Fatos individuais pequenos/antigos; sem protagonista unico.
+Fonte: Agencia GBC -- https://agenciagbc.com/2026/11/01/gigante-americana-fecha-fabrica-no-brasil-apos-quase-50-anos-e-demissoes-atingem-trabalhadores/
+Score de Repercussao: Frescor 3, Relevancia 2, Gravidade 3, Polemica 3, Volume 2, Clareza 3, Identificacao 3
+TOTAL: 19/35
+Status: runner-up
+
+CANDIDATO 4 -- PMI industrial do Brasil em contracao (set/26: 44,8, pior desde abr/2023)
+Fato: dado de outubro nao localizado ate agora; ultimo confirmado e de setembro (S&P Global).
+Fonte: Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/10/1265333-pmi-industrial-do-brasil-cai-a-448-pontos-em-setembro.html
+Score de Repercussao: Frescor 2, Relevancia 2, Gravidade 3, Polemica 3, Volume 2, Clareza 3, Identificacao 3
+TOTAL: 18/35
+Status: runner-up
