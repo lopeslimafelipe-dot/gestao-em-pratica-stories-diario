@@ -1,0 +1,33 @@
+PAUTA DO DIA -- 2026-11-02
+Assunto: Chilli Beans pede recuperacao extrajudicial para renegociar R$ 340 mi em dividas bancarias
+Score final: 28/35 (Frescor 4, Relevancia do protagonista 4, Gravidade 4, Polemica adjacente 3, Volume de cobertura 4, Clareza do angulo 4, Identificacao com audiencia 5)
+
+Fato central verificado: Em 30/10/2026 a Chilli Beans protocolou pedido de recuperacao extrajudicial para renegociar cerca de R$ 340 milhoes em dividas com instituicoes financeiras. O plano preve aporte de ate R$ 50 milhoes, estruturado com Itau, Akron Capital e Vega (financiadores), segundo a cobertura. Fornecedores, funcionarios e demais parceiros ficam FORA do acordo (so divida bancaria entra). Apos o acordo com os credores, o plano precisa ser homologado pela Justica. Verificado via WebSearch em varios veiculos (Correio Braziliense, Exame, NeoFeed, Gazeta do Povo, Poder360, Times Brasil); WebFetch bloqueado pela rede, entao conferido por trechos de busca.
+Cadeia causal (o que levou a isso): 
+1) Divida financeira crescente: R$ 216 mi (2023) -> R$ 290 mi (2024) [Times Brasil], com estimativas de imprensa bem maiores em 2026 (R$ 500-600 mi, nao oficiais) -> 
+2) Juros altos encareceram a divida da holding e, segundo o CEO Caito Maia, tambem atingiram os franqueados (ha relato de piora na inadimplencia de franqueados) -> 
+3) Em 2026 a empresa atrasou pagamentos: segundo a NeoFeed, descumpriu acordo anterior e nao pagou parcelas de julho e agosto (R$ 16,5 mi); houve notificacao por parcela nao paga de divida e reuniao de debenturistas sobre possivel liquidacao antecipada, pois a controladora (Mustang) nao apresentou balancos auditados de 2025 -> 
+4) Em 31/08 negava recuperacao judicial e dizia negociar com bancos; em setembro anunciou VP (Andre Dela Togna, desde 1/10) para apoio operacional -> 
+5) 30/10: pedido de recuperacao extrajudicial, so da divida bancaria.
+Por que esta repercutindo agora: Frescor (pedido de 3 dias atras), marca muito conhecida e proxima do publico (identificacao 5/5), valor alto de divida e cobertura ampla na imprensa de negocios.
+Angulo de gestao sugerido: alavancagem x geracao de caixa. Divida cara so se sustenta se o caixa da operacao cobre as parcelas com folga; crescer na base de credito caro deixa a empresa sem margem quando o custo da divida sobe; renegociar cedo, antes de atrasar, preserva poder de negociacao; rede de franqueados saudavel depende do caixa dos franqueados tambem. Licao pratica pro dono de PME: acompanhar custo da divida vs. geracao de caixa, prazo medio da divida e nao misturar o caixa da operacao com o servico da divida.
+Dados de apoio:
+- Divida bruta R$ 216 mi (2023) e R$ 290 mi (2024) -- Times Brasil: https://timesbrasil.com.br/empresas-e-negocios/chilli-beans-veja-como-a-divida-da-empresa-evoluiu-de-2023-a-2024/
+- Parcelas de julho e agosto nao pagas somando R$ 16,5 mi -- NeoFeed: https://neofeed.com.br/negocios/com-dividas-de-r-340-milhoes-chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial/
+- Em 31/08 a empresa negava discutir recuperacao judicial -- Mercado & Consumo: https://mercadoeconsumo.com.br/31/08/2026/franquias/chilli-beans-analisa-pedido-de-recuperacao-judicial-e-anuncia-novo-ceo-diz-site/
+- Rede: cerca de 1,3 mil pontos de venda e previsao de crescer 10% em 2026 (informacao de busca, nao conferida na materia original; confirmar antes de usar).
+Ressalva/limite: 'Polemica adjacente' (3/5) pesou por causa do debate sobre juros/economia. NAO comentar politica, governo, Banco Central ou partidos; falar de juros apenas como custo de divida no caixa da empresa. Corrigir/evitar do rascunho: "~900 franquias" e "faturamento R$ 1,2 bi" NAO foram confirmados (busca aponta ~1,3 mil pontos de venda) -- nao usar; a causa "pandemia" tambem nao foi confirmada; "novo CEO" nao procede (Caito Maia segue CEO; entrou um VP). Divida: usar so os R$ 340 mi do pedido, citando a fonte; cifras de R$ 500-600 mi sao nao oficiais. Nao ha recomendacao de investimento. Franqueados nao aparecem como excluidos do plano nas fontes -- nao afirmar nada sobre eles.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve e o Copywriter do canal, secao 2.4):
+- Hook: marca conhecida pede recuperacao extrajudicial com R$ 340 mi de divida bancaria
+- Contexto/causa raiz: divida cresceu, juros encareceram, parcelas atrasadas
+- Desenvolvimento da cadeia causal: negou RJ em agosto -> atrasos -> pedido em 30/10; so bancos entram, fornecedores ficam fora
+- Licao de gestao (a virada): alavancagem x caixa; renegociar antes de atrasar
+- Fechamento + CTA
+
+Fonte(s): Correio Braziliense -- https://www.correiobraziliense.com.br/economia/2026/10/7531475-chilli-beans-pede-recuperacao-extrajudicial.html ; Exame -- https://exame.com/negocios/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-divida-de-r-340-milhoes/ ; NeoFeed -- https://neofeed.com.br/negocios/com-dividas-de-r-340-milhoes-chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial/ ; Times Brasil -- https://timesbrasil.com.br/brasil/chilli-beans-protocola-recuperacao-extrajudicial-e-preve-aporte-de-ate-r-50-milhoes/
+
+Runners-up do dia (registro/transparencia):
+- Copom 3-4/11: fim do ciclo de cortes da Selic -- 24/35 (inelegivel: ja foi pauta de 31/10)
+- Onda de fechamento de fabricas (Parker Hannifin, Karsten, Nova Motores) -- 19/35
+- PMI industrial do Brasil em contracao (set/26: 44,8) -- 18/35
