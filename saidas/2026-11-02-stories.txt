@@ -1,0 +1,33 @@
+ROTEIRO 1 -- Metade do preço, mesmo patamar
+"A OpenAI lançou em 26 de outubro o GPT-6.1 Terra. 🟡`Custa US$ 1 por milhão de tokens de entrada e US$ 5 de saída, metade do preço do GPT-6.1 Sol,`🟡 segundo a imprensa de tecnologia. A própria OpenAI diz que ele entrega desempenho de um modelo de topo anterior por cerca de um décimo do preço, número da fabricante, sem teste independente. 🟡`Quem espera o preço da IA cair para começar a testar já está atrasado: a vantagem está em aprender enquanto o insumo está barato.`🟡 Quanto da sua rotina já passou por um teste?"
+Fonte: AI Weekly -- https://aiweekly.co/alerts/openai-ships-gpt-61-terra-at-15-per-million-half-of-sol
+
+ROTEIRO 2 -- Dizer não a US$ 4 bilhões
+"A Upwind, startup de segurança em nuvem, levantou US$ 400 milhões numa Série C com avaliação de US$ 3,8 bilhões, liderada pela Bessemer, segundo a TechCrunch. Reportagens dizem que ela recusou uma oferta da Datadog de cerca de US$ 4 bilhões; a empresa não confirma, e há quem fale em valor igual ao da rodada. 🟡`A receita quadruplicou desde o início do ano, segundo a própria empresa.`🟡 🟡`Recusar uma compra só faz sentido se você sabe o número que justifica esperar.`🟡 Você sabe o seu?"
+Fonte: TechCrunch -- https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer
+
+ROTEIRO 3 -- Pouca gente sobrando
+"Falei na semana passada de recorde de empresas inadimplentes, e agora o desemprego cai. Não há contradição: uma pesquisa mede pessoas, a outra, CNPJs. Segundo o IBGE, 🟡`o desemprego caiu para 5,2% no trimestre até setembro, contra 5,4% até junho, com 103,6 milhões de pessoas ocupadas, o maior número da série.`🟡 É o menor para um trimestre encerrado em setembro desde 2012. 🟡`Com pouca gente desocupada, quem paga abaixo do mercado perde o funcionário.`🟡 Seu salário está no nível do mercado?"
+Fonte: Itatiaia (dados do IBGE) -- https://www.itatiaia.com.br/economia/desemprego-cai-para-52-e-atinge-menor-nivel-para-setembro-aponta-ibge/
+
+ROTEIRO 4 -- Usar IA é o novo "temos site"
+"Segundo pesquisa do programa 10.000 Small Businesses, do Goldman Sachs, com cerca de 2.400 ex-alunos, 86% das pequenas empresas usam IA, contra 56% em 2024. Atenção: a amostra é do próprio programa do banco, que também vende essa agenda. 🟡`Só cerca de 15% dizem ter a IA integrada ao núcleo da operação,`🟡 e 73% de quem usa gasta menos de US$ 100 por mês. 🟡`Dizer que usa IA virou o novo 'temos site': quase todos usam, quase ninguém mudou o processo.`🟡 E você, mudou algum processo?"
+Fonte: Fortune -- https://fortune.com/2026/10/23/david-solomon-frontier-models-not-needed-small-business/
+
+ROTEIRO 5 -- Recorde de margem, lucro menor
+"A Amazon bateu recorde de margem operacional no terceiro trimestre: 13,9%, a maior da história, segundo a própria empresa. Mesmo assim, o lucro líquido caiu de US$ 21,2 bilhões para US$ 20,7 bilhões, porque no ano passado entrou um ganho de US$ 9,5 bilhões com a aposta na Anthropic. 🟡`O lucro final pode cair mesmo com margem recorde, quando o ano anterior trazia o ganho de uma aposta.`🟡 Olhe o que vem da operação. Qual número você mira no seu DRE: margem, lucro final ou caixa?"
+Fonte: Amazon (release de resultados) -- https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/
+
+ROTEIRO 6 -- Cresceu 14%, cortou 9%
+"A eBay cresceu: no terceiro trimestre a receita subiu 14%, para US$ 3,2 bilhões, segundo o balanço. E em outubro anunciou o corte de cerca de 9% do quadro, perto de mil vagas, a segunda rodada do ano, segundo memo do CEO divulgado pela Reuters. 🟡`Cresceu 14% e demitiu 9% pela segunda vez no ano.`🟡 🟡`Corte virou ferramenta de rotina de quem está ganhando.`🟡 Seu time está dimensionado para o negócio que você tem ou para o que tinha?"
+Fonte: The Next Web -- https://thenextweb.com/news/ebay-layoffs-9-percent-second-round
+
+ROTEIRO 7 -- Melhorou contra um ano ruim
+"A Stellantis 'reduziu o prejuízo em 90%' no terceiro trimestre: 453 milhões de euros, contra 4,5 bilhões um ano antes. Mas a base do ano passado estava inflada por baixas contábeis. 🟡`A margem operacional ajustada foi de 0,7%, e o caixa industrial queimou cerca de 4 bilhões de euros.`🟡 🟡`Melhorar contra um ano ruim não é dar lucro.`🟡 O seu 'melhorou' é contra o ano passado ou contra a meta?"
+Fonte: Il Sole 24 Ore -- https://en.ilsole24ore.com/art/stellantis-q3-loss-reduced-by-90-per-cent-to-453-million-revenue-up-1-per-cent-to-3761-billion-AJy2zVwB
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] Sua empresa usa IA hoje? A) Só uso pontual B) Já mudei um processo inteiro
+2. [Pergunta/Participacao, Roteiro 3] Caixinha: hoje está mais difícil contratar ou reter gente na sua empresa? Conta o que você mudou pra segurar o time.
+3. [Virar Historia, Roteiro 5 -> Estilo Quadro Branco] Desenhar no quadro três linhas (margem, lucro final, caixa) e ir riscando qual delas caiu: mostra na hora que um mesmo trimestre conta três histórias diferentes.
