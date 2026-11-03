@@ -1,0 +1,33 @@
+RASCUNHO -- RADAR DE REPERCUSSAO 2026-11-03
+Obs.: dia com poucos fatos novos verificaveis em fonte primaria (sandbox bloqueou varios sites; fatos confirmados via buscas/snippets de InfoMoney, Migalhas, BNews). Winner = melhor pauta nao repetida nos ultimos 10 dias.
+
+CANDIDATO 1 -- Kitchens (moveis planejados de luxo) pede recuperacao judicial: cliente pagou adiantado e nao recebeu
+Fato: Kitchens (fundada em 1964) e 3 empresas do grupo pediram RJ em 28-29/10/2026, valor da causa ~R$ 299,8 mi, 3a Vara de Falencias e RJ de SP (distribuido; aguarda despacho). Motivos: atrasos em entregas e ao menos 133 acoes judiciais em 2026 (SP, MG, CE, DF); lojas fechadas (ex.: Fortaleza, acao de despejo). Empresa diz que faz diagnostico da carteira de pedidos e so divulgara novos prazos quando puder garantir. Exemplo: projeto de R$ 590 mil com montagem prevista p/ outubro, feita so em dezembro.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/kitchens-de-moveis-planejados-pede-recuperacao-judicial-diz-site/
+Fontes complementares: Migalhas -- https://www.migalhas.com.br/quentes/467520/com-atrasos-em-entregas-e-centenas-de-acoes-kitchens-pede-recuperacao ; BNews -- https://www.bnews.com.br/noticias/economia-e-mercado/tradicional-fabricante-de-moveis-de-luxo-pede-recuperacao-judicial-com-divida-de-quase-r-300-milhoes.html ; Diario do Nordeste (fechamento Fortaleza) -- https://diariodonordeste.verdesmares.com.br/negocios/crise-da-kitchens-loja-de-luxo-em-fortaleza-fecha-apos-sofrer-acao-de-despejo-e-atrasar-entregas-1.3796973
+Angulo sugerido (Etapa 2): dinheiro do sinal do cliente financiando o caixa da operacao -> atraso na entrega -> acoes -> perda de credito -> RJ. Licao de gestao: nao usar adiantamento de cliente como capital de giro; casar carteira de pedidos com capacidade de producao.
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5 (juro alto/crise de varejo e moveis; NAO comentar politica)
+- Volume de cobertura: 3/5
+- Clareza do angulo: 5/5
+- Identificacao com audiencia: 5/5
+TOTAL: 25/35
+Status: VENCEDOR DO DIA (melhor pauta nao repetida; fator Polemica adjacente baixo, sem necessidade de cautela politica especial)
+
+CANDIDATO 2 -- Ibovespa na pior semana desde 2020 + Copom quarta (04/11): efeito em PME
+Fato: semana encerrada em 30/10 com Ibovespa -18,12% (167.921 pts), dolar +9,04% (R$ ~5,446); B3 reabre 03/11; Copom na quarta. Fonte (snippet, nao confirmada em fonte primaria): paranashop -- https://paranashop.com.br/post/bolsa-da-semana-02-11-2026
+ATENCAO: assunto ja coberto neste pipeline em 26/10, 27/10 e 31/10 (repeticao nos ultimos 10 dias) -> descartado como vencedor.
+Score: Frescor 5, Relevancia 4, Gravidade 4, Polemica 5, Volume 5, Clareza 3, Identificacao 4
+TOTAL: 30/35
+Status: runner-up (inelegivel por repeticao)
+
+CANDIDATO 3 -- Netflix corta ~1.000 vagas (6% do quadro), maior corte desde 2022
+Fato: anunciado em 14/10/2026 (memorando dos co-CEOs; areas de produto, tecnologia, juridico e RH); acoes -25% em 2026, previsao anual mantida. Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/10/netflix-demite-cerca-de-6-dos-funcionarios-em-maior-corte-desde-2022/ ; Bloomberg Linea (02/11, crise de estrategia) -- https://www.bloomberglinea.com.br/2026/11/02/netflix-enfrenta-crise-de-identidade-e-pressao-para-rever-estrategia-de-lancamentos/
+Score: Frescor 2, Relevancia 5, Gravidade 3, Polemica 1, Volume 3, Clareza 3, Identificacao 2
+TOTAL: 19/35
+Status: runner-up
+
+CANDIDATO 4 -- Chilli Beans / Marabraz / Casas Bahia (RJ) -- ja cobertos em 02/11, 29/10 e 24/10; nao pontuados.
