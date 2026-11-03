@@ -1,0 +1,33 @@
+ROTEIRO 1 -- Agente de IA sem prova
+"A Sprinklr abriu o beta de seis agentes de IA de marketing: ideação, criativo, execução de campanha, compliance, comunidade e orçamento, sempre com aprovação humana. Segundo o release da própria empresa, a promessa é transformar briefing em campanha. 🟡`Só que não há preço, cliente nomeado nem data de lançamento geral, e o produto é enterprise.`🟡 Pra mim, 🟡`quando o fornecedor só entrega promessa, entrar agora é virar cobaia.`🟡 Teste pequeno, com número seu, antes de pagar. Você já testou agente de IA no marketing?"
+Fonte: CMSWire -- https://www.cmswire.com/customer-experience/sprinklr-launches-6-marketing-ai-agents-in-beta/
+
+ROTEIRO 2 -- Comprar o fornecedor custa caro
+"A Marvell vai comprar a Lumentum por cerca de US$ 115 bilhões, incluindo dívida, tudo em ações: cada ação da Lumentum vira 4,5 da Marvell, com prêmio de 23,9%. Segundo a Forbes Brasil, a ideia é controlar um fornecedor crítico dos data centers de IA. 🟡`O mercado não gostou: a Marvell caiu cerca de 13%.`🟡 Pra mim, 🟡`comprar o fornecedor pode proteger a margem, mas diluir o acionista é o preço`🟡, e o negócio só fecha no primeiro semestre de 2028. Você compraria o seu fornecedor?"
+Fonte: Forbes Brasil -- https://forbes.com.br/geral/2026/11/marvell-compra-lumentum-em-negocio-de-us115-bilhoes-em-aposta-no-mercado-de-data-centers-para-ia/
+
+ROTEIRO 3 -- Quem não repassa financia o fornecedor
+"O IGP-M de outubro subiu 1,47%, segundo a FGV, e acumula 5,24% em 12 meses. O detalhe está dentro do índice: 🟡`o atacado, o IPA, subiu 1,93%, enquanto o preço ao consumidor, o IPC, subiu só 0,45%.`🟡 Pra mim, é o custo de quem vende pra você correndo bem acima do que o cliente aceita pagar. 🟡`Quem não repassa o atacado na tabela está financiando o fornecedor com a própria margem.`🟡 Quando foi a última vez que você revisou seus preços?"
+Fonte: FGV -- https://portal.fgv.br/noticias/igp-m-outubro-2026
+
+ROTEIRO 4 -- Prazo longo é armadilha
+"Se o seu CNPJ tem dívida ativa, a PGFN prorrogou a adesão à transação até 29 de janeiro de 2027, às 19h. O Desenrola MEI cobre dívidas de até R$ 20 mil, com desconto de até 70% sobre juros, multas e encargos, e a adesão é pelo portal Regularize. 🟡`Prazo longo é justamente o que faz o empresário deixar pra depois.`🟡 Enquanto isso, os juros correm e a certidão negativa fica bloqueada. Confere o edital e resolve em novembro, não em janeiro. Qual dívida você anda adiando?"
+Fonte: PGFN -- https://www.gov.br/pgfn/pt-br/servicos/orientacoes-contribuintes/acordo-de-transacao
+
+ROTEIRO 5 -- Recorde de receita, margem menor
+"A Apple reportou receita recorde de US$ 114,5 bilhões no trimestre, alta de 12%, no primeiro balanço sob o novo CEO, John Ternus. Segundo o release na SEC, o ano fiscal fechou perto de US$ 479 bilhões. Mas a própria Apple tinha avisado que a margem bruta ficaria perto de 46,5%, contra 48,1%, por causa do custo de memória. Pra mim, 🟡`sucessão planejada com a empresa no auge é o que separa transição de crise.`🟡 E 🟡`receita recorde não é margem recorde.`🟡 Sua margem acompanha o faturamento?"
+Fonte: Apple (SEC 8-K) -- https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm
+
+ROTEIRO 6 -- Crescer em ponto não é crescer em caixa
+"A Chilli Beans pediu recuperação extrajudicial para renegociar R$ 340 milhões em dívidas, em sua maioria bancárias, segundo a Exame. O plano prevê aporte de até R$ 50 milhões bancado pelos próprios credores e ainda precisa de homologação. Segundo a empresa, a crise vem de juros altos e inadimplência de franqueados, numa rede de cerca de 900 franquias. Pra mim, 🟡`crescer em número de pontos não é crescer em caixa.`🟡 Você sabe quanto da sua dívida vence este ano?"
+Fonte: Exame -- https://exame.com/negocios/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-divida-de-r-340-milhoes/
+
+ROTEIRO 7 -- Encolher pra focar
+"A Starbucks fechou 250 lojas no trimestre, passou a operação da China para um parceiro, a Boyu Capital, e a receita caiu 4%, para US$ 9,1 bilhões. Mesmo assim, 🟡`as vendas comparáveis globais cresceram 7,2%, segundo o release da empresa, e o lucro por ação ajustado subiu 54%, para US$ 0,80.`🟡 Pra mim, 🟡`encolher pra focar pode ser estratégia, não sintoma.`🟡 Menos lojas, mais venda por loja. Qual unidade do seu negócio dá menos retorno?"
+Fonte: Starbucks (SEC 8-K) -- https://www.sec.gov/Archives/edgar/data/0000829224/000082922426000154/sbux-09272026xearningsrele.htm
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] "Seu fornecedor subiu o preço este ano. Você já repassou pro cliente? Sim / Ainda não"
+2. [Pergunta/Participacao, Roteiro 4] Caixinha de pergunta: "Você tem dívida ou parcelamento que está empurrando com a barriga? Conta aqui o motivo (pode ser sem se identificar)"
+3. [Virar Historia, Roteiro 7 -> Estilo Comparativo] Receita -4% de um lado, vendas comparáveis +7,2% e lucro por ação +54% do outro: o contraste lado a lado mostra que menos receita pode vir com negócio mais saudável.
