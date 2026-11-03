@@ -1,0 +1,40 @@
+PAUTA DO DIA -- 2026-11-03
+Assunto: Kitchens (moveis planejados de luxo) pede recuperacao judicial: cliente pagou adiantado e nao recebeu
+Score final: 25/35 (Frescor 3/5, Relevancia do protagonista 3/5, Gravidade 4/5, Polemica adjacente 2/5, Volume de cobertura 3/5, Clareza do angulo 5/5, Identificacao com audiencia 5/5)
+
+Fato central verificado: A Kitchens (fundada em 1964, ~20 lojas segundo o site oficial) e outras empresas do grupo (4 no total, segundo Migalhas/InfoMoney) pediram recuperacao judicial no TJ/SP, na 3a Vara de Falencias e Recuperacoes Judiciais do Foro Central Civel. Valor da causa/divida: quase R$ 300 mi (BNews: R$ 299,8 mi). O pedido depende de analise do juizo. Motivos: atrasos nas entregas e ao menos 133 acoes judiciais so em 2026 (contagem do Migalhas). A empresa reconheceu os atrasos e diz fazer diagnostico da operacao e de toda a carteira de pedidos em aberto, divulgando novas datas so quando puder garanti-las. Exemplo documentado: acao de cliente por atraso em projeto de R$ 590,3 mil.
+VERIFICACAO: titulo/numeros conferidos via WebSearch em InfoMoney, Migalhas, BNews, Juristas e Diario do Nordeste. WebFetch direto bloqueado pela rede (migalhas.com.br e infomoney.com.br nao resolvem), entao a leitura integral das materias nao foi possivel. DIVERGENCIA nao resolvida: data do pedido (28/10 distribuicao segundo BNews; 29/10 segundo InfoMoney/Migalhas) -- no video, falar "no fim de outubro".
+
+Cadeia causal (o que levou a isso): Modelo de negocio recebe sinal/adiantamento do cliente e entrega meses depois -> o dinheiro do cliente passa a financiar a producao e o caixa (leitura do Migalhas: "os proprios consumidores financiam a producao") -> a entrega atrasa (dificuldades financeiras e operacionais, reconhecidas pela empresa em defesa judicial) -> clientes pedem rescisao e devolucao na Justica (133+ acoes em 2026) e lojas fecham (ex.: showroom de Fortaleza, acao de despejo com divida de ~R$ 104 mil em aluguel e honorarios) -> confianca cai, novos adiantamentos secam, que era a principal fonte de caixa -> recuperacao judicial.
+OBS: as causas internas exatas (por que a empresa chegou ao aperto de caixa) nao foram verificadas em fonte; apresentar a cadeia como mecanismo do modelo de adiantamento, nao como diagnostico confirmado da empresa.
+
+Por que esta repercutindo agora: Frescor (pedido de RJ recente, fim de outubro), Gravidade (quase R$ 300 mi e centenas de clientes que pagaram e nao receberam), Clareza do angulo (mecanismo simples de entender) e Identificacao com audiencia (todo dono de PME que recebe sinal ou vende sob encomenda).
+
+Angulo de gestao sugerido: Nao usar adiantamento de cliente como capital de giro; tratar o sinal como obrigacao a entregar, nao como receita livre. Casar a carteira de pedidos com a capacidade real de producao e acompanhar prazo de entrega como indicador de saude do caixa. Comunicar atraso cedo ao cliente, antes que vire acao judicial.
+
+Dados de apoio:
+- 133 acoes judiciais em 2026 (contagem do Migalhas) -- https://www.migalhas.com.br/quentes/467520/com-atrasos-em-entregas-e-centenas-de-acoes-kitchens-pede-recuperacao
+- Projeto de R$ 590,3 mil com pedido de danos morais por atraso; showroom de Fortaleza fechado apos acao de despejo (~R$ 104 mil) -- https://diariodonordeste.verdesmares.com.br/negocios/crise-da-kitchens-loja-de-luxo-em-fortaleza-fecha-apos-sofrer-acao-de-despejo-e-atrasar-entregas-1.3796973
+- Valor da causa R$ 299,8 mi, 3a Vara de Falencias e RJ -- https://www.bnews.com.br/noticias/economia-e-mercado/tradicional-fabricante-de-moveis-de-luxo-pede-recuperacao-judicial-com-divida-de-quase-r-300-milhoes.html
+- Fundacao 1964, ~20 lojas (informado pela propria empresa no site) -- Diario do Nordeste, link acima
+- Do rascunho (nao reconfirmados no fact-check): acoes tambem em MG, CE, DF.
+
+Ressalva/limite: O pedido ainda nao foi deferido; nao afirmar que a empresa "faliu". Nao especular sobre causas internas nem sobre o resultado do processo. Falar da empresa de forma factual (ha defesa/posicionamento dela). Fator Polemica adjacente (juro alto/crise do varejo e de moveis) pesou pouco, mas lembrete: NAO comentar politica, governo, juros como disputa politica nem partidos; foco so no efeito pratico de gestao. Nao dar recomendacao de investimento nem orientar o consumidor juridicamente.
+
+Estrutura sugerida pro roteiro (referencia; o roteiro final e do Copywriter, secao 2.4, adaptado pra duracao maior):
+- Hook: conflito especifico -- "Uma empresa de 60 anos recebeu o dinheiro do cliente e nao entregou o movel. Agora pediu recuperacao judicial com quase R$ 300 milhoes em dividas."
+- Contexto/causa raiz: modelo de sinal antecipado e quem financia quem
+- Desenvolvimento da cadeia causal: adiantamento vira caixa -> atraso -> acoes -> perda de confianca -> sem novo adiantamento -> RJ
+- Licao de gestao (a virada): sinal de cliente e obrigacao, nao capital de giro; casar pedidos com capacidade
+- Fechamento + CTA
+
+Fonte(s):
+- InfoMoney -- https://www.infomoney.com.br/mercados/kitchens-de-moveis-planejados-pede-recuperacao-judicial-diz-site/
+- Migalhas -- https://www.migalhas.com.br/quentes/467520/com-atrasos-em-entregas-e-centenas-de-acoes-kitchens-pede-recuperacao
+- BNews -- https://www.bnews.com.br/noticias/economia-e-mercado/tradicional-fabricante-de-moveis-de-luxo-pede-recuperacao-judicial-com-divida-de-quase-r-300-milhoes.html
+- Diario do Nordeste -- https://diariodonordeste.verdesmares.com.br/negocios/crise-da-kitchens-loja-de-luxo-em-fortaleza-fecha-apos-sofrer-acao-de-despejo-e-atrasar-entregas-1.3796973
+
+Runners-up do dia (registro/transparencia):
+- Ibovespa na pior semana desde 2020 + Copom (04/11): efeito em PME -- 30/35 (inelegivel: ja coberto em 26/10, 27/10 e 31/10)
+- Netflix corta ~1.000 vagas (6% do quadro) -- 19/35
+- Chilli Beans / Marabraz / Casas Bahia (RJ) -- nao pontuados (ja cobertos em 02/11, 29/10 e 24/10)
