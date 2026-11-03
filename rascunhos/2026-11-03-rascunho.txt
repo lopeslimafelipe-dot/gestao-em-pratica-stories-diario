@@ -1,0 +1,79 @@
+RASCUNHO 2026-11-03 (Etapa 1) -- 8 itens. Verificacao por trechos de busca (WebFetch bloqueado); Etapa 2 deve re-conferir.
+
+ITEM 1 -- Sprinklr abre beta de 6 agentes de IA de marketing
+Categoria: Tecnologia
+Fato: Em 27/10/2026 a Sprinklr abriu o beta do "Sprinklr Marketing AI Agents": 6 agentes (ideacao, criativo, execucao de campanha, compliance, engajamento de comunidade e otimizacao de orcamento), usaveis separados ou juntos, com aprovacao humana nas decisoes-chave. Abriu tambem o beta do Sprinklr MCP, que conecta dados da empresa a ChatGPT, Claude e Microsoft Copilot. Sem data de disponibilidade geral; segundo um veiculo, sem dados de teste publicados.
+Fonte: Sprinklr (release) -- https://www.sprinklr.com/newsroom/sprinklr-launches-marketing-ai-agents-beta-to-help-enterprise-marketers-move-from-insight-to-action/ ; PPC Land -- https://ppc.land/sprinklr-opens-beta-of-six-ai-agents-that-turn-briefs-into-campaigns/ ; CMSWire -- https://www.cmswire.com/customer-experience/sprinklr-launches-6-marketing-ai-agents-in-beta/ ; IT Brief -- https://itbrief.co.uk/story/sprinklr-launches-marketing-ai-agents-beta-for-teams
+Relevancia: Mostra pra onde caminha a automacao de marketing: agentes encadeados do briefing a campanha, com humano aprovando. Util pra qualquer gestor decidir quando entrar em ferramenta de IA.
+Ressalva tecnica: Verificacao por trechos. Produto enterprise (nao PME), sem preco e sem prova de resultado; acesso via account team. Fonte comercial (release do fornecedor).
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Agentes que prometem transformar briefing em campanha ja existem, mas o fornecedor nao publicou um unico dado de teste nem data de lancamento geral: 6 agentes, so beta, zero prova. Quem entra agora paga pra ser cobaia?
+
+ITEM 2 -- Marvell compra Lumentum por ~US$ 115 bi em acoes
+Categoria: Noticia de empresa
+Fato: Em 02/11/2026 Marvell e Lumentum anunciaram acordo definitivo 100% em acoes: cada acao da Lumentum vira 4,5 acoes da Marvell; valor implicito (EV) ~US$ 115 bi, ~US$ 1.132 por acao, premio de ~23,9% sobre 28/10. Acionistas da Marvell ficam com ~67% e os da Lumentum com ~33%. Sinergias de custo de mais de US$ 1 bi/ano; acretivo ao lucro por acao no 1o ano. Fechamento previsto para o 1o semestre de 2028. A Bloomberg ja havia noticiado as conversas em 28/10 e a Marvell caiu ~13% em 29/10.
+Fonte: Forbes Brasil -- https://forbes.com.br/geral/2026/11/marvell-compra-lumentum-em-negocio-de-us115-bilhoes-em-aposta-no-mercado-de-data-centers-para-ia/ ; BP Money -- https://bpmoney.com.br/inovacao/inteligencia-artificial/marvell-compra-lumentum-115-bilhoes-acoes-mercado-ia/ ; SpaceMoney -- https://www.spacemoney.com.br/tecnologia/marvell-lumentum-aquisicao-115-bilhoes ; SEC 8-K (Lumentum) -- https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm ; Yahoo Finance -- https://finance.yahoo.com/markets/stocks/article/marvell-to-purchase-lumentum-in-115-billion-deal-as-ai-124702761.html
+Relevancia: Grande M&A de integracao vertical (comprar o fornecedor critico) ligado ao boom de data centers de IA; licao de como o mercado reage ao comprador.
+Ressalva tecnica: Verificacao por trechos. Um FAQ interno (Form 425) cita ~US$ 100 bi, divergindo do ~US$ 115 bi da imprensa. Afirmacao de "maior fusao entre listadas" nao confirmada (nao usar). Sem Reuters/Valor/Exame nos resultados.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: O mercado puniu o comprador (Marvell -13% no vazamento) por pagar 23,9% de premio, em acoes, por um fornecedor. Integracao vertical ou diluicao? Comprar o fornecedor critico pode proteger a margem, mas o fechamento so sai em 2028.
+
+ITEM 3 -- IGP-M de outubro sobe 1,47%; atacado corre acima do consumidor
+Categoria: Macroeconomia-indice
+Fato: IGP-M +1,47% em outubro (setembro: +1,57%); acumulado em 12 meses 5,24%. IPA (peso 60%) +1,93%; IPC (30%) +0,45%; INCC (10%) +0,35%. Coleta de 21/09 a 20/10/2026. Divulgado pela FGV em 29/10/2026.
+Fonte: Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/10/1268666-igp-m-sobe-147-em-outubro-ante-elevacao-de-157-em-setembro.html ; Paraiba Business -- https://paraibabusiness.com.br/igp-m-desacelera-para-147-em-outubro-e-acumula-524-em-12-meses-informa-fgv/ ; BP Money -- https://bpmoney.com.br/?p=431886
+Relevancia: O IGP-M reajusta aluguel e contratos; a diferenca entre preco no atacado e no consumidor mostra pressao de custo sobre a margem de quem vende.
+Ressalva tecnica: Comunicado oficial da FGV nao apareceu nos resultados; 3 veiculos concordam nos numeros.
+Possivel contradicao com roteiro anterior: nenhuma (IPCA-15 de 30/10 mede preco ao consumidor; IGP-M mede atacado+consumo+construcao, metodologia diferente)
+Tese de gancho sugerida: O custo de quem vende pra voce (IPA +1,93%) corre bem acima do preco ao consumidor (IPC +0,45%). Quem nao repassa o atacado na tabela esta financiando o fornecedor com a propria margem.
+
+ITEM 4 -- McKinsey: medo de demissao por IA foi 2,3x maior que a realidade
+Categoria: Tendencia internacional (grande consultoria -- McKinsey)
+Fato: Segundo grafico da McKinsey (pesquisa Global Survey "State of AI"), 32% dos respondentes esperavam que a IA reduzisse o quadro de funcionarios no ano seguinte; um ano depois, so 14% (dos que usam IA) relataram reducao real. Para o proximo ano, 39% esperam cortes e 43% esperam pouca ou nenhuma mudanca (esses dois ultimos numeros vem de resumos secundarios).
+Fonte: McKinsey -- https://www.mckinsey.com/featured-insights/charts/ai-job-losses-fall-short-of-forecasts ; Quasa.io (resumo, 39%) -- https://quasa.io/de/media/39-prozent-erwarten-ki-stellenabbau-im-vorjahr-trat-er-weit-seltener-ein
+Relevancia: Contrapoe o discurso de demissao em massa por IA com dado de pesquisa; ajuda o gestor a decidir com base em fato e nao em medo.
+Ressalva tecnica: ATENCAO DATA: o grafico cita campo de 25/06 a 29/07/2025 e aponta para o relatorio "The state of AI in 2026: On the road to ROI" (25/08/2026); a pagina do grafico nao mostra data de publicacao, entao pode estar FORA da janela de 2 semanas -- Etapa 2 deve checar a data e descartar se for velho. 14% e autodeclarado, nao contagem independente de demissoes. Pode conflitar em tom com a pauta de 30/10 (McKinsey 11 mi trabalhadores 2035) -- sao estudos distintos.
+Possivel contradicao com roteiro anterior: Parcial, com o item McKinsey/Fortune de 30/10 (11 mi de trabalhadores mudando de ocupacao ate 2035): aquele e projecao MGI de longo prazo sobre ocupacoes; este e pesquisa de percepcao vs. relato real de corte de quadro no ultimo ano. Nao se contradizem.
+Tese de gancho sugerida: O medo da demissao em massa por IA foi 2,3x maior que a realidade (32% esperavam, 14% viram). O risco real nao e a IA tirar vagas: e ficar parado enquanto o concorrente muda o processo.
+
+ITEM 5 -- Desenrola MEI / PGFN: adesao ate 29/01/2027
+Categoria: Prazo de Acao (Oportunidade)
+Fato: O Edital PGDAU 10/2026 (DOU de 01/10/2026) prorrogou os editais 6, 8 e 9/2026 (prazo original 30/09/2026). Data-limite: 29/01/2027, 19h (Brasilia). Edital 9/2026 (Desenrola MEI): divida ativa de ate R$ 20 mil, descontos de ate 70%. Edital 6/2026 (divida ativa geral, ate R$ 45 mi por contribuinte): mesmo prazo. Adesao exclusivamente pelo portal Regularize; quem tem acordo anterior precisa desistir antes.
+Fonte: PGFN (edital 9) -- https://www.gov.br/pgfn/pt-br/assuntos/noticias/arquivos/2026/sei_62296535_edital_9.pdf ; NetCPA -- https://netcpa.com.br/noticias/tributos-e-contribuicoes-federaisprevidenciaria-pgfn-prorroga-prazos-para-adesao-aos-editais-de-transacao-por-adesao-nos-6-8-e-9-de-2026/25393 ; Fenacon -- https://fenacon.org.br/noticias/pgfn-prorroga-editais-para-regularizar-pendencias-com-divida-ativa-da-uniao/ ; Sindifisco-MS -- https://www.sindifisco-ms.org.br/pgfn-amplia-prazo-para-adesao-a-transacoes-tributarias-ate-janeiro-de-2027/ ; O Povo -- https://www.opovo.com.br/noticias/economia/2026/10/01/como-renegociar-debitos-do-mei-com-50-de-desconto.html
+Relevancia: Janela longa de renegociacao de divida ativa com desconto; a distancia do prazo faz muita gente adiar, enquanto juros correm e a CND fica bloqueada.
+Ressalva tecnica: Texto do DOU nao aberto; so trecho do edital 9. Datas consistentes entre varias fontes, mas percentuais de desconto variam (50% a 70%) e o "Desenrola MEI Pequeno Valor" (ate R$ 8.105) aparece com fim em 29/01 ou 31/01/2027: nao usar percentual/data alem de 29/01/2027 sem checar o edital.
+Possivel contradicao com roteiro anterior: nenhuma (prazos de 03/11-20/12 e 09/11 publicados antes sao de outros programas)
+Tese de gancho sugerida: Voce tem ate 29/01/2027 pra limpar a divida ativa do CNPJ com desconto de ate 70%. Prazo longo e justamente o que faz o empresario deixar pra depois, e cada mes de espera e mais juros e CND bloqueada.
+
+ITEM 6 -- Apple: receita recorde de US$ 114,5 bi no primeiro balanco sob o CEO John Ternus
+Categoria: Empresa global reconhecida
+Fato: Em 02/11/2026 a Apple reportou receita de US$ 114,5 bi no 4T fiscal (+12%; consenso ~US$ 113,39 bi), iPhone US$ 57,6 bi (+17%), Services US$ 31,6 bi (+10%, recorde, margem bruta de servicos 76%), LPA diluido US$ 2,10 (+14%). Ano fiscal: US$ 478,8 bi (+15%). Ternus assumiu como CEO em 01/09/2026 (Tim Cook virou presidente executivo). A Apple havia guiado margem bruta de 46,5% (vs 48,1%) por custo de memoria DRAM.
+Fonte: 9to5Mac -- https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/ ; The Desk -- https://thedesk.net/2026/11/apple-fiscal-q4-2026-earnings-report/ ; Quartz -- https://qz.com/apple-q4-earnings-record-revenue-beats-estimates-110226 ; Six Colors -- https://sixcolors.com/post/2026/11/hello-everyone-its-john-apples-q4-2026-earnings-call-transcript/ ; SEC 8-K -- https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000024/a8-kex991q4202609262026.htm
+Relevancia: Transicao de CEO planejada com a empresa no auge, e o custo de componente apertando a margem mesmo com receita recorde.
+Ressalva tecnica: 8-K so confirmou "recorde" e ~US$ 479 bi no trecho; detalhes de iPhone/Services/LPA vem de fontes secundarias (4 veiculos concordam na receita). Trecho estranho sobre "oito dias de vendas do iPhone 18 Pro": nao usar. Atribuicao da frase do release (Ternus x Cook) varia.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A Apple bateu recorde de US$ 114,5 bi trocando de CEO no meio do caminho: sucessao planejada com a empresa no auge e o que separa transicao de crise. E atencao: receita recorde nao e margem recorde, o custo do fornecedor (margem prevista 46,5% vs 48,1%) come o resultado.
+
+ITEM 7 -- Chilli Beans pede recuperacao extrajudicial para renegociar R$ 340 mi
+Categoria: Reestruturacao-corte-fechamento
+Fato: Em 30/10/2026 a Chilli Beans protocolou pedido de recuperacao extrajudicial para renegociar R$ 340 milhoes em dividas, majoritariamente bancarias. O plano preve aporte de ate R$ 50 mi financiado pelos proprios credores (Itau, Akron e Vega citados como ancora); fornecedores e funcionarios ficam fora do plano. Caito Maia segue CEO e avalista. A empresa atribui a crise a juros altos e inadimplencia de franqueados (22% no pos-pandemia, hoje ~4%). Cerca de 900 franquias e presenca em mais de 14 paises; em ago/set a empresa negou que analisava recuperacao judicial e trocou o CEO.
+Fonte: Exame -- https://exame.com/negocios/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-divida-de-r-340-milhoes/ ; NeoFeed -- https://neofeed.com.br/negocios/com-dividas-de-r-340-milhoes-chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial/ ; Correio Braziliense -- https://www.correiobraziliense.com.br/economia/2026/10/7531475-chilli-beans-pede-recuperacao-extrajudicial.html ; Metropoles -- https://www.metropoles.com/brasil/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes ; Times Brasil -- https://timesbrasil.com.br/brasil/chilli-beans-protocola-recuperacao-extrajudicial-e-preve-aporte-de-ate-r-50-milhoes/
+Relevancia: Marca conhecida de varejo/franquia mostra o risco de expansao financiada por divida com juro alto.
+Ressalva tecnica: Sem comunicado oficial da empresa nos resultados (5+ veiculos concordam em R$ 340 mi). E recuperacao EXTRAJUDICIAL (nao judicial), ainda precisa de homologacao. Faturamento diverge entre fontes (~R$ 1 bi em 2025 x R$ 940 mi esperado em 2026); divida chegou a ser citada perto de R$ 600 mi no fim de 2025 pelo NeoFeed: nao usar faturamento/divida alternativa sem checar. Sem numero de demissoes/lojas.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A marca que abre loja todo mes pede socorro aos bancos: R$ 340 mi de divida, ~900 franquias, e meses antes negava crise. Crescer em numero de pontos nao e crescer em caixa.
+
+ITEM 8 -- Starbucks fecha 250 lojas, cede a China a parceiro e ainda cresce vendas 7,2%
+Categoria: Livre (case de empresa global)
+Fato: No 4T/ano fiscal 2026 (29/10/2026): receita consolidada -4% (US$ 9,1 bi) pela transferencia da China a joint venture com a Boyu Capital (Starbucks fica com 40%); receita internacional -37% (US$ 1,3 bi). Vendas comparaveis globais +7,2% (consenso ~6%), America do Norte +7,9%. LPA nao-GAAP US$ 0,80 (+54%); GAAP US$ 0,59. 250 lojas fechadas no trimestre no plano "Back to Starbucks". Guia FY27: receita ~-1%, comparaveis NA +4%.
+Fonte: Starbucks (SEC) -- https://www.sec.gov/Archives/edgar/data/0000829224/000082922426000154/sbux-09272026xearningsrele.htm ; Starbucks IR -- https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2026-Results/default.aspx ; AP via NY1 -- https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/29/starbucks-reports-lower-than-expected-revenue-on-softer-international-demand ; FastCasual -- https://www.fastcasual.com/news/starbucks-closes-fiscal-2026-with-79-north-america-comp-gain/
+Relevancia: Caso de encolher pra focar: menos lojas e menos receita reportada, mas melhor venda por loja e lucro por acao.
+Ressalva tecnica: Verificacao por trechos. The Star cita receita -4,5% e lucro +408,8%: divergem do release, usar -4% e LPA do release. Valor de recompra "US$ 1 bi" NAO confirmado: nao usar. Fonte do release e comercial/institucional.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A Starbucks fechou 250 lojas, entregou a China a um parceiro e mesmo assim cresceu vendas comparaveis 7,2% e lucro por acao 54%. Encolher pra focar pode ser a estrategia, nao o sintoma.
+
+--- NOTAS DE FECHAMENTO ---
+Cota internacional (dia de 8): Apple, Marvell, Starbucks (empresas e fontes estrangeiras/SEC) + McKinsey (grande consultoria). Item 4 tem risco de data (ver ressalva).
+Reservas nao usadas: Mistral Large 4 pesos abertos (29/10); Supernus/Indivior fusao concluida (02/11); ICEI/CNI 46,2 (14/10, fora da janela); PwC Hopes and Fears (29/09, fora da janela); AGU/PGF Edital 4/2026 adesao ate 30/11/2026; Disney Imagineering 159 demissoes (27-28/10, so blogs); Braskem (rechecar desfecho com credores, prazo legal ~22/11).
+Fontes BR: Forbes Brasil, Exame, NeoFeed, Jornal do Comercio, Gov.br/PGFN. Valor/Estadao/InfoMoney/G1/Reuters nao apareceram em resultados utilizaveis (indice de busca fraco).
+Consultas: ver relatorios dos subagentes (>100 buscas nas 8 linhas, 3+ rodadas cada).
