@@ -1,0 +1,33 @@
+ROTEIRO 1 -- Todo mundo usa IA? Nem tanto
+"Na segunda eu trouxe 86% das pequenas empresas americanas usando IA. Já o governo britânico, com outra definição, achou que 🟡`32% das empresas usam IA, o dobro dos 16% de 2025`🟡, em 3.503 ouvidas. Nas grandes, 52%. Pra mim, 🟡`dois terços das empresas ainda não usam IA: "todo mundo já usa" é narrativa de empresa grande.`🟡 Entrar agora ainda é chegar cedo. Você está no grupo dos 32%?"
+Fonte: DSIT (governo do Reino Unido) -- https://www.gov.uk/government/publications/ai-adoption-survey-2026/ai-adoption-survey-report-2026-executive-summary
+
+ROTEIRO 2 -- O dinheiro de IA comprou uma empresa comum
+"A Thrive Holdings, apoiada pela OpenAI, vai comprar a ADT, de segurança residencial, por US$ 10 a ação em dinheiro: cerca de US$ 7,6 bilhões, ou US$ 15,3 bilhões contando a dívida. Segundo a empresa, o prêmio é de 45,6%. 🟡`O dinheiro de IA está comprando uma empresa comum, com cliente recorrente.`🟡 Pra mim, 🟡`o ativo valioso é a base de clientes e a operação; a IA vem depois.`🟡 Fechamento previsto pro primeiro trimestre de 2027. Qual ativo seu vale mais que a tecnologia?"
+Fonte: TechCrunch -- https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
+
+ROTEIRO 3 -- Melhorou, mas ainda encolhe
+"O PMI industrial do Brasil subiu a 46,1 em outubro, de 44,8 em setembro, segundo a S&P Global. Parece melhora, mas 🟡`abaixo de 50 é contração, e a produção caiu pelo sexto mês seguido.`🟡 As empresas citam vendas fracas, estoques altos nos clientes e custos pressionados, com repasse só parcial. Pra mim, 🟡`quem depende de pedido industrial deve olhar o próprio caixa, não a manchete.`🟡 Seus clientes industriais estão comprando menos?"
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/11/a-industria-brasileira-segue-em-queda-em-outubro-e-as-empresas-citam-perturbacoes-na-razao-das-eleicoes/
+
+ROTEIRO 4 -- Prorrogou, mas não relaxe
+"A Receita Federal prorrogou até 30 de dezembro a adesão aos editais de transação 9 e 10, para dívidas em discussão no CARF e nas DRJs. O prazo original era 30 de outubro. O edital 9 vai até R$ 50 milhões por processo; o 10, até 60 salários mínimos. As condições não mudaram. 🟡`Prorrogação não é convite pra deixar pra depois: continuar brigando também custa.`🟡 Se você discute débito na Receita, 🟡`a porta de acordo ficou aberta até 30 de dezembro.`🟡 Já conferiu o seu processo?"
+Fonte: Receita Federal -- https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-prorroga-prazo-para-adesao-a-editais-de-transacao-tributaria-ate-30-de-dezembro
+
+ROTEIRO 5 -- Previsão derruba mais que resultado
+"A Intel caiu cerca de 29% em um dia, o pior pregão desde 1974, segundo a CNBC. O motivo foi uma previsão: ela 🟡`projetou receita de US$ 15 a 16 bilhões no quarto trimestre, contra cerca de US$ 17,1 bilhões esperados.`🟡 A empresa liga a fraqueza dos PCs à memória cara, insumo que ela não controla. Pra mim, 🟡`o mercado não pune o resultado de ontem, pune o planejamento de amanhã.`🟡 Quanto do seu planejamento de 2027 depende de algo que você não controla?"
+Fonte: CNBC -- https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html
+
+ROTEIRO 6 -- Crescer sem redesenhar cobra a conta
+"A Canva anunciou que 🟡`1.271 pessoas, 22% do quadro, vão perder o emprego, mudar de função ou se realocar`🟡, segundo a Bloomberg. Atenção: o número inclui realocados, não são todos demitidos. A CEO Melanie Perkins chamou de o momento mais difícil em 13 anos e quer remover camadas de gestão. Pra mim, 🟡`crescer contratando sem redesenhar a estrutura funciona até o crescimento desacelerar.`🟡 Quantas camadas da sua empresa existem só porque ela cresceu?"
+Fonte: Bloomberg -- https://www.bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce
+
+ROTEIRO 7 -- Dono ou cliente da tecnologia?
+"O Itaú vai comprar a NeoSpace, startup de IA, por R$ 2,925 bilhões, segundo o fato relevante de 26 de outubro. Parte é paga no fechamento, o resto em cinco anos, e depende de Cade e Banco Central. 🟡`O banco já tinha cerca de 15% da empresa e agora paga quase R$ 3 bilhões pelos 100%.`🟡 Pra mim, 🟡`quando a tecnologia vira vantagem competitiva, você quer ser dono dela, não cliente.`🟡 Qual fornecedor crítico seu você ainda só aluga?"
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/itau-anuncia-compra-da-neospace-por-quase-r-3-bilhoes/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] "Sua empresa já usa IA no dia a dia do negócio? Sim / Ainda não"
+2. [Pergunta/Participacao, Roteiro 6] Caixinha de pergunta: "Quantas camadas de gestão existem entre você e o cliente na sua empresa? Conta aqui se isso ajuda ou atrapalha"
+3. [Virar Historia, Roteiro 5 -> Estilo Comparativo] Previsão de US$ 15-16 bi de um lado e US$ 17,1 bi esperados do outro: o contraste lado a lado mostra que a queda de 29% veio da distância entre o prometido e o esperado.
