@@ -1,0 +1,25 @@
+ROTEIRO 1 -- O juro parou de cair
+"No Boletim Focus de 26 de outubro, o mercado apostava em Selic de 13,25% no fim do ano; o Copom não entregou isso. Em 4 de novembro, por unanimidade, 🟡`o Copom manteve a Selic em 13,75% e interrompeu uma sequência de cinco cortes de 0,25 ponto`🟡. Citou inflação esperada maior e petróleo. A próxima reunião é 8 e 9 de dezembro. Pra mim, 🟡`quem montou o plano de 2027 contando com crédito mais barato está financiando crescimento com promessa, não com fato.`🟡 Seu plano aguenta juro alto?"
+Fonte: Band -- https://www.band.com.br/economia/macroeconomia/copom-mantem-taxa-selic-em-1375-ao-ano
+
+ROTEIRO 2 -- Pagar 2% a mais pra fechar
+"A Tata Motors assumiu o controle da Iveco: comprou cerca de 89% das ações a 14,40 euros em dinheiro, algo como 3,4 bilhões de euros, segundo a imprensa indiana. 🟡`Ela subiu a oferta de 14,10 para 14,40, cerca de 2%, pra fechar o negócio.`🟡 Pra mim, 🟡`negociar bem nem sempre é pagar menos, e 89% de controle não é 100% de integração.`🟡 A adesão reabriu até 6 de novembro. Você pagaria mais pra fechar antes?"
+Fonte: ThePrint -- https://theprint.in/economy/tata-motors-takes-control-of-italian-commercial-vehicle-maker-iveco-in-3-43-bn-euro-deal/3086606/
+
+ROTEIRO 3 -- O robô com cartão corporativo
+"A fintech Sunrate lançou em 2 de novembro, em Hong Kong, o Agentic Card: um cartão virtual empresarial em que agentes de IA criam meios de pagamento e iniciam transações, dentro de limites definidos pela empresa, segundo o próprio comunicado. 🟡`A IA deixa de sugerir e passa a executar pagamentos.`🟡 Pra mim, 🟡`a pergunta não é se o robô paga suas contas, é quem define o limite de gasto dele.`🟡 Sem alçada escrita, o funcionário que nunca dorme vira risco. Quem aprova pagamento aí?"
+Fonte: Macau Business -- https://macaubusiness.com/sunrate-launches-agentic-card-to-enable-ai-driven-business-payments/
+
+ROTEIRO 4 -- Cortar virou rotina
+"Segundo a Bloomberg, a Disney caminha para milhares de demissões e pediu a alguns gestores 20% de economia anual; a empresa não confirmou. Seria a quarta rodada do ano, depois de cerca de mil vagas em abril. 🟡`Empresa que fatura bilhões manda gestor achar 20%: corte virou rotina de gestão, não sinal de crise.`🟡 E 🟡`quatro rodadas no ano mostram que cortar de uma vez só raramente resolve.`🟡 Você corta de uma vez ou aos poucos?"
+Fonte: Deadline -- https://deadline.com/2026/11/disney-more-layoffs-2026-tv-networks-movie-studio-savings-1237211939/
+
+ROTEIRO 5 -- Qual é o seu minério?
+"Segundo o sindicato, são 280 demissões depois que a Gerdau encerrou a produção de aço em Divinópolis, com 120 propostas de transferência. A fábrica tinha cerca de 600 funcionários. A empresa cita custo do minério de ferro e importações. 🟡`A fábrica não perdeu para um concorrente melhor, perdeu para o custo do insumo.`🟡 Pra mim, 🟡`todo dono de PME deveria se perguntar qual é o seu "minério".`🟡 Qual insumo, sozinho, derrubaria o seu negócio?"
+Fonte: Mais Minas -- https://maisminas.com.br/economia/gerdau-encerra-producao-de-aco-em-divinopolis-e-demite-280-trabalhadores-prefeitura-estima-impacto-sobre-mil-pessoas/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] "Seu plano de 2027 conta com juro mais baixo? Sim / Não"
+2. [Pergunta/Participacao, Roteiro 5] Caixinha de pergunta: "Qual é o 'minério' do seu negócio, o insumo que, se subir de preço, aperta sua margem? Conta aqui"
+3. [Virar Historia, Roteiro 2 -> Estilo Comparativo] Oferta inicial de 14,10 euros de um lado e 14,40 do outro: o contraste lado a lado mostra que cerca de 2% a mais comprou o controle.
