@@ -1,0 +1,55 @@
+RASCUNHO DO DIA 2026-11-05 (ETAPA 1) -- 5 itens
+Verificacao geral: WebFetch bloqueado; tudo verificado por trechos de WebSearch. Etapa 2 deve re-conferir.
+
+ITEM 1 -- Copom interrompe cortes e mantem Selic em 13,75%
+Categoria: Macroeconomia-indice
+Fato: Em 04/11/2026 o Copom manteve a Selic em 13,75% ao ano, por unanimidade, encerrando uma sequencia de cinco cortes de 0,25 p.p. (iniciada em marco; ultimo corte em setembro). Motivos citados: piora das expectativas de inflacao, petroleo/Oriente Medio e incerteza. Proxima reuniao: 8 e 9 de dezembro. Ibovespa +1,15% e dolar a R$ 5,45 no dia (EG News).
+Fonte: BH 24 Horas -- https://bh24horas.com.br/noticias/brasil/copom-interrompe-cortes-e-mantem-selic-em-1375-ao-ano-diante-de-cenario-mais-incerto/ ; Band -- https://www.band.com.br/economia/macroeconomia/copom-mantem-taxa-selic-em-1375-ao-ano ; Metropoles -- https://www.metropoles.com/brasil/copom-mantem-taxa-selic-e-juros-ficam-em-1375-ao-ano
+Relevancia: Credito caro continua sendo a regra de planejamento de 2027 para qualquer empresa que dependa de financiamento.
+Ressalva tecnica: Varios veiculos concordam; comunicado oficial do BCB nao aberto. Evitar a projecao de inflacao de 5,6% (so uma fonte menor).
+Possivel contradicao com roteiro anterior: Rascunho de 29/10 citou Focus com Selic de fim de 2026 a 13,25%; Focus e expectativa de mercado, hoje e decisao efetiva -- a manutencao em 13,75% fica acima daquela expectativa.
+Tese de gancho sugerida: O mercado apostava em juro menor e o BC pisou no freio: quem montou o plano de 2027 contando com credito mais barato esta financiando crescimento com promessa, nao com fato.
+
+ITEM 2 -- Tata Motors assume o controle da Iveco
+Categoria: Noticia de empresa
+Fato: Em 30/10/2026 a Tata Motors liquidou a oferta publica pela Iveco Group: comprou 238.157.212 acoes (~89,42% do capital ordinario) a EUR 14,40 em dinheiro (oferta subiu de EUR 14,10 em 09/10). Valor total reportado ~EUR 3,43 bi (outra fonte cita EUR 3,8 bi). Reabertura da adesao de 2 a 6/11, liquidacao em 13/11. Exor tinha 27,1%.
+Fonte: Autocar Pro -- https://www.autocarpro.in/news/tata-motors-completes-initial-settlement-for-iveco-group-holds-8942-percent-stake-135592 ; ThePrint -- https://theprint.in/economy/tata-motors-takes-control-of-italian-commercial-vehicle-maker-iveco-in-3-43-bn-euro-deal/3086606/
+Relevancia: Caso de aquisicao transfronteirica em que o comprador pagou mais para fechar e agora enfrenta a integracao.
+Ressalva tecnica: 89,42% e provisorio ate fim da reabertura; valor total varia entre fontes (usar "cerca de EUR 3,4 bi"). Fontes indianas/secundarias; comunicado da empresa reproduzido em investywise.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Subir a oferta em ~2% (14,10 para 14,40) para fechar antes de outro comprador entrar: negociar bem nem sempre e pagar menos, e 89% de controle nao e 100% de integracao.
+
+ITEM 3 -- Sunrate lanca cartao virtual para agentes de IA pagarem fornecedores
+Categoria: Tecnologia
+Fato: Na Hong Kong FinTech Week 2026 (divulgado 02/11/2026) a Sunrate lancou o "Agentic Card": cartao virtual comercial, multimoeda e programavel; agentes de IA autorizados criam instrumentos de pagamento e iniciam transacoes dentro de permissoes de gasto definidas pela empresa (ex.: um unico pagamento a fornecedor ou uma campanha).
+Fonte: Macau Business -- https://macaubusiness.com/sunrate-launches-agentic-card-to-enable-ai-driven-business-payments/ ; apoio: https://techintelpro.com/news/sunrate-launches-agentic-card-for-ai-driven-payments
+Relevancia: IA deixa de sugerir e passa a executar pagamentos; o gestor precisa definir alcadas antes.
+Ressalva tecnica: Release de fornecedor, so reposts do mesmo release; sem numeros de adocao; NAO afirmar certificacao Mastercard Agent Pay (nao confirmada).
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A pergunta nao e se a IA pode pagar suas contas, e quem define o limite de gasto do robo: sem alcada escrita, o funcionario que nunca dorme vira risco.
+
+ITEM 4 -- Disney prepara milhares de demissoes e pede 20% de corte a gestores (segundo relatos)
+Categoria: Empresa global reconhecida
+Fato: Bloomberg (02/11/2026, fontes anonimas) diz que a Disney caminha para milhares de cortes e pediu a alguns gestores 20% de economia anual (vagas ou despesas); CEO Josh D'Amaro quer reinvestir em cinema/TV, tecnologia, parques e cruzeiros. Seria a 4a rodada do ano (cerca de 1.000 vagas em abril; centenas em julho e setembro). Aviso WARN de 27/10 listou 159 demissoes na Imagineering. Resultado fiscal em 17/11. Total de vagas nao divulgado; Disney nao confirmou.
+Fonte: Deadline -- https://deadline.com/2026/11/disney-more-layoffs-2026-tv-networks-movie-studio-savings-1237211939/ ; Washington Times -- https://www.washingtontimes.com/news/2026/nov/3/disney-expected-lay-thousands/ ; UPI -- https://www.upi.com/Top_News/US/2026/11/03/disney-layoffs-coming/5511793736423
+Relevancia: Repertorio sobre corte recorrente numa empresa lucrativa.
+Ressalva tecnica: Todas as fontes derivam do Bloomberg (origem unica); apresentar como "segundo relatos". Minha busca de conferencia confirmou rodadas anteriores (abril ~1.000; setembro ~300) mas nao achou a materia do 20%.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Empresa que fatura bilhoes por trimestre manda gestor achar 20%: corte virou rotina de gestao, nao sinal de crise -- e a 4a rodada do ano mostra que cortar de uma vez so raramente resolve.
+
+ITEM 5 -- Gerdau encerra producao de aco em Divinopolis (MG) apos 32 anos
+Categoria: Reestruturacao-corte-fechamento
+Fato: Anunciado em 03/11/2026. Sindicato informa 280 demissoes e 120 propostas de transferencia; fabrica tinha ~600 funcionarios. Prefeitura estima impacto em ~1.000 pessoas (proprios + terceirizados, estimativa). Gerdau diz que encerrou a producao de aco (nao confirma fechamento total), cita custo do minerio de ferro e importacoes.
+Fonte: Mais Minas -- https://maisminas.com.br/economia/gerdau-encerra-producao-de-aco-em-divinopolis-e-demite-280-trabalhadores-prefeitura-estima-impacto-sobre-mil-pessoas/ ; Economic News Brasil -- https://economicnewsbrasil.com.br/2026/11/03/fabrica-gerdau-divinopolis-producao-aco/ ; Mixvale -- https://www.mixvale.com.br/2026/11/03/gerdau-encerra-producao-de-aco-em-divinopolis-e-decisao-atinge-mil-operarios-no-centro-oeste-de-mg/
+Relevancia: Industria brasileira sob pressao de custo de insumo e importacao.
+Ressalva tecnica: Apenas veiculos regionais; minha busca de conferencia so achou matéria anterior (Diario do Comercio) sobre risco de fechamento em novembro, sem confirmar os 280. Usar 280 como "segundo o sindicato". Etapa 2 deve re-checar. Evitar tom politico (um resultado cita critica ao governo).
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A fabrica de 32 anos nao perdeu para um concorrente melhor, perdeu para o custo do insumo: todo dono de PME deveria se perguntar qual e o seu "minerio".
+
+LINHAS VAZIAS (consultas feitas)
+Linha 4 (tendencia internacional): Deloitte State of AI 2026 (edicao de marco/2026, fora da janela; numeros 81% nao confirmados), McKinsey agentic commerce (sem URL do artigo/numeros), PwC AI Performance Study (abril), PwC CEO Survey (jan), McKinsey sucessao PMEs (fev): todos fora da janela ou sem confirmacao. Consultas: McKinsey report Nov 2026 small business; PwC Deloitte survey Nov 2026; Deloitte report Oct 2026 AI; McKinsey new research Oct 2026; PwC study Nov 2026; Big Four report mid-market 2026; Deloitte State of AI ROI reckoning; PwC OR McKinsey OR Deloitte survey released Nov 2026 (extended).
+Linha 5 (prazo de acao): nada novo valido. Editais de Transacao (ate 30/12) ja publicado em 04/11; Pronampe sem data-limite confirmada; Simples cancelamento/opcao hibrida ate 30/11 (fonte de setembro, nao confirmada). Consultas: prazo novembro 2026 MEI PME Receita adesao; prazo ate dezembro 2026 Receita regularizacao edital; Sebrae/Pronampe/MTE prazo novembro 2026; prazo termina novembro 2026 MEI; Receita/Simples exclusao regularizar; Pronampe 2026 prazo contratacao; prazo ate dezembro 2026 portaria DOU adequacao; Receita OR MTE OR Sebrae prazo adesao termina novembro 2026.
+Linha 8 (livre): sem candidato dentro de 7 dias com 2+ veiculos. Consultas: agentes de IA empresas lancamento novembro 2026; AI agents enterprise launch Nov 4; empresa anuncia aquisicao/fusao/lancamento 4 de novembro; empresa brasileira lanca produto/expansao/recorde novembro 2026; Nubank/Mercado Livre/Magalu/Ambev anuncia novembro 2026; startup acquires/launches small business Nov 3 2026; Estadao/G1/Exame pequenas empresas case 3 de novembro; Forbes/Bloomberg company layoffs/expansion/bankruptcy Nov 2026; Brazil Journal/NeoFeed/Exame aquisicao startup nov 2026; CNBC company shares surge/plunge Nov 4; Gol Azul fusao Cade; Mastercard/Visa/Stripe agentic commerce.
+Cota internacional: 3 de 5 itens internacionais (Tata-Iveco, Sunrate, Disney); nenhum de grande consultoria (nao exigido em dia de 5 itens).
+
+RESERVAS (nao usados): Schaeffler corta 3.460 vagas e fecha 4 fabricas na Alemanha (03/11; electrive.com/2026/11/03/schaeffler-to-cut-almost-3500-jobs/); Fiserv corta ~3.000 vagas e dobra meta de economia para US$ 1 bi (03/11; marca pouco conhecida); Serasa: 9,3 mi de CNPJs inadimplentes em agosto (divulgado ~21/10, fora da janela; poder360.com.br/poder-economia/inadimplencia-bate-recorde-e-chega-a-93-milhoes-de-empresas/).
