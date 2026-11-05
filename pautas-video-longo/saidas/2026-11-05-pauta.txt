@@ -1,0 +1,41 @@
+PAUTA DO DIA -- 2026-11-05
+Assunto: Aeris (pas eolicas) pede recuperacao extrajudicial para renegociar R$ 1,52 bi -- segunda renegociacao em cerca de um ano
+Score final: 24/35 (Frescor 5/5 | Relevancia do protagonista 2/5 | Gravidade 4/5 | Polemica adjacente 2/5 | Volume de cobertura 3/5 | Clareza do angulo 4/5 | Identificacao com audiencia 4/5)
+
+Fato central verificado: A Aeris (AERI3) protocolou pedido de recuperacao extrajudicial em Sao Paulo (companhia informou protocolo em 03/11/2026; imprensa noticiou em 04/11) para reestruturar ~R$ 1,524 bi em creditos quirografarios nao correntes (base 31/10/2026). Ficam fora creditos com garantia real/fiduciaria, os do fornecimento operacional habitual, e os tributarios e trabalhistas. Credores com 42,18% dos creditos abrangidos ja aderiram; a empresa se comprometeu a obter mais de 50% em ate 90 dias. Conselho aprovou por unanimidade; AGE convocada para ratificar. A empresa diz que a producao e o fornecimento seguem normais. Confirmado em varias coberturas (Money Times, InfoMoney, Seu Dinheiro, BPMoney, SpaceMoney) via busca; WebFetch bloqueado pela rede, entao nao li as paginas na integra e o fato relevante original (CVM/B3) nao foi lido diretamente.
+Fonte: https://www.moneytimes.com.br/aeris-aeri3-protocola-recuperacao-extrajudicial-busca-reestruturar-divida-152-bilhao-lmrs/
+
+Cadeia causal (o que levou a isso): 
+1) Setor eolico brasileiro desacelera: menos projetos novos e menor demanda domestica por pas (cobertura do 1T26) e cortes de geracao (curtailment) que, segundo a Aeris, chegaram a 20,4% no 3T25 contra 11,9% no 2T25 -> 
+2) Receita despenca: 1T26 de R$ 105,6 mi, -49,8% contra o 1T25 (R$ 210,4 mi); fabrica com capacidade ociosa e margem bruta negativa (-12,6% no 1T26) -> 
+3) Divida pesada com caixa minimo: dupla pressao de custo fixo e despesa financeira; prejuizo de R$ 138 mi no 1T26 e R$ 152 mi no 2T26 (R$ 290 mi no semestre); divida bruta de ~R$ 1,956 bi e caixa de R$ 17,3 mi no fim de junho -> 
+4) Primeira renegociacao nao bastou: em 2025 a empresa reperfilou ~90% de uma divida de ~R$ 1,7 bi (debentures esticadas ate 2030); a Fitch tratou a troca como reestruturacao em estresse -> 
+5) Cautelar de 60 dias em agosto/2026 para blindar execucoes e agora a recuperacao extrajudicial: negociar com os credores com plano e adesao minima, em vez de esperar execucoes.
+
+Por que esta repercutindo agora: Frescor maximo (protocolo de 03-04/11), gravidade alta (R$ 1,5 bi, segunda renegociacao em ~1 ano) e angulo claro e identificavel (divida maior que a geracao de caixa). Peso menor: protagonista pouco conhecido do grande publico, o que limita o volume de cobertura.
+
+Angulo de gestao sugerido: Divida so e sustentavel se o caixa operacional cobre o servico dela -- quando a receita cai, a divida fixa vira o problema. Licoes para o dono de PME: (1) renegocie ANTES do caixa acabar, com tempo e poder de barganha; (2) alongar prazo sem corrigir o negocio so adia o problema (a Aeris ja tinha esticado prazos em 2025); (3) dependencia de poucos clientes/um unico setor aumenta o risco; (4) olhe a relacao divida x geracao de caixa, nao so o tamanho da divida; (5) a recuperacao extrajudicial e uma negociacao organizada com credores, diferente da judicial -- vale conhecer o caminho antes de precisar.
+
+Dados de apoio:
+- Receita liquida 1T26: R$ 105,6 mi (-7,8% vs 4T25; -49,8% vs 1T25) -- cobertura do 1T26 (portaltela/acionista.com.br; confirmado so por busca)
+- Receita liquida 2T26: R$ 129,3 mi (+22,4% vs 1T26), margem bruta de 7,6% (era -12,6%), reativacao de 4 linhas de producao, carteira de 2 GW -- https://cenarioenergia.com.br/2026/08/12/aeris-energy-reativa-linhas-producao-carteira-2-gw-balanco-2t26/
+- Prejuizo liquido: R$ 152 mi no 2T26 e R$ 290 mi no 1S26 -- mesma fonte
+- Divida bruta R$ 1,956 bi e caixa R$ 17,3 mi no 2T26 -- https://timesbrasil.com.br/brasil/aeris-com-divida-de-quase-r-2-bilhoes-e-so-r-173-mi-em-caixa-fabricante-de-pas-eolicas-pede-protecao-contra-credores/
+- Cautelar de 60 dias (agosto/2026) -- https://cenarioenergia.com.br/2026/08/21/aeris-obtem-cautelar-de-60-dias-para-renegociar-divida-com-credores/
+- Reperfilamento de ~90% de divida de ~R$ 1,7 bi em 2025 e debentures ate 2030 -- https://visnoinvest.com.br/news/7835/aeris-aeri3-conclui-refinanciamento-de-90-de-suas-dividas
+- Curtailment eolico 20,4% no 3T25 (11,9% no 2T25) -- https://movimentoeconomico.com.br/estados/ceara/2025/11/06/pas-eolicas-aeris-energy-acumula-perda-de-r-4129-mi-com-curtailment/
+
+Ressalva/limite: (a) O rascunho da Etapa 1 citava "receita -48,1% no semestre" e "divida liquida R$ 1,94 bi"; NAO consegui confirmar o -48,1% do semestre (so achei -49,8% no 1T26 vs 1T25) e a receita do 2T26 SUBIU contra o 1T26 -- nao dizer que a receita "segue caindo"; o R$ 1,94 bi aparece em titulo de materia de agosto (nao reconfirmado). Usar apenas os numeros listados acima. (b) Fonte primaria (fato relevante CVM/B3) nao lida; recomenda-se conferir antes de gravar. (c) A data do protocolo varia (03 ou 04/11); o plano ainda precisa de adesao superior a 50% e ratificacao em AGE -- nao tratar como aprovado. (d) Polemica adjacente baixa (2/5), mas manter 100% gestao/caixa/divida: nao comentar politica energetica, regulacao do setor nem culpar governo. (e) Nao e recomendacao de investimento: nao falar de acao AERI3 nem de comprar/vender.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: empresa que ja renegociou a divida em 2025 precisa renegociar de novo -- R$ 1,5 bi e caixa de R$ 17 mi
+- Contexto/causa raiz: setor desacelerou, receita caiu pela metade, divida ficou
+- Desenvolvimento da cadeia causal: receita cai -> custo fixo e juros continuam -> caixa nao cobre divida -> esticar prazo nao resolve -> extrajudicial
+- Licao de gestao (a virada): olhe divida contra geracao de caixa e renegocie cedo, com plano
+- Fechamento + CTA: pergunta ao dono de empresa -- seu caixa cobre o servico da divida se a receita cair 30%?
+
+Fonte(s): Money Times -- https://www.moneytimes.com.br/aeris-aeri3-protocola-recuperacao-extrajudicial-busca-reestruturar-divida-152-bilhao-lmrs/ ; Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/aeris-aeri3-recuperacao-extrajudicial-divida-lmrs/ ; InfoMoney -- https://www.infomoney.com.br/mercados/aeris-aeri3-protocola-pedido-de-recuperacao-extrajudicial/ ; Cenario Energia -- links acima
+
+Runners-up do dia (registro/transparencia):
+- Copom mantem Selic em 13,75% e interrompe 5 cortes seguidos -- 31/35 (nao elegivel por regra de repeticao; guardrail politico: so juro/credito/capital de giro)
+- American Freight (EUA) fecha as 328 lojas e liquida estoque -- 18/35
