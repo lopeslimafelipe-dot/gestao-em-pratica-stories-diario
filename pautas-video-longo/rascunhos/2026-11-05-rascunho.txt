@@ -1,0 +1,47 @@
+RASCUNHO -- 2026-11-05 (Etapa 1: pesquisa e pontuacao)
+Obs. de pesquisa: acesso direto a G1/InfoMoney/Exame bloqueado na sandbox (hosts fora da lista de dominios permitidos); candidatos levantados via busca web, URLs abaixo vieram dos resultados. A Etapa 2 deve reconfirmar numeros na fonte original (CVM/comunicado da Aeris) antes de escrever. Fechamento de mercado de 05/11 nao localizado.
+
+CANDIDATO 1 -- Aeris (pas eolicas) pede recuperacao extrajudicial de R$ 1,52 bi: receita -48% no semestre, divida liquida R$ 1,94 bi, segunda renegociacao em ~1 ano
+Fato: Aeris protocolou (04/11/2026; uma fonte diz 03/11) pedido de recuperacao extrajudicial na 3a Vara de Falencias e Recuperacoes Judiciais de SP, abrangendo ~R$ 1,52 bi em creditos quirografarios (base 31/10). Ja tem adesao de credores com 42,18% dos creditos (minimo legal: 1/3); tem 90 dias para chegar a mais de 50%. Execucoes sobre os creditos incluidos ficam suspensas. Plano nao inclui dividas trabalhistas e tributarias. Receita do 1S26 caiu 48,1%; prejuizo de R$ 152 mi no trimestre e R$ 290 mi no semestre; caixa livre de ~R$ 17 mi no 2T26. Em 2025 ja havia repactuado R$ 1,7 bi. Conselho aprovou; falta ratificacao em AGE.
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/aeris-aeri3-recuperacao-extrajudicial-divida-lmrs/ (complementos: Revista Oeste -- https://revistaoeste.com/economia/aeris-pede-recuperacao-extrajudicial-para-renegociar-divida-de-r-15-bilhao/ ; Gazeta Mercantil -- https://gazetamercantil.com/aeris-aeri3-recuperacao-extrajudicial-divida-1-52-bilhao ; ADVFN -- https://br.advfn.com/jornal/2026/11/aeris-entra-com-pedido-de-recuperacao-extrajudicial-e-negocia-divida-com-credores)
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 24/35
+Status: VENCEDOR DO DIA (melhor pauta elegivel pela regra de nao-repeticao; score abaixo da media recente porque a marca e pouco conhecida do publico geral)
+Angulo sugerido: divida alta + juro alto + queda de receita (cliente concentrado/setor) = caixa que nao cobre servico da divida; por que renegociar cedo (extrajudicial) vs. esperar; licao: gerir caixa e prazo de divida antes da crise de receita, e o que PME pode fazer (renegociar antes de estourar). 
+Obs. guardrail politico: fator 'Polemica adjacente' baixo (2/5); nao ha necessidade de cautela politica especial -- manter angulo 100% gestao/caixa/divida.
+
+CANDIDATO 2 -- Copom mantem Selic em 13,75% e interrompe 5 cortes seguidos (decisao de 04/11)
+Fato: Copom manteve a Selic em 13,75% a.a. por unanimidade na quarta (04/11/2026), primeira reuniao pos-eleicoes, encerrando sequencia de cinco cortes de 0,25 p.p. (vindo de 15%). Comunicado cita cenario externo pior (conflitos no Oriente Medio, petroleo mais caro, politica monetaria mais apertada em economias avancadas), expectativas de inflacao acima da meta e nao da sinal sobre proximas reunioes.
+Fonte: Money Times -- https://www.moneytimes.com.br/o-que-mudou-no-comunicado-do-copom-selic-novembro-26-lils/ (complementos: SouBrasilia -- https://soubrasilia.com/copom-mantem-selic-13-75-unanimidade-4-novembro-2026/ ; Metropoles -- https://www.metropoles.com/brasil/copom-mantem-taxa-selic-e-juros-ficam-em-1375-ao-ano)
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 31/35
+Status: runner-up -- NAO ELEGIVEL como vencedor por regra de repeticao: a pauta de 04/11 (vencedora) ja era a decisao do Copom/credito PME (e as de 31/10 e 02/11 tambem trataram de Copom). Se o usuario preferir cobrir o resultado em video proprio, e a pauta de maior score do dia.
+ALERTA GUARDRAIL POLITICO: 'Polemica adjacente' 5/5 (contexto pos-eleicao, dolar, risco fiscal). Roteiro NUNCA comenta politica; angulo exclusivo = juro, credito, capital de giro.
+
+CANDIDATO 3 -- American Freight (EUA) fecha as 328 lojas e liquida estoque
+Fato: Rede americana de moveis e eletrodomesticos anunciou fechamento de todas as 328 lojas com liquidacao total do estoque, em reestruturacao da controladora (noticia de 04/11/2026).
+Fonte: O Antagonista -- https://oantagonista.com.br/mundo/gigante-dos-moveis-e-eletrodomesticos-anuncia-fechamento-de-todas-as-suas-328-lojas-e-coloca-tudo-em-liquidacao/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 1/5
+- Gravidade: 4/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 18/35
+Status: runner-up (marca estrangeira desconhecida do publico BR; fonte secundaria, confirmar em fonte primaria)
