@@ -1,0 +1,33 @@
+ROTEIRO 1 -- O 3,4x que não prova nada
+"A Klook lançou o K.ai, agente de IA que mexe no estoque, nos preços e nas reservas do portal dos parceiros, segundo o próprio comunicado da empresa. Ela diz que 🟡`quem usa tem 3,4 vezes mais reservas por mês`🟡. Pra mim, 🟡`isso é correlação, não resultado: quem já vendia mais é quem adota primeiro.`🟡 Antes de comprar a promessa de qualquer agente de IA, pergunte qual era o grupo de comparação. Seu fornecedor de software mostra isso?"
+Fonte: PR Newswire (release da Klook) -- https://www.prnewswire.com/apac/news-releases/klook-launches-kai-an-ai-agent-that-manages-merchants-back-office-operations-302927512.html
+
+ROTEIRO 2 -- O caixa também foi à venda
+"A indiana Affle assinou a compra da israelense Perion por 11,70 dólares por ação, cerca de 420 milhões no total, segundo o comunicado da Perion à SEC. 🟡`O prêmio é de 34,5%, e a Perion tem 228 milhões em caixa, cerca de 54% do preço, sem dívida financeira.`🟡 Pra mim, 🟡`caixa alto e zero dívida viram o ativo mais caro do negócio.`🟡 O fechamento ainda depende de aprovações e deve ficar para 2027. Seu balanço aguentaria o olhar de um comprador?"
+Fonte: Perion/SEC (6-K) -- https://www.sec.gov/Archives/edgar/data/0001338940/000117891326004966/exhibit_99-1.htm
+
+ROTEIRO 3 -- O freio chega antes da venda
+"Na segunda mostrei o desemprego em 5,2%, dado do IBGE; agora é a percepção, pesquisa da FGV. A confiança empresarial caiu 0,3 ponto em outubro, a 89,8, quarta queda seguida. 🟡`O índice de situação atual caiu 1,1 ponto no mês e 4,5 pontos em quatro meses.`🟡 Pra mim, 🟡`o empresário já pisa no freio antes de o número de vendas aparecer, mesmo com emprego forte.`🟡 Quem espera o balanço pra decidir chega atrasado. Você já freou?"
+Fonte: Jornal do Comércio (FGV Ibre) -- https://www.jornaldocomercio.com/economia/2026/11/1269014-confianca-empresarial-cai-03-ponto-em-outubro-a-quarta-queda-seguida-diz-fgv.html
+
+ROTEIRO 4 -- Dívida pequena, regime inteiro
+"Desde março, a Receita notificou cerca de 1,1 milhão de empresas do Simples por dívida: 404.368 MEIs e 698.556 ME e EPP. O prazo é de 90 dias da ciência do termo, no DTE-SN ou e-CAC. 🟡`Quem não regularizar é excluído do Simples a partir de 1º de janeiro de 2027.`🟡 Pra mim, 🟡`uma dívida pequena de DAS pode custar o regime tributário inteiro.`🟡 O aviso chega no domicílio eletrônico, não no WhatsApp. Quando você abriu o seu pela última vez?"
+Fonte: Okai (dados da Receita Federal) -- https://okai.com.br/noticia/2026-03-26/receita-federal-emite-termo-de-exclusao-para-devedores-do-simples-nacional-incluindo-mei
+
+ROTEIRO 5 -- CEO de fora do ramo
+"A HP anunciou em 4 de novembro Emma Walmsley, ex-CEO da farmacêutica GSK, como CEO a partir de 4 de janeiro de 2027, segundo o documento da empresa à SEC. 🟡`A HP ficou desde o início do ano com CEO interino e escolheu alguém de fora do setor de PCs.`🟡 Pra mim, 🟡`em fase de pressão de custo, pesa mais o perfil de liderança do que o currículo no ramo.`🟡 O custo de memória subiu com a demanda de IA. Seu sucessor precisa ser do ramo?"
+Fonte: HP/SEC (8-K) -- https://www.sec.gov/Archives/edgar/data/0000047217/000114036126041969/ef20084915_8k.htm
+
+ROTEIRO 6 -- O mercado pagou para ver o corte
+"Na teleconferência do 3º trimestre, a Fiserv disse que reduziu 3 mil funcionários e contratados desde junho, cerca de 8% do quadro, e dobrou a meta de economia de 500 milhões para 1 bilhão de dólares. 🟡`As ações subiram cerca de 9,5% antes da abertura do mercado.`🟡 Ela também vai sair de mais de uma dúzia de produtos pequenos. Pra mim, 🟡`o investidor premia estrutura enxuta e foco, e isso vale pra empresa de qualquer tamanho.`🟡 Qual produto seu só dá trabalho?"
+Fonte: AI Weekly -- https://aiweekly.co/alerts/fiserv-cuts-3000-jobs-under-ai-everywhere-push-doubles-project-elevate-cost
+
+ROTEIRO 7 -- Lucro de papel não paga conta
+"A Strategy, ex-MicroStrategy, reportou no 3º trimestre receita operacional de cerca de 21 bilhões de dólares, puxada por ganho não realizado em bitcoin, segundo o 8-K da empresa. 🟡`É lucro contábil de marcação a mercado, não dinheiro novo no caixa.`🟡 No mesmo balanço, o CFO renunciou e o CEO assumiu a função. Sem opinar sobre bitcoin, a lição é de leitura: 🟡`antes de se impressionar com o título do balanço, olhe o fluxo de caixa.`🟡 Você lê o lucro ou o caixa?"
+Fonte: Strategy/SEC (8-K) -- https://www.sec.gov/Archives/edgar/data/0001050446/000105044626000047/mstr-20261026.htm
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] "Nos últimos meses você segurou investimento ou contratação por cautela? Sim / Não"
+2. [Pergunta/Participacao, Roteiro 6] Caixinha de pergunta: "Qual produto ou serviço da sua empresa dá mais trabalho e menos resultado? Conta aqui, sem filtro"
+3. [Virar Historia, Roteiro 1 -> Estilo Duplo Eu] Um "eu" vendedor do agente de IA gritando "3,4x mais reservas" e um "eu" gestor cético perguntando "comparado com quem?": o dado é uma discussão entre promessa e dúvida.
