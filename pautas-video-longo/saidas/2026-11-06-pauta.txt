@@ -1,0 +1,34 @@
+PAUTA DO DIA -- 2026-11-06
+Assunto: Copom interrompe cortes e mantem Selic em 13,75%: o que muda pro credito da PME
+Score final: 30/35 (Frescor 4, Relevancia do protagonista 4, Gravidade 3, Polemica adjacente 5, Volume de cobertura 5, Clareza do angulo 4, Identificacao com audiencia 5)
+
+Fato central verificado: Em 04/11/2026 o Copom manteve a Selic em 13,75% a.a., por unanimidade, encerrando a sequencia de 5 cortes de 0,25 p.p. iniciada em marco. Conferido em varios veiculos (InfoMoney, Poder360, O Povo, Central do Varejo, BP Money). Comunicado cita cenario externo mais adverso, desaceleracao da atividade domestica e "aumento significativo das incertezas"; nao sinaliza o que vem na reuniao de 8-9/12. 72 de 105 instituicoes apostavam em manutencao (Poder360). Projecao de inflacao do BC para 2026 de 5,6%: aparece em uma fonte (Central do Varejo) -- tratar como "segundo reportagens", conferir antes de citar. Projecao de 2027 (4,7%) NAO foi confirmada: nao citar.
+Fonte: https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-04112026/
+
+Cadeia causal (o que levou a isso): cenario externo mais adverso (conflito no Oriente Medio pressionando petroleo, segundo o comunicado) + pressoes inflacionarias -> BC interrompe os cortes -> Selic fica em 13,75% por tempo indeterminado (analistas, ex.: Mirae Asset, citada em O Povo, veem manutencao ao menos ate o fim do 1o tri de 2027) -> credito bancario segue caro (capital de giro rotativo historicamente entre as modalidades mais caras) -> margem e caixa da PME continuam pressionados -> quem planejou contando com queda de juros precisa replanejar.
+
+Por que esta repercutindo agora: decisao saiu ha 2 dias (Frescor), cobertura enorme (Volume 5), toca direto o custo do credito do dono de empresa (Identificacao 5) e a mudanca de rumo (de corte para pausa) e facil de explicar (Clareza 4).
+
+Angulo de gestao sugerido: "Sem corte a vista: como proteger o caixa da empresa com credito caro por mais tempo." Pontos: (1) parar de adiar decisoes esperando juros menores; (2) revisar dividas atreladas a taxa e renegociar as mais caras; (3) reduzir dependencia de capital de giro rotativo, melhorar prazo de recebimento e estoque; (4) revisar politica de venda a prazo/fiado diante da inadimplencia; (5) precificar considerando custo financeiro real. Diferenciar da pauta de 31/10 (previa): hoje e a decisao consumada e o novo cenario.
+
+Dados de apoio:
+- Focus (13/10/2026): inflacao 2026 em 5,22%, quarta alta seguida -- https://www.opovo.com.br/noticias/economia/2026/10/13/mercado-eleva-previsao-da-inflacao-para-522-em-2026.html
+- Focus (13/10/2026): Selic projetada para o fim de 2026 em 13,25% (expectativa pre-decisao, agora desatualizada) -- mesma fonte/pesquisa Focus.
+- Sebrae/Diario do Comercio citam inadimplencia de 7,6% e recomendam politica de credito propria mais conservadora (data e base exata do indicador NAO confirmadas -- conferir antes de citar): https://diariodocomercio.com.br/negocios/queda-selic-pequenos-negocios/
+- Capital de giro rotativo entre as modalidades mais caras (Fecomercio-SC, series 2022-2024, faixa ~26% a 38% a.a.; dado historico, nao atual -- usar so como ordem de grandeza qualitativa): https://www.fecomercio-sc.com.br/wp-content/uploads/2024/02/01.2024_Fevereiro_Relatorio_Efeitos-da-taxas-de-juros_COPOM.pdf
+
+Ressalva/limite: GUARDRAIL POLITICO -- "Polemica adjacente" pesou 5/5. Alguns veiculos ligam a decisao ao contexto pos-eleitoral e a incertezas fiscais; NAO comentar eleicao, governo, partidos, figuras politicas nem criticar/defender o BC. Falar so do efeito pratico: credito, caixa, margem. Nao dar recomendacao de investimento pessoal. WebFetch bloqueado neste ambiente; verificacao feita por trechos de WebSearch (comunicado oficial do BC nao foi lido diretamente).
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- o Copywriter do canal escreve o final, secao 2.4, adaptado a duracao maior):
+- Hook: "O juro parou de cair -- e muita empresa ainda planeja como se fosse cair."
+- Contexto/causa raiz: 5 cortes seguidos desde marco, depois pausa unanime; motivos citados no comunicado.
+- Desenvolvimento da cadeia causal: pausa -> credito caro por mais tempo -> pressao em caixa e margem da PME.
+- Licao de gestao (a virada): parar de esperar o juro e ajustar a operacao (divida cara, prazo de recebimento, estoque, precificacao).
+- Fechamento + CTA.
+
+Fonte(s): InfoMoney -- https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-04112026/ ; Poder360 -- https://www.poder360.com.br/poder-economia/copom-mantem-selic-em-1375-e-confirma-aposta-do-mercado/ ; O Povo -- https://mais.opovo.com.br/jornal/economia/2026/11/05/copom-mantem-selic-em-1375-e-encerra-ciclo-de-cortes-iniciado-em-marco-deste-ano.html ; Central do Varejo -- https://centraldovarejo.com.br/reuniao-do-copom-interrompe-cortes-e-mantem-selic-em-1375-ao-ano-em-decisao-unanime/
+
+Runners-up do dia (registro/transparencia):
+- Casas Bahia: recuperacao judicial (R$ 17,3 bi) segue repercutindo -- 26/35
+- Balancos do 3T26 refletem juros altos: lucro estagnado -- 24/35
+- Recuperacoes judiciais em patamar recorde em 2026 -- 23/35
