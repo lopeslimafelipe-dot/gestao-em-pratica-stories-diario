@@ -1,0 +1,59 @@
+RASCUNHO -- RADAR DE REPERCUSSAO 2026-11-06 (sexta)
+Obs. de verificacao: WebFetch bloqueado pela rede (infomoney.com.br nao resolve); fatos conferidos por trechos de WebSearch em varios veiculos. Busca por noticias do dia 5-6/11 retornou pouco material novo -- candidatos abaixo sao os melhores achados verificaveis.
+
+CANDIDATO 1 -- Copom interrompe cortes e mantem Selic em 13,75%: o que muda pro credito da PME
+Fato: Em 04/11/2026 o Copom, por unanimidade, manteve a Selic em 13,75% a.a., encerrando a sequencia de 5 cortes de 0,25 p.p. iniciada em marco. Comunicado cita ambiente externo mais adverso (conflito no Oriente Medio pressionando petroleo), desaceleracao domestica mais acentuada, "aumento significativo das incertezas" e riscos inflacionarios altistas. BC elevou projecao de inflacao: 2026 de 5,2% p/ 5,6%; 2027 de 3,9% p/ 4,7% (numeros vindos de um unico veiculo, Central do Varejo -- conferir antes de citar). Sem trajetoria definida; analistas veem pausa prolongada. 72 de 105 instituicoes esperavam manutencao (Poder360).
+Fonte: InfoMoney -- https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-04112026/ (outras: https://www.poder360.com.br/poder-economia/copom-mantem-selic-em-1375-e-confirma-aposta-do-mercado/ ; https://investnews.com.br/investimentos/copom-mantem-selic-em-1375-ano/ ; https://centraldovarejo.com.br/reuniao-do-copom-interrompe-cortes-e-mantem-selic-em-1375-ao-ano-em-decisao-unanime/)
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 30/35
+Status: VENCEDOR DO DIA
+ALERTAS: (a) Polemica adjacente pesou -- roteiro NAO comenta politica (nem eleicao/reeleicao, nem governo ou BC de forma critica); angulo so gestao: credito caro por mais tempo, caixa, capital de giro, margem. (b) Repeticao parcial: a pauta de 31/10 tratou da EXPECTATIVA do Copom; hoje o fato e a DECISAO consumada + novo cenario (inflacao revisada, pausa prolongada) -- angulo deve ser "e agora, sem corte a vista", nao reprise da previa.
+
+CANDIDATO 2 -- Casas Bahia: recuperacao judicial (R$ 17,3 bi) segue repercutindo
+Fato: Grupo Casas Bahia (BHIA3) e subsidiarias protocolaram RJ em 16/08/2026, dividas de R$ 17,3 bi, apos prejuizo de R$ 10,1 bi no 2T26 e fechamento de 298 lojas; acionistas ratificaram o pedido em assembleia em 19/10/2026; ha relato de que a Justica de SP aprovou o processamento (data NAO confirmada). Sem fato novo datado de 5-6/11 encontrado.
+Fonte: Correio da Manha -- https://www.correiodamanha.com.br/economia/2026/08/311441-casas-bahia-pede-recuperacao-judicial-para-renegociar-rs-173-bilhoes-em-dividas.html
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 26/35
+Status: runner-up (video de referencia do canal ja cobriu o caso; sem gancho fresco)
+
+CANDIDATO 3 -- Balancos do 3T26 refletem juros altos: lucro das empresas estagnado
+Fato: Cobertura (Acionista, 3T26) aponta balancos pressionados por juros altos e eleicoes; analista da MA7 Capital: excluindo Petrobras e Vale, lucro das empresas acompanhadas pelo Safra subiu so 5,9% no 2T26, com padrao parecido esperado no 3T26. Entre 4 e 12/11 concentra o maior volume de balancos (Renner e C&A com data 5/11, resultados nao localizados). Numeros do 3T26 por empresa NAO verificados.
+Fonte: Acionista -- https://acionista.com.br/balancos-do-3t26-refletem-juros-altos-e-eleicoes/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 24/35
+Status: runner-up
+
+CANDIDATO 4 -- Recuperacoes judiciais em patamar recorde em 2026
+Fato: Poder360 registra numero de empresas em RJ em patamar recorde no 1o semestre de 2026; 2.466 empresas envolvidas em pedidos de RJ em 2025, maior da serie (Barbieri Advogados). Serasa: 60 processos em abril/2026 (141 empresas), 76 em marco. Sem dado de outubro encontrado.
+Fonte: Poder360 -- https://www.poder360.com.br/poder-economia/pedidos-de-recuperacao-judicial-batem-recorde-no-1o-semestre/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 23/35
+Status: runner-up
