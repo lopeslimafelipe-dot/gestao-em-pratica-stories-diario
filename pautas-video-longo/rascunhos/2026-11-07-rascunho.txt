@@ -1,0 +1,54 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-11-07 (sabado)
+Obs.: dia de fim de semana, poucos fatos novos; pesquisa feita via busca (varios portais bloqueados na sandbox, ex.: infomoney.com.br, melhorinvestimento.net, newsrondonia.com.br nao abriram -- fatos confirmados por cruzamento de resultados de busca em varios veiculos). Vencedor com score 26/35 (acima do piso de ~15).
+
+CANDIDATO 1 -- Canva corta 22% do time (1.271 pessoas) e volta a exigir 3 dias de escritorio
+Fato: Em 03/11/2026 a CEO Melanie Perkins anunciou reestruturacao que afeta 1.271 funcionarios (22% da forca de trabalho global), citando o crescimento mais lento (primeira desaceleracao em cerca de uma decada) e o impacto da IA; "momento mais dificil em 13 anos". ATENCAO: o numero mistura demissoes, mudancas de funcao e realocacoes (sem detalhamento). A partir de janeiro, o hibrido passa de 2 para 3 dias de escritorio. Desligados: ao menos 6 meses de salario, 12 meses de plano/assistencia e apoio de recolocacao. Ligacao direta com IA e interpretacao da imprensa (Xataka nota que o comunicado aponta crescimento, nao IA, como motivo principal) -- no roteiro, nao afirmar que a IA causou os cortes.
+Fonte: BPMoney -- https://bpmoney.com.br/inovacao/tecnologia/canva-demissao-1271-funcionarios-corte-22-equipe-reestruturacao/ (cruzar com Bloomberg Linea: https://www.bloomberglinea.com/negocios/canva-anuncia-despidos-y-cambios-laborales-para-el-22-de-su-plantilla-por-el-avance-de-la-ia/ e Startups: https://startups.com.br/negocios/demissoes/canva-vive-momento-mais-dificil-e-demite-um-quinto-do-time/ )
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5 (debate IA x emprego; NAO politico -- guardrail nao se aplica; manter angulo de gestao)
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5 (causa mista: desaceleracao + IA; numero ambiguo)
+- Identificacao com audiencia: 4/5 (decisao de enxugar time, ritmo de crescimento que trava, politica de trabalho presencial)
+TOTAL: 26/35
+Status: VENCEDOR DO DIA
+Angulo sugerido p/ Etapa 2: crescimento desacelerou -> estrutura ficou grande demais -> corte cirurgico + realinhamento; licao: dimensionar equipe ao ritmo real do negocio, comunicar com clareza e tratar bem quem sai.
+
+CANDIDATO 2 -- Serasa: recuperacoes judiciais caem 14,5% no 1S26, mas credito caro segue pesando
+Fato: 435 recuperacoes judiciais no 1o semestre de 2026 (-14,5% a/a), 327 pedidos de falencia (404 no 1S25), 25 recuperacoes extrajudiciais (68 empresas). Serasa avalia que ainda nao ha sinais para mudanca consistente; ~9,3 milhoes de empresas inadimplentes (dado de agosto/2026; 8,8 milhoes MPEs). Divulgado ~04/11/2026.
+Fonte: Monitor do Mercado -- https://monitordomercado.com.br/noticias/434043-recuperacao-judicial-recua-no-1o-semestre-mas-nao-indica-queda-consistente-diz-serasa (cruzar com SpaceMoney: https://www.spacemoney.com.br/credito/recuperacao-judicial-primeiro-semestre-2026 )
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 4/5 (juros/economia do pais; sem comentar politica)
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 25/35
+Status: runner-up
+
+CANDIDATO 3 -- Disney avalia milhares de demissoes e pede corte de ate 20% nos custos
+Fato: Segundo a Bloomberg (02/11/2026), a Disney considera milhares de cortes e pediu a alguns gestores formas de reduzir custos anuais em ate 20%; CEO Josh D'Amaro quer reinvestir parte da economia em cinema/TV, tecnologia, parques e cruzeiros. Empresa nao comentou; nao esta claro se ja foi decidido. Segue rodadas anteriores em 2026 (~1.000 em abril, ~300 depois).
+Fonte: Sabado (PT, via Bloomberg) -- https://www.sabado.pt/dinheiro/amp/disney-avalia-milhares-de-despedimentos-para-reduzir-custos-anuais-em-20 (URL a conferir; cruzar com Gazeta Brasil: https://gazetabrasil.com.br/negocios/2026/11/03/disney-pede-corte-de-20-em-custos-e-preve-novas-demissoes/ )
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5 (informacao ainda nao oficial)
+- Identificacao com audiencia: 2/5
+TOTAL: 22/35
+Status: runner-up
+
+CANDIDATO 4 -- Mercado: Ibovespa sobe 1,39% (168.498 pts) e dolar a R$ 5,51 na sexta (06/11)
+Fato: Primeira semana positiva apos tres; dolar +1,20% na semana; temor de bolha de IA derrubou Nasdaq na quinta. Rotina de mercado, sem protagonista unico.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/
+Score de Repercussao: Frescor 5 | Relevancia 2 | Gravidade 1 | Polemica adjacente 3 | Volume 5 | Clareza 2 | Identificacao 2
+TOTAL: 20/35
+Status: runner-up (fraco)
+
+NAO PONTUADO (nao verificado): GPA/Casas Bahia 3T26 (sites secundarios citam prejuizo de R$ 731 mi com provisao de R$ 467 mi ligada a arbitragem da Casas Bahia; sem confirmacao em fonte primaria/grande veiculo). Vale reavaliar na segunda se confirmado -- pode ser forte (marca conhecida, tema Casas Bahia).
