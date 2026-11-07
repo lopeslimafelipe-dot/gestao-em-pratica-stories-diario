@@ -1,0 +1,43 @@
+PAUTA DO DIA -- 2026-11-07
+Assunto: Canva reestrutura 22% do time (1.271 pessoas) apos a primeira desaceleracao de crescimento em cerca de uma decada
+Score final: 26/35 (Frescor 4 | Relevancia do protagonista 4 | Gravidade 4 | Polemica adjacente 3 | Volume de cobertura 4 | Clareza do angulo 3 | Identificacao com audiencia 4)
+
+Fato central verificado: Em 03-04/11/2026 (veiculos divergem na data; Adweek diz 03/11, a maioria 04/11) a CEO Melanie Perkins anunciou reestruturacao que afeta 1.271 pessoas, ~22% da forca de trabalho. O numero MISTURA demissoes, mudancas de funcao e realocacoes -- a empresa nao informou quantas sao desligamentos. Perkins chamou 2026 de o ano mais dificil da empresa e falou em "refundar" a Canva em torno de times menores e mais autonomos; Produto, Growth e Plataforma serao reunidos numa unica organizacao; Sydney vira hub principal dos times de produto. Desligados: ao menos 6 meses de salario, 12 meses de plano de saude onde a Canva oferece e apoio de carreira; segundo parte da imprensa, ate US$ 10 mil em apoio pra abrir negocio proprio. Reuniao geral marcada pra 10/11.
+CORRECAO ao rascunho: o rascunho dizia hibrido de 2 para 3 dias de escritorio. O fact-check NAO confirma isso: a cobertura diz que, a partir de janeiro de 2027, hibridos serao esperados no escritorio 2 ou 3 dias por semana, conforme funcao e localidade. Usar so essa formulacao.
+
+Cadeia causal (o que levou a isso): crescimento desacelerou pela primeira vez em cerca de uma decada -> estrutura e camadas de gestao pensadas pra ritmo mais acelerado ficaram grandes pro momento -> reorganizacao em times menores/menos camadas, produto consolidado em um hub -> corte e realocacao acompanhados de pacote generoso pra quem sai -> regra de presenca ajustada pra apoiar colaboracao. (Cadeia baseada no que a empresa e a imprensa reportam; o detalhamento interno nao e publico.)
+
+Por que esta repercutindo agora: marca muito conhecida (usada por muitos donos de PME), numero grande e redondo (22%), a CEO chamou de "momento mais dificil", ampla cobertura internacional em poucos dias (Frescor, Relevancia, Gravidade e Volume pesaram). Tema IA x emprego alimenta a discussao, mas a comunicacao da empresa nao atribui os cortes a IA e ha reportagens dizendo que a Canva descartou substituicao por IA.
+
+Angulo de gestao sugerido: dimensionar a equipe ao ritmo REAL do negocio, nao ao ritmo que ele ja teve; quem espera crescer e contrata pra isso precisa rever estrutura quando o ritmo cai; menos camadas e times menores; comunicar com clareza e tratar bem quem sai (pacote, transicao) protege cultura e reputacao de quem fica.
+
+Dados de apoio:
+- Reuniao geral de 10/11 pra detalhar mudancas -- fonte: Human Resources Online / cobertura citada abaixo.
+- Pacote: >= 6 meses de salario + 12 meses de saude + apoio de carreira -- BPMoney e Startups (links abaixo).
+- Foco em Sydney como hub de produto, fusao de Produto/Growth/Plataforma -- cobertura de Forbes Australia, TechRadar e outros.
+- Valuation de US$ 42 bi na venda secundaria de acoes de agosto/2025 (dado antigo, so contexto) -- varias fontes; NAO verificado em fonte primaria, usar com cautela ou omitir.
+- NAO USAR: "previsao de receita cortada de 30% pra 20%" -- apareceu em uma busca mas nao foi confirmada em nenhuma fonte; nao incluir.
+
+Ressalva/limite: (1) nao afirmar que a IA causou os cortes -- a empresa nao diz isso; (2) nao chamar de "demissao de 1.271 pessoas" -- o numero inclui mudancas de funcao e realocacoes; (3) nao dizer "3 dias de escritorio" fixo (sao 2 ou 3, conforme funcao); (4) a polemica adjacente (IA x emprego) NAO e politica, mas manter o foco em gestao e nao opinar sobre o debate geral de IA e empregos; (5) sem recomendacao de investimento/valuation.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve e o Copywriter do canal, secao 2.4, adaptado pra duracao maior):
+- Hook: conflito especifico (uma empresa avaliada em dezenas de bilhoes reestrutura 22% do time depois de crescer por anos)
+- Contexto/causa raiz: primeira desaceleracao em cerca de uma decada, estrutura pensada pra outro ritmo
+- Desenvolvimento da cadeia causal: ritmo cai -> estrutura pesa -> times menores/menos camadas -> pacote pra quem sai -> regra de presenca
+- Licao de gestao (a virada): estrutura tem que acompanhar o ritmo real do negocio; reorganizar cedo e com clareza custa menos
+- Fechamento + CTA
+
+Fonte(s):
+- BPMoney -- https://bpmoney.com.br/inovacao/tecnologia/canva-demissao-1271-funcionarios-corte-22-equipe-reestruturacao/
+- Adweek -- https://www.adweek.com/creativity/canva-to-cut-or-redeploy-22-of-staff-following-hardest-year-yet/
+- Forbes Australia -- https://www.forbes.com.au/news/innovation/mass-job-cuts-canva-unveils-major-restructure/
+- TechRadar -- https://techradar.com/pro/canva-reveals-major-restructuring-potentially-affecting-over-a-thousand-jobs
+- Fox Business -- https://foxbusiness.com/economy/canva-restructuring-affect-22-workforce-growth-slows
+- Startups -- https://startups.com.br/negocios/demissoes/canva-vive-momento-mais-dificil-e-demite-um-quinto-do-time/
+(Fact-check feito por WebSearch -- trechos de varios veiculos batem no fato central; texto integral do memo nao foi lido.)
+
+Runners-up do dia (registro/transparencia):
+- Serasa: recuperacoes judiciais caem 14,5% no 1S26 -- 25/35
+- Disney avalia milhares de demissoes e corte de ate 20% nos custos -- 22/35
+- Mercado: Ibovespa +1,39% e dolar a R$ 5,51 (06/11) -- 20/35
+- Nao pontuado: GPA/Casas Bahia 3T26 (sem confirmacao em fonte primaria)
