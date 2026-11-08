@@ -1,0 +1,45 @@
+RASCUNHO -- RADAR DE REPERCUSSAO 2026-11-08 (domingo)
+Obs. de pesquisa: busca web retornou pouco material datado de hoje; sites InfoMoney/DadosdeMercado bloqueados na sandbox (so snippets de busca). Datas/fatos abaixo vem de snippets -- Etapa 2 deve reconfirmar na fonte original (Bloomberg/Reuters).
+
+CANDIDATO 1 -- Disney pede a gestores corte de custos de ate 20% e avalia demissoes de milhares
+Fato: Segundo a Bloomberg (2/11/2026), a Disney (CEO Josh D'Amaro) pediu a alguns gestores que identifiquem reducao de custos anuais de ate 20%, com possiveis demissoes de milhares; cortes poderiam atingir parques, TV e cinema; parte da economia seria redirecionada a conteudo, tecnologia, parques e cruzeiros. Contexto citado: IA, queda de bilheteria, concorrencia no streaming. A empresa NAO confirmou numeros nem cronograma (meta de 20% vale para certos gestores, nao para toda a forca de trabalho). Disney ja cortou ~1.000 vagas em abril e centenas em setembro.
+Fonte: ADVFN (reproduz Bloomberg) -- https://br.advfn.com/jornal/2026/11/disney-demissoes-milhares-funcionarios-corte-custos-20
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5 (nao confirmado oficialmente)
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 24/35
+Status: VENCEDOR DO DIA
+Angulo sugerido: empresa lucrativa cortando custo antes da crise (eficiencia preventiva vs. corte linear), licao de gestao de custos/estrutura pro dono de PME. Cuidado: tratar como reportagem nao confirmada. Tema parecido com Canva (11-07), mas empresa/tese diferentes.
+
+CANDIDATO 2 -- Margens espremidas em 2027: empresas brasileiras entre juro alto, reforma tributaria e ajuste fiscal
+Fato: Dados de Mercado (agregador, atualizado 07/11/2026 12:39) lista materia do InfoMoney sobre visao da JGP de que empresas brasileiras ficarao espremidas em 2027 (ajuste fiscal). Contexto confirmado em outras fontes: CBS substitui PIS/Cofins em jan/2027; Selic mantida em 13,75%. Fato primario NAO verificado (URL exata do InfoMoney nao acessivel).
+Fonte: Dados de Mercado (agregador, so p/ localizar) -- https://www.dadosdemercado.com.br/ultimas-noticias ; reconfirmar no InfoMoney
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 2/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 5/5
+TOTAL: 22/35
+Status: runner-up (guardrail: se usado, nao comentar politica/eleicao/governo, so efeito em margem e planejamento)
+
+CANDIDATO 3 -- Morgan Stanley rebaixa acoes brasileiras (overweight -> equal-weight) por riscos fiscal/eleitoral e desaceleracao
+Fato: Morgan Stanley cortou recomendacao para neutra, citando incerteza fiscal/eleitoral, juro alto e crescimento menor; reduziu BBAS3, XP e B3 e realocou para o Chile. Data exata nao confirmada nos snippets (aparece como recente, possivelmente final de out/inicio de nov).
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/mercados/morgan-stanley-rebaixa-recomendacao-de-acoes-brasileiras-por-riscos-fiscal-e-eleitoral/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 20/35
+Status: runner-up (guardrail politico: tema com forte carga eleitoral -- roteiro NAO pode comentar politica)
