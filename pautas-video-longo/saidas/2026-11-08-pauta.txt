@@ -1,0 +1,41 @@
+PAUTA DO DIA -- 2026-11-08
+Assunto: Disney pede a alguns gestores corte de custos de ate 20% e avalia demissoes de milhares (segundo Bloomberg)
+Score final: 24/35 (Frescor 3 | Relevancia do protagonista 5 | Gravidade 3 | Polemica adjacente 2 | Volume de cobertura 4 | Clareza do angulo 4 | Identificacao com audiencia 3)
+
+Fato central verificado: Em 02/11/2026 a Bloomberg, citando fontes nao identificadas, reportou que a Disney (CEO Josh D'Amaro) planeja milhares de demissoes e pediu a alguns gestores que identifiquem ate 20% de reducao de custos anuais. Reuters relayou a reportagem e a CNBC teria publicado o mesmo plano com fontes proprias (a materia da CNBC nao foi lida diretamente). O 20% e uma META DADA A CERTOS GESTORES, nao um corte de 20% da forca de trabalho; a economia pode vir de vagas, outros custos ou ambos, e algumas areas serao mais atingidas que outras. Numero final de vagas e cronograma NAO foram definidos/divulgados; a Disney nao confirmou oficialmente. Headcount da empresa: ~231 mil no fim do ano fiscal de 2025 (Reuters, via NST/GVWire). Parte da economia seria reinvestida em filmes e TV, tecnologia, parques e cruzeiros.
+Obs.: o rascunho dizia que os cortes "poderiam atingir parques, TV e cinema"; o fact-check NAO confirmou quais divisoes serao afetadas -- nao citar divisoes.
+
+Cadeia causal (o que levou a isso): pressoes reportadas (adocao de IA, bilheteria mais fraca, concorrencia no streaming, visitacao internacional mais lenta nos parques) -> novo CEO assume e inicia rodadas de enxugamento (~1.000 vagas em abril, ~300 em setembro de 2026) -> agora, meta de ate 20% de economia pedida a gestores especificos, em vez de um corte igual pra todos -> parte do dinheiro economizado e redirecionada a areas que a empresa considera estrategicas (conteudo, tecnologia, parques, cruzeiros). Cadeia baseada no que a imprensa reporta; o raciocinio interno nao e publico.
+
+Por que esta repercutindo agora: protagonista gigante e conhecido (Relevancia 5), cobertura ampla e simultanea (Bloomberg, Reuters, CNBC, veiculos locais -- Volume 4), angulo claro (corte de custo com reinvestimento -- Clareza 4). Pesaram menos: Frescor (reportagem de 02/11) e Gravidade (nao confirmada). Proxima data que pode trazer detalhe: resultados do 4o trimestre/ano fiscal em 17/11/2026.
+
+Angulo de gestao sugerido: cortar custo nao e cortar igual pra todo mundo. Meta diferente por area + realocacao do que se economiza para onde esta o futuro do negocio (eficiencia seletiva vs. corte linear). Licao pro dono de PME: revisar custo por area/retorno, nao com a tesoura uniforme; decidir ANTES de a crise apertar e dizer pra onde o dinheiro economizado vai. Tratar tudo como reportagem nao confirmada.
+
+Dados de apoio:
+- ~1.000 demissoes anunciadas em abril/2026 sob D'Amaro (Poder360, Metropoles) -- https://www.poder360.com.br/poder-cultura/disney-demite-1-000-funcionarios-para-enxugar-operacoes/
+- ~300 demissoes adicionais em setembro/2026 (via Reuters/NST e Variety AU) -- https://au.variety.com/2026/film/news/disney-layoffs-hr-tech-employees-40828/
+- Headcount ~231 mil no fim do ano fiscal de 2025 (Reuters via NST) -- https://www.nst.com.my/amp/business/corporate/2026/11/1569506/disney-eyes-thousands-layoffs-managers-asked-cut-20pct-costs
+- Resultados do ano fiscal 2026 em 17/11 (TheNextWeb) -- https://thenextweb.com/news/disney-layoffs-thousands-managers-cut-costs-20-percent
+- Contagem de rodadas diverge entre veiculos (3a ou 4a do ano) -- nao citar numero de rodada.
+- Historico 2023-2025 (7.000 vagas / ~8 mil) diverge entre fontes -- nao usar.
+
+Ressalva/limite: (1) tudo e relato de imprensa com fontes anonimas; usar "segundo a Bloomberg", nunca afirmar como fato consumado; (2) nao dizer "Disney vai demitir 20%" -- 20% e meta de economia pra alguns gestores; (3) nao citar numero exato de demissoes nem divisoes afetadas; (4) nao atribuir os cortes a IA como causa unica -- ela aparece apenas como um dos fatores citados; (5) Polemica adjacente (2/5) e leve, mas nao opinar sobre debate geral de IA x emprego; sem politica; (6) sem recomendacao de investimento/acoes da Disney; (7) tema parecido com Canva (pauta de 11-07) -- diferenciar: Canva = reorganizar estrutura apos desaceleracao; Disney = corte seletivo e realocacao de investimento.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve e o Copywriter do canal, secao 2.4, adaptado pra duracao maior):
+- Hook: conflito especifico (uma das maiores empresas de entretenimento do mundo pede pra gestores acharem ate 20% de corte -- e ao mesmo tempo quer investir mais em parques e cruzeiros)
+- Contexto/causa raiz: bilheteria, streaming, IA e parques pressionando; novo CEO ja vinha cortando em rodadas
+- Desenvolvimento da cadeia causal: pressao -> rodadas menores -> meta por gestor -> economia realocada pro que e estrategico
+- Licao de gestao (a virada): cortar com criterio (por area e retorno) e dizer pra onde o dinheiro vai, em vez de cortar linear
+- Fechamento + CTA
+
+Fonte(s):
+- Bloomberg (original, nao acessado diretamente) via GVWire -- https://gvwire.com/2026/11/02/disney-eyes-thousands-of-layoffs-managers-asked-cut-20-in-costs-bloomberg-news-reports/
+- Reuters via NST -- https://www.nst.com.my/amp/business/corporate/2026/11/1569506/disney-eyes-thousands-layoffs-managers-asked-cut-20pct-costs
+- TheNextWeb -- https://thenextweb.com/news/disney-layoffs-thousands-managers-cut-costs-20-percent
+- Fox (varias afiliadas) -- https://www.fox9.com/news/disney-planning-lay-off-thousands-report
+- ADVFN (versao em portugues, do rascunho) -- https://br.advfn.com/jornal/2026/11/disney-demissoes-milhares-funcionarios-corte-custos-20
+(Fact-check feito por WebSearch -- trechos de varios veiculos batem no fato central; texto integral da Bloomberg nao foi lido.)
+
+Runners-up do dia (registro/transparencia):
+- Margens espremidas em 2027 (JGP/InfoMoney; juro alto, reforma tributaria, ajuste fiscal) -- 22/35
+- Morgan Stanley rebaixa acoes brasileiras (overweight -> equal-weight) -- 20/35
