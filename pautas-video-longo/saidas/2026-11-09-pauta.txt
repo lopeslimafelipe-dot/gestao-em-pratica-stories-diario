@@ -1,0 +1,45 @@
+PAUTA DO DIA -- 2026-11-09
+Assunto: GPA (Pao de Acucar): renegociou R$ 4,5 bi de divida e ainda assim fechou o 3T26 no prejuizo
+Score final: 24/35 (Frescor 3, Relevancia do protagonista 5, Gravidade 4, Polemica adjacente 3, Volume de cobertura 3, Clareza do angulo 3, Identificacao com audiencia 3)
+
+Fato central verificado (via WebSearch, varias fontes concordantes; fonte primaria RI/CVM NAO acessada):
+- Em 05/11/2026 o GPA (PCAR3) reportou prejuizo liquido de R$ 220 mi nas operacoes continuadas no 3T26, contra lucro de R$ 142 mi no 3T25 (a base do ano passado teve credito tributario extraordinario de R$ 418 mi; sem esse efeito, o prejuizo teria recuado 20,3% na comparacao anual).
+- Operacoes descontinuadas: prejuizo de R$ 511 mi, influenciado principalmente por provisao de R$ 467 mi ligada a arbitragem com a Casas Bahia. Prejuizo consolidado: R$ 731 mi.
+- Operacao melhorou: Ebitda ajustado pos-IFRS16 de R$ 482 mi (+16,9% vs 3T25); economia de despesas de R$ 365 mi em 2026 (88% da meta anual).
+- Divida liquida de R$ 3,784 bi ao fim de setembro. Novos titulos e efeito contabil da renegociacao so em dezembro (ainda nao estao no resultado do 3T26).
+Fonte: Mercado&Consumo -- https://mercadoeconsumo.com.br/05/11/2026/mc-capital/gpa-tem-prejuizo-liquido-de-r-220-milhoes-nas-operacoes-continuadas-no-3o-trimestre/ ; apoio: https://visnoinvest.com.br/news/16100/gpa-pcar3-registra-prejuizo-de-r-220-mi-nas-operacoes-continuadas-do-3t26 ; https://euqueroinvestir.com/mercados/gpa-balanco-3t26 ; https://www.analisedeacoes.com/noticias/gpa-pcar3-tem-prejuizo-de-220-milhoes-nas-operacoes-continuadas-do-3-trimestre/
+
+Cadeia causal (o que levou a isso):
+1) Divida alta e capital de giro apertado -> duvida de continuidade operacional apontada desde o 1T26 (capital circulante liquido negativo ~R$ 3,9 bi, dado do rascunho, nao reconfirmado hoje).
+2) GPA pede recuperacao extrajudicial para reorganizar ~R$ 4,5 bi (R$ 4,568 bi em creditos quirografarios); 57,49% dos credores aderem; Justica de SP homologa em 07/10/2026; pode receber ate R$ 200 mi em recursos novos.
+3) Pendencia com a Casas Bahia (arbitragem) vira provisao de R$ 467 mi no 3T26 -> o balanco piora mesmo com a operacao melhorando.
+4) O alivio da divida so aparece no balanco em dezembro: renegociar e ganhar tempo, nao e gerar lucro.
+
+Por que esta repercutindo agora: balanco divulgado em 05/11 (Frescor), protagonista de altissimo reconhecimento (5/5), prejuizo grande com reestruturacao em curso (Gravidade 4) e contexto de varejo pressionado; angulo e identificacao com a audiencia moderados (3/5).
+
+Angulo de gestao sugerido: renegociar divida compra tempo, mas nao substitui operacao que gera caixa. Licao pro dono de PME: cuidar de capital de giro e do prazo da divida (evitar divida curta para financiar giro) e renegociar ANTES de a pressao virar emergencia; acompanhar margem operacional separada do resultado contabil (aqui o Ebitda subiu enquanto o lucro liquido caiu por itens nao recorrentes e provisoes).
+
+Dados de apoio:
+- Ebitda ajustado R$ 482 mi, +16,9% (BTG Pactual research / euqueroinvestir) -- https://euqueroinvestir.com/mercados/gpa-balanco-3t26
+- Plano de recuperacao extrajudicial homologado em 07/10/2026, adesao de 57,49% dos credores -- https://capitalaberto.com.br/empresas/2026/10/justica-homologa-recuperacao-extrajudicial-do-gpa
+- Divida a reorganizar R$ 4,5 bi -- https://www.moneytimes.com.br/gpa-pcar3-entra-em-recuperacao-extrajudicial-com-cerca-de-r-45-bilhoes-em-dividas-para-renegociacao-lmrs/
+- Pela simulacao da companhia, o saldo cairia para R$ 1,263 bi apos a renegociacao (uma fonte; nao reconfirmada) -- https://euqueroinvestir.com/mercados/gpa-balanco-3t26
+- Recorde de empresas em recuperacao judicial (contexto, do rascunho) -- https://br.advfn.com/jornal/2026/10/recuperacao-judicial-bate-recorde-no-brasil-juros-altos-mantem-pressao-sobre-empresas-endividadas
+
+Ressalva/limite:
+- Fonte primaria (release/CVM) nao foi aberta (WebFetch bloqueado nesta rede); numeros conferidos por varias fontes secundarias via busca.
+- NAO USAR: receita -9,6%, PL negativo de R$ 321 mi e paragrafo da EY (nao confirmados); a receita bruta aparece como R$ 4,6 bi (-6,5%) em apenas uma fonte -- evitar citar. Tambem nao usar R$ 708 mi de recebivel da Casas Bahia (citado por uma materia da Exame, nao confirmado); a provisao confirmada e R$ 467 mi. O lucro do 3T25 aparece como R$ 134 mi ou R$ 142 mi conforme a fonte; usar R$ 142 mi (operacoes continuadas).
+- GUARDRAIL POLITICO: 'Polemica adjacente' (3) pesou no score (juro alto/crise do varejo). NAO comentar politica, governo, partido ou politica de juros; falar so de gestao: divida, caixa, capital de giro, renegociacao. Nao e recomendacao de investimento (nada sobre acoes).
+
+Estrutura sugerida pro roteiro (referencia; o roteiro final e do Copywriter, secao 2.4, adaptado a duracao maior):
+- Hook: "Renegociou R$ 4,5 bilhoes de divida... e mesmo assim deu prejuizo no trimestre."
+- Contexto/causa raiz: divida alta, capital de giro apertado, recuperacao extrajudicial.
+- Desenvolvimento da cadeia causal: homologacao -> provisao da Casas Bahia -> operacao melhora (Ebitda +16,9%) mas o resultado liquido nao -> alivio so em dezembro.
+- Licao de gestao (a virada): renegociar compra tempo; o que sustenta e a operacao gerar caixa; capital de giro e prazo da divida.
+- Fechamento + CTA.
+
+Fonte(s): Mercado&Consumo -- https://mercadoeconsumo.com.br/05/11/2026/mc-capital/gpa-tem-prejuizo-liquido-de-r-220-milhoes-nas-operacoes-continuadas-no-3o-trimestre/ ; Capital Aberto -- https://capitalaberto.com.br/empresas/2026/10/justica-homologa-recuperacao-extrajudicial-do-gpa ; Eu Quero Investir -- https://euqueroinvestir.com/mercados/gpa-balanco-3t26
+
+Runners-up do dia:
+- Recuperacoes judiciais em nivel recorde e juros altos pressionando empresas endividadas -- 23/35
+- Magalu: balanco do 3T26 e a oportunidade com a crise da Casas Bahia -- 20/35
