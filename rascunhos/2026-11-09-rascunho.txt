@@ -1,0 +1,81 @@
+RASCUNHO 2026-11-09 (segunda) -- Etapa 1 (Pesquisa). 8 itens. Verificacao por trechos de busca (WebFetch bloqueado); Etapa 2 re-confere.
+
+ITEM 1 -- Zoho Analytics vira plataforma de "analytics agentico"
+Categoria: Tecnologia
+Fato: Em 28/10/2026 a Zoho anunciou camada semantica/ontologia no Zoho Analytics pra ancorar agentes de IA nos dados do negocio; Ask Zia vira sistema multiagente; servidor MCP (remoto e local); 30 novos conectores alem de 500+; creditos de IA gratis em todos os planos (fontes divergem sobre precificacao); funcoes "Preview" liberadas aos poucos.
+Fonte: IT Brief -- https://itbrief.co.uk/story/zoho-analytics-adds-agentic-ai-layer-for-business-data ; Small Biz Trends -- https://smallbiztrends.com/zoho-adds-ai-agents-to-analytics-for-smarter-business-decisions/ ; Constellation Research -- https://www.constellationr.com/insights/news/zoho-revamps-zoho-analytics-could-extend-its-reach
+Relevancia: Mostra que o gargalo de agente de IA e o dado "sem dicionario" (o que e cliente ativo, margem), nao o modelo.
+Ressalva tecnica: ~12 dias, FORA da janela de 7 dias (nenhum lancamento de tech confirmado dentro da janela apos 4 rodadas; Etapa 2 pode descartar). Fonte primaria e release de vendor (interesse comercial). Constellation cita ceticismo: semantica ja e estabelecida em lideres de analytics.
+Possivel contradicao com roteiro anterior: nenhuma (tema agentes de IA ja apareceu em Sprinklr 03/11 e Klook 06/11, produtos diferentes).
+Tese de gancho sugerida: Antes de comprar agente de IA, defina o que "cliente ativo" e "margem" significam nos seus numeros: a Zoho esta vendendo o glossario de negocio como pre-requisito do agente.
+
+ITEM 2 -- Children's Place (EUA) prepara pedido de falencia
+Categoria: Noticia de empresa
+Fato: Rede de varejo infantil (57 anos, ~515 lojas) prepara pedido de falencia e buscara venda (manter operacao ou liquidar), segundo Bloomberg via Retail Dive/Chain Store Age. Divida estimada acima de US$ 500 mi; receita liquida do ultimo trimestre -quase 20% a/a, a US$ 241,8 mi. 8-K de 04/11/2026: CEO interino Asif Seemab saiu; Chief Strategy Officer Muhammad Umair saiu do cargo e do conselho; CFO John Szczepanski assume como presidente em exercicio e principal executivo. Inquirer (06/11): fecham as ~24 lojas de New Jersey, 732 demissoes no estado; ate 06/11 nenhum processo constava na justica. Resgatada em 2024 pela Mithaq Capital.
+Fonte: SEC 8-K -- https://www.sec.gov/Archives/edgar/data/0001041859/000110465926122379/tm2628920d1_8k.htm ; Retail Dive -- https://retaildive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874004 ; Chain Store Age -- https://chainstoreage.com/children-place-reportedly-preps-bankruptcy-amid-big-leadership-shakeup ; Inquirer -- https://www.inquirer.com/business/retail/childrens-place-nj-stores-closing-bankruptcy-reports-20261106.html ; CFO Dive -- https://www.cfodive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874024/
+Relevancia: Caso de varejo em que troca de dono e de CEO nao corrigiu o modelo; licao de gestao valida pra qualquer porte.
+Ressalva tecnica: Falencia e reportagem com fonte anonima, nao pedido protocolado: redigir "prepara", nao "pediu". NAO usar "700 lojas fechadas" (confusao com 732 demissoes). Data exata de Retail Dive/Chain Store Age nao confirmada (semana de 02-06/11).
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Capital novo e CEO novo nao salvam um modelo que nao mudou: receita -20%, divida acima de US$ 500 mi e a diretoria saiu inteira antes do pedido.
+
+ITEM 3 -- PMI de servicos do Brasil cai a 44,5, menor leitura desde abril de 2021
+Categoria: Macroeconomia-indice
+Fato: PMI de servicos (S&P Global) foi de 49,2 (set) a 44,5 (out), menor desde abril/2021. PMI Composto de 47,4 a 44,4, pior em mais de 6 anos. Atividade e novos pedidos caem no ritmo mais forte em mais de 5 anos. Causas citadas (Pollyana de Lima, S&P Global): clientes cortando gastos por precos altos e incerteza eleitoral, greves nos Correios, cancelamento de projetos. Inflacao de precos de venda desacelerou ao menor nivel do ano. Economista aponta contracao do PIB no 4T. Divulgado 05/11/2026.
+Fonte: O Povo -- https://www.opovo.com.br/noticias/economia/2026/11/05/pmi-de-servicos-do-brasil-cai-a-445-em-outubro-menor-leitura-desde-abril-de-2021.html ; CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/macroeconomia/setor-de-servicos-amplia-contracao-no-brasil-em-outubro/ ; ADVFN -- https://br.advfn.com/jornal/2026/11/pmi-de-servicos-do-brasil-despenca-em-outubro-e-tem-a-pior-leitura-em-mais-de-cinco-anos ; Jornal de Brasilia -- https://jornaldebrasilia.com.br/noticias/economia/pmi-de-servicos-do-brasil-cai-a-445-em-outubro-menor-leitura-desde-abril-de-2021/
+Relevancia: Servicos e o setor que mais emprega e onde ha mais PME; sinal de demanda no fim do ano.
+Ressalva tecnica: Verificacao por trechos (Valor/InfoMoney/Exame nao apareceram). Unico item macro do dia.
+Possivel contradicao com roteiro anterior: nenhuma; complementa o PMI industrial 46,1 (04/11) e a Confianca Empresarial em queda (06/11): mesma direcao (S&P Global, setor diferente).
+Tese de gancho sugerida: Servico entrou no pior mes em 5 anos e meio, com cliente cortando gasto e cancelando projeto; se sua receita depende de contrato e projeto, o 4o trimestre pode chegar antes do que seu caixa previu.
+
+ITEM 4 -- McKinsey: bem-estar vira mercado de US$ 2,7 tri e eficacia empata com preco
+Categoria: Tendencia internacional
+Fato: Relatorio "Future of Wellness 2027" (McKinsey, ~03/11/2026): mercado global de bem-estar US$ 2,7 tri (EUA ~US$ 700 bi); bem-estar e a 2a prioridade do consumidor, atras da familia; eficacia agora empata com preco como fator de compra; amigos e familia influenciam a compra 35% x 8% dos chatbots de IA; pouco mais de 1/3 dos consumidores concentra mais da metade do gasto.
+Fonte: Global Wellness Summit -- https://www.globalwellnesssummit.com/global-wellness-news/mckinseys-releases-future-of-wellness-2027-report-equinox-lines-up-1b-for-new-era-of-growth-trend-fourth-spaces/ ; Rama on Healthcare -- https://ramaonhealthcare.com/future-of-wellness-2027-inside-the-2-7-trillion-takeover/ ; Citeline -- https://insights.citeline.com/hbw-insight/wellness/business/marketing-and-advertising/consumer-products-across-categories-should-ride-wellness-takeover-for-growth-mckinsey-report-X6GMNR3MFNBQVAEQXDLH5HOCSM/
+Relevancia: Radar de tendencia de consumo ("que mercado esta crescendo") com dado util sobre indicacao x IA.
+Ressalva tecnica: US$ 2,7 tri NAO e comparavel aos US$ 2 tri do ano passado (McKinsey ampliou categorias): nao apresentar como crescimento de 35%. Numeros vem de resumos secundarios; pagina da McKinsey indexada era da edicao antiga, data exata vem de agregador. Global Wellness Summit tem interesse no setor.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Indicacao de amigo pesa 4x mais que IA (35% x 8%) e 1/3 dos clientes concentra mais da metade do gasto: o seu produto vende eficacia ou so preco, e voce sabe quem sao esses clientes?
+
+ITEM 5 -- 13o salario: 1a parcela (ou parcela unica) ate 30/11/2026
+Categoria: Prazo de Acao (Obrigacao)
+Fato: Data-limite 30/11/2026 (segunda-feira) pra pagar a 1a parcela (50%, sem desconto de INSS/IR) ou o 13o integral. 2a parcela: prazo legal 20/12 (domingo), maioria das fontes aponta 18/12 (sexta) como ultimo dia seguro. Deixar tudo pra 2a parcela deixa a 1a em atraso, sujeita a multa.
+Fonte: O Povo -- https://www.opovo.com.br/noticias/economia/2026/11/07/prazos-e-regras-do-13-salario-em-2026-confira-tudo-o-que-voce-precisa-saber.html ; Mixvale -- https://www.mixvale.com.br/2026/11/07/13o-salario-2026-1a-parcela-vence-em-30-de-novembro-2a-em-18-12/ ; Contabeis -- https://www.contabeis.com.br/noticias/79876/13o-salario-2026-veja-as-datas-de-pagamento/
+Relevancia: Obrigacao de caixa que todo dono de empresa com funcionario tem; planejar agora.
+Ressalva tecnica: Nenhuma pagina gov.br/MTE apareceu; confirmar. Regra e antiga (conteudo recorrente anual); novidade e o calendario 2026. ContaAzul (blog) tem interesse comercial (nao usar como fonte principal).
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: 30 de novembro e daqui a tres semanas: quem deixa o 13o todo pra dezembro entra em atraso na 1a parcela e concentra o caixa justo quando o servico vive o pior momento em 5 anos (ver item 3).
+
+ITEM 6 -- Schaeffler corta 3.460 vagas na Europa e fecha 4 fabricas na Alemanha
+Categoria: Reestruturacao-corte-fechamento
+Fato: Anunciado em 03/11/2026 com o resultado do 3T26: corte de 3.460 postos na Europa (2.660 na Alemanha), 16 unidades afetadas, 4 fabricas fecham na Alemanha (parte da imprensa fala em 5 europeias, com 1 na Belgica). ~50% producao, 30% P&D, 20% outras funcoes. Economia ~EUR 300 mi/ano a partir de 2030; custo unico ~EUR 480 mi, maior parte em 2026. Motivos: demanda fraca por carros a combustao, adocao lenta de EV, concorrencia. Receita 9M de EUR 17,48 bi (vs 17,67 bi), margem EBIT 4,5%, previsao mantida (segundo trecho de busca).
+Fonte: TimesLIVE -- https://www.timeslive.co.za/motoring/2026-11-03-schaeffler-to-cut-3460-jobs-in-europe-amid-industry-downturn/ ; Automotive Logistics -- https://www.automotivelogistics.media/supply-chain/schaeffler-to-cut-nearly-3500-jobs-and-shut-down-five-plants-in-europe/2763197 ; just-auto -- https://www.just-auto.com/newsletters/schaeffler-plans-3460-job-cuts ; Finimize -- https://finimize.com/content/schaeffler-plans-3460-job-cuts-as-ev-demand-disappoints
+Relevancia: Corte estrutural feito antes do prejuizo, por queda de demanda de uma linha de produto.
+Ressalva tecnica: Percentual sobre quadro varia por fonte: usar so numeros absolutos. Um trecho citou comunicado preliminar de 13/10; varios veiculos datam 03/11. Confirmar "sem prejuizo". Empresa B2B pouco conhecida do consumidor; sem fonte brasileira.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: A Schaeffler mantem a previsao do ano e mesmo assim corta 3.460 vagas e fecha 4 fabricas: quem espera a crise chegar no balanco pra reestruturar chega tarde.
+
+ITEM 7 -- GPA: prejuizo no 3T26 mesmo com EBITDA +16,9% e corte de despesas
+Categoria: Reestruturacao-corte-fechamento
+Fato: Resultado de 05/11/2026: prejuizo liquido de R$ 220 mi nas operacoes continuadas (lucro de R$ 142 mi um ano antes); prejuizo de R$ 731 mi com operacoes descontinuadas, incluindo provisao de R$ 467 mi de arbitragem com a Casas Bahia. EBITDA ajustado R$ 482 mi (+16,9%). Receita liquida -9,6%. Ja capturou R$ 365 mi de reducao de despesas em 2026 (88% da meta anual), principalmente por corte de quadro. Em recuperacao extrajudicial homologada.
+Fonte: Mercado & Consumo -- https://mercadoeconsumo.com.br/05/11/2026/mc-capital/gpa-tem-prejuizo-liquido-de-r-220-milhoes-nas-operacoes-continuadas-no-3o-trimestre/ ; Analise de Acoes -- https://www.analisedeacoes.com/noticias/gpa-pcar3-tem-prejuizo-de-220-milhoes-nas-operacoes-continuadas-do-3-trimestre/ ; Super Varejo -- https://supervarejo.com.br/varejo/grupo-pao-de-acucar-registra-prejuizo-de-r-731-milhoes-no-3t26 ; A Critica -- https://acritica.net/economia/gpa-prejuizo-terceiro-trimestre-2026/
+Relevancia: Caso brasileiro de corte de custo que segura o caixa mas nao devolve crescimento.
+Ressalva tecnica: E balanco com corte de custo, nao anuncio de demissao em massa; sem numero de demissoes. NAO usar "20% do quadro administrativo" (nao confirmado). Fontes setoriais, sem Valor/Exame.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: O GPA cortou despesa, o EBITDA subiu 17% e o prejuizo continua: cortar custo segura o caixa, mas nao traz o cliente de volta (receita -9,6%).
+
+ITEM 8 -- Havan inaugura a megaloja numero 200, em Boa Vista (RR)
+Categoria: Livre (noticia de empresa / expansao)
+Fato: Loja 200 abre sabado 14/11/2026, 10h, em Boa Vista (primeira em Roraima): 20 mil m2, 350 mil itens, fachada com "200" iluminado e replica da Estatua da Liberdade (24 m, 8 t). Meta de 200 lojas em 2026 cumprida; mais tres ate dezembro (Vila Velha-ES, Sao Jose dos Pinhais-PR, Fortaleza-CE), chegando a 203.
+Fonte: Mercado & Consumo (05/11) -- https://mercadoeconsumo.com.br/05/11/2026/noticias-varejo/havan-inaugura-megaloja-de-numero-200-com-fachada-comemorativa-em-roraima/ ; BandAB -- https://www.bandab.com.br/economia/luciano-hang-anuncia-200a-megaloja-havan/ ; Diario do Para -- https://diariodopara.com.br/noticias/brasil/norte-recebe-a-loja-havan-de-numero-200-veja-os-detalhes-da-nova-unidade/
+Relevancia: Contraponto de expansao no varejo fisico em ano de varejo endividado.
+Ressalva tecnica: Fontes pre-inauguracao (evento ainda nao ocorreu); fontes setoriais. Nao usar meta de faturamento R$ 22 bi (fonte fraca).
+Possivel contradicao com roteiro anterior: nenhuma; contraste com Chilli Beans (RE, 03/11), Children's Place (item 2) e GPA (item 7).
+Tese de gancho sugerida: Enquanto parte do varejo fecha loja ou renegocia divida, a Havan chega a 200 lojas abrindo megaloja em praca que ninguem atendia: expansao com ativo proprio e fachada como marketing.
+
+--- RESUMO DE COBERTURA ---
+Internacionais: Zoho (IN/EUA), Children's Place (EUA), McKinsey (grande consultoria), Schaeffler (DE): cota cumprida (2+, com 1 grande consultoria).
+LINHA 6 (empresa global reconhecida): VAZIA. Consultas: ~35 pelo subagente (CEO/M&A/resultado/demissoes, PT e EN, Nestle/Unilever/VW/Stellantis/Ford/Meta/Amazon/Google/Microsoft/Tesla, nomeia novo CEO) + 3 minhas. Motivo: sem evento datado na janela com 2+ fontes. Reservas: Volkswagen prejuizo operacional de EUR 5,86 bi no 3T26, baixa de ~EUR 6,4 bi na Porsche, entregas -14%, China -38,5% (29/10, 2 dias uteis fora da janela; https://timesbrasil.com.br/empresas-e-negocios/volkswagen-mantem-projecoes-mas-acelera-reestruturacao-sob-pressao-de-tarifas-e-china/ ; https://www.timeslive.co.za/motoring/2026-10-29-volkswagens-q3-loss-widens-to-59bn-raising-restructuring-stakes/); Block (Dorsey) segunda rodada de demissoes ~06/11, numero nao confiavel, so agregadores.
+LINHA 7: Schaeffler (internacional) e GPA (BR, fraco). Nenhum caso BR limpo de demissao/fechamento na janela (busca nao indexa CVM/fatos relevantes).
+Outros reservas: fal capta US$ 1,3 bi a US$ 16 bi de valuation (03/11, so agregadores); Deloitte change management (70% dos lideres dizem que a ultima transformacao ficou abaixo do esperado; data do release nao confirmada); Producao industrial -0,8% em setembro (IBGE 05/11, https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48468-noticia-pim-pf-br-setembro); reforma tributaria 01/01/2027 (sem fonte oficial).
+Lacunas: IPCA de outubro (sai 10/11), PMC e NFIB ainda nao divulgados. Linha 5: nenhum programa de credito Sebrae com prazo aberto achado.
+Fontes BR: O Povo, CNN Brasil, Mercado & Consumo, Jornal de Brasilia, ADVFN. G1/Estadao/Valor/Exame/InfoMoney nao apareceram em resultados utilizaveis.
