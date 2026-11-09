@@ -1,0 +1,37 @@
+ROTEIRO 1 -- Antes do agente, o dicionário
+"A Zoho lançou no fim de outubro uma camada que define o que é cliente ativo e margem pra que agentes de IA consigam ler os dados da empresa; segundo a própria Zoho, são mais de 30 conectores novos e créditos de IA em todos os planos. É material do fornecedor, então desconte o marketing. Mas o recado serve: 🟡`antes de comprar agente de IA, defina o que é cliente ativo e margem nos seus números`🟡. 🟡`Sem esse glossário, o agente só erra mais rápido.`🟡 Você já escreveu o seu?"
+Fonte: IT Brief -- https://itbrief.co.uk/story/zoho-analytics-adds-agentic-ai-layer-for-business-data
+
+ROTEIRO 2 -- Troca de CEO não troca o modelo
+"A Children's Place, rede americana de roupa infantil com 57 anos e cerca de 515 lojas, prepara um pedido de falência, segundo a Bloomberg; até 6 de novembro não havia processo na Justiça. A receita caiu quase 20% no último trimestre, a US$ 241,8 milhões, a dívida passa de US$ 500 milhões e o CEO interino saiu. 🟡`Dono novo e CEO novo não corrigem um modelo que não mudou.`🟡 🟡`Receita em queda de 20% e dívida alta pedem decisão antes da troca de gente.`🟡 Que decisão você está adiando?"
+Fonte: Retail Dive -- https://retaildive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874004
+
+ROTEIRO 3 -- O quarto trimestre pode chegar antes
+"O PMI de serviços do Brasil caiu de 49,2 em setembro para 44,5 em outubro, a menor leitura desde abril de 2021, segundo a S&P Global. O PMI composto foi a 44,4. 🟡`Serviço teve o pior mês em mais de cinco anos, com cliente cortando gasto e cancelando projeto.`🟡 🟡`Se sua receita depende de contrato e projeto, o quarto trimestre pode chegar antes do que o caixa previu.`🟡 Já olhou seu fluxo até dezembro?"
+Fonte: DGABC -- https://www.dgabc.com.br/Noticia/4366998/pmi-de-servicos-do-brasil-cai-a-44-5-em-outubro-menor-leitura-desde-abril-de-2021
+
+ROTEIRO 4 -- Indicação ainda vence o algoritmo
+"Segundo resumos do relatório Future of Wellness 2027, da McKinsey, o mercado global de bem-estar chegou a US$ 2,7 trilhões, já com categorias ampliadas, então não dá pra comparar com o ano passado. O dado que me interessa: amigos e família pesam mais na compra do que chatbots de IA. 🟡`Indicação de gente ainda vende mais que algoritmo.`🟡 🟡`Seu cliente conta pra alguém por que comprou de você, ou só compara preço?`🟡 Vale perguntar."
+Fonte: Global Wellness Summit -- https://www.globalwellnesssummit.com/global-wellness-news/mckinseys-releases-future-of-wellness-2027-report-equinox-lines-up-1b-for-new-era-of-growth-trend-fourth-spaces/
+
+ROTEIRO 5 -- 30 de novembro é o prazo
+"Faltam três semanas: o prazo da primeira parcela do 13º, ou do 13º integral, é 30 de novembro, uma segunda-feira. São 50% do bruto, sem desconto de INSS e IR. A segunda parcela vai até 20 de dezembro, mas a maioria das fontes recomenda pagar até 18, uma sexta. 🟡`Quem deixa tudo pra dezembro atrasa a primeira parcela e pode ser multado.`🟡 🟡`Some a folha do 13º ao caixa de novembro agora, no mês em que serviços tiveram o pior PMI em cinco anos.`🟡 Já separou o dinheiro?"
+Fonte: O Povo -- https://www.opovo.com.br/noticias/economia/2026/11/07/prazos-e-regras-do-13-salario-em-2026-confira-tudo-o-que-voce-precisa-saber.html
+
+ROTEIRO 6 -- Reestruturar antes do balanço
+"A fornecedora alemã Schaeffler anunciou em 3 de novembro que vai cortar 3.460 vagas na Europa, 2.660 delas na Alemanha, por causa da queda de demanda por carros a combustão. Ela mantém a previsão do ano, e a margem operacional dos nove meses foi de 4,5%. 🟡`Mesmo assim, corta 3.460 vagas e fecha quatro fábricas alemãs.`🟡 🟡`Quem espera a crise chegar ao balanço pra reestruturar chega tarde.`🟡 Que linha sua já está perdendo demanda?"
+Fonte: Automotive Logistics -- https://www.automotivelogistics.media/supply-chain/schaeffler-to-cut-nearly-3500-jobs-and-shut-down-five-plants-in-europe/2763197
+
+ROTEIRO 7 -- Cortou custo, perdeu cliente
+"O GPA, dono do Pão de Açúcar, divulgou em 5 de novembro prejuízo de R$ 220 milhões nas operações continuadas do terceiro trimestre, mesmo com EBITDA ajustado de R$ 482 milhões. Já capturou R$ 365 milhões em redução de despesas no ano, 88% da meta, principalmente cortando quadro. 🟡`Cortar custo segura o caixa, mas não traz o cliente de volta.`🟡 🟡`O EBITDA subiu 16,9% e a receita líquida caiu 9,6%.`🟡 Seu plano de crescimento vem depois do corte?"
+Fonte: Mercado & Consumo -- https://mercadoeconsumo.com.br/05/11/2026/mc-capital/gpa-tem-prejuizo-liquido-de-r-220-milhoes-nas-operacoes-continuadas-no-3o-trimestre/
+
+ROTEIRO 8 -- A loja 200 e a fachada
+"A Havan inaugura sábado, 14 de novembro, às 10h, a megaloja número 200, em Boa Vista, a primeira da rede em Roraima: 20 mil metros quadrados, 350 mil itens e uma réplica da Estátua da Liberdade na fachada. Segundo a imprensa de varejo, a meta de 200 lojas em 2026 está cumprida. 🟡`Enquanto parte do varejo fecha loja ou renegocia dívida, a Havan abre em praça que ainda não tinha a rede.`🟡 🟡`A fachada vira assunto antes mesmo da inauguração.`🟡 O que na sua empresa vira propaganda sozinho?"
+Fonte: Mercado & Consumo -- https://mercadoeconsumo.com.br/05/11/2026/noticias-varejo/havan-inaugura-megaloja-de-numero-200-com-fachada-comemorativa-em-roraima/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 5] Você já separou o caixa do 13º salário (prazo 30/11)? Sim, já separei / Ainda não
+2. [Pergunta/Participacao, Roteiro 3] Caixinha: Se você presta serviço, o que seus clientes cortaram primeiro neste fim de ano? Conta aqui, sem filtro.
+3. [Virar Historia, Roteiro 7 -> Estilo Comparativo] O dado são duas barras opostas: EBITDA +16,9% de um lado e receita líquida -9,6% do outro. Lado a lado, a tela mostra na hora que cortar custo e crescer são jogos diferentes.
