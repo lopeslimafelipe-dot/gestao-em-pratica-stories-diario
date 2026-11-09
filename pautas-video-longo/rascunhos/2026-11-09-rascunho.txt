@@ -1,0 +1,48 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-11-09 (segunda)
+
+ALERTA DE QUALIDADE DA PESQUISA: nesta execucao os sites de G1, InfoMoney, Exame, Valor, etc. nao puderam ser abertos diretamente (rede da sandbox); a pesquisa foi feita so via busca web (snippets). Nao foi possivel confirmar nada em fonte primaria nem medir "mais lidas" de hoje. A Etapa 2 DEVE reconfirmar numeros antes de roteirizar. Scores de Volume de cobertura sao estimativas conservadoras.
+Dedup (10 dias, saidas/): ja cobertos e EXCLUIDOS: Chilli Beans, Kitchens, Aeris, Canva, Disney, Selic/Copom, Black Friday, Vale, Marabraz.
+
+CANDIDATO 1 -- GPA (Pao de Acucar): prejuizo no 3T26, provisao ligada a Casas Bahia e renegociacao de divida so em dezembro
+Fato: Em 05/11/2026 o GPA (PCAR3) reportou prejuizo liquido de R$ 220 mi nas operacoes continuadas (contra lucro de R$ 142 mi no 3T25) e R$ 511 mi de prejuizo em operacoes descontinuadas, principalmente por provisao de ~R$ 467 mi (ligacao com a disputa/arbitragem da Casas Bahia: A VERIFICAR). Prejuizo consolidado citado em sites secundarios: R$ 731 mi. Emissao dos novos titulos e efeito contabil da renegociacao (recuperacao extrajudicial homologada) previstos para dezembro. Dubida de continuidade operacional ja apontada desde o 1T26 (capital circulante liquido negativo ~R$ 3,9 bi). NAO CONFIRMADO: receita -9,6%, PL negativo R$ 321 mi, paragrafo da EY (so uma fonte secundaria; nenhuma outra confirmou).
+Fonte: Mercado&Consumo -- https://mercadoeconsumo.com.br/05/11/2026/mc-capital/gpa-tem-prejuizo-liquido-de-r-220-milhoes-nas-operacoes-continuadas-no-3o-trimestre/ (apoio: https://visnoinvest.com.br/news/16100/gpa-pcar3-registra-prejuizo-de-r-220-mi-nas-operacoes-continuadas-do-3t26 ). Fonte primaria a conferir: RI do GPA/CVM.
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 24/35
+Status: VENCEDOR DO DIA (com ressalva: score moderado e verificacao parcial)
+Nota guardrail: fator 'Polemica adjacente' (3) vem do pano de fundo de juro alto/crise do varejo; o roteiro deve falar so de gestao (divida, alavancagem, renegociar a tempo), sem politica.
+Angulo sugerido: marca gigante reestruturou a divida e ainda assim segue no prejuizo -- renegociar nao basta se a operacao nao gera caixa; licao pra PME: capital de giro e divida curta.
+
+CANDIDATO 2 -- Recuperacoes judiciais em nivel recorde e juros altos pressionando empresas endividadas
+Fato: Reportagens de out/2026 apontam recorde de empresas em recuperacao judicial (Monitor RGF: 6.513 em maio, 6.341 em junho); TV Brasil (set/2026) conta 12 grandes pedidos no ano, metade do varejo (Pao de Acucar, Casas Bahia, Habib's, Tok&Stok). Sem dado novo de hoje.
+Fonte: TV Brasil -- https://tvbrasil.ebc.com.br/reporter-brasil/2026/09/em-2026-12-grandes-empresas-pediram-recuperacao-judicial-no-pais ; ADVFN -- https://br.advfn.com/jornal/2026/10/recuperacao-judicial-bate-recorde-no-brasil-juros-altos-mantem-pressao-sobre-empresas-endividadas
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 1/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 23/35
+Status: runner-up
+
+CANDIDATO 3 -- Magalu: balanco do 3T26 e a oportunidade com a crise da Casas Bahia
+Fato: Antes do balanco, XP projetava prejuizo de R$ 33 mi no 3T26 (consenso: lucro de R$ 31 mi); acoes subiram ~58% no mes. Artigo de out/2026 diz que a Magalu ve ate R$ 11 bi em vendas adicionais com a crise da rival. NAO encontrado o resultado divulgado -- verificar.
+Fonte: Suno -- https://www.suno.com.br/noticias/magalu-mglu3-balancos-3t26-xp-acoes-alerta/ ; Economic News Brasil -- https://economicnewsbrasil.com.br/2026/10/13/vendas-do-magazine-luiza-crise-casas-bahia/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 2/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 20/35
+Status: runner-up
