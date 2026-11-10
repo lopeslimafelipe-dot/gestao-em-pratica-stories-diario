@@ -1,0 +1,37 @@
+ROTEIRO 1 -- Imagem virou commodity
+"A OpenAI lançou o Images 2.6 no dia 4: segundo a própria empresa, ele gera imagens 50% mais rápido e cria GIFs a partir de um prompt. Ela diz que as pessoas já geram 4 bilhões de imagens por semana. É lançamento do fornecedor, então ela puxa a brasa. 🟡`Mas se qualquer um gera material visual em segundos, ter imagem deixou de ser diferencial.`🟡 🟡`O diferencial do dono é ter critério: saber o que mostrar e pra quem.`🟡 Quanto você ainda paga por banner genérico?"
+Fonte: OpenAI -- https://openai.com/es-ES/index/introducing-images-2-6/
+
+ROTEIRO 2 -- Lucro é manchete, caixa é gestão
+"A Prio lucrou US$ 521 milhões no terceiro trimestre, alta de 468%, segundo o resultado divulgado no dia 4. A base de comparação era baixa e o petróleo ajudou. O dado que me chamou atenção é outro: 🟡`a dívida líquida caiu de US$ 4,04 bilhões para US$ 3,46 bilhões em um trimestre.`🟡 Petróleo está longe da sua PME, mas a lição não: 🟡`antes de comemorar o lucro, a Prio reduziu a dívida.`🟡 Você faz isso quando o mês fecha bem?"
+Fonte: DGABC/Agência Estado -- https://www.dgabc.com.br/Noticia/4366900/lucro-liquido-da-prio-sobe-468-no-3-trimestre-para-us-521-milhoes
+
+ROTEIRO 3 -- A indústria encolheu
+"O IBGE divulgou que a produção industrial caiu 0,8% em setembro, a quarta queda em cinco meses. 🟡`De maio a setembro, a indústria perdeu 4,1%`🟡, e 17 dos 25 ramos recuaram. Se um cliente industrial seu está comprando menos, não é impressão: isso chega em fornecedor, prazo e demanda. 🟡`Revise o prazo de recebimento e a concentração de clientes agora, em vez de esperar a retomada.`🟡 Qual cliente pesa demais no seu faturamento?"
+Fonte: Mercado & Consumo (dados do IBGE) -- https://mercadoeconsumo.com.br/05/11/2026/economia/producao-da-industria-recua-08-em-setembro-4a-queda-em-cinco-meses/
+
+ROTEIRO 4 -- Clima já é linha de custo
+"Segundo o McKinsey Global Institute, a adaptação climática pode custar US$ 1,2 trilhão por ano até 2050, e 🟡`cerca de US$ 690 bilhões por ano ficam parados, principalmente por falta de financiamento viável.`🟡 O estudo é da própria consultoria, divulgado no contexto da COP31, então vale como estimativa. O recado pra PME: clima já aparece como custo de seguro, logística e crédito. 🟡`Risco climático vai chegar na sua conta, mesmo que pareça assunto de gente grande.`🟡 Já revisou seu seguro?"
+Fonte: Fortune -- https://fortune.com/2026/11/03/climate-adaptation-cop31-mckinsey-global-institute-690-billion-barriers/
+
+ROTEIRO 5 -- Até 20 de dezembro
+"Quem está no Simples tem até 20 de dezembro para cancelar a opção de 2027, seja pelo Simples ou pelo regime regular de IBS e CBS, conforme a Resolução CGSN 194/2026. 🟡`O cancelamento é irretratável: pediu, não dá pra voltar.`🟡 Muita gente escolheu no automático, sem simular. 🟡`Simule com a sua carteira de clientes: o regime regular gera crédito pro cliente B2B e pode mudar seu preço.`🟡 Fale com seu contador antes. Já simulou?"
+Fonte: AmdJus -- https://amdjus.com.br/simples-nacional-empresas-tem-ate-dezembro-para-cancelar-opcoes-de-2027/
+
+ROTEIRO 6 -- Folha maior que a fábrica
+"Segundo CNBC e Bloomberg, a Boeing vai cortar 5% da divisão de aviões comerciais, com avisos a partir de dezembro, mesmo com a demanda forte, dizem os executivos. 🟡`O problema é a fábrica: a meta de 47 aviões 737 MAX por mês ficou para o início de 2027.`🟡 🟡`A folha cresce no ritmo do plano, mas a entrega cresce no ritmo do elo mais lento.`🟡 A Boeing não detalhou a conta em comunicado. Você contratou pro crescimento que o seu gargalo não deixou acontecer?"
+Fonte: CNBC -- https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html
+
+ROTEIRO 7 -- Quando o credor manda
+"Segundo a Bloomberg, a Petrobras e a IG4 retiraram a oferta de US$ 1,4 bilhão pra Braskem, depois que credores recusaram converter dívida em capital. São fontes anônimas e o quadro muda rápido: o prazo da recuperação extrajudicial vai até cerca de 22 de novembro. 🟡`Dívida grande termina em renegociação, não em pagamento.`🟡 🟡`Quando o credor exige virar sócio, descobre-se quem manda de fato.`🟡 Em qualquer escala, quem deve demais negocia de joelhos. Qual é a sua alavancagem?"
+Fonte: Bloomberg -- https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags
+
+ROTEIRO 8 -- Lucrar com juro alto
+"No dia 5 eu falei em Selic de 13,75%; o CEO da Smart Fit fala em juros perto de 15%, que ele trata como custo de capital da empresa, acima da básica. A rede lucrou R$ 248 milhões recorrentes no terceiro trimestre, alta de 40%, e o CEO diz que 🟡`empreender com juros perto de 15% é inviável.`🟡 Mesmo assim, mantém 330 a 350 aberturas em 2026. 🟡`A diferença pra sua PME não é coragem: é custo de capital e escala.`🟡 Que retorno seu negócio precisa pra valer o risco?"
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/juros-sao-o-maior-desafio-da-smart-fit-smft3-diz-ceo-como-a-lider-do-setor-fitness-tem-crescido-nesse-cenario-giov/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 5] "Você já simulou o regime regular de IBS/CBS pro seu negócio em 2027?" Sim / Ainda não
+2. [Pergunta/Participacao, Roteiro 3] Caixinha: "Seu cliente industrial está comprando menos? Me conta o que mudou no seu prazo de recebimento."
+3. [Virar Historia, Roteiro 2 -> Estilo Comparativo] Lucro de 468% de um lado e dívida líquida caindo de US$ 4,04 bi para US$ 3,46 bi do outro mostra, lado a lado, que a manchete e o dado de gestão são coisas diferentes.
