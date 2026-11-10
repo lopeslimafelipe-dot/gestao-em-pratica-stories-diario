@@ -1,0 +1,80 @@
+RASCUNHO 2026-11-10 (Etapa 1) -- 8 itens. Verificacao de TODOS por trechos de busca (WebFetch bloqueado); Etapa 2 deve re-conferir.
+
+ITEM 1 -- OpenAI lanca Images 2.6 (GIFs por prompt, 50% mais rapido)
+Categoria: Tecnologia
+Fato: Em 04/11/2026 a OpenAI lancou o Images 2.6 no ChatGPT e no Codex, para todos os planos: geracao de imagens 50% mais rapida que o Images 2.5, GIFs a partir de prompt ou foto, imagens de referencia reutilizaveis e quadros editaveis. API com dois modelos ("Flare", velocidade, e "Sunburst", qualidade), markup de imagem, exportacao SVG. A OpenAI diz que usuarios geram cerca de 4 bilhoes de imagens por semana entre ChatGPT, Codex e API.
+Fonte: OpenAI (release) -- https://openai.com/es-ES/index/introducing-images-2-6/ ; apoio: https://testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference ; https://www.digit.in/news/general/openai-launches-chatgpt-images-26-with-gif-creation-and-faster-image-generation-features-availability-and-more-details.html
+Relevancia: Custo de produzir material visual (anuncio, post, catalogo) tende a zero; muda onde esta o diferencial de marketing de qualquer negocio.
+Ressalva tecnica: Verificacao por trechos de busca. Lancamento do proprio fornecedor (interesse comercial). Nomes dos modelos aparecem trocados em veiculos secundarios -- usar o texto do release. Preco nao confirmado. Item mais de marketing que de gestao (linha 1 fraca na janela).
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Com 4 bilhoes de imagens por semana e GIF em um prompt, imagem virou commodity. O diferencial do dono nao e ter material visual, e ter criterio -- quem paga agencia por banner generico paga por algo que custa centavos.
+
+ITEM 2 -- Prio: lucro de US$ 521 mi no 3T26 (+468%) e divida em queda
+Categoria: Noticia de empresa
+Fato: Divulgado em 04/11/2026: lucro liquido de US$ 521 milhoes no 3T26, alta de 468% sobre o 3T25 (US$ 91,6 mi). Receita de US$ 1,6 bi, EBITDA ajustado de US$ 1,1 bi, producao media de 191,6 mil barris/dia e vendas de 17,2 milhoes de barris (recordes operacionais). Divida liquida caiu a US$ 3,46 bi (US$ 4,04 bi no 2T26). Inclui ganho pontual de US$ 72 mi de reembolso de seguro do reparo do gasoduto de Peregrino.
+Fonte: DGABC/Agencia Estado -- https://www.dgabc.com.br/Noticia/4366900/lucro-liquido-da-prio-sobe-468-no-3-trimestre-para-us-521-milhoes ; Times Brasil (CNBC) -- https://timesbrasil.com.br/brasil/prio-registra-lucro-de-us-521-milhoes-no-terceiro-trimestre-de-2026-alta-de-468-em-um-ano/ ; Brasil Energia -- https://brasilenergia.com.br/petroleoegas/empresas/lucro-da-prio-no-3-trimestre-dispara-468-na-comparacao-anual
+Relevancia: Caso de grande empresa onde o numero de manchete (lucro) esconde o dado de gestao (queda de ~US$ 580 mi na divida liquida em um trimestre).
+Ressalva tecnica: Verificacao por trechos. Investidor10 cita US$ 516,6 mi e +707% (base diferente, provavelmente sem IFRS 16) -- usar US$ 521 mi / +468%. Base de comparacao baixa e ganho pontual de seguro. Petroleo, longe da PME.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: +468% nao e so genialidade: a base era baixa e o petroleo ajudou. O que se replica na PME e a disciplina de caixa -- a Prio cortou US$ 580 mi de divida liquida antes de comemorar o lucro.
+
+ITEM 3 -- Producao industrial cai 0,8% em setembro, 4a queda em 5 meses
+Categoria: Macroeconomia-indice
+Fato: IBGE (divulgado 05/11/2026): producao industrial -0,8% em setembro vs agosto (mercado esperava ~-0,2%). 4a queda em 5 meses; de maio a setembro, perda acumulada de 4,1%. Vs setembro/2025: -2,5%, maior queda desde marco/2024. Tres das quatro grandes categorias e 17 dos 25 ramos recuaram; so bens de consumo duraveis subiu (+0,7%). Explicacoes citadas: um dia util a menos, base alta (+2% em set/2025) e chuvas na moagem de cana.
+Fonte: Mercado & Consumo -- https://mercadoeconsumo.com.br/05/11/2026/economia/producao-da-industria-recua-08-em-setembro-4a-queda-em-cinco-meses/ ; Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/11/1269381-producao-industrial-cai-08-em-setembro-ante-agosto-revela-ibge.html ; A Critica -- https://acritica.net/economia/producao-industrial-cai-08-em-setembro-e-registra-quarta-queda-em-cinco-meses-diz-ibge/
+Relevancia: Industria encolhendo afeta fornecedores, prazo de recebimento e demanda de toda a cadeia B2B.
+Ressalva tecnica: Verificacao por trechos; fontes sao jornais/agregadores republicando o IBGE (release do IBGE nao apareceu). Acumulado do ano inconsistente entre fontes -- NAO usar.
+Possivel contradicao com roteiro anterior: nenhuma. Complementa o PMI industrial em contracao (46,1, pub. 04/11): PMI e pesquisa de percepcao de gerentes de compras; aqui e medicao objetiva do IBGE -- ambos apontam enfraquecimento.
+Tese de gancho sugerida: A industria perdeu 4,1% em 5 meses. Se seu cliente industrial compra menos, nao e impressao: o juro alto chegou na linha de producao. Hora de revisar prazo de recebimento e concentracao de clientes, em vez de esperar "a retomada".
+
+ITEM 4 -- McKinsey: US$ 690 bi/ano em adaptacao climatica "parados" por falta de financiamento viavel
+Categoria: Tendencia internacional (grande consultoria -- McKinsey)
+Fato: Relatorio do McKinsey Global Institute (Fortune, 03/11/2026): com 2 graus C de aquecimento, proteger pessoas e lugares com padrao de economia desenvolvida poderia custar US$ 1,2 trilhao por ano ate 2050. Cerca de US$ 690 bilhoes/ano em oportunidade de investimento em adaptacao ficam parados; principal barreira e a acessibilidade de preco (medidas de ~US$ 440 bi/ano). O mundo gasta hoje cerca de US$ 190 bi/ano em 20 medidas comprovadas (artigo do MGI no Taipei Times, 10/11).
+Fonte: Fortune -- https://fortune.com/2026/11/03/climate-adaptation-cop31-mckinsey-global-institute-690-billion-barriers/ ; Tribune India -- https://www.tribuneindia.com/news/climate-adaptation/majority-of-690-billion-climate-adaptation-opportunity-needs-innovation-to-become-viable-mckinsey ; Taipei Times -- https://www.taipeitimes.com/News/editorials/archives/2026/11/10/2003867456
+Relevancia: Risco climatico vira custo de seguro, cadeia de suprimentos e credito -- panorama que todo gestor deveria conhecer.
+Ressalva tecnica: Verificacao por trechos; relatorio e pagina da McKinsey nao abertos (Fortune, Tribune e inkl concordam em US$ 690 bi e US$ 1,2 tri). Publicado no contexto da COP31 (posicionamento institucional). Gancho para PME e indireto, exige argumento. Tema distante da gestao cotidiana.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A McKinsey calcula US$ 690 bi por ano de adaptacao climatica parados por falta de financiamento viavel. Risco climatico ja e linha de custo (seguro, logistica, credito) e vai chegar na sua conta, mesmo que voce ache que "isso e assunto de gente grande".
+
+ITEM 5 -- Simples Nacional: ate 20/12/2026 para cancelar a opcao de 2027 (Simples e/ou regime regular IBS/CBS)
+Categoria: Prazo de Acao (Obrigacao/Oportunidade de decisao)
+Fato: Pela Resolucao CGSN 194/2026, a opcao pelo regime regular de IBS/CBS foi estendida ate 30/10/2026 e abriu-se janela de cancelamento de 03/11 a 20/12/2026. O cancelamento vale para a opcao pelo Simples e para a escolha do regime regular de IBS/CBS, e e irretratavel (uma fonte diz que depois nao da para refazer a opcao para 2027). Escolha vale desde 01/01/2027. DATA-LIMITE: 20/12/2026.
+Fonte: Nota Gateway -- https://notagateway.com.br/?p=14909 ; AmdJus -- https://amdjus.com.br/simples-nacional-empresas-tem-ate-dezembro-para-cancelar-opcoes-de-2027/ ; Foco Tributario -- https://focotributario.com.br/simples-nacional-prazo-para-cancelar-opcoes-de-ibs-e-cbs-comeca-nesta-terca-3/ ; e-Auditoria -- https://www.e-auditoria.com.br/blog/cancelar-opcao-regime-regular-ibs-cbs-simples-nacional/
+Relevancia: Decisao tributaria de 2027 com efeito direto no preco e na competitividade B2B (regime regular gera credito ao cliente).
+Ressalva tecnica: Verificacao por trechos; portais contabeis/juridicos privados, sem DOU. DIVERGENCIA: O Liberal (03/11) e IOB (agosto) ainda falam em 30/11 (regra anterior a Res. 194). Confirmar no texto da Resolucao CGSN 194/2026 / Portal do Simples; se nao confirmar, escrever "ate 20/12, conforme a Resolucao CGSN 194/2026". Data de publicacao da Res. 194 diverge (25 ou 28/09), irrelevante.
+Possivel contradicao com roteiro anterior: nenhuma. Distinto do "Termo de Exclusao do Simples/MEI" (06/11), que trata de exclusao por debito.
+Tese de gancho sugerida: Em 2027 a CBS entra forte e quem esta no Simples escolheu em outubro entre pagar IBS/CBS dentro do DAS ou pelo regime regular. Quem escolheu no automatico, sem simular com a carteira de clientes, tem ate 20/12 para desfazer; depois nao tem volta.
+
+ITEM 6 -- Boeing corta 5% da divisao de avioes comerciais com demanda alta e fabrica travada
+Categoria: Empresa global reconhecida
+Fato: Em 09/11/2026, memo de Stephanie Pope (chefe da Boeing Commercial Airplanes) anuncia corte de 5% do quadro da unidade, que ficou com excesso de pessoal porque o ritmo de producao precisou ser "resetado". Base ~50.500 funcionarios no fim de 2025 => ~2.500 vagas (ESTIMATIVA de veiculos; a Boeing nao divulgou a conta). Corte por vagas abertas nao preenchidas + demissoes involuntarias; avisos a partir de dezembro. Meta de 47 737 MAX/mes passou de "verao de 2026" para inicio de 2027; 52/mes para 2S2027. Primeiro corte desde os 17.000 de 2024 (Bloomberg/Qz). Demanda por avioes segue forte, segundo executivos.
+Fonte: CNBC -- https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html ; Bloomberg -- https://www.bloomberg.com/news/articles/2026-11-09/boeing-cuts-5-of-commercial-workforce-amid-factory-ramp-delays ; Spokesman-Review -- https://www.spokesman.com/stories/2026/nov/09/boeing-will-cut-5-of-its-commercial-airplane-workf/
+Relevancia: Licao de gestao: folha dimensionada para um ritmo de producao que o gargalo nao entrega.
+Ressalva tecnica: Verificacao por trechos; 8-K nao localizado; ~2.500 e estimativa.
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: A Boeing nao demite por falta de pedido, e sim por excesso de gente diante de uma producao que nao anda. A folha cresce no ritmo do plano, mas a entrega cresce no ritmo do elo mais lento. Voce contratou para o crescimento que o gargalo nao deixou acontecer?
+
+ITEM 7 -- Braskem: acionistas retiram aporte de US$ 1,4 bi e reestruturacao de ~US$ 10-11 bi trava
+Categoria: Reestruturacao-corte-fechamento
+Fato: Bloomberg (06/11/2026): Petrobras e IG4 retiraram a proposta nao vinculante de US$ 1,4 bi de aporte depois que bondholders rejeitaram converter US$ 3,8 bi de divida em capital. Contexto: recuperacao extrajudicial pedida em 24/08/2026 sobre ~US$ 10,9 bi, adesao inicial de 39,6% dos credores (precisa de mais de 50%); IG4 assumiu o controle em junho. Sem acordo, recuperacao judicial volta como alternativa. ADR teria caido 24,5% no dia (GuruFocus, secundaria); Bloomberg Linea cita queda de ~65% no ano. Prazos divergem: waiver ate 11/11 (Brasil em Folhas) e acordo ate ~22-23/11 ou "fim de novembro".
+Fonte: Bloomberg -- https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags ; Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/acionistas-da-braskem-desistem-de-injecao-de-capital-dizem-fontes/ ; InvestNews -- https://investnews.com.br/negocios/braskem-petrobras-e-ig4-retiram-proposta-de-aporte-apos-impasse-com-credores/ ; NeoFeed -- https://neofeed.com.br/negocios/o-impasse-de-us-109-bilhoes-braskem-recorre-a-recuperacao-extrajudicial/
+Relevancia: Caso brasileiro de divida grande onde o credor passa a mandar -- licao sobre alavancagem e quem decide quando o caixa acaba.
+Ressalva tecnica: Verificacao por trechos. Fontes anonimas (Bloomberg); Petrobras/IG4 nao comentaram. QUADRO FLUIDO: Brasil em Folhas (https://brasilemfolhas.com.br/2026/11/braskem-prorroga-negociacoes-com-credores-ate-quarta-feira/) diz que credores aceitaram o aporte e discutem so o tamanho da conversao. Valores variam (US$ 10,3/10,9/11 bi). Re-checar status na Etapa 2. Substituto seguro: PepsiCo ~1.000 vagas na America do Norte (WSJ/CNBC, 09/11: https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html).
+Possivel contradicao com roteiro anterior: nenhuma
+Tese de gancho sugerida: Divida grande com dono sem caixa termina em renegociacao, nao em pagamento. Quando o credor exige virar socio, descobre-se quem manda de fato -- e a lição vale em qualquer escala: quem deve demais negocia de joelhos.
+
+ITEM 8 -- Smart Fit: lucro +40%, mas CEO diz que "empreender com juros perto de 15% e inviavel"
+Categoria: Livre (case de empresa)
+Fato: No 3T26 (05/11/2026) a Smart Fit teve lucro liquido recorrente de R$ 248 mi (+40%), receita liquida de R$ 2,35 bi (+29%), 2.259 academias em 17 paises (+21%); mantem meta de 330-350 aberturas em 2026. Resultado financeiro de -R$ 161,9 mi (vs -R$ 110,2 mi). Lucro consolidado IFRS 16: R$ 212,2 mi (+47%). Em entrevista, o CEO Diogo Corona disse que o varejo "esta quebrando" e que, com juros quase a 15%, e preciso investir em algo que renda mais que 15%; juros sao o maior problema externo.
+Fonte: DGABC -- https://www.dgabc.com.br/Noticia/4366919/smart-fit-tem-lucro-liquido-recorrente-de-r-248-mi-no-3-trimestre-alta-anual-de-40 ; Mercado & Consumo -- https://mercadoeconsumo.com.br/05/11/2026/noticias/smart-fit-tem-lucro-de-r-248-mi-no-3o-trimestre-alta-de-40/ ; Investidor10 -- https://investidor10.com.br/noticias/smart-fit-smft3-ceo-diz-que-empreender-com-juros-perto-de-15-e-inviavel-123314/ ; Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/juros-sao-o-maior-desafio-da-smart-fit-smft3-diz-ceo-como-a-lider-do-setor-fitness-tem-crescido-nesse-cenario-giov/
+Relevancia: Gestor de rede em expansao falando abertamente de custo de capital -- cenario que todo dono de negocio sente.
+Ressalva tecnica: Verificacao por trechos. Nao confundir lucro recorrente (R$ 248 mi) com consolidado IFRS 16 (R$ 212 mi). Data exata da entrevista nao apareceu. "Juros perto de 15%" e fala do CEO (custo de capital), nao dado oficial.
+Possivel contradicao com roteiro anterior: Roteiro de 05/11 informou Selic em 13,75%; o CEO fala em ~15%. Diferenca: Selic e a taxa basica, o CEO se refere ao custo efetivo de captacao/retorno minimo exigido da empresa, acima da Selic.
+Tese de gancho sugerida: A Smart Fit lucra 40% mais, mas paga 47% mais de juros. O dono da maior rede de academias diz que empreender a 15% e inviavel e abre 350 unidades mesmo assim. A diferenca para a sua PME nao e coragem: e custo de capital e escala.
+
+---
+CONSULTAS / NOTAS
+Mapa: L1 OpenAI Images 2.6; L2 Prio; L3 Producao industrial; L4 McKinsey MGI clima; L5 Simples/CGSN 194; L6 Boeing; L7 Braskem; L8 Smart Fit.
+Internacionais: McKinsey (grande consultoria), Boeing (empresa e fonte estrangeiras), OpenAI -- cota cumprida.
+Reservas: L1 Microsoft Office in Copilot (rollout meados de nov, anuncio em outubro); L2 Suzano 3T26 (lucro R$ 2,08 bi, alavancagem 3,7x pos-Arbex); L3 Caged setembro 121.305 vagas (acumulado confuso, usar so absolutos); L4 Deloitte 74% processos em torno de agentes de IA (fonte unica ITBrief); L5 NR-1 riscos psicossociais (sem data futura); L6 Tesla encerra Cybertruck; L7 PepsiCo ~1.000 vagas, Qantas 850 vagas/Accenture.
+Fontes BR: Mercado & Consumo, DGABC, Times Brasil, Jornal do Comercio, Bloomberg Linea, NeoFeed, InvestNews. G1/Estadao/Valor/Exame/InfoMoney nao apareceram em resultados utilizaveis (indice de busca fraco para novembro/2026). Todas as linhas tiveram 3+ rodadas de busca pelos subagentes; linha 1 foi a mais fraca na janela de 7 dias.
