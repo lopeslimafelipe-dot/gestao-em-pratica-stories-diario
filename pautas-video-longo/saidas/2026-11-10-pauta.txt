@@ -1,0 +1,33 @@
+PAUTA DO DIA -- 2026-11-10
+Assunto: Casas Bahia (em recuperacao judicial) adia de novo o balanco do 3T26: de 11/11 para 10/12
+Score final: 26/35 (Frescor 3/5, Relevancia do protagonista 5/5, Gravidade 4/5, Polemica adjacente 3/5, Volume de cobertura 3/5, Clareza do angulo 4/5, Identificacao com audiencia 4/5)
+
+Fato central verificado: O Grupo Casas Bahia (BHIA3), em recuperacao judicial, adiou a divulgacao das demonstracoes do 3T26 de 11/11 para 10/12 (noticiado em 07/11/2026). A companhia justificou o prazo extra por consistencia, precisao e conformidade tecnica das demonstracoes. E o segundo balanco seguido entregue fora do prazo (o do 2T foi adiado de 12 para 14/08). Verificado via busca em Mercado&Consumo e Times Brasil; NAO foi possivel ler o comunicado primario (RI/CVM) -- confirmar antes de gravar. Motivo real alem da justificativa tecnica: NAO CONFIRMADO.
+Cadeia causal (o que levou a isso): Prejuizo ajustado crescente (R$ 978 mi no 2T26, +76,2% vs 2T25) e plano de transformacao com fechamento de lojas (~298) e ~2 mil demissoes -> prejuizo liquido de R$ 10,1 bi no 2T26 (R$ 9,1 bi nao recorrentes, sem efeito caixa), patrimonio liquido negativo (~R$ 8,1 bi), auditoria (EY) sem emitir opiniao e "incerteza relevante" sobre continuidade -> pedido de RJ em agosto com R$ 17,3 bi em dividas (R$ 16,4 bi sem garantia) -> processamento autorizado pela Justica de SP em 21/10, com suspensao das execucoes -> negociacao com credores entregue a Camille Faria (ex-CFO da Americanas, Althia Partners), com Alvarez & Marsal no processo -> balanco do 3T adiado para 10/12.
+Por que esta repercutindo agora: Protagonista de altissima relevancia (marca conhecida, RJ de R$ 17,3 bi), gravidade alta (segundo atraso seguido de numeros) e angulo claro; pesa menos por ser fato de 07/11 e cobertura moderada.
+Angulo de gestao sugerido: Numero organizado e confiavel e ativo de negocio. Quando a empresa nao consegue fechar e publicar o proprio balanco no prazo, credor, fornecedor e mercado perdem previsibilidade e confianca. Licao pra dono de PME: fechamento contabil em dia, caixa visivel e conversa franca com credores/fornecedores ANTES da crise, nao depois.
+Dados de apoio:
+- Divida R$ 17,3 bi, R$ 16,4 bi quirografarias; 10 empresas do grupo; mais de 28 mil credores segundo uma das fontes (Bloomberg Linea / BP Money / Times Brasil).
+- Prejuizo liquido 2T26 R$ 10,1 bi, R$ 9,1 bi nao recorrentes; prejuizo ajustado R$ 978 mi; fluxo de caixa livre da firma positivo em R$ 798 mi; alavancagem liquida 0,5x (Acionista / Analise de Acoes).
+- Patrimonio liquido negativo em ~R$ 8,1 bi (fonte cita R$ 8,2 bi em outra materia: divergencia pequena).
+- Fechamento de ~298 lojas e ~2 mil demissoes (BP Money / Central do Varejo).
+Ressalva/limite: (1) Fato de 07/11, nao de hoje; checar o comunicado na CVM/RI. (2) Nao afirmar o motivo do atraso, so a justificativa oficial. (3) Valores de divida variam por fonte (total pode chegar a R$ 27,8 bi contando extraconcursais, segundo uma fonte); usar R$ 17,3 bi como numero do pedido. (4) GUARDRAIL: o fator 'Polemica adjacente' pesou (juros/crise do varejo). NAO comentar politica, governo, partido ou figura politica nem tomar posicao sobre juros; falar so de gestao, caixa, transparencia e relacionamento com credores. (5) Nao dar recomendacao de investimento sobre BHIA3.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: "Uma empresa de R$ 17 bi em dividas nao consegue nem fechar o balanco no prazo. De novo."
+- Contexto/causa raiz: prejuizo, patrimonio negativo, RJ.
+- Desenvolvimento da cadeia causal: do prejuizo ao adiamento, mostrando o que cada passo faz com a confianca de credor e fornecedor.
+- Licao de gestao (a virada): sua empresa tem numero fechado e confiavel? Quanto tempo leva pra saber o resultado do mes?
+- Fechamento + CTA.
+
+Fonte(s):
+- Mercado&Consumo -- https://mercadoeconsumo.com.br/07/11/2026/noticias/casas-bahia-adia-divulgacao-do-balanco-do-3o-trimestre-para-10-12/
+- Times Brasil -- https://timesbrasil.com.br/brasil/judiciario/recuperacao-judicial/balanco-casas-bahia-adiamento-terceiro-trimestre-recuperacao-judicial/
+- Mercado&Consumo (Camille Faria) -- https://mercadoeconsumo.com.br/23/10/2026/gestao/camille-faria-ex-americanas-assume-comando-da-reestruturacao-financeira-das-casas-bahia/
+- BP Money -- https://bpmoney.com.br/negocios/empresas-na-bolsa/casas-bahia-bhia3-camille-faria-negociacoes-credores-recuperacao-judicial/
+- Analise de Acoes (2T26) -- https://www.analisedeacoes.com/noticias/casas-bahia-bhia3-registra-prejuizo-de-10-1-bilhoes-no-2t26/
+- Acionista -- https://acionista.com.br/casas-bahia-bhia3-acumula-r-173-bilhoes-em-dividas/
+
+Runners-up do dia (registro/transparencia):
+- Recorde de empresas em recuperacao judicial no pais (Monitor RGF-BizDoc) -- 24/35
+- Americanas: balanco do 3T26 apos sair da RJ -- 22/35
