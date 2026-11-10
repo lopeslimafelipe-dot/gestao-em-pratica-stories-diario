@@ -1,0 +1,48 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-11-10 (terca)
+
+ALERTA DE QUALIDADE DA PESQUISA: sites de G1, InfoMoney, Exame, Valor etc. nao puderam ser abertos direto (rede da sandbox); pesquisa feita so via busca web (snippets de varios veiculos). Nao foi possivel ler fonte primaria (RI/CVM) nem medir "mais lidas" de hoje. A Etapa 2 DEVE reconfirmar numeros e datas antes de roteirizar. Volume de cobertura e estimativa conservadora.
+Dedup (10 dias, saidas/): excluidos Chilli Beans, Kitchens, Aeris, Canva, Disney, Selic/Copom, Black Friday, Vale, GPA. Casas Bahia NAO apareceu nas pautas dos ultimos 10 dias (so citada de passagem no GPA).
+
+CANDIDATO 1 -- Casas Bahia (em recuperacao judicial) adia de novo o balanco do 3T26: de 11/11 para 10/12
+Fato: O Grupo Casas Bahia (BHIA3), em recuperacao judicial com ~R$ 17,3 bi em dividas, comunicou (noticiado em 07/11/2026) o adiamento da divulgacao das demonstracoes do 3T26 de 11/11 para 10/12, citando necessidade de prazo para elaboracao, consolidacao e revisao das informacoes. E o segundo balanco seguido fora do prazo (o do 2T tambem foi adiado duas vezes). Em outubro a empresa contratou Camille Faria (ex-CFO da Americanas) para liderar a negociacao com credores; Alvarez & Marsal segue no processo. Contexto ja noticiado: fechamento de lojas (~298) e corte de pessoal. Motivo real do adiamento alem da justificativa tecnica: NAO CONFIRMADO. Pedido de RJ citou juros altos e restricao de credito (caso de referencia do canal).
+Fonte: Mercado&Consumo -- https://mercadoeconsumo.com.br/07/11/2026/noticias/casas-bahia-adia-divulgacao-do-balanco-do-3o-trimestre-para-10-12/ (apoio: Times Brasil -- https://timesbrasil.com.br/brasil/judiciario/recuperacao-judicial/balanco-casas-bahia-adiamento-terceiro-trimestre-recuperacao-judicial/ ; BP Money -- https://bpmoney.com.br/negocios/empresas-na-bolsa/casas-bahia-bhia3-camille-faria-negociacoes-credores-recuperacao-judicial/ ). Fonte primaria a conferir: RI Casas Bahia/CVM.
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 26/35
+Status: VENCEDOR DO DIA (ressalva: fato de 07/11, nao de hoje; verificacao so via busca)
+Nota guardrail: fator 'Polemica adjacente' (3) vem do pano de fundo de juro alto/crise do varejo; roteiro fala so de gestao (transparencia financeira, caixa, credores, tempo de resposta), sem politica.
+Angulo sugerido: o que significa uma empresa em RJ nao conseguir fechar o proprio balanco no prazo -- sinal de controles/caixa fragil e confianca de credor, fornecedor e mercado; licao pra PME: numero organizado e comunicacao com credor antes da crise.
+
+CANDIDATO 2 -- Recorde de empresas em recuperacao judicial no pais (Monitor RGF-BizDoc)
+Fato: Reportagem de 05/11/2026 cita o Monitor RGF-BizDoc: 6.341 companhias em RJ ativas ao fim do 1S26, maior patamar da serie iniciada em 2023 (pico de 6.513 em maio, segundo outra fonte), estoque +6,2% no semestre; agro com alta de 21,4%. Serasa mede diferente (2.466 CNPJs em RJ em 2025, recorde) -- numeros nao comparaveis. Fonte do dado e de agregador/blog; checar o relatorio original.
+Fonte: Misto Brasil -- https://mistobrasil.com/2026/11/05/empresas-em-recuperacao-judicial-batem-recorde-historico/ (apoio: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/09/recuperacoes-judiciais-brasil-juros-dividas-empresas-crise/ )
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: runner-up
+
+CANDIDATO 3 -- Americanas: balanco do 3T26 (previsto 11/11) um mes apos sair da recuperacao judicial
+Fato: Em 19/10/2026 a 4a Vara Empresarial do RJ encerrou a RJ da Americanas (divida original ~R$ 43 bi, 16,3 mil credores); acoes (AMER3) subiram ate ~25% no dia seguinte. Analistas alertam que sair da RJ nao e estar recuperada (juros altos, queda em vendas digitais; prejuizo de R$ 274 mi no 2T). Balanco do 3T26 previsto para 11/11 (A CONFIRMAR). Fato central tem 3 semanas.
+Fonte: Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/10/1267564-acoes-da-americanas-disparam-mais-de-20-apos-fim-da-recuperacao-judicial.html
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 22/35
+Status: runner-up (melhor se aguardar o balanco de 11/11)
