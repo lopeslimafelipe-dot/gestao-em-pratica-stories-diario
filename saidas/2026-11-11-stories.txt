@@ -1,0 +1,37 @@
+ROTEIRO 1 -- A IA virou cargo
+"A Perplexity lançou o Teammates no dia 4: agentes de IA que assumem uma função contínua, não um comando avulso. Cada um guarda objetivos, arquivos e feedback entre sessões, roda em paralelo e se integra a Slack, Gmail e GitHub. Está em prévia, só no plano Max, de 200 dólares por mês, e ninguém testou de forma independente se o trabalho longo sai pronto. 🟡`A IA deixou de ser ferramenta e virou cargo.`🟡 🟡`A pergunta do dono muda: que função eu delegaria inteira, e quem confere o trabalho?`🟡 Qual seria a sua?"
+Fonte: TechRepublic -- https://www.techrepublic.com/article/news-perplexity-teammates-ai-agents-pricing-features/
+
+ROTEIRO 2 -- Tamanho não, rentabilidade sim
+"A Renner desistiu de projetar receita até 2030. No balanço do terceiro trimestre, divulgado no dia 5, ela retirou a meta de crescer de 9% a 13% ao ano entre 2027 e 2030. O lucro caiu 11,8%, para R$ 246,4 milhões, e as vendas em mesmas lojas recuaram 2,5%. 🟡`Ela largou a meta de tamanho, mas manteve a de rentabilidade: ROIC de cerca de 20% até 2030.`🟡 🟡`Rentabilidade o dono controla; crescimento depende do mercado.`🟡 Qual das duas metas está no seu plano de 2027?"
+Fonte: Bloomberg Línea -- https://www.bloomberglinea.com.br/negocios/renner-ve-2027-mais-dificil-e-deve-segurar-o-ritmo-de-abertura-de-lojas-segundo-ceo/
+
+ROTEIRO 3 -- O emprego esfria antes do consumo
+"No dia 2 eu mostrei desemprego de 5,2% pela PNAD; agora é o Caged, que conta só vaga com carteira. Em setembro, o Brasil criou 121.305 vagas formais, o pior setembro do Novo Caged, segundo o Ministério do Trabalho. 🟡`No acumulado do ano são 1,25 milhão de vagas, 27,9% abaixo de 2025.`🟡 Desemprego baixo e contratação desacelerando convivem. 🟡`O emprego esfria antes do consumo: quem contrata pro fim de ano acha mais candidato, mas a renda que paga as vendas de 2027 vai crescer menos.`🟡 Seu orçamento de 2027 já considera isso?"
+Fonte: Diário de Pernambuco -- https://www.diariodepernambuco.com.br/economia/2026/11/11728342-caged-brasil-tem-pior-setembro-na-geracao-de-empregos-desde-o-inicio-da-serie-historica.html
+
+ROTEIRO 4 -- O gargalo está no organograma
+"No dia 4 eu falei da EY: só 16% dos CEOs confiam em medir o retorno da IA. A Deloitte, que vende consultoria de IA, olhou outro ângulo, ouvindo 3.500 líderes em 25 países. 🟡`81% dizem que a IA acelerou as decisões, mas só cerca de 15% mudaram de forma significativa quem tem autoridade pra decidir.`🟡 E 23% não sabem quem responde quando a IA gera resultado ruim. 🟡`O gargalo do retorno da IA está no organograma, não na tecnologia.`🟡 Na sua empresa, quem responde quando a máquina erra?"
+Fonte: Deloitte -- https://www.deloitte.com/us/en/about/press-room/enterprise-ai-enters-an-roi-reckoning.html
+
+ROTEIRO 5 -- A nota que vira irregular
+"Prestador de serviço, anota: a partir de 1º de dezembro, a NFS-e passa a exigir os campos de IBS e CBS para locação de bens, plataformas digitais e os demais serviços ainda não enquadrados, pelo Ato Conjunto RFB/CGIBS nº 4. Pra quem é do Simples, a data é 1º de janeiro de 2027. 🟡`O imposto novo ainda não é cobrado em 2026, mas depois da data a nota sem os campos pode ser considerada documento em desconformidade.`🟡 🟡`Quem deixar pra janeiro descobre na hora de faturar que o emissor não estava pronto.`🟡 Já falou com seu contador?"
+Fonte: Secretaria de Economia do DF -- https://www.economia.df.gov.br/documents/d/seec/_notas-fiscais_-conheca-o-cronograma-da-obrigatoriedade-de-emissao_-1-
+
+ROTEIRO 6 -- Cortar pra decidir mais rápido
+"Segundo o Wall Street Journal, a PepsiCo vai cortar cerca de mil vagas na América do Norte; a empresa não confirmou o número. O memorando do CEO da região, Ram Krishnan, não culpa só a venda fraca: 🟡`ele escreveu que muito do jeito de trabalhar ainda é complexo e fragmentado, e quer deixar claras as responsabilidades e decidir mais rápido.`🟡 São mil cargos numa empresa de cerca de 306 mil pessoas. 🟡`Lentidão pra decidir também é custo, e ele aparece na estrutura.`🟡 Quantas aprovações sua empresa exige antes de alguém agir?"
+Fonte: Transport Topics -- https://www.ttnews.com/articles/pepsi-cuts-1000-north-america
+
+ROTEIRO 7 -- Fechar dói, manter custa mais
+"A Dexco, dona da Deca, teve prejuízo de R$ 142,2 milhões no terceiro trimestre, divulgado no dia 4. Desse total, R$ 118,4 milhões vieram de reestruturação e fechamento de operações, sem efeito no caixa; em outubro ela decidiu fechar a fábrica de louças em Pernambuco e concentrar a produção em Jundiaí. 🟡`Tirando esses efeitos, o lucro recorrente do ano subiu 41,2%, para R$ 100,2 milhões.`🟡 🟡`Fechar unidade dói no trimestre; manter operação deficitária por apego parece mais barato até a conta chegar.`🟡 Que operação sua você mantém por apego?"
+Fonte: Visno Invest -- https://visnoinvest.com.br/news/16096/dexco-dxco3-registra-prejuizo-de-r-1422-mi-no-3t26
+
+ROTEIRO 8 -- Frete grátis pago com margem
+"O Mercado Livre cresceu 45% no terceiro trimestre, para 10,75 bilhões de dólares de receita, e mesmo assim a ação chegou a cair cerca de 9%. 🟡`A margem operacional caiu de 9,8% para 6,3%, e a empresa atribui isso a logística, frete grátis mais amplo e marketing.`🟡 Foi escolha: comprou participação com margem. 🟡`Funciona pra quem tem caixa pra aguentar; a PME que copia o frete grátis sem esse fôlego só transfere margem pro cliente.`🟡 Seu frete grátis está sendo pago por quem?"
+Fonte: InvestNews -- https://investnews.com.br/negocios/mercado-livre-ganha-clientes-frete-gratis-mas-fica-menos-rentavel/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 2] "No seu plano de 2027, a meta principal é crescer ou ter margem?" Crescer / Ter margem
+2. [Pergunta/Participacao, Roteiro 4] Caixinha: "Na sua empresa, quem responde quando uma ferramenta de IA erra? Me conta como vocês resolveram."
+3. [Virar Historia, Roteiro 7 -> Estilo Quadro Branco] Escrever no quadro R$ 142,2 milhões de prejuízo, riscar os R$ 118,4 milhões de reestruturação sem efeito no caixa e chegar ao lucro recorrente do ano subindo 41,2% mostra, conta por conta, a diferença entre prejuízo contábil e operação ruim.
