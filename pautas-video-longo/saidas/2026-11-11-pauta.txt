@@ -1,0 +1,60 @@
+PAUTA DO DIA -- 2026-11-11
+Assunto: Magalu volta ao prejuizo no 3T26: a loja fisica cresce, mas o custo do dinheiro come quase todo o resultado
+Score final: 30/35 (Frescor 4/5 | Relevancia do protagonista 5/5 | Gravidade 3/5 | Polemica adjacente 4/5 | Volume de cobertura 5/5 | Clareza do angulo 4/5 | Identificacao com audiencia 5/5)
+
+Fato central verificado: O Magazine Luiza (MGLU3) divulgou o balanco do 3T26 em 09/11/2026, depois do fechamento do mercado. Teve prejuizo liquido contabil de R$ 10,7 mi, contra lucro de R$ 84,6 mi no 3T25. O lucro liquido ajustado, sem R$ 24,6 mi de efeitos nao recorrentes como provisoes e reestruturacao, foi de R$ 13,9 mi. Isso e 34,6% menos que os R$ 21,2 mi do 3T25 e bem abaixo do consenso Bloomberg de cerca de R$ 31 mi. O Ebitda ajustado foi de R$ 710,1 mi, com margem de 7,9%. A despesa financeira liquida ajustada foi de R$ 482,6 mi, com juros de emprestimos e antecipacao de recebiveis. Ela ficou 1,1% abaixo dos R$ 488,1 mi do 3T25. A conta que sustenta o video: para cada R$ 1 de lucro ajustado, a empresa teve cerca de R$ 35 de despesa financeira (482,6 / 13,9). O e-commerce total caiu 9,8%, para R$ 9,3 bi (1P R$ 5,9 bi; marketplace R$ 3,5 bi). A acao chegou a subir 17% em 10/11.
+Confirmado via WebSearch em varios veiculos concordantes: Times Brasil, Jornal de Brasilia, InvesTalk (BB), Visno Invest e Exame. Nao li o release oficial (RI/CVM) direto, porque o WebFetch esta bloqueado nesta sessao.
+
+CORRECAO EM RELACAO AO RASCUNHO: o rascunho dizia que os juros foram "mais agressivos que no ano anterior". No fact-check, a despesa financeira do tri caiu levemente no ano (-1,1%). A leitura certa: o custo do dinheiro nao explodiu. Ele ficou parado num patamar alto, cerca de R$ 480-490 mi por tri, enquanto o resultado operacional nao cresceu o suficiente para cobri-lo com folga. Isso deixa a licao ainda mais forte para o dono de PME: o problema nao e um choque pontual, e um custo financeiro que se comporta como custo fixo. A frase atribuida ao RI ("juros mais agressivos") NAO foi confirmada no fact-check e NAO deve ser usada.
+
+Cadeia causal (o que levou a isso):
+1. A Magalu tem uma operacao enorme (cerca de R$ 9 bi de receita liquida por tri) e financia parte do capital de giro com divida e antecipacao de recebiveis. Ou seja, recebe hoje, com desconto, o que o cliente paga parcelado.
+2. Com o juro alto prolongado, esse custo virou um bloco fixo de cerca de R$ 480-570 mi por trimestre: R$ 572 mi no 2T26, R$ 482,6 mi no 3T26. Ele nao encolhe quando as vendas desaceleram.
+3. A empresa escolheu proteger a margem em vez de brigar por volume no e-commerce, que vive guerra de precos. O Ebitda ficou estavel, cerca de R$ 710 mi, mas o e-commerce caiu 9,8% e a receita parou de crescer.
+4. Ebitda estavel menos despesa financeira alta, depreciacao e impostos deixam quase nada. O lucro ajustado foi de R$ 13,9 mi, e o resultado contabil ficou negativo depois dos nao recorrentes.
+5. A virada que o mercado comprou (acao ate +17%): a loja fisica cresce aproveitando o espaco da Casas Bahia, que fechou cerca de 300 lojas em recuperacao judicial. Alem disso, a empresa pagou mais R$ 1 bi em divida em outubro, reduzindo o peso futuro dos juros. Ou seja, o mercado reagiu a direcao (menos divida, mais venda fisica), nao ao lucro do tri.
+
+Por que esta repercutindo agora: Pesam a relevancia do protagonista (5) e a identificacao com a audiencia (5). Magalu e uma marca que todo dono de empresa conhece, e "vende muito, mas o banco fica com o lucro" e uma dor diaria de PME. O volume de cobertura tambem pesa (5): todos os portais de negocios cobriram o balanco, e o paradoxo "prejuizo, mas acao sobe 17%" gerou ainda mais conversa. O frescor e alto, com balanco de 09/11 e reacao do mercado em 10/11.
+
+Angulo de gestao sugerido: "Seu lucro e do banco?" Vender mais nao resolve se o custo do dinheiro e um bloco fixo maior que a sua sobra operacional. A Magalu manteve o Ebitda em cerca de R$ 710 mi e mesmo assim lucrou so R$ 13,9 mi, porque cerca de R$ 480 mi foram para juros e antecipacao de recebiveis. Licoes praticas para o dono de PME:
+(a) Coloque a despesa financeira na DRE como linha propria e compare com o lucro todo mes. A pergunta e: quantos reais vao para o banco para cada real que sobra?
+(b) Trate a antecipacao de recebiveis como custo caro e recorrente, nao como solucao de caixa. Ela vira vicio quando passa a ser rotina.
+(c) Antes de crescer com capital emprestado, cheque se a margem operacional cobre o juro com folga.
+(d) Reduzir divida tambem e estrategia de crescimento. A Magalu pagou R$ 1 bi e o mercado premiou a direcao.
+
+Dados de apoio:
+- Despesa financeira liquida no 2T26: R$ 572 mi (+15,5% a/a), equivalente a 6,4% da receita liquida. No 2T26 o prejuizo foi de R$ 72,5 mi. Fontes: Safra O Especialista -- https://oespecialista.safra.com.br/analise/magalu-resultados-segundo-trimestre-2026/ | bpmoney -- https://bpmoney.com.br/?p=415655 | Money Times -- https://www.moneytimes.com.br/magazine-luiza-mglu3-tem-prejuizo-de-r-725-milhoes-no-2t26-estamos-fazendo-tudo-para-voltar-a-dar-lucro-sem-depender-dos-juros-diz-cfo-lmrs/
+- O CFO no 2T26: "estamos fazendo tudo para voltar a dar lucro sem depender dos juros". Fonte: Money Times, URL acima.
+- Pagamento de mais R$ 1 bi em divida em outubro, depois do fim do tri. A divida bruta voltou a cerca de R$ 4,8 bi, e o caixa total era de R$ 7,6 bi no fim de setembro. Vencimentos: R$ 1 bi em 2026, R$ 1,3 bi em 2027 e R$ 1,6 bi em 2028. Fontes: Exame -- https://exame.com/invest/mercados/magalu-paga-mais-de-r-1-bi-em-dividas-e-diz-que-pode-crescer-mesmo-em-recessao/ | Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/mais-caixa-menos-divida-o-plano-do-magazine-luiza-apos-desalavancagem-segundo-o-cfo/
+- O Itaú BBA estima que a Magalu pode adicionar cerca de R$ 7,5 bi em vendas ate 2027, sendo cerca de R$ 5,1 bi ligados ao espaco deixado pela Casas Bahia. Cerca de 2/3 das lojas fechadas da rival ficam a menos de 400 m de uma Magalu. Fonte: Mercado & Consumo -- https://mercadoeconsumo.com.br/14/10/2026/mc-capital/o-que-esta-por-tras-da-projecao-para-magalu-adicionar-r-75-bi-em-vendas-ate-2027/
+- Mesmo trimestre de 2025, como comparacao: despesa financeira de R$ 488,1 mi (+35,6% a/a na epoca), quando o lucro ajustado ja tinha encolhido 69,8%. Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2025/empresas/magazine-luiza-mglu3-tem-lucro-quase-70-menor-no-3t25-e-cfo-culpa-a-selic-ainda-nao-estamos-imunes-bdap/
+
+Ressalva/limite:
+- GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score (4/5). O tema encosta em Selic, juros futuros depois do 2o turno e debate fiscal. O video NAO comenta eleicao, governo, Banco Central como ator politico, partido ou figura politica, e NAO opina sobre o nivel da Selic. O juro alto entra so como dado do ambiente de negocios ("o custo do dinheiro esta caro"). O foco e o que o dono de empresa controla.
+- Lojas fisicas: as fontes citam crescimento de cerca de 16% ligado as lojas fisicas, e o rascunho trazia +~10% no tri (mesmas lojas +9,5%) e +16% na previa de outubro. Nao consegui separar com seguranca qual numero e do tri e qual e de outubro. No video, use "a loja fisica acelerou com o fechamento de lojas da Casas Bahia", sem cravar o percentual, ou confira no release antes.
+- A divida liquida de R$ 3,11 bi do rascunho NAO foi confirmada no fact-check. Nao usar.
+- Alguns titulos (Exame) falam em "volta a lucro de R$ 13,9 mi", que e o ajustado. No contabil, houve prejuizo de R$ 10,7 mi. No video, deixe claro qual numero e qual.
+- A conta "R$ 35 de despesa financeira por R$ 1 de lucro" e nossa, uma divisao simples de 482,6 / 13,9. Apresente como conta ilustrativa, nao como dado divulgado pela empresa.
+- Casas Bahia foi a pauta de 10/11. Aqui ela aparece so como contexto.
+- A alta da acao e a recomendacao de analistas NAO devem virar sugestao de compra. Nada de recomendacao de investimento.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico. "A Magalu gerou R$ 710 milhoes de resultado operacional no trimestre e terminou no prejuizo. Para onde foi o dinheiro?"
+- Contexto/causa raiz: operacao gigante financiada com divida e antecipacao de recebiveis. Com juro alto, isso virou um custo de cerca de R$ 480 mi por tri, que nao cai quando a venda desacelera.
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo): Ebitda estavel, e-commerce -9,8% por escolha de margem, despesa financeira parada no alto, e sobra de R$ 13,9 mi ajustado (cerca de R$ 35 para o banco para cada R$ 1 de lucro). Depois, o paradoxo da acao +17%: o mercado comprou a direcao (R$ 1 bi de divida paga, loja fisica capturando a demanda da Casas Bahia).
+- Licao de gestao (a virada): "Faturamento nao paga juro, margem paga." Despesa financeira como linha propria na DRE, a antecipacao como vicio caro, e crescer so quando a margem cobre o custo do capital.
+- Fechamento + CTA: "Faz a conta hoje: quanto do seu lucro do ultimo mes ficou com o banco? Comenta o numero."
+
+Fonte(s):
+- Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/magazine-luiza-fecha-terceiro-trimestre-de-2026-com-prejuizo-de-r-107-milhoes/
+- Jornal de Brasilia -- https://jornaldebrasilia.com.br/noticias/economia/magazine-luiza-registrou-prejuizo-liquido-de-r-107-milhoes-no-terceiro-trimestre-de-2026/
+- InvesTalk (BB) -- https://investalk.bb.com.br/noticias/mercado/magazine-luiza-mglu3-resultado-3t26
+- Exame -- https://exame.com/invest/mercados/magalu-volta-a-lucro-de-r-139-mi-e-dobra-crescimento-das-lojas-em-meio-a-crise-da-casas-bahia/
+- Visno Invest -- https://visnoinvest.com.br/news/16339/magazine-luiza-mglu3-registra-prejuizo-de-r-107-mi-no-3t26
+- InfoMoney (do rascunho, nao aberto direto) -- https://www.infomoney.com.br/mercados/resultados-magazine-luiza-mglu3-terceiro-trimestre-2026/
+- InfoMoney (reacao do mercado) -- https://www.infomoney.com.br/mercados/magalu-tem-dificuldade-em-converter-eficiencia-em-crescimento-no-3t-mas-acao-sobe/
+
+Runners-up do dia (registro/transparencia):
+- JBS: lucro cai 72% no 3T26 e, no mesmo dia, compra a Flora da propria J&F -- 25/35
+- Nvidia abre investigacao independente sobre o CEO Jensen Huang -- 24/35
+- Dia 11.11 deve faturar R$ 3,17 bi no e-commerce brasileiro -- 21/35
