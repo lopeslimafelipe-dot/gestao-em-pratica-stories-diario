@@ -1,0 +1,37 @@
+ROTEIRO 1 -- A IA vendida por setor
+"IBM e Microsoft lançaram no dia 10 o Imagine Enterprise, uma plataforma pra criar, operar e governar agentes de IA por setor, começando por serviços financeiros, seguros e varejo. A IBM entra com mais de 6.000 agentes e ativos prontos, número das próprias empresas, que vendem o produto; preço e clientes não foram divulgados. 🟡`A disputa da IA saiu do modelo mais esperto e foi pro processo do setor entregue pronto e auditável.`🟡 🟡`Quem compra IA sem saber qual processo quer mudar paga pra descobrir.`🟡 Qual processo seu você entregaria primeiro?"
+Fonte: IBM Newsroom -- https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation
+
+ROTEIRO 2 -- Comprou xampu sem tirar do caixa
+"A JBS, gigante da carne, vai vender xampu. No dia 9, junto com o balanço, anunciou a compra de 100% da Flora, dona de Neutrox, Francis, Minuano e OX, por 542 milhões de dólares contando a dívida. 🟡`A parte das ações, 367 milhões de dólares, será paga inteira com ações que a JBS tinha em tesouraria, sem desembolsar caixa.`🟡 O vendedor é a J&F, holding dos próprios controladores da JBS. 🟡`O jeito de pagar uma compra diz tanto quanto o que se compra.`🟡 Como você pagaria a sua próxima aquisição?"
+Fonte: Money Times -- https://www.moneytimes.com.br/jbs-jbss32-lucra-us-164-milhoes-no-3t26-pads/
+
+ROTEIRO 3 -- Ninguém vem salvar a venda parcelada
+"No dia 5 eu falei que o Copom segurou a Selic em 13,75%; agora saiu a ata, no dia 10, e ela explica o porquê. O próprio Banco Central reconhece que a atividade está perdendo força, principalmente no comércio ligado ao crédito, e mesmo assim não cortou, porque inflação e expectativas seguem acima da meta. 🟡`O BC viu a venda a prazo esfriar e escolheu não socorrer com juro menor.`🟡 O Focus já projeta Selic de 13,75% no fim do ano. 🟡`Quem planejou 2027 contando com juro caindo precisa refazer a conta agora.`🟡 Seu plano aguenta juro parado?"
+Fonte: A Crítica -- https://acritica.net/economia/copom-ata-atividade-moderacao-expectativas-inflacao/
+
+ROTEIRO 4 -- IA comprada, plano de gente não
+"A Deloitte ouviu 806 conselheiros e altos executivos em 53 países, e o retrato é de IA comprada antes do plano para as pessoas. 🟡`Só 16% têm estratégia definida para o impacto da tecnologia no próprio time; 51% ainda estão montando uma.`🟡 E 46% se preocupam com a qualidade dos dados que recebem sobre os próprios funcionários. A amostra é de grandes empresas, e a Deloitte vende consultoria de IA e RH. 🟡`O gargalo não é a ferramenta, é o plano de gente.`🟡 Você sabe qual função no seu time muda primeiro?"
+Fonte: Deloitte -- https://www.deloitte.com/global/en/insights/topics/talent/board-governance-workforce-transformation-ai.html
+
+ROTEIRO 5 -- A licença dobra em janeiro
+"Daqui a sete semanas, em 1º de janeiro de 2027, a licença-paternidade dobra: sai de 5 para 10 dias, pela Lei 15.371, e sobe pra 15 em 2028. 🟡`O pai também ganha estabilidade: não pode ser demitido sem justa causa desde o início da licença até um mês depois do fim.`🟡 Ele precisa avisar com 30 dias de antecedência. A empresa paga o novo salário-paternidade e a Previdência reembolsa, mas o reembolso ainda depende de regulamentação. 🟡`Quem tem time jovem precisa ajustar escala e caixa até dezembro.`🟡 Quantos futuros pais tem na sua equipe?"
+Fonte: Agência Senado -- https://www12.senado.leg.br/noticias/materias/2026/04/01/sancionado-o-aumento-gradual-da-licenca-paternidade
+
+ROTEIRO 6 -- Fidelidade virou moeda
+"O McDonald's escolheu a Uber como parceira preferencial em 14 mercados, como Estados Unidos, Reino Unido e França; o Brasil não está na lista. Os pedidos do app do McDonald's passam a ser entregues prioritariamente pela Uber, que vira parceira exclusiva do programa de recompensas. 🟡`Só nos Estados Unidos, o programa tem mais de 45 milhões de membros.`🟡 A DoorDash continua vendendo, mas ficou em segundo plano. 🟡`Base de clientes fiéis é ativo que se negocia, e quem controla o app controla a relação.`🟡 Hoje, quem tem os dados dos seus clientes: você ou o marketplace?"
+Fonte: Transport Topics -- https://www.ttnews.com/articles/mcdonalds-uber-partner
+
+ROTEIRO 7 -- O organograma contra o cliente
+"A Vodafone Alemanha vai cortar ou realocar cerca de 2.300 vagas nos próximos dois anos, anunciou o CEO Marcel de Groot no dia 9. 🟡`Pela conta da imprensa, são cerca de 19% de aproximadamente 12 mil funcionários.`🟡 Mas o ponto não é só o corte: o atendimento ao cliente vai ser fundido às vendas, e a TI fica mais perto dessas áreas, com mais IA. 🟡`Quando três áreas atendem o mesmo cliente separadas, o organograma conta a história da empresa, não a jornada do cliente.`🟡 Quantas áreas suas existem só porque sempre existiram?"
+Fonte: Börsen-Zeitung -- https://www.boersen-zeitung.de/unternehmen-branchen/vodafone-baut-in-deutschland-rund-2300-stellen-ab-2
+
+ROTEIRO 8 -- A garantia vende mais que o desconto
+"Faltam 15 dias para a Black Friday, e a BCG ouviu 10.220 consumidores em 10 países. 🟡`Só 54% acreditam que o preço anunciado é mesmo menor que o normal, e cerca de 1 em cada 5 desconfia ativamente.`🟡 O que mais gera confiança é a reputação da loja e a garantia de devolução do dinheiro; recomendação de influenciador ficou em último. A BCG vende consultoria de varejo, e não está claro se o Brasil entrou na amostra. 🟡`Nesta Black Friday, a política de troca convence mais que a etiqueta vermelha.`🟡 Sua loja deixa a garantia mais visível que o desconto?"
+Fonte: BCG -- https://www.bcg.com/press/4november2026-consumer-trust-black-friday-discounts-promotion-fatigue
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 8] "Quando vê 50% OFF na Black Friday, você acredita?" Acredito / Desconfio
+2. [Pergunta/Participacao, Roteiro 5] Caixinha: "Como sua empresa vai cobrir os 10 dias de licença-paternidade a partir de janeiro? Me conta o plano ou a dúvida."
+3. [Virar Historia, Roteiro 2 -> Estilo Quadro Branco] Desenhar os US$ 542 milhões se dividindo em US$ 367 milhões pagos com ações da tesouraria e o resto em dívida assumida mostra, conta por conta, como uma aquisição bilionária sai sem desembolso de caixa.
