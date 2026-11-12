@@ -1,0 +1,124 @@
+RASCUNHO -- ETAPA 1 (PESQUISA) -- 2026-11-12 (quinta-feira)
+Modo de execucao: 3 subagentes em paralelo (A: linhas 1, 2, 8 | B: linhas 3, 4, 5 | C: linhas 6, 7), ~175 buscas no total, todas as verificacoes por trechos de busca (WebFetch nao usado).
+Itens selecionados: 8 | Internacionais (1.2 / empresa+fonte estrangeiras): 5 (itens 1, 4, 6, 7, 8) -- grande consultoria: Deloitte (item 4).
+
+============================================================
+
+ITEM 1 -- IBM e Microsoft lancam "Imagine Enterprise", plataforma de agentes de IA por setor
+Categoria: Tecnologia
+Fato: Em 10/11/2026, IBM e Microsoft anunciaram uma plataforma para criar, operar e governar agentes de IA em processos de setores especificos. Ela parte de um acervo de mais de 6.000 agentes e ativos prontos da IBM Consulting. A Microsoft entra com a camada de IA, dados, nuvem, identidade e seguranca. Inclui controles de governanca, monitoramento e suporte a compliance. Foco inicial: servicos financeiros, seguros e varejo. O cliente escolhe entre contratar a IBM para implantar e operar ou gerir sozinho. Nao foram divulgados preco nem clientes.
+Fonte: IBM (release) -- https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation ; Microsoft (release) -- https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/ ; HPCwire/AIwire -- https://www.hpcwire.com/aiwire/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/ ; Dataconomy -- https://dataconomy.com/2026/11/11/ibm-and-microsoft-launch-imagine-enterprise-ai-agent/ ; Petri -- https://petri.com/ibm-microsoft-enterprise-ai-agent-platform/
+Relevancia: Mostra para onde vai a IA corporativa: em vez de vender um modelo generico, as gigantes passam a vender o processo do setor ja pronto, com governanca embutida. E referencia para qualquer gestor avaliar fornecedores de IA.
+Ressalva tecnica: Verificacao por trechos de busca. Os numeros (6.000 agentes) vem do release das proprias empresas, que vendem a plataforma (interesse comercial). Sem preco nem cases publicos. Uma busca isolada pelo nome do produto nao achou nada, entao a confirmacao depende dos releases e da imprensa especializada.
+Possivel contradicao com roteiro anterior: nenhuma. Ja houve itens de agentes de IA (Perplexity Teammates em 11/11, Zoho em 09/11), mas este e de outro tipo: plataforma corporativa por setor, de dois gigantes juntos.
+Tese de gancho sugerida: "6.000 agentes prontos." A briga da IA deixou de ser por quem tem o modelo mais esperto e passou a ser por quem entrega o processo do seu setor pronto e auditavel. Quem ainda compra "IA" sem saber qual processo quer mudar vai pagar para descobrir.
+
+------------------------------------------------------------
+
+ITEM 2 -- JBS compra a Flora (Neutrox, Francis, Minuano, OX) da J&F e entra em higiene e beleza
+Categoria: Noticia de empresa
+Fato: Em 09/11/2026, junto com o balanco do 3T26, a JBS anunciou a compra de 100% da Flora. O valor da empresa e de US$ 542 milhoes (R$ 2,968 bilhoes), incluindo a divida assumida. O valor das acoes e de US$ 367 milhoes (R$ 2,011 bilhoes), pago integralmente com acoes classe A que a JBS tinha em tesouraria, a R$ 66,83 por acao. Comprou tambem o Canal Rural, por R$ 61 milhoes (US$ 11 milhoes). A empresa diz que nao ha impacto na alavancagem e preve o fechamento para dezembro de 2026. O vendedor e a J&F, holding dos controladores da propria JBS (parte relacionada).
+Fonte: JBS/SEC (8-K, ex. 99.1) -- https://www.sec.gov/Archives/edgar/data/0001791942/000121390026117580/ea031148601ex99-1.htm ; Money Times -- https://www.moneytimes.com.br/jbs-jbss32-lucra-us-164-milhoes-no-3t26-pads/ ; Atlas Publico (CVM) -- https://atlaspublico.com.br/cvm/noticias/jbs-compra-a-flora-da-jef-por-enterprise-value-de-rs-2-97-100022 ; Boca -- https://boca.com.br/negocios/jbs-adquire-flora-e-canal-rural ; brapi -- https://brapi.dev/news/jbs-paga-us-542-milhoes-pela-flora-e-assume-divida-de-us-331c34a0
+Relevancia: Uma das maiores empresas de proteina do mundo saindo do seu nucleo para cosmeticos e midia, pagando com as proprias acoes e comprando do proprio grupo controlador. E um case vivo de diversificacao, governanca e de como se "paga" uma aquisicao sem gastar caixa.
+Ressalva tecnica: Verificacao por trechos de busca, ancorada no documento oficial na SEC. Nao apareceram Exame, InfoMoney ou Valor nos resultados. O Boca cita US$ 553 milhoes porque soma Flora e Canal Rural. Operacao entre partes relacionadas (familia Batista dos dois lados): tratar como fato, sem juizo. No mesmo trimestre o Ebitda da JBS caiu cerca de 36%. Alternativa de reserva, menor e mais PME: a Conta Azul (grupo Visma) comprou a PlayBPO, usada por mais de 1.200 empresas de BPO financeiro, em 09/11 -- https://www.baguete.com.br/noticias/conta-azul-compra-playbpo (so 1 veiculo independente). Descartado: o IPO da Anthropic (roadshow em 10/11, faixa de US$ 70-78 por acao), porque a pesquisa foi feita por um modelo da propria Anthropic (conflito de interesse); a Etapa 2 pode reavaliar.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: A maior empresa de carne do mundo agora vende xampu, e pagou sem tirar um real do caixa: usou acoes que tinha na gaveta, compradas dos proprios donos. Diversificacao estrategica ou rearrumacao dentro da familia? A licao vale para qualquer porte: o "como paga" diz tanto quanto o "o que compra".
+
+------------------------------------------------------------
+
+ITEM 3 -- Ata do Copom: o BC admite que o comercio a credito ja virou, e mesmo assim nao corta
+Categoria: Macroeconomia-indice
+Fato: A ata da 282a reuniao, divulgada em 10/11/2026, diz que os indicadores recentes mostram moderacao mais forte da atividade, sobretudo nos segmentos ligados a credito. Segundo a ata, as pesquisas de comercio mostram "inflexao" nos segmentos mais sensiveis a credito. Mesmo assim, o Copom manteve a Selic em 13,75%, interrompendo cinco cortes seguidos de 0,25 ponto. A inflacao cheia e as medias de nucleo seguem acima do teto da meta. A proxima reuniao e em 08 e 09/12. Como contexto, o Focus de 09/11 elevou a projecao de Selic para o fim de 2026 de 13,50% para 13,75%, e a de IPCA para 2026 ficou em 5,22%.
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/11/pre-mercado-ata-do-copom-alerta-para-desaceleracao-economica/ ; Forbes Brasil -- https://forbes.com.br/forbes-money/2026/11/o-recado-da-ata-do-copom-que-pode-desagradar-lula/ ; A Critica -- https://acritica.net/economia/copom-ata-atividade-moderacao-expectativas-inflacao/ ; Jornal Noroeste -- https://jornalnoroeste.com.br/noticia/economia-negocios/copom-preve-inflacao-acima-da-meta-e-indica-juros-altos-por-mais-tempo ; SpaceMoney -- https://www.spacemoney.com.br/economia/macroeconomia/ata-copom-selic-inflacao ; Focus (contexto): O Tempo -- https://www.otempo.com.br/economia/2026/11/9/mercado-projeta-selic-em-13-75-para-o-fim-deste-ano ; WSCOM -- https://wscom.com.br/economia/2026/11/09/boletim-focus-mercado-financeiro-eleva-projecao-da-taxa-selic-para-1375-no-fim-de-2026/
+Relevancia: E o BC dizendo em documento oficial que a venda a prazo ja esta desacelerando e que nao vai socorrer com juro menor no curto prazo. Isso pesa direto no planejamento de fim de ano e de 2027 de quem vende a credito ou toma credito.
+Ressalva tecnica: Verificacao por trechos de busca. Nao achei G1, Estadao, Valor nem Agencia Brasil sobre a ata: a Etapa 2 deve conferir a integra no bcb.gov.br. A citacao da escala 6x1 como choque de oferta aparece so em veiculos menores e nao foi confirmada; NAO usar. Ha divergencia entre veiculos sobre a data da reuniao (03-04/11 ou 05/11). Focus e mediana de projecoes de instituicoes financeiras, nao dado realizado. IPCA cheio de outubro estava previsto para hoje (12/11) e ainda nao estava indexado.
+Possivel contradicao com roteiro anterior: nenhuma. E continuacao do item de 05/11 (Copom manteve a Selic em 13,75%): o fato novo e o diagnostico da ata, nao a decisao.
+Tese de gancho sugerida: O proprio Banco Central escreveu que o comercio a credito "virou", e ainda assim segurou o juro. Traducao: ninguem vem salvar a sua venda parcelada neste Natal. Quem planejou 2027 contando com Selic caindo precisa refazer a conta agora, porque o mercado tambem desistiu disso.
+
+------------------------------------------------------------
+
+ITEM 4 -- Deloitte: so 16% das empresas tem plano para o impacto da IA na propria equipe
+Categoria: Tendencia internacional
+Fato: Levantamento do Deloitte Global Boardroom Program com 806 conselheiros e executivos de alta gestao em 53 paises, feito em junho e julho de 2026 e divulgado em 10/11/2026. Resultados:
+- So 16% tem estrategia estabelecida para o impacto da transformacao tecnologica sobre a forca de trabalho; 51% ainda estao desenvolvendo uma.
+- 46% se preocupam com a qualidade dos dados sobre o proprio capital humano.
+- 38% nao confiam que RH e TI estejam preparados para uma forca de trabalho com IA.
+- Riscos mais citados: lacuna de habilidades (54%), dados ruins ou desinformacao (47%) e perda do julgamento humano (40%).
+Fonte: Deloitte (documento oficial) -- https://www.deloitte.com/global/en/insights/topics/talent/board-governance-workforce-transformation-ai.html ; PR Newswire -- https://www.prnewswire.com/news-releases/as-ai-reshapes-the-workforce-boards-face-a-governance-challenge-says-deloitte-global-survey-302934995.html ; ADVFN UK -- https://uk.advfn.com/stock-market/share-news/As-AI-reshapes-the-workforce-boards-face-a-govern/99674580
+Relevancia: Mostra que, no topo das empresas do mundo todo, a IA esta sendo comprada antes de existir um plano para as pessoas. E um alerta de gestao que vale para qualquer porte.
+Ressalva tecnica: Verificacao por trechos de busca. A cobertura e reproducao do mesmo press release; nao ha cobertura editorial independente, e a validacao vem do documento oficial da Deloitte. A Deloitte vende consultoria de IA e de RH (interesse comercial). Amostra de conselheiros e alta gestao de grandes empresas, nao de PMEs. Campo de jun-jul/2026. Nao foram achados estudos ineditos de McKinsey, PwC ou EY publicados desde 29/10.
+Possivel contradicao com roteiro anterior: nenhuma contradicao, mas e tema vizinho do item Deloitte de 11/11 (ROI da IA: "a IA acelerou a decisao, mas quase ninguem mudou quem decide"). Os angulos sao diferentes (retorno financeiro x plano de pessoas), mas a Etapa 2 deve evitar repetir a mesma moldura. Tambem conversa com o item McKinsey de 03/11 (medo de demissao por IA 2,3x maior que a realidade): coerente, nao contraditorio.
+Tese de gancho sugerida: As empresas ja compraram a IA, mas 84% nao sabem o que vai acontecer com o proprio time. O gargalo nao e a ferramenta, e o plano de gente. E quase metade dos conselhos nem confia nos dados que tem sobre os proprios funcionarios.
+
+------------------------------------------------------------
+
+ITEM 5 -- Licenca-paternidade dobra para 10 dias em 01/01/2027, com estabilidade e salario-paternidade
+Categoria: Prazo de Acao (Obrigacao)
+Fato: A Lei 15.371/2026 foi sancionada em 31/03/2026 e publicada no DOU em 01/04/2026. DATA-LIMITE para adequar folha, escalas e politicas: 31/12/2026, porque a regra vale a partir de 01/01/2027.
+- A licenca-paternidade passa de 5 para 10 dias em 01/01/2027, 15 dias em 2028 e 20 dias em 2029. Os 20 dias dependem de metas fiscais (art. 11).
+- Fica proibida a demissao sem justa causa desde o inicio da licenca ate 1 mes depois do fim.
+- O empregado deve avisar a empresa com 30 dias de antecedencia sobre a data provavel do parto.
+- Cria o salario-paternidade: a empresa paga a remuneracao integral e e reembolsada pela Previdencia, inclusive ME e EPP.
+- Empresas do Programa Empresa Cidada podem conceder dias adicionais.
+Fonte: Camara dos Deputados (texto oficial da lei) -- https://www2.camara.leg.br/legin/fed/lei/2026/lei-15371-31-marco-2026-798908-publicacaooriginal-178711-pl.html ; Contabeis -- https://www.contabeis.com.br/noticias/76935/licenca-paternidade-de-20-dias-entra-em-vigor-em-2027/ ; DGABC -- https://www.dgabc.com.br/Noticia/4340125/licenca-paternidade-tera-ampliacao-gradual-e-exigira-adaptacoes ; Migalhas -- https://www.migalhas.com.br/depeso/454401/lei-15-371-26-e-a-nova-licenca-paternidade-impactos-trabalhistas ; ConJur -- https://conjur.com.br/2026-abr-10/a-lei-no-15-371-2026-e-a-licenca-paternidade-no-brasil-2/
+Relevancia: E lei ja sancionada, com vigencia em 7 semanas, que muda escala, estabilidade e fluxo de caixa de qualquer empresa com empregado CLT, de qualquer porte.
+Ressalva tecnica: Verificacao por trechos de busca, ancorada no texto oficial da lei. Os procedimentos de compensacao e reembolso do salario-paternidade ainda dependem de regulamentacao e de ajuste nos leiautes do eSocial. Ha divergencia entre fontes sobre os dias extras do Empresa Cidada; NAO citar numero. Algumas fontes sao escritorios de advocacia e contabilidade (interesse comercial). Tratar como fato administrativo, sem debate politico. O anuncio e de abril, mas o item vale pela excecao da linha 5: a janela de adequacao esta aberta. Reserva da linha: IN RFB 2.341/2026, cujo periodo de adaptacao para quem usa beneficio fiscal federal acaba em 31/12/2026, com intimacoes formais a partir de 01/01/2027 -- https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-aperfeicoa-regras-de-acompanhamento-da-fruicao-de-beneficios-fiscais
+Possivel contradicao com roteiro anterior: nenhuma. O tema nao aparece em saidas/ nem rascunhos/ dos ultimos 5 dias uteis.
+Tese de gancho sugerida: Daqui a 7 semanas, cada pai na sua equipe significa 10 dias fora, o dobro de hoje, e mais um mes de estabilidade depois. A empresa paga e a Previdencia reembolsa, mas o prazo do reembolso ainda nao esta regulamentado. Quem tem time jovem e nao ajustar escala e caixa ate dezembro vai descobrir na pratica.
+
+------------------------------------------------------------
+
+ITEM 6 -- McDonald's escolhe a Uber como parceira preferencial e deixa a DoorDash em segundo plano
+Categoria: Empresa global reconhecida
+Fato: Em 08 e 09/11/2026, McDonald's e Uber anunciaram, em comunicado conjunto, a expansao plurianual da parceria em 14 mercados, entre eles EUA, Reino Unido, Australia, Belgica, Canada, Franca e Alemanha.
+- Os pedidos feitos no app do McDonald's passam a ser entregues prioritariamente pela Uber, via Uber Direct (white label).
+- A Uber vira parceira exclusiva de recompensas: pontos do MyMcDonald's Rewards dao desconto em corridas e no delivery da Uber.
+- So nos EUA, o programa tem mais de 45 milhoes de membros.
+- O McDonald's continua disponivel nos dois apps (Uber Eats e DoorDash).
+- Os termos financeiros nao foram divulgados.
+Fonte: Bloomberg -- https://www.bloomberg.com/news/articles/2026-11-09/mcdonald-s-names-uber-as-preferred-partner-edging-out-doordash ; QSR Magazine -- https://www.qsrmagazine.com/news/mcdonalds-and-uber-announce-multi-year-expansion-of-partnership/ ; Transport Topics -- https://www.ttnews.com/articles/mcdonalds-uber-partner ; Yahoo Finance (Business Wire) -- https://finance.yahoo.com/media-advertising/articles/mcdonald-uber-expand-global-partnership-130000815.html
+Relevancia: Duas marcas que todo brasileiro conhece fecham um acordo que gira em torno de base de clientes e fidelidade, nao so de logistica. E um case sobre canal e programa de fidelidade como ativos negociaveis.
+Ressalva tecnica: Verificacao por trechos de busca. O acordo foi confirmado pelas empresas em comunicado conjunto. NAO afirmar que inclui o Brasil: aqui a operacao e da Arcos Dorados, e o Brasil nao aparece entre os mercados citados. O efeito na acao da DoorDash nao foi encontrado.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: O McDonald's nao terceirizou so a entrega, colocou na mesa 45 milhoes de clientes fieis. Canal e programa de fidelidade sao ativos que se negociam. Pergunta para o gestor: quem hoje tem a sua base de clientes, o seu app ou o marketplace? E o que voce recebe em troca?
+
+------------------------------------------------------------
+
+ITEM 7 -- Vodafone Alemanha corta ou realoca cerca de 2.300 vagas e funde atendimento com vendas
+Categoria: Reestruturacao-corte-fechamento
+Fato: Em 09/11/2026, o CEO da Vodafone Alemanha, Marcel de Groot, anunciou o corte ou a realocacao de cerca de 2.300 postos nos proximos dois anos fiscais. A imprensa calcula cerca de 19% de aproximadamente 12 mil funcionarios. O atendimento ao cliente sera fundido as areas de vendas para consumidor e para empresas, e a TI ficara mais proxima dessas areas, com mais uso de IA. A economia vira de custos de material, operacao e pessoal; o valor nao foi divulgado.
+Fonte: Borsen-Zeitung -- https://www.boersen-zeitung.de/unternehmen-branchen/vodafone-baut-in-deutschland-rund-2300-stellen-ab-2 ; Cash.ch -- https://www.cash.ch/news/vodafone-baut-in-deutschland-rund-2300-stellen-ab-983637 ; PPC Land -- https://ppc.land/vodafone-germany-cuts-2-300-jobs-over-two-years-as-ai-use-expands/ ; The Local -- https://www.thelocal.de/20261109/listed-the-major-german-companies-cutting-jobs-at-the-end-of-2026 ; Mobiflip -- https://www.mobiflip.de/?p=494729
+Relevancia: Marca global conhecida reorganizando a empresa em torno da jornada do cliente, fundindo atendimento, vendas e TI, e nao so cortando cabecas. A licao de estrutura vale para empresas de qualquer porte.
+Ressalva tecnica: Verificacao por trechos de busca. O corte foi anunciado pela empresa (via dpa). O percentual de 19% e calculo da imprensa. NAO confundir com o corte de cerca de 2 mil vagas de marco de 2024, que algumas fontes misturam. A Vodafone nao opera telefonia movel no Brasil.
+- RESERVA, com tema BR mais forte mas fora da janela estrita: o Nubank demitiu "pouco mais de 30" analistas antifraude em 03/11. Segundo relatos de funcionarios, a IA reduziu a fila de casos em 80%. O Nubank confirmou e chamou de "reorganizacao administrativa". O anuncio de 03/11 fica a 7 dias uteis de hoje (o limite e 5) e os percentuais vem de relatos -- https://tecnoblog.net/noticias/nubank-demite-funcionarios-apos-ia-reduzir-fila-de-fraudes/ ; https://finsidersbrasil.com.br/noticias-sobre-fintechs/nubank-demite-equipe-que-cacava-golpistas-e-coloca-a-ia-no-lugar/
+- Outra reserva: a Conagra fecha a fabrica de Macon (Missouri), com 442 vagas -- https://abc17news.com/news/macon/2026/11/10/state-workforce-officials-prepare-to-assist-442-workers-affected-by-conagra-closure/
+Possivel contradicao com roteiro anterior: nenhuma. Tem o mesmo "subtema enxugamento" de PepsiCo (11/11) e Boeing (10/11), mas e empresa e angulo diferentes (fusao de areas em torno do cliente).
+Tese de gancho sugerida: Tres areas (atendimento, vendas e TI) atendiam o mesmo cliente, cada uma com seu chefe. A Vodafone admitiu que o organograma contava a historia da empresa, nao a jornada do cliente, e 2.300 postos sairam dessa conta. Quantas areas na sua empresa existem so porque sempre existiram?
+
+------------------------------------------------------------
+
+ITEM 8 -- BCG: so 54% dos consumidores acreditam que o desconto da Black Friday e real
+Categoria: Livre
+Fato: 6o estudo anual da BCG sobre as liquidacoes de fim de ano, com 10.220 consumidores em 10 mercados, divulgado em 04/11/2026.
+- So 54% confiam que o preco anunciado e realmente menor: 12% confiam totalmente e 42% "um pouco".
+- Cerca de 1 em cada 5 desconfia ativamente.
+- 22% planejam gastar menos ou pular as liquidacoes porque acham que o desconto existe o ano todo, 2 pontos a mais que em 2025.
+- O que mais gera confianca: reputacao do varejista e garantia de devolucao do dinheiro, ambas com 65% de confianca liquida. Recomendacao de influenciador ficou em ultimo lugar.
+- 62% comecam a cacar ofertas em outubro ou no inicio de novembro.
+Fonte: BCG (release) -- https://www.bcg.com/press/4november2026-consumer-trust-black-friday-discounts-promotion-fatigue ; BCG (estudo) -- https://www.bcg.com/publications/2026/trust-matters-year-end-sales-events ; PR Newswire -- https://www.prnewswire.com/news-releases/only-54-of-consumers-trust-that-black-friday-discounts-are-lower-than-normal-as-promotion-fatigue-grows-302928764.html ; ConsumerAffairs -- https://www.consumeraffairs.com/news/black-friday-shoppers-are-growing-skeptical-of-holiday-discounts-new-survey-finds-110526.html
+Relevancia: Faltam 15 dias para a Black Friday brasileira (27/11). O dado mostra que politica clara de troca e devolucao gera mais confianca que desconto maior, o que e acionavel ja por qualquer varejista.
+Ressalva tecnica: Verificacao por trechos de busca. Nao confirmei se o Brasil esta entre os 10 mercados; NAO afirmar que inclui. Ha divergencia sobre o mes de campo (setembro ou outubro). O ConsumerAffairs le o 22% de forma diferente (fatia de quem vai reduzir compras): usar a formulacao do release. A BCG vende consultoria de pricing e varejo (interesse comercial). Formato pesquisa na vaga Livre: foi escolhido porque o tema (comportamento de consumo na Black Friday) e diferente dos indices do dia e muito oportuno. Reserva da linha: 11.11 de 2025 teve 93% dos pedidos e 58% do faturamento da Black Friday (Neotrust) -- https://ndmais.com.br/economia/negocios/11-11-black-friday-pedidos-ecommerce/ ; https://exame.com/tecnologia/examelab/11-11-2026-onde-encontrar-ofertas-como-comparar/ (para 2026 so ha projecao de R$ 3,17 bi).
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Quase metade do consumidor ja acha que o seu "50% OFF" e maquiado. E o que mais convence nao e desconto maior, e "se nao gostar, devolvemos o dinheiro". Nesta Black Friday, a politica de troca vende mais que a etiqueta vermelha.
+
+============================================================
+NOTAS PARA A ETAPA 2
+- Diversificacao de fonte: InfoMoney e Agencia Sebrae nao foram usados como fonte principal hoje. Nao achamos G1, Estadao nem Valor dentro da janela para os temas escolhidos (pouca indexacao de 09-12/11).
+- IPCA de outubro: divulgacao prevista para hoje (12/11), ainda nao indexado na hora da pesquisa. Candidato natural para a linha 3 de amanha.
+- Conflito a checar sobre item ja publicado (Simples Nacional, 10/11): a Agencia Brasil e o Sincovaga citam desistencia da opcao ate 30/11 (regra original da Resolucao CGSN 186). Ja a Receita e o Seu Dinheiro dizem que a Resolucao CGSN 194 mudou a janela para 03/11 a 20/12/2026, que foi a data publicada. A informacao publicada parece correta, mas vale conferir.
+- Outros prazos achados e nao usados:
+  - Edital PGFN/RFB no 5/2026 (contencioso), com adesao ate 29/12/2026 -- https://www.hondatar.com.br/en/rfb-e-pgfn-lancam-novo-edital-de-transacao-por-adesao-no-contencioso-tributario-2/
+  - Refis de ICMS da Paraiba (adesao de 03/11 a 18/12), do Ceara (ate 30/12) e de Mato Grosso (ate 29/12).
+  - DeRE: 1a entrega em 15/11, so para regimes especificos.
+- Linha 6, reservas: Sony eleva a previsao de lucro liquido do ano fiscal para o recorde de 1,33 trilhao de ienes (confirmar a data exata) e Toyota eleva a previsao de lucro para 3,57 trilhoes de ienes (05/11).
+- Linha 8, reserva: Nexus diz que 54% dos brasileiros nunca compraram na Black Friday, chegando a 73% entre quem tem 65 anos ou mais -- https://www.nexus.fsb.com.br/?p=16835 (campo de maio/2026).
