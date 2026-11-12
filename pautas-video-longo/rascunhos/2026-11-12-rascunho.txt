@@ -1,0 +1,52 @@
+RADAR DE REPERCUSSAO -- RASCUNHO 2026-11-12 (Etapa 1: pesquisa e pontuacao)
+
+Obs. de verificacao: WebFetch bloqueado pela rede desta sessao para varios portais (mixvale, thenextweb nao resolvem). Fatos conferidos por trechos de WebSearch em varios veiculos concordantes (CNBC, InfoMoney, ABC News, CBS, Yahoo Finance; Contabeis, A Tarde, Gazeta Brasil; JB, O Tempo, InfoMoney). Release oficial / comunicado da empresa NAO lido diretamente -- conferir antes de gravar.
+Checagem de repeticao (ultimos 10 dias deste pipeline -- vencedores 02/11 a 11/11: Chilli Beans, Kitchens, Aeris, Copom/Selic, Canva, Disney, GPA, Casas Bahia, Magalu): nenhum candidato repete empresa ja usada como pauta. Obs.: Nvidia apareceu como runner-up no rascunho de 11/11 (abertura da investigacao), mas nao virou pauta; hoje o fato escalou (conselho prepara destituicao do CEO).
+Descartados na pesquisa: IPCA de outubro (sai hoje as 9h de Brasilia, numero ainda nao publicado no momento da pesquisa); Nike demissoes (fato de ~40 dias); Elon Musk dizendo que "contrataria Huang" (desdobramento folclorico do candidato 1); Cogna/Dexco/Brava 3T26 (protagonistas menos conhecidos, cobertura baixa).
+
+CANDIDATO 1 -- Conselho da Nvidia se prepara para tirar Jensen Huang: o risco de a empresa depender de uma pessoa so
+Fato: Em 11/11/2026 o Wall Street Journal informou que o conselho da Nvidia (11 cadeiras, 10 independentes) se preparava para destituir o cofundador e CEO Jensen Huang, apos reportagem do New York Times sobre um relacionamento extraconjugal com uma executiva da empresa -- somando-se ao caso ja revelado com Alice Huang (ex-executiva da Megaspeed, apontada por inteligencia dos EUA como agente chinesa), que motivou a investigacao independente aberta em 08/11. O conselho se reuniu na noite de 11/11 sem decisao anunciada. Acoes caem mais de 8% no after-hours (ja tinham caido 4,3% em 09/11); se a queda se mantiver, a perda de valor de mercado desde o inicio da investigacao chega a ~US$ 600 bi (CNBC). Bloomberg: conselho trabalha com firma externa para buscar sucessores; CFO Colette Kress citada como possivel interina; analistas dizem que nao ha sucessor obvio. Huang admitiu a infidelidade em memorando aos funcionarios. Nasdaq futuro e fornecedoras asiaticas (TSMC, SK Hynix, Advantest) recuam hoje (12/11). Kalshi: 80% de chance de Huang fora ate 01/12. Balanco trimestral previsto para 17/11.
+Fonte: CNBC -- https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html
+Fontes de apoio: InfoMoney -- https://www.infomoney.com.br/mercados/nasdaq-futuro-recua-pressionado-pela-forte-queda-das-acoes-da-nvidia/ | ABC News -- https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059 | CBS News -- https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/ | Yahoo Finance (live) -- https://finance.yahoo.com/technology/live/nvidia-live-updates-nvidia-stock-tanks-in-after-hours-after-allegations-of-a-second-affair-surface-222438011.html
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 31/35
+Status: VENCEDOR DO DIA
+ATENCAO -- FATO EM ANDAMENTO: a decisao do conselho pode sair a qualquer momento hoje. Antes de gravar, checar se Huang foi mantido, afastado ou substituido, e ajustar o roteiro.
+GUARDRAIL POLITICO: o fator 'Polemica adjacente' pesa (suposta espionagem chinesa, tensao EUA-China em chips, Congresso dos EUA pressionando por depoimento). O roteiro NAO comenta geopolitica, governo dos EUA ou China, nem toma posicao sobre a acusacao de espionagem. Tambem NAO explora a vida pessoal/caso extraconjugal alem do minimo factual. Angulo so de gestao: risco de "pessoa-chave" (key-person risk) -- quando o valor da empresa esta amarrado a uma pessoa, um problema pessoal vira problema do negocio; ausencia de plano de sucessao; papel de um conselho/conselheiro independente. Licao PME: a empresa sobrevive se o dono sair amanha? Quem decide, quem conhece os clientes, quem assina? Documentar processos, preparar um segundo nome, separar a pessoa do dono da pessoa juridica.
+
+CANDIDATO 2 -- Brasil bate recorde: 8.478 empresas em recuperacao judicial, com micro e pequenas puxando a alta
+Fato: Monitor RGF-BIZDOC (divulgado em 09-10/11/2026): 8.478 empresas em RJ ao fim do 3T26, maior numero da serie, +21,2% em 12 meses. No trimestre, 701 entraram e 269 sairam (saldo +432); novos pedidos cairam 12,6% (299). Comercio 1.737, industria 1.647, agro 1.416 (soja 675). 1.731 microempresas e 1.358 EPPs; incidencia em microempresas +173% desde o 1T23. De 4.807 processos iniciados entre 2023 e set/2026, 32,9% terminaram em falencia. SP lidera (2.293). Obs.: conta empresas (CNPJs), nao processos.
+Fonte: Contabeis -- https://www.contabeis.com.br/noticias/80789/recuperacoes-judiciais-batem-recorde-e-chegam-a-8-4-mil-empresas/
+Fontes de apoio: A Tarde -- https://atarde.com.br/economia/crise-nas-empresas-brasil-bate-recorde-com-quase-85-mil-em-recuperacao-judicial-1409185 | Gazeta Brasil -- https://gazetabrasil.com.br/economia/2026/11/10/brasil-bate-novo-recorde-de-empresas-em-recuperacao-judicial/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 5/5
+- Identificacao com audiencia: 5/5
+TOTAL: 28/35
+Status: runner-up (forte alternativa se a historia da Nvidia esfriar ou se o canal preferir tema 100% Brasil/PME; guardrail: falar de juro/credito como custo do negocio, sem atribuir culpa a governo ou BC)
+
+CANDIDATO 3 -- Petrobras lucra R$ 39,8 bi no 3T26, mas acao cai: dividendo abaixo do esperado e investimento acima
+Fato: Balanco de 10/11/2026: lucro liquido atribuivel de R$ 39,8 bi (+21,5% a/a; -24,2% t/t; O Tempo/Folha citam R$ 39,7 bi); sem eventos exclusivos, R$ 47,9 bi. Ebitda ajustado R$ 85,8 bi; FCO R$ 61,8 bi; divida liquida US$ 57,8 bi (-4,2% t/t). Producao recorde de 3,51 MM boe/d (+11,7%). Proventos de R$ 15,3 bi (R$ 1,19/acao), abaixo do consenso (XP); capex acima do esperado -> acoes cairam (InfoMoney).
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-desempenho-acoes-resultados-3t26-proventos-novas-projecoes/
+Fontes de apoio: O Tempo -- https://www.otempo.com.br/economia/2026/11/10/lucro-da-petrobras-cresce-21-5-no-terceiro-trimestre-para-r-39-7-bilhoes | JB -- https://www.jb.com.br/economia/2026/11/1061517-petrobras-lucra-rs-398-bilhoes-no-3t26-e-eleva-previsao-de-producao.html
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 2/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 25/35
+Status: runner-up (guardrail: tema estatal/politizado -- se usado, falar so de distribuicao de lucro x reinvestimento, sem comentar governo ou politica de precos)
