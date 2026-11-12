@@ -1,0 +1,67 @@
+PAUTA DO DIA -- 2026-11-12
+Assunto: Conselho da Nvidia se prepara para tirar Jensen Huang -- o risco de a empresa depender de uma pessoa so
+Score final: 31/35 (Frescor 5/5 | Relevancia do protagonista 5/5 | Gravidade 5/5 | Polemica adjacente 4/5 | Volume de cobertura 5/5 | Clareza do angulo 3/5 | Identificacao com audiencia 4/5)
+
+!! FATO EM ANDAMENTO: ate a checagem (12/11, ~09h30 UTC) NAO havia decisao anunciada nem comunicado oficial da Nvidia. As informacoes sobre a destituicao vem de reportagens com fontes anonimas (WSJ, Reuters, Bloomberg). Antes de gravar, confirmar se Huang foi mantido, afastado ou substituido e ajustar o roteiro.
+
+Fato central verificado:
+- Em 11/11/2026 o Wall Street Journal informou que o conselho da Nvidia se preparava para destituir o cofundador e CEO Jensen Huang. Segundo a Reuters, o conselho se reuniu na noite de quarta (11/11, horario dos EUA) para decidir; nenhuma decisao foi anunciada ate a manha de quinta (12/11), e a Nvidia nao comentou.
+- Contexto imediato: em 08-09/11 o conselho abriu investigacao independente depois de Huang admitir um caso extraconjugal com Alice Huang, ex-executiva da Megaspeed. Em 11/11 surgiu reportagem (New York Times) sobre um segundo relacionamento, com uma executiva subordinada a ele.
+- Mercado: acoes cairam mais de 8% no after-hours de 11/11 (ja tinham caido cerca de 6-7% em 09/11, com a abertura da investigacao). Estimativa da CNBC: se a queda se mantiver, a perda de valor de mercado chega a cerca de US$ 600 bi. Acoes de tecnologia na Europa e o Nasdaq futuro recuaram em 12/11.
+- O estatuto da Nvidia permite remover o CEO, com ou sem justa causa, por maioria simples do conselho. Segundo as reportagens, o conselho contratou uma firma externa para mapear possiveis substitutos e avalia um CEO interino (a CFO Colette Kress e o conselheiro independente lider Stephen Neal sao citados como opcoes).
+Fontes confirmadas no fact-check: CNBC (via rascunho, confirmada por trechos concordantes), Fortune, Euronews, Yahoo Finance, Investnews -- URLs abaixo.
+
+Cadeia causal (o que levou a isso):
+1. Huang fundou a Nvidia em 1993 e a comanda ha mais de 30 anos; a empresa foi desenhada em torno dele: dezenas de executivos reportando direto ao CEO, sem diretor de operacoes (COO), sem presidente do conselho separado e sem plano de sucessao publico.
+-> 2. A empresa virou a maior do mundo em valor de mercado com a onda de IA -- e o mercado passou a precificar a Nvidia junto com a figura de Huang (o "fundador-visionario").
+-> 3. Um problema da vida pessoal do CEO vira um problema de governanca: investigacao independente (08/11), depois uma segunda denuncia envolvendo uma subordinada (11/11) -- aqui entra conflito de interesse/hierarquia, que e questao de gestao, nao so pessoal.
+-> 4. O conselho, que dias antes dizia ter confianca no CEO, passa a preparar a saida -- mas descobre que nao ha sucessor obvio; precisa contratar firma externa as pressas.
+-> 5. O mercado reage a incerteza, nao so ao escandalo: centenas de bilhoes de dolares de valor evaporam em dias, e o efeito respinga em fornecedores e indices.
+=> Espinha dorsal do video: quanto mais o valor de uma empresa depende de uma pessoa, mais caro fica qualquer problema dessa pessoa.
+
+Por que esta repercutindo agora:
+- Frescor maximo (reuniao do conselho na noite de 11/11, decisao pode sair hoje) + protagonista que todo mundo conhece (a "empresa da IA") + gravidade (queda bilionaria em dias) + cobertura massiva no Brasil e no exterior.
+- Identificacao com o publico: o dono de PME tambem e, quase sempre, a "pessoa-chave" da propria empresa.
+
+Angulo de gestao sugerido:
+Risco de pessoa-chave (key-person risk). A pergunta para o dono de empresa: "Se voce saisse amanha -- por doenca, briga, problema pessoal -- sua empresa continuaria funcionando na segunda-feira?" Licoes praticas:
+- Mapear o que so voce sabe (clientes-chave, senhas, fornecedores, precos, contas bancarias) e documentar.
+- Preparar um "segundo nome" para cada funcao critica, inclusive a sua.
+- Reduzir o numero de pessoas que dependem de voce para decidir (na Nvidia, dezenas reportam direto ao CEO; na PME, muitas vezes e "todo mundo").
+- Ter alguem de fora para fazer as perguntas dificeis (conselho consultivo, mentor, socio independente) -- o conselho da Nvidia foi criticado justamente por nao ter cobrado sucessao antes.
+- Separar a pessoa do dono da pessoa juridica, inclusive em regras de conduta: relacao pessoal com subordinado e risco de gestao em qualquer porte de empresa.
+
+Dados de apoio:
+- Nvidia nao nomeia sucessor no proxy statement enviado a SEC; especialistas em governanca disseram que o conselho errou ao nao ter plano de sucessao claro (Fortune, 09/11/2026 -- https://fortune.com/2026/11/09/what-is-nvidia-ceo-succession-plan-jensen-huang-son-in-law-nico-caprez/ ; Axios -- https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan).
+- Estatuto permite remover o CEO com ou sem justa causa por maioria do conselho; conselho contratou firma externa para listar substitutos (Fortune, 11/11/2026 -- https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/).
+- Queda de cerca de 6% no pre-mercado em 09/11, perda estimada de cerca de US$ 270 bi naquele dia (Investnews -- https://investnews.com.br/negocios/nvidia-cai-6-apos-ceo-admitir-caso-com-mulher-suspeita-de-espionagem-para-china/).
+- Brasil/PME: pesquisa PwC Brasil + IBGC ("Governanca em Empresas Familiares: Evidencias Brasileiras", 279 empresas de capital fechado, 2018) -- 72,4% NAO tem plano de sucessao para cargos-chave (Diario do Comercio -- https://diariodocomercio.com.br/?p=194307 ; Bem Parana -- https://www.bemparana.com.br/noticias/economia/apenas-276-das-empresas-familiars-tem-plano-de-sucessao-para-cargos-chave/amp/). Ressalva: estudo de 2018 e outros levantamentos trazem numeros diferentes (ex.: KPMG cita 47% com algum plano); citar como "pesquisa PwC/IBGC" e nao como dado atual.
+
+Ressalva/limite:
+- GUARDRAIL POLITICO (Polemica adjacente pesou 4/5): o caso envolve suspeita de espionagem, tensao EUA-China em chips, reacoes de autoridades americanas e convocacao no Congresso dos EUA. O video NAO comenta geopolitica, governo dos EUA ou da China, nao cita nem avalia figuras politicas e nao toma posicao sobre a acusacao de espionagem. Angulo exclusivamente de gestao.
+- Vida pessoal: citar o minimo factual (relacionamentos que motivaram a investigacao). Nada de especulacao, tom moralista ou detalhes intimos. O ponto e governanca, nao fofoca.
+- Fato em andamento: a destituicao NAO esta confirmada oficialmente. Usar "o conselho se prepara/avalia", nunca "Huang foi demitido", ate haver comunicado oficial. Rever na hora de gravar.
+- Os US$ 600 bi sao estimativa condicionada a manutencao da queda do after-hours -- dizer "pode chegar a cerca de".
+- Nao transformar em dica de compra/venda da acao.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico -- "A empresa mais valiosa do mundo pode demitir o proprio fundador esta semana. E o problema nao e so ele -- e que ninguem sabe quem vem depois."
+- Contexto/causa raiz: 30+ anos de Huang no comando, empresa construida em volta dele, sem COO, sem presidente de conselho separado, sem sucessor publico.
+- Desenvolvimento da cadeia causal: problema pessoal -> investigacao -> segunda denuncia (subordinada) -> conselho prepara saida -> nao ha sucessor -> mercado apaga centenas de bilhoes por incerteza.
+- Licao de gestao (a virada): "Troque Nvidia pela sua empresa. Se voce sumisse amanha, quem assina, quem conhece o cliente, quem sabe a senha do banco?" + 72,4% das empresas familiares sem plano para cargos-chave (PwC/IBGC).
+- Fechamento + CTA: 3 passos concretos (documentar, preparar um segundo nome, ter um conselheiro de fora) + pergunta pro publico: "Sua empresa sobrevive sem voce por 30 dias?"
+
+Fonte(s):
+- CNBC -- https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html
+- Fortune -- https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/
+- Euronews -- https://www.euronews.com/2026/11/12/nvidia-shares-fall-on-reports-board-may-oust-ceo-jensen-huang
+- Yahoo Finance (live) -- https://finance.yahoo.com/technology/live/nvidia-live-updates-nvidia-stock-tanks-in-after-hours-after-allegations-of-a-second-affair-surface-222438011.html
+- InfoMoney -- https://www.infomoney.com.br/mercados/nasdaq-futuro-recua-pressionado-pela-forte-queda-das-acoes-da-nvidia/
+- Investnews -- https://investnews.com.br/negocios/nvidia-cai-6-apos-ceo-admitir-caso-com-mulher-suspeita-de-espionagem-para-china/
+- Fortune (sucessao) -- https://fortune.com/2026/11/09/what-is-nvidia-ceo-succession-plan-jensen-huang-son-in-law-nico-caprez/
+- Axios -- https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan
+- Diario do Comercio (PwC/IBGC) -- https://diariodocomercio.com.br/?p=194307
+
+Runners-up do dia (registro/transparencia):
+- Brasil bate recorde: 8.478 empresas em recuperacao judicial, com micro e pequenas puxando a alta -- 28/35
+- Petrobras lucra R$ 39,8 bi no 3T26, mas acao cai: dividendo abaixo do esperado e investimento acima -- 25/35
