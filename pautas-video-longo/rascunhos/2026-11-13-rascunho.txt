@@ -1,0 +1,64 @@
+RADAR DE REPERCUSSAO -- RASCUNHO 2026-11-13 (sexta-feira)
+
+Checagem de repeticao (saidas/ deste pipeline, 03/11 a 12/11): Kitchens, Aeris, Copom/Selic 13,75%, Canva, Disney, GPA, Casas Bahia, recorde de RJ no pais, Magalu, Nvidia/Jensen Huang. Chilli Beans e Braskem ja apareceram em rascunhos recentes -- descartados. Banco do Brasil NAO foi pauta nos ultimos 10 dias.
+Observacao: exame.com bloqueado na rede desta sessao (WebFetch); fatos confirmados via busca em varios veiculos.
+
+CANDIDATO 1 -- Banco do Brasil: lucro despenca 66,5% e banco corta pela metade a previsao de 2026
+Fato: BB divulgou em 11/11 (cobertura em massa em 12/11) lucro liquido ajustado de R$ 1,27 bi no 3T26, queda de 66,5% na comparacao anual e de 67,5% frente ao 2T26 (R$ 3,9 bi). Guidance de lucro 2026 cortado de R$ 18-22 bi para R$ 9-11 bi. Causa principal: alta continua da inadimplencia na carteira do agronegocio + reforcos de provisao em empresas do atacado. Custo do credito de R$ 21,2 bi (+18,4% a/a). Dividendos reduzidos ao minimo obrigatorio de 25% do lucro.
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/negocios/banco-do-brasil-encerrou-o-3o-trimestre-de-2026-com-lucro-liquido-ajustado-de-r-127-bilhao/
+Fonte complementar: Exame -- https://exame.com/invest/mercados/banco-do-brasil-ve-lucro-cair-66-no-3o-tri-e-corta-pela-metade-a-previsao-para-2026/ ; Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/bancos-fintechs/bb-tem-queda-de-665-no-lucro-e-reduz-previsao-para-2026/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 31/35
+Status: VENCEDOR DO DIA
+Angulo sugerido (gestao): concentracao de carteira + inadimplencia de cliente. O BB apostou pesado num setor (agro); quando o setor travou (juro alto, clima, preco de commodity), o calote dos clientes virou provisao e comeu o lucro. Licao pra PME: nao depender de poucos clientes/um setor, politica de credito e provisao para devedor duvidoso, juro alto chega no seu caixa pelo calote do seu cliente.
+>> ATENCAO GUARDRAIL POLITICO: o fator 'Polemica adjacente' pesou (banco publico, controle estatal, debate sobre juros/BC e politica agricola em ano pos-eleitoral). O roteiro NAO deve comentar governo, gestao politica do banco, partidos ou figuras politicas, nem tomar posicao sobre uso de banco publico. Angulo estritamente: risco de credito, concentracao, efeito pratico.
+
+CANDIDATO 2 -- Dolar no maior nivel de fechamento desde jul/2025
+Fato: em 10/11 o dolar a vista subiu 1,46% e fechou a R$ 5,5863, maior fechamento desde 31/07/2025, com cautela sobre inflacao nos EUA, juros e ata do Copom; em 12/11 o dolar chegou a R$ 5,65 intradia (InfoMoney, resumo de mercado -- nivel de 12/11 nao confirmado na fonte original).
+Fonte: Forbes Brasil -- https://forbes.com.br/forbes-money/2026/11/dolar-dispara-e-atinge-maior-valor-de-fechamento-desde-julho-de-2025/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 26/35
+Status: runner-up
+Nota: tema de cambio/juros ja teve pauta em 26-27/10 e Copom em 06/11 -- risco de saturacao.
+
+CANDIDATO 3 -- Qantas vai cortar 850 vagas e terceirizar trabalho para a India
+Fato: companhia aerea australiana anunciou corte de 850 funcoes nos proximos anos, com parte do trabalho migrando para equipe da Accenture na India; primeiras mudancas ate meados de 2027.
+Fonte: ABC News (Australia) -- https://abc.net.au/news/2026-11-12/jobs-moving-overseas-to-gcc-tech-centres-in-india-asia/107374082
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 24/35
+Status: runner-up
+
+CANDIDATO 4 -- Inonibras (Pirapora-MG) pode fechar fabrica de 1983; 250 ja demitidos
+Fato: industria alega crise por tarifas dos EUA, salvaguardas europeias e concorrencia de China e India; sindicatos falam em mais demissoes ainda em novembro; proposta levada ao MPT.
+Fonte: Diario do Comercio -- https://diariodocomercio.com.br/economia/pirapora-inonibras-norte-minas/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 1/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 22/35
+Status: runner-up
