@@ -1,0 +1,74 @@
+PAUTA DO DIA -- 2026-11-13
+Assunto: Banco do Brasil: lucro despenca 66,5% no 3T26 e banco corta pela metade a previsao de 2026 -- o calote do cliente do agro chegou ao balanco
+Score final: 31/35 (Frescor 4/5 | Relevancia do protagonista 5/5 | Gravidade 5/5 | Polemica adjacente 4/5 | Volume de cobertura 5/5 | Clareza do angulo 4/5 | Identificacao com audiencia 4/5)
+
+Fato central verificado:
+O Banco do Brasil divulgou em 11/11/2026 lucro liquido ajustado de R$ 1,27 bilhao no 3o trimestre de 2026 -- queda de 66,5% sobre o 3T25 e de 67,5% sobre o 2T26 (R$ 3,9 bi). O banco cortou a projecao de lucro ajustado de 2026 de R$ 18-22 bi para R$ 9-11 bi (pela metade), elevou a projecao de custo do credito do ano de R$ 65-70 bi para R$ 80-83 bi e reduziu o payout de 30% para 25% (minimo obrigatorio), cancelando os dividendos intermediarios previstos para novembro. Custo do credito no trimestre: R$ 21,2 bi (+18,4% em um ano). Motivo declarado pelo banco: continuidade da alta da inadimplencia em parte da carteira do agronegocio + reforcos pontuais de provisao em empresas do segmento atacado.
+Fact-check: numeros centrais (R$ 1,27 bi, -66,5%, guidance R$ 9-11 bi, custo do credito R$ 21,2 bi, payout 25%) confirmados via busca em varios veiculos independentes (Agencia Brasil, ISTOE, InfoMoney, Seu Dinheiro, AGEBB). Bateram com o rascunho. Observacao: um veiculo isolado citou queda de 65,4%; a grande maioria (incluindo Agencia Brasil) traz 66,5% -- usar 66,5%. WebFetch bloqueado nesta sessao (cnnbrasil.com.br e agenciabrasil.ebc.com.br sem resolucao de rede); verificacao feita por trechos de busca.
+
+Cadeia causal (o que levou a isso):
+1. Juro alto encarece o credito rural: segundo estudo do Cepea/Esalq-USP, operacoes atreladas a Selic concentram 77% do saldo em atraso no credito rural, com inadimplencia de 17,6%, contra 3,8% nas linhas de juro controlado. O problema principal e o CUSTO da divida, nao o tamanho dela.
+->
+2. Ao mesmo tempo, a margem do produtor apertou: precos de soja e milho recuaram dos picos, fertilizante continua caro (relacao de troca piorou de 21,9 para 22,7 sacas de soja por tonelada de fertilizante) e houve perdas climaticas em varias regioes (seca no Centro-Oeste, excesso de chuva no Sul).
+->
+3. Receita menor + parcela mais cara = atraso. A inadimplencia acima de 90 dias da carteira agro do BB foi de 4,84% (set/25) para 6,27% (2T26) e 6,92% (set/26). No custeio agropecuario chegou a 12,52%. Atrasos acima de 30 dias: 10,10%.
+->
+4. Concentracao: o BB e o maior financiador do agro no pais -- carteira agro de R$ 403,6 bi. Quando o setor inteiro aperta ao mesmo tempo, o banco nao tem como "diluir" o risco. Os casos se concentram em produtores medios e grandes do Centro-Oeste (soja, milho, pecuaria) -- ou seja, nao e o pequeno, e o cliente grande.
+->
+5. Comportamento do devedor: a diretoria disse que parte dos produtores deixou de pagar esperando condicoes melhores de renegociacao, e que a adesao as renegociacoes ficou abaixo do esperado. Credor que sinaliza que vai renegociar acaba incentivando atraso.
+->
+6. Contabilidade: atraso vira provisao (o banco reserva dinheiro pra perda provavel antes mesmo de ela se confirmar) -> custo do credito sobe -> lucro cai 66,5% -> guidance cortado pela metade -> dividendo reduzido ao minimo -> acao cai mais de 10% no pregao.
+
+Por que esta repercutindo agora:
+- Gravidade (5/5) e Relevancia do protagonista (5/5): um dos maiores bancos do pais perdendo dois tercos do lucro e admitindo que errou a propria projecao pela metade.
+- Volume de cobertura (5/5): balanco divulgado 11/11, repercussao em massa em 12-13/11 (todos os grandes veiculos de economia, alem de agencias de noticias e portais regionais do agro).
+- Resultado muito abaixo do esperado: consenso de analistas (LSEG) projetava cerca de R$ 3,47 bi; veio R$ 1,27 bi. Acao BBAS3 caiu mais de 10% no dia.
+- Identificacao (4/5): inadimplencia de cliente e juro alto sao dores diarias do dono de PME.
+
+Angulo de gestao sugerido:
+"O lucro do BB nao sumiu por falta de venda -- sumiu porque o cliente nao pagou." A licao pro dono de empresa:
+(a) Concentracao de carteira e risco: o BB apostou pesado num setor; quando o setor travou, nao havia pra onde correr. Na PME: se 1 cliente ou 1 setor responde por boa parte do faturamento, um problema la vira o seu problema.
+(b) Venda a prazo so vira lucro quando o dinheiro entra: faturamento nao e caixa. Tenha politica de credito (limite por cliente, analise antes de vender a prazo) e acompanhe aging de recebiveis (30/60/90 dias).
+(c) Provisione antes de doer: o banco e obrigado a reservar dinheiro pra perda provavel. A PME deveria fazer o mesmo -- separar uma provisao para devedores duvidosos e nao contar no caixa com o que esta atrasado.
+(d) Juro alto chega no seu caixa por tabela: mesmo que voce nao tenha divida, seu cliente endividado atrasa o seu boleto. Monitore a saude financeira dos maiores clientes.
+(e) Sinalizar renegociacao facil incentiva atraso: ao renegociar, defina regras claras e contrapartidas; cliente que percebe que atrasar compensa, atrasa.
+
+Dados de apoio:
+- Lucro ajustado 3T26 R$ 1,27 bi (-66,5% a/a; -67,5% t/t); guidance 2026 de R$ 18-22 bi para R$ 9-11 bi; custo do credito 2026 de R$ 65-70 bi para R$ 80-83 bi; payout de 30% para 25% -- Agencia Brasil: https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lucro-do-bb-cai-665-no-3o-trimestre-com-inadimplencia-do-agro ; AGEBB: https://www.agebb.com.br/bb-corta-pela-metade-previsao-de-lucro-e-reduz-dividendos-com-inadimplencia-no-agro/
+- Custo do credito no trimestre R$ 21,2 bi (+18,4% a/a) -- Lets Money: https://www.letsmoney.com.br/credito/bb-lucro-ajustado-terceiro-trimestre-2026/
+- Inadimplencia 90+ agro BB: 6,92% (set/26) vs 6,27% (2T26) e 4,84% (set/25); carteira agro R$ 403,6 bi; atrasos 30+ em 10,10%; inadimplencia 90+ total do banco 6,08% (vs 4,51% em set/25) -- Seu Dinheiro: https://www.seudinheiro.com/2026/empresas/agronegocio-esta-cobrando-o-preco-no-banco-do-brasil-inadimplencia-dispara-lucro-encolhe-e-acionistas-ficam-sem-uma-parte-dos-dividendos-miql/ ; InfoMoney: https://www.infomoney.com.br/mercados/bbas3-acoes-do-banco-do-brasil-desabam-10-com-resultado-abaixo-em-todas-as-frentes/
+- Inadimplencia 90+ no custeio agropecuario: 12,52% -- EBC (analise de mercado): https://www.ebc.com/pt/forex/banco-do-brasil-bbas3-queda-balanco-3t26-inadimplencia-agro-dividendos
+- Concentracao em produtores medios/grandes do Centro-Oeste; adesao a renegociacao abaixo do esperado -- Jovem Pan: https://jovempan.com.br/economia/banco-do-brasil-aponta-recusa-de-produtores-para-renegociar-dividas-do-agro/ ; Forbes Brasil: https://forbes.com.br/forbes-money/2026/11/banco-do-brasil-nao-contava-com-persistencia-do-risco-moral-no-agro-diz-ceo/
+- Consenso LSEG ~R$ 3,47 bi; acoes caindo mais de 11% apos o balanco -- ISTOE: https://istoe.com.br/acoes-banco-do-brasil-despencam-lucro-2026
+- Credito atrelado a Selic: 77% do saldo em atraso, inadimplencia 17,6% vs 3,8% no juro controlado (Cepea/Esalq-USP) -- Itatiaia: https://www.itatiaia.com.br/agro/inadimplencia-recorde-no-agro-vem-do-custo-e-nao-do-tamanho-da-divida-aponta-cepea/
+- Inadimplencia de produtores PF 8,8% no 1T26, Centro-Oeste 10,1% (Serasa Experian) -- Canal Rural: https://www.canalrural.com.br/radar/inadimplencia-no-agro-sobe-para-88-no-1o-trimestre-de-2026-diz-serasa-experian/
+- Relacao de troca soja/fertilizante piorou de 21,9 para 22,7 sacas por tonelada -- AgFeed: https://agfeed.com.br/economia/inadimplencia-pode-subir-mais-em-2026-alerta-economista
+
+Ressalva/limite:
+- >> GUARDRAIL POLITICO (Polemica adjacente pesou 4/5): o BB e banco de controle estatal e o tema encosta em debate sobre juros/Banco Central, politica agricola e programas de renegociacao de dividas rurais, em contexto eleitoral. O video NAO comenta governo, gestao politica do banco, partidos, figuras politicas, medidas provisorias como acerto/erro, nem toma posicao sobre uso de banco publico ou sobre a politica de juros. Mencionar juros e renegociacao apenas como FATO OPERACIONAL (custo da divida, comportamento do devedor). Angulo estritamente: risco de credito, concentracao, provisao e caixa.
+- "Risco moral" e expressao usada pela propria diretoria do banco; se usar, atribuir a fonte e tratar como comportamento de devedor, sem generalizar ou culpar "o agro" como setor.
+- Nada de recomendacao de investimento: nao dizer se e hora de comprar/vender BBAS3; a queda da acao entra so como consequencia do resultado.
+- Numeros de inadimplencia de fontes diferentes (BB, Serasa, Cepea/BC) usam metodologias distintas -- nao comparar diretamente na tela.
+- Divergencia menor: um veiculo citou -65,4% no lucro; usar -66,5% (maioria das fontes, incluindo Agencia Brasil).
+- Fact-check feito por WebSearch (WebFetch bloqueado na rede desta sessao para cnnbrasil.com.br e agenciabrasil.ebc.com.br). Antes de gravar, vale conferir o release no RI do BB (ri.bb.com.br).
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico -- "Um dos maiores bancos do Brasil perdeu dois tercos do lucro em um trimestre. Nao foi falta de cliente. Foi cliente que nao pagou."
+- Contexto/causa raiz: BB e o maior financiador do agro (carteira de R$ 403,6 bi); juro alto + preco de soja/milho menor + insumo caro + clima = produtor com receita menor e parcela mais cara.
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo): inadimplencia agro 4,84% -> 6,92% em um ano -> provisao -> custo do credito R$ 21,2 bi no tri -> lucro -66,5% -> guidance cortado pela metade -> dividendo no minimo. Mostrar o "efeito domino" e o detalhe de que o atraso veio de produtores medios/grandes que esperavam renegociar.
+- Licao de gestao (a virada): "Isso acontece na sua empresa em escala menor": concentracao de clientes, faturamento x caixa, politica de credito, provisao para devedor duvidoso, regras claras de renegociacao.
+- Fechamento + CTA: pergunta pro publico -- "Quanto do seu faturamento depende dos seus 3 maiores clientes?" + convite a seguir/salvar.
+
+Fonte(s):
+- Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lucro-do-bb-cai-665-no-3o-trimestre-com-inadimplencia-do-agro
+- CNN Brasil (fonte do rascunho) -- https://www.cnnbrasil.com.br/economia/money/negocios/banco-do-brasil-encerrou-o-3o-trimestre-de-2026-com-lucro-liquido-ajustado-de-r-127-bilhao/
+- InfoMoney -- https://www.infomoney.com.br/mercados/bbas3-acoes-do-banco-do-brasil-desabam-10-com-resultado-abaixo-em-todas-as-frentes/
+- Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/agronegocio-esta-cobrando-o-preco-no-banco-do-brasil-inadimplencia-dispara-lucro-encolhe-e-acionistas-ficam-sem-uma-parte-dos-dividendos-miql/
+- ISTOE -- https://istoe.com.br/acoes-banco-do-brasil-despencam-lucro-2026
+- AGEBB -- https://www.agebb.com.br/bb-corta-pela-metade-previsao-de-lucro-e-reduz-dividendos-com-inadimplencia-no-agro/
+- Itatiaia (Cepea) -- https://www.itatiaia.com.br/agro/inadimplencia-recorde-no-agro-vem-do-custo-e-nao-do-tamanho-da-divida-aponta-cepea/
+
+Runners-up do dia (registro/transparencia):
+- Dolar no maior nivel de fechamento desde jul/2025 -- 26/35
+- Qantas vai cortar 850 vagas e terceirizar trabalho para a India -- 24/35
+- Inonibras (Pirapora-MG) pode fechar fabrica de 1983; 250 ja demitidos -- 22/35
