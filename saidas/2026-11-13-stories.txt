@@ -1,0 +1,37 @@
+ROTEIRO 1 -- Sua empresa já tem perfil no ChatGPT
+"No dia 10, a OpenAI abriu em teste o Businesses in ChatGPT: a empresa reivindica o próprio perfil dentro do ChatGPT, atualiza dados e sobe catálogo com preço e disponibilidade. 🟡`O detalhe: o ChatGPT pode mostrar o perfil da sua empresa mesmo que você nunca o tenha reivindicado, com informação de outras fontes.`🟡 Reivindicar é grátis por enquanto e não garante recomendação; o agente de vendas começa só nos Estados Unidos, e a OpenAI vende anúncio lá dentro. 🟡`Se a IA virou vitrine, quem não cuida do cadastro deixa outro contar a história da marca.`🟡 Você já perguntou ao ChatGPT o que ele sabe da sua empresa?"
+Fonte: OpenAI -- https://openai.com/index/introducing-businesses-chatgpt/
+
+ROTEIRO 2 -- Lucro recorde, calote junto
+"O Nubank lucrou 1,09 bilhão de dólares no terceiro trimestre, recorde, alta de 31% em um ano, segundo o balanço divulgado no dia 12. Mas o calote cresceu junto: a inadimplência acima de 90 dias foi a 7,3%, contra 6,7% um ano antes. 🟡`As provisões para perdas de crédito subiram 73%, mais que o dobro do ritmo do lucro.`🟡 Isso é case de gestão, não dica de ação. 🟡`Crescer vendendo a prazo cobra a conta depois, e quem não provisiona o calote descobre tarde.`🟡 Quanto da sua venda hoje é a prazo?"
+Fonte: Exame -- https://exame.com/invest/mercados/nubank-bate-recorde-de-lucro-com-143-milhoes-de-clientes-mas-calote-tambem-sobe/
+
+ROTEIRO 3 -- A régua errada do reajuste
+"O IBGE divulgou no dia 12: a inflação de outubro foi de só 0,14%, bem abaixo dos 0,82% de setembro. Mas em 12 meses subiu para 4,63%, acima do teto de 4,5% pelo segundo mês seguido. E alimentação e bebidas subiram 1,04% no mês; 🟡`sem os alimentos, o IPCA de outubro teria caído 0,11%, segundo o IBGE.`🟡 🟡`Quem reajusta preço olhando só o número do mês usa a régua errada: o custo acumulado continua acima do teto.`🟡 Qual índice você usa no reajuste dos seus contratos?"
+Fonte: IBGE -- https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48568-ipca-fica-em-0-14-em-outubro
+
+ROTEIRO 4 -- Estressado, mas gastando
+"Ontem eu mostrei a BCG: só 54% acreditam no desconto da Black Friday. Desconfiar da promoção não é deixar de gastar, e a EY-Parthenon mostra isso: projeta alta de 5,2% nas vendas de fim de ano nos Estados Unidos, a maior desde 2021. 🟡`42% dos consumidores estão mais estressados para pagar presentes do que no ano passado, mas cerca de 62% pretendem gastar igual ou mais.`🟡 É previsão de consultoria, vale lembrar. 🟡`Pesquisa de humor não paga boleto: quem cortou estoque por pessimismo pode entregar a venda ao concorrente.`🟡 Seu estoque de dezembro foi planejado pelo humor ou pelo dado?"
+Fonte: EY -- https://www.ey.com/en_us/newsroom/2026/10/ey-parthenon-consumer-sentiment-survey-finds-that-holiday-spending-remains-resilient-despite-affordability-pressures
+
+ROTEIRO 5 -- A holding que vira ponto fraco
+"Montou holding para proteger o patrimônio? A Receita quer saber quem está no fim da cadeia. Pelo e-BEF, formulário criado pela Instrução Normativa 2.290, empresas com sócio pessoa jurídica no quadro, como holdings, têm até 31 de dezembro de 2026 para declarar o beneficiário final; limitadas maiores só com sócios pessoa física entram em 2027 ou 2028. 🟡`Quem não declarar pode ter o CNPJ suspenso e levar multa por atraso, segundo o gov.br.`🟡 Escritórios divergem sobre quem entra já, então confira com seu contador. 🟡`A estrutura feita para blindar pode virar o ponto fraco.`🟡 Sua holding já entregou?"
+Fonte: Gov.br -- https://www.gov.br/pt-br/servicos/informar-beneficiario-final-a-receita-federal
+
+ROTEIRO 6 -- Sem plano B para o fundador
+"A Nvidia, a empresa mais valiosa do boom da IA, ficou sem CEO de um dia para o outro. No dia 12, comunicou que o fundador Jensen Huang deixou o comando e o conselho com efeito imediato, segundo a imprensa após investigação interna; a diretora financeira Colette Kress virou CEO interina enquanto se busca um sucessor. 🟡`A ação chegou a cair mais de 13% no início do pregão, e em janeiro a Bloomberg já apontava que a empresa não tinha sucessor claro.`🟡 🟡`Se até a Nvidia foi pega sem plano B para o fundador, a pergunta vale para qualquer empresa.`🟡 Quanto tempo a sua funciona se você sair amanhã?"
+Fonte: TechCrunch -- https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/
+
+ROTEIRO 7 -- Quebrou na mesa do aluguel
+"A David Jones, rede de lojas de departamento fundada em 1838 na Austrália, quebrou na mesa do aluguel, não na vitrine. Entrou em administração no dia 5, depois que a negociação com os donos dos imóveis fracassou, e 🟡`no dia 11 os administradores anunciaram o fechamento de 19 lojas, quase metade da rede, até o fim de dezembro.`🟡 São mais de 6 mil funcionários, e o negócio está à venda. 🟡`Quando o custo do ponto passa do que a loja vende, fechar metade para salvar a outra metade é a escolha que sobra.`🟡 Quando foi a última vez que você renegociou o seu aluguel?"
+Fonte: ABC News Australia -- https://www.abc.net.au/news/2026-11-11/david-jones-to-close-stores/107372854
+
+ROTEIRO 8 -- Vender a joia para pagar a dívida
+"A CSN acertou a venda da CSN Cimentos para a chinesa Huaxin por um valor de empresa de 12,7 bilhões de reais, contando a dívida; pelas ações, cerca de 9,03 bilhões. A cimenteira tem cerca de 21% do mercado brasileiro, e o dinheiro vai para reduzir a dívida do grupo. 🟡`A CSN aceitou menos do que pedia no início para desalavancar.`🟡 O negócio ainda depende do Cade e de autoridades chinesas. 🟡`Com juro alto, caixa vale mais que ativo bonito no balanço.`🟡 Que ativo seu vale mais vendido do que parado?"
+Fonte: Bloomberg Línea -- https://www.bloomberglinea.com.br/negocios/csn-acerta-venda-da-csn-cimentos-para-huaxin-por-r-127-bilhoes/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] "Você já perguntou ao ChatGPT o que ele sabe da sua empresa?" Sim / Ainda não
+2. [Pergunta/Participacao, Roteiro 6] Caixinha: "Se você ficasse 30 dias fora a partir de amanhã, quem tocaria a sua empresa? Me conta como está seu plano B."
+3. [Virar Historia, Roteiro 2 -> Estilo Comparativo] Pôr lado a lado o lucro subindo 31% e as provisões para calote subindo 73% deixa visível, num olhar, que o custo do crédito cresce mais que o ganho.
