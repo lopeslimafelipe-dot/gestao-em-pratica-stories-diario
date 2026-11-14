@@ -1,0 +1,65 @@
+RADAR DE REPERCUSSAO -- RASCUNHO 2026-11-14 (sabado)
+
+Observacoes da pesquisa:
+- WebFetch bloqueado pela rede nesta sessao (mercadohoje.uai.com.br sem resolucao); fatos conferidos via trechos de busca em varios veiculos concordantes. Fonte primaria (RI/CVM) NAO lida diretamente -- conferir antes de gravar.
+- EXCLUIDO por repeticao (pipeline proprio, ultimos 10 dias): Nvidia/Jensen Huang -- a renuncia de Huang foi confirmada em 12/11 (acao chegou a cair 14% na abertura, fechou -4,3%; mais -4% na sexta) e seria forte candidato, mas a pauta de 12/11 ja tratou do tema. Tambem evitados: Aeris, Selic/Copom, Canva, Disney, GPA, Casas Bahia, Magalu, Banco do Brasil.
+
+CANDIDATO 1 -- Braskem: prejuizo de R$ 1,07 bi no 3T26 e corrida contra o prazo dos credores (divida de ~US$ 11 bi)
+Fato: Balanco divulgado na noite de 12/11/2026. Prejuizo liquido atribuivel aos acionistas de R$ 1,068 bi no 3T26 (vs prejuizo de R$ 26 mi no 3T25; lucro de R$ 3,325 bi no 2T26). Consolidado: R$ 1,195 bi. A operacao melhorou: Ebitda recorrente de R$ 1,961 bi (+140% a/a); receita liquida de R$ 19,6 bi. O que derrubou o resultado foi o financeiro: resultado financeiro negativo em R$ 1,605 bi (vs R$ 905 mi um ano antes). Alavancagem de 6,36x divida liquida ajustada/Ebitda. A empresa esta em recuperacao extrajudicial (pedido em agosto, 2a Vara de Falencias de SP) e tem ate ~22-23/11 (fontes divergem na data) para apresentar plano com adesao de credores que somem mais de 50% dos creditos abrangidos (~US$ 10,9 bi sem garantia). Propostas divergem: Braskem oferece aporte de ate US$ 1,7 bi em etapas; credores pedem US$ 1,85 bi no fechamento + conversao de US$ 1,85 bi de divida em acoes. Tentativa de acordo em Nova York fracassou na semana anterior (BPMoney/fontes). Empresa deixou de pagar debentures de R$ 1,2 bi citando a recuperacao (1 fonte -- conferir).
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/braskem-tem-prejuizo-liquido-de-r-1068-bi-no-3o-trimestre/
+Fontes adicionais: Suno https://www.suno.com.br/noticias/braskem-tem-prejuizo-liquido-1068-bi-no-3o-trimestre2026-go/ | SpaceMoney https://www.spacemoney.com.br/investimentos/acoes/braskem-acordo-credores-reestruturacao-divida | BPMoney https://bpmoney.com.br/negocios/empresas/braskem-acordo-credores-reestruturacao-quarta-feira/ | Investing.com https://br.investing.com/news/company-news/credores-e-acionistas-da-braskem-se-aproximam-de-acordo-para-reestruturar-divida-de-us-11-bi-2101835 | ADVFN https://br.advfn.com/jornal/2026/11/braskem-tem-prejuizo-de-r-1-06-bilhao-no-3t26-e-mantem-negociacoes-para-reestruturar-divida
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+Angulo sugerido: a operacao melhorou (Ebitda mais que dobrou), mas o custo da divida comeu tudo e mais um pouco -- "melhorar a operacao nao salva quem esta alavancado demais". Licao pra PME: alavancagem tem limite; divida contraida no ciclo bom vira armadilha no ciclo ruim; negociar com credor antes do prazo estourar.
+GUARDRAIL: o fator 'Polemica adjacente' pesa (Petrobras e acionista relevante; juros altos no pais; historico Novonor/Maceio). O roteiro NAO comenta governo, Petrobras como politica estatal, nem o caso Maceio/Odebrecht de forma politica -- angulo estritamente de gestao financeira (divida x operacao).
+
+CANDIDATO 2 -- Nubank: lucro recorde de US$ 1,09 bi no 3T26, mas inadimplencia sobe
+Fato: Divulgado em 12/11/2026. Lucro liquido de US$ 1,091 bi (+31% a/a, cambio neutro), segundo trimestre seguido acima de US$ 1 bi. Carteira de credito de US$ 41,6 bi (+33% a/a). Inadimplencia acima de 90 dias subiu para 7,3% (6,9% no 2T26). 143 mi de clientes, ROE de 32%.
+Fonte: Mercado&Consumo -- https://mercadoeconsumo.com.br/13/11/2026/mc-capital/lucro-liquido-do-nubank-sobe-31-no-3t26-e-atinge-recorde-de-us-1091-bilhao/
+Fonte adicional: InfoMoney https://www.infomoney.com.br/mercados/nubank-roxo34-resultado-terceiro-trimestre-2026/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 26/35
+Status: runner-up
+
+CANDIDATO 3 -- Pacote de ajuste fiscal de ate R$ 80 bi para 2027 (corte de ~10% em beneficios fiscais)
+Fato: Noticiado em 11/11/2026: governo e Congresso negociam medidas de R$ 70-80 bi em 2027 (~0,5% do PIB), com trajetoria ate 1,75% do PIB em 2030; uma das possibilidades e reduzir em 10% os beneficios fiscais (~R$ 25 bi). Economistas criticam alcance.
+Fonte: Times Brasil -- https://timesbrasil.com.br/brasil/governo-negocia-ajuste-fiscal-de-ate-r-80-bilhoes-com-o-congresso-para-2027/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 3/5
+TOTAL: 24/35
+Status: runner-up (tema essencialmente politico/em negociacao -- dificil manter o guardrail; medidas ainda nao definidas)
+
+CANDIDATO 4 -- Grupo Mateus: lucro cai 36% no 3T26 depois de fechar 28 lojas e cortar 6,6 mil vagas
+Fato: Divulgado em 12/11/2026. Lucro liquido de R$ 322,4 mi (queda de 36,1% excluindo efeitos extraordinarios do 3T25; -61,7% na comparacao contabil). Receita de R$ 10,7 bi (-0,4%); Ebitda R$ 767,7 mi (-9,5%); vendas mesmas lojas -4,7% (melhora de 3,3 p.p. vs 2T). Contexto: em 2025-1T26 o grupo fechou 28 lojas e cortou 6.673 vagas (quadro de 47,9 mil para 41,2 mil).
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/grupo-mateus-gmat3-resultados-terceiro-trimestre-2026/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 23/35
+Status: runner-up
