@@ -1,0 +1,67 @@
+PAUTA DO DIA -- 2026-11-14
+Assunto: Braskem: a operacao melhorou, mas a divida comeu tudo -- prejuizo de R$ 1,07 bi no 3T26 e corrida contra o prazo dos credores
+Score final: 29/35 (Frescor 4/5 | Relevancia do protagonista 4/5 | Gravidade 5/5 | Polemica adjacente 3/5 | Volume de cobertura 5/5 | Clareza do angulo 4/5 | Identificacao com audiencia 4/5)
+
+Fato central verificado:
+Balanco do 3T26 divulgado em 12/11/2026. A Braskem teve prejuizo liquido atribuivel aos acionistas de R$ 1,068 bilhao, contra prejuizo de R$ 26 milhoes no 3T25 (no 2T26 havia lucrado R$ 3,3 bi). O curioso: a operacao MELHOROU no ano -- Ebitda recorrente de R$ 1,961 bilhao, alta de 140% sobre o 3T25. O que virou o resultado foi o financeiro: resultado financeiro liquido negativo de R$ 1,605 bilhao (vs -R$ 905 milhoes um ano antes). Alavancagem de 6,36x (divida liquida ajustada / Ebitda), com divida liquida ajustada de US$ 9,9 bilhoes. A empresa esta em recuperacao extrajudicial (pedido em 24/08/2026, processamento deferido em 28/08) e tem 90 dias a partir do protocolo -- ate ~22-23/11 -- para obter adesao de credores que somem mais de 50% dos creditos abrangidos (~US$ 10,9 bi em dividas sem garantia). No protocolo, tinha 39,6% de adesao.
+Confirmado em multiplos veiculos via busca (WebFetch bloqueado nesta sessao; release oficial/RI nao lido diretamente):
+- SpaceMoney -- https://www.spacemoney.com.br/investimentos/braskem-perda-3t26-recuperacao-extrajudicial
+- Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/braskem-tem-prejuizo-de-r-12-bilhao-no-3o-trimestre/
+- Visno Invest -- https://visnoinvest.com.br/news/16515/braskem-brkm5-registra-prejuizo-de-r-11-bi-no-3t26
+- Gazeta Mercantil -- https://gazetamercantil.com/braskem-brkm5-prejuizo-terceiro-trimestre-2026
+- InfoMoney (fonte do rascunho) -- https://www.infomoney.com.br/mercados/braskem-tem-prejuizo-liquido-de-r-1068-bi-no-3o-trimestre/
+
+Cadeia causal (o que levou a isso):
+1. Ciclo de alta: a petroquimica e um setor ciclico; a empresa carregou divida grande, boa parte em dolar e concentrada em bondholders (titulos vendidos a investidores estrangeiros -- ~75% da divida, segundo a cobertura).
+2. Virada do ciclo: entre 2024 e 2026 os spreads petroquimicos globais (preco da resina menos custo da materia-prima) encolheram forte, pressionados pelo excesso de capacidade instalada na China e demanda fraca na Europa. Ciclo de baixa prolongado.
+3. Geracao de caixa cai, divida fica: no fim de 2025, a relacao divida/geracao de caixa chegou a 14,7x. A divida nao encolhe quando a margem encolhe.
+4. Sem folego para esperar o ciclo virar: em agosto de 2026 a empresa pede recuperacao extrajudicial para renegociar ~US$ 10,9 bi.
+5. Hoje: mesmo com a operacao se recuperando (Ebitda +140% a/a), o custo financeiro (R$ 1,6 bi no trimestre) supera o que a operacao gera e o resultado fica negativo. E o prazo com os credores vence em dias.
+
+Por que esta repercutindo agora:
+- Gravidade (5/5) e volume de cobertura (5/5): balanco saiu em 12/11 e coincide com a reta final do prazo de ~22-23/11 para o acordo com credores; uma rodada de negociacao em Nova York terminou sem acordo no inicio de novembro, segundo a cobertura.
+- Paradoxo de facil entendimento (clareza 4/5): "operacao melhora, empresa da prejuizo" -- contraintuitivo e explicavel em 1 minuto.
+- Protagonista (4/5): uma das maiores petroquimicas das Americas, nome conhecido do publico.
+
+Angulo de gestao sugerido:
+"Melhorar a operacao nao salva quem esta alavancado demais." Licoes praticas pro dono de PME:
+- Divida contratada no ciclo bom vira armadilha no ciclo ruim -- dimensione a divida pelo pior ano provavel, nao pelo melhor.
+- Olhe a relacao divida/geracao de caixa, nao so o faturamento ou a margem operacional. Lucro operacional bom com juros maiores ainda e prejuizo.
+- Descasamento de moeda/prazo: divida em uma moeda/prazo que nao conversa com o seu caixa aumenta o risco.
+- Negocie com o credor ANTES de o prazo estourar -- quem chega na mesa sem folego negocia em desvantagem.
+
+Dados de apoio:
+- Ebitda recorrente caiu 63% contra o 2T26; margem Ebitda recorrente de 9,5% no 3T26 vs 24,2% no 2T26 (oscilacao forte de um trimestre pro outro -- mostra a volatilidade do setor). Fontes: BossaNews https://br.bossanews.com/braskem-registra-prejuizo-de-r-107-bilhao-no-terceiro-trimestre/ | Visno Invest (URL acima).
+- 4T25: prejuizo de R$ 10,284 bi, principalmente por baixa de ativos fiscais diferidos. Fonte: Folha PE https://www.folhape.com.br/economia/braskem-prejuizo-liquido-e-de-r-10284-bilhoes-no-4o-trimestre/476660/
+- Divida liquida de US$ 7,5 bi no fim de 2025; divida/geracao de caixa em 14,7x; ~75% da divida com bondholders; spreads globais encolheram de 2024 a 2026 por excesso de oferta asiatica. Fontes: Times Brasil https://timesbrasil.com.br/empresas-e-negocios/entenda-cinco-pontos-da-crise-da-braskem/ | Forbes https://forbes.com.br/forbes-money/2026/08/braskem-recuperacao-extrajudicial-quem-sao-os-donos/
+- Saque de US$ 1 bi da linha de credito stand-by em outubro de 2025 (reforco de caixa, sinal antecipado de aperto). Fonte: Forbes https://forbes.com.br/forbes-money/2025/10/braskem-retira-us-1-bilhao-da-linha-de-credito-standby-para-reforcar-a-liquidez/
+- Recuperacao extrajudicial: pedido em 24/08/2026, 39,6% de adesao no protocolo, precisa de >50% em 90 dias; empresa segue operando e mantem a gestao. Fontes: Cenario Energia https://cenarioenergia.com.br/2026/08/24/braskem-aprova-recuperacao-extrajudicial-de-r-56-bi-e-busca-adesao-de-credores/ | Forbes (URL acima) | SBT News https://sbtnews.sbt.com.br/noticia/economia/braskem-recebe-aval-da-justica-para-recuperacao-extrajudicial
+
+Ressalva/limite:
+- GUARDRAIL POLITICO: o fator 'Polemica adjacente' pesou (3/5) -- um dos acionistas controladores e estatal, ha o debate sobre juros no pais e o historico do caso de Alagoas. O video NAO comenta governo, politica de estatais, partidos, figuras politicas nem o caso de Alagoas de forma politica. Se citar acionistas, apenas como "acionistas controladores" no contexto de aporte de capital. Angulo estritamente de gestao financeira: divida x operacao.
+- Numeros das propostas na mesa (valor de aporte dos acionistas, quanto de divida vira acao) DIVERGEM entre veiculos e mudaram ao longo das negociacoes (ex.: US$ 1,7 bi -> US$ 1,4 bi segundo uma fonte; credores pedindo US$ 1,85 bi + conversao de US$ 2,3 a 3,8 bi). NAO cravar esses valores no video -- dizer apenas que "acionistas e credores ainda discutem quanto dinheiro novo entra e quanto da divida vira participacao".
+- Data-limite exata varia entre 22 e 23/11 nas fontes -- usar "ate o fim de novembro" ou "em poucos dias".
+- NAO confirmado no fact-check (retirado do briefing): receita liquida de R$ 19,6 bi no 3T26 e o nao pagamento de debentures de R$ 1,2 bi. Nao usar.
+- A Reuters/Brasil 247 grafou o Ebitda como "R$ 382 milhoes" (o valor e US$ 382 mi) -- usar R$ 1,961 bi.
+- Situacao pode mudar ate a gravacao (acordo fechado, prorrogacao ou pedido de recuperacao judicial) -- conferir as manchetes do dia antes de gravar.
+- Nada de recomendacao sobre comprar/vender a acao.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico -- "A Braskem mais que dobrou o Ebitda em um ano. E mesmo assim perdeu R$ 1 bilhao em tres meses."
+- Contexto/causa raiz: setor ciclico + divida enorme em dolar contratada antes da virada; China inundou o mercado e as margens encolheram.
+- Desenvolvimento da cadeia causal: margem cai -> caixa cai -> divida fica -> divida/caixa chega a 14,7x -> recuperacao extrajudicial em agosto -> hoje, R$ 1,6 bi de custo financeiro no trimestre engole a melhora operacional -> prazo com credores vencendo.
+- Licao de gestao (a virada): divida se dimensiona pelo pior ano, nao pelo melhor; acompanhe divida/geracao de caixa; negocie antes de ficar sem folego.
+- Fechamento + CTA: "Quantos meses de juros a sua empresa aguenta se o faturamento cair 30%? Faz essa conta hoje." + CTA do canal.
+
+Fonte(s):
+- SpaceMoney -- https://www.spacemoney.com.br/investimentos/braskem-perda-3t26-recuperacao-extrajudicial
+- Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/braskem-tem-prejuizo-de-r-12-bilhao-no-3o-trimestre/
+- Visno Invest -- https://visnoinvest.com.br/news/16515/braskem-brkm5-registra-prejuizo-de-r-11-bi-no-3t26
+- InfoMoney -- https://www.infomoney.com.br/mercados/braskem-tem-prejuizo-liquido-de-r-1068-bi-no-3o-trimestre/
+- Times Brasil (contexto) -- https://timesbrasil.com.br/empresas-e-negocios/entenda-cinco-pontos-da-crise-da-braskem/
+- Forbes (contexto) -- https://forbes.com.br/forbes-money/2026/08/braskem-recuperacao-extrajudicial-quem-sao-os-donos/
+
+Runners-up do dia (registro/transparencia):
+- Nubank: lucro recorde de US$ 1,09 bi no 3T26, mas inadimplencia sobe -- 26/35
+- Pacote de ajuste fiscal de ate R$ 80 bi para 2027 -- 24/35
+- Grupo Mateus: lucro cai 36% no 3T26 apos fechar 28 lojas e cortar 6,6 mil vagas -- 23/35
