@@ -1,0 +1,62 @@
+PAUTA DO DIA -- 2026-11-15
+Assunto: Recorde de empresas em recuperacao judicial (8.478), e o calote do cliente virou o motivo mais citado
+Score final: 28/35 (Frescor 3/5 | Relevancia do protagonista 3/5 | Gravidade 4/5 | Polemica adjacente 4/5 | Volume de cobertura 4/5 | Clareza do angulo 5/5 | Identificacao com audiencia 5/5)
+
+Fato central verificado:
+Segundo o Monitor RGF-BIZDOC (divulgado por volta de 10 a 12/11/2026), o Brasil tinha 8.478 empresas em recuperacao judicial no fim de setembro de 2026. E recorde da serie, com alta de 21,2% em 12 meses e de 5,4% sobre junho. Entre julho e setembro, 701 empresas entraram no regime e 269 sairam. SP concentra 2.293 casos (27,1% do total). O comercio lidera entre os setores, com 1.737 empresas. Desde 2023 (4.678 empresas), o estoque cresceu 81%.
+Confirmado via WebSearch em varios veiculos concordantes (Conjur, A Tarde, Jornal Portuario, Gazeta Brasil e outros). WebFetch bloqueado pela rede desta sessao, entao o relatorio original da RGF nao foi lido diretamente.
+IMPORTANTE: 8.478 e ESTOQUE (empresas que estavam em RJ no fim de setembro), nao numero de pedidos novos no trimestre. Os pedidos novos ate cairam no trimestre: 299 segundo uma fonte (-12,6%), 432 segundo outra. No video, nunca dizer "8.478 empresas pediram RJ".
+
+Cadeia causal (o que levou a isso):
+1. O credito segue caro. A Selic veio caindo em 2026 (corte para 14,25% em junho), mas continua em nivel restritivo, e o servico da divida pesa para quem esta alavancado.
+2. O cliente tambem esta apertado e atrasa ou nao paga. A inadimplencia de clientes aparece em 55% das peticoes de RJ do 3T26 (eram 45% um ano antes), segundo o Monitor RGF-BIZDOC citado pelo Valor Economico.
+3. O caixa da empresa seca: ela vendeu, entregou, pagou fornecedor e imposto, mas nao recebeu.
+4. Ela cobre o buraco com capital de giro a juro alto ou atrasa o proprio fornecedor. O problema passa adiante (efeito domino).
+5. A divida fica impagavel e vem a RJ. E a RJ nao e garantia de saida: 32,9% dos processos iniciados de 2023 a set/2026 terminaram em falencia.
+
+Por que esta repercutindo agora:
+- Clareza do angulo (5) e Identificacao com audiencia (5): todo dono de PME ja levou calote ou atrasou fornecedor. O mecanismo e intuitivo.
+- Gravidade (4): recorde historico, com cobertura ampla na semana (Volume 4).
+- Polemica adjacente (4): o tema encosta no debate sobre juros e economia. Esse fator pesou no score, mas NAO entra no video (ver ressalva).
+
+Angulo de gestao sugerido:
+"Voce pode quebrar vendendo bem, por causa de quem nao te paga." A licao e gestao de recebiveis e de capital de giro:
+(a) analise de credito antes de vender a prazo, mesmo para cliente antigo;
+(b) concentracao de carteira: quanto do faturamento depende de poucos clientes;
+(c) casar o prazo medio de recebimento com o prazo medio de pagamento (ciclo financeiro);
+(d) monitorar atraso desde o primeiro dia e ter regua de cobranca;
+(e) nao financiar o cliente com dinheiro de banco a juro alto sem saber o custo.
+
+Dados de apoio:
+- Bancos respondem por R$ 5,3 bi (60,1%) dos R$ 13,2 bi devidos em processos de RJ no 3T26. Credores sem garantia real concentram 71,3% do total. Fonte: Monitor RGF-BIZDOC via Valor Economico, repercutido em https://brapi.dev/news/bancos-respondem-por-60-dos-r-13-2-bi-devidos-em-recuperacoes-f45069f4
+- 32,9% dos processos de RJ iniciados entre 2023 e set/2026 resultaram em falencia. Fonte: cobertura do Monitor RGF-BIZDOC, https://jornalportuario.com.br/noticias/numero-de-empresas-em-recuperacao-judicial-aumenta-212-no-3o-tri-e-bate-novo-recorde
+- Desde o 1T23, a incidencia de RJ cresceu 173% entre microempresas e 80% entre pequenas empresas. Fonte: mesma cobertura, conferir na fonte primaria. ATENCAO: e acumulado desde 2023, nao em 12 meses.
+- Agro: 1.416 empresas em RJ em setembro (vs 1.303 em junho). Fonte: https://boca.com.br/agronegocio/recuperacoes-judiciais-no-agro-alcancam-1-416-casos-no-3-trimestre
+- Selic cortada para 14,25% a.a. em 17/06/2026, ainda restritiva. Fonte: https://renovainvest.com.br/?p=102163 ; contexto: https://timesbrasil.com.br/brasil/economia-brasileira/juros-e-selic/selic-queda-credito-caro-recuperacao-judicial-recorde-empresas/
+
+Ressalva/limite:
+- GUARDRAIL POLITICO (Polemica adjacente pesou 4/5): o video NAO comenta governo, politica fiscal, Banco Central como ator politico, partidos ou figuras politicas, e nao toma posicao sobre "de quem e a culpa". Juro alto aparece so como dado de custo de capital que o dono de empresa precisa gerenciar.
+- 8.478 e estoque, nao pedidos novos (ver acima).
+- O dado de 55% de inadimplencia de clientes veio de uma unica cadeia de fonte (Valor Economico via agregador). Conferir na materia original antes de gravar ou citar "segundo levantamento".
+- Nao consegui confirmar nas buscas o numero da industria (1.647) nem a cifra "112 convertidas em falencia". Ficaram fora do briefing. Usar o 32,9% acumulado no lugar.
+- O Monitor RGF-BIZDOC tem metodologia propria. Nao misturar com Serasa (2.466 pedidos em 2025) nem com PreservaCred (14.510 em RJ ou falencia). Sao recortes diferentes.
+- Fonte primaria (relatorio da RGF) nao lida diretamente: WebFetch bloqueado nesta sessao.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: "8.478 empresas no Brasil estao em recuperacao judicial, recorde. E o motivo mais citado nao e vender pouco, e o cliente que nao paga."
+- Contexto/causa raiz: o que e RJ em uma frase; o numero e estoque e cresceu 21% em um ano; credito caro.
+- Desenvolvimento da cadeia causal: calote do cliente -> caixa seca -> capital de giro a juro alto ou atraso ao fornecedor -> efeito domino -> RJ, e 1 em cada 3 vira falencia.
+- Licao de gestao (a virada): "Venda a prazo e emprestimo que voce faz ao cliente." Credito, concentracao de carteira, ciclo financeiro, regua de cobranca.
+- Fechamento + CTA: pergunta pro publico ("qual o seu prazo medio de recebimento hoje?") e convite pra seguir o Entre Gestores.
+
+Fonte(s):
+- Conjur -- https://conjur.com.br/2026-nov-12/recuperacao-judicial-bate-recorde-no-brasil-e-acende-alerta-para-crise-nas-empresas/
+- Jornal Portuario -- https://jornalportuario.com.br/noticias/numero-de-empresas-em-recuperacao-judicial-aumenta-212-no-3o-tri-e-bate-novo-recorde
+- A Tarde -- https://atarde.com.br/economia/crise-nas-empresas-brasil-bate-recorde-com-quase-85-mil-em-recuperacao-judicial-1409185
+- Gazeta Brasil -- https://gazetabrasil.com.br/economia/2026/11/10/brasil-bate-novo-recorde-de-empresas-em-recuperacao-judicial/
+- Contabeis -- https://www.contabeis.com.br/noticias/80789/recuperacoes-judiciais-batem-recorde-e-chegam-a-8-4-mil-empresas/
+- Brapi (repercutindo o Valor Economico) -- https://brapi.dev/news/bancos-respondem-por-60-dos-r-13-2-bi-devidos-em-recuperacoes-f45069f4
+
+Runners-up do dia (registro/transparencia):
+- Americanas vende mais, mas volta ao prejuizo (R$ 352 mi) e a acao cai ~20% -- 27/35
+- Mercedes-Benz congela novos investimentos na Alemanha e avalia fechar fabricas -- 25/35
