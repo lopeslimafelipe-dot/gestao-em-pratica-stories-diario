@@ -1,0 +1,52 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-11-15 (domingo)
+Etapa 1 (pesquisa e pontuacao). Obs.: WebFetch bloqueado pela rede nesta sessao (conjur.com.br nao resolve); fatos conferidos via WebSearch em varios veiculos concordantes. Fonte primaria (release/RI/levantamento original) NAO lida diretamente -- conferir antes de gravar.
+Checagem de repeticao (ultimos 10 dias deste pipeline): Aeris, Selic/Copom, Canva, Disney, GPA, Casas Bahia, Magalu, Nvidia, Banco do Brasil, Braskem. Nenhum candidato abaixo repete empresa. O vencedor e um dado macro (nao uma empresa) -- conversa com Casas Bahia/Braskem pelo tema "reestruturacao", mas o assunto e outro.
+
+CANDIDATO 1 -- Recorde de empresas em recuperacao judicial: 8.478, e o calote do cliente virou a causa nº 1
+Fato: Segundo o Monitor RGF-BIZDOC (divulgado ~10-12/11/2026), o Brasil fechou setembro/2026 com 8.478 empresas em recuperacao judicial -- recorde, +21,2% em 12 meses e +5,4% sobre junho. No 3T26, 701 empresas entraram no regime e 269 sairam (112 delas convertidas em falencia). A inadimplencia de clientes foi citada em 55% das peticoes do 3T26 com justificativa identificavel (eram 45% no 3T25). Comercio lidera (1.737 empresas), depois industria (1.647) e agropecuaria (1.416); SP concentra 2.293 casos (27,1%). Segundo parte da cobertura, a alta entre microempresas foi de 173% (dado de uma fonte so -- conferir). NAO confundir com o levantamento da PreservaCred (14.510 empresas em RJ OU falencia) -- mede outra coisa.
+Fonte: Conjur -- https://conjur.com.br/2026-nov-12/recuperacao-judicial-bate-recorde-no-brasil-e-acende-alerta-para-crise-nas-empresas/
+Tambem: Contabeis -- https://www.contabeis.com.br/noticias/80789/recuperacoes-judiciais-batem-recorde-e-chegam-a-8-4-mil-empresas/ ; A Tarde -- https://atarde.com.br/economia/crise-nas-empresas-brasil-bate-recorde-com-quase-85-mil-em-recuperacao-judicial-1409185 ; Jornal Portuario -- https://jornalportuario.com.br/noticias/numero-de-empresas-em-recuperacao-judicial-aumenta-212-no-3o-tri-e-bate-novo-recorde
+Angulo: efeito domino -- o cliente nao paga, o caixa da empresa seca, ela atrasa o fornecedor, que tambem quebra. Licao de gestao: analise de credito do cliente, concentracao de carteira, prazo de recebimento x prazo de pagamento, capital de giro com juro alto.
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 3/5 (sem marca unica; o protagonista e "a empresa brasileira")
+- Gravidade: 4/5 (recorde historico)
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 5/5
+- Identificacao com audiencia: 5/5
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou (juros altos, desaceleracao, debate fiscal, governo). O roteiro NAO comenta politica, governo, ajuste fiscal ou figuras politicas -- so o mecanismo pratico (juro alto + calote do cliente -> caixa -> RJ) e o que o dono de PME faz com isso.
+
+CANDIDATO 2 -- Americanas vende mais, mas volta ao prejuizo (R$ 352 mi) e acao cai ~20%
+Fato: Balanco do 3T26 (divulgado 11/11, repercussao 12/11): prejuizo de R$ 352 mi, contra lucro de R$ 367 mi no 3T25 (empresa diz que 2025 foi inflado por efeitos tributarios extemporaneos). Receita +~10%, a R$ 2,97 bi; vendas mesmas lojas +7,3%. Ebitda ajustado caiu para R$ 52 mi (vs R$ 558 mi no 3T25). Divida liquida de ~R$ 1,16 bi no fim do trimestre, vs caixa liquido de R$ 488 mi no fim de 2025. A RJ foi encerrada por decisao de 19/10. Acao fechou em queda de ~20% em 12/11.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/americanas-amer3-resultados-terceiro-trimestre-2026/
+Tambem: Exame -- https://exame.com/invest/mercados/alta-nas-vendas-nao-salva-balanco-e-americanas-tem-prejuizo-de-r-352-mi-no-3o-tri/ ; InfoMoney (queda da acao) -- https://www.infomoney.com.br/mercados/americanas-amer3-desaba-quase-20-apos-prejuizo-no-3o-tri/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5 (efeito tributario na base + queda de Ebitda + divida: causas concorrentes)
+- Identificacao com audiencia: 4/5 (vender mais nao e lucrar mais)
+TOTAL: 27/35
+Status: runner-up (obs.: 4o varejista em 10 dias -- Casas Bahia, GPA, Magalu -- saturacao do tema)
+
+CANDIDATO 3 -- Mercedes-Benz congela todos os novos investimentos na Alemanha e avalia fechar fabricas
+Fato: Em 12/11/2026, o diretor de producao Michael Schiebe disse que a diretoria decidiu suspender todos os novos investimentos em unidades alemas, apos ~4 meses sem acordo com sindicato (IG Metall) sobre corte de custos. Segundo a Mercedes, a hora de trabalho na Alemanha custa ate 5x a de fabricas no Leste Europeu. Ate 2 fabricas podem fechar; quais, nao foi informado.
+Fonte: Euronews -- https://www.euronews.com/2026/11/12/mercedes-benz-halts-new-investment-in-german-plants-considers-closures
+Tambem: Irish Times -- https://www.irishtimes.com/business/2026/11/13/mercedes-benz-to-halt-all-future-investments-in-germany/ ; RTE -- https://www.rte.ie/news/business/2026/1113/1599071-mercedes-benz-halts-german-investments/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5 (forte la fora; pouca cobertura no Brasil)
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 25/35
+Status: runner-up
+
+Descartados: Caixa 3T26 (numeros nao confirmados), troca de CEO na Cosan (nao confirmada nas buscas), revisoes de PIB/pessimismo fiscal (angulo puramente macro/politico).
