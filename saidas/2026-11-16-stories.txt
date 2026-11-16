@@ -1,0 +1,37 @@
+ROTEIRO 1 -- O apagão que veio de dentro
+"Na quinta, dia 12, o Microsoft 365 caiu no mundo todo: Outlook, Teams, OneDrive e Copilot ficaram fora do ar por mais de 24 horas, segundo a Forbes e a Al Jazeera. E não foi hacker: 🟡`a própria Microsoft disse que a causa foi uma mudança numa atualização de capacidade da rede dela.`🟡 Na sexta, servidores religados ainda caíam de novo. 🟡`Se até quem tem orçamento quase infinito fica um dia sem e-mail, o risco da sua empresa não é só o hacker, é não ter plano B escrito.`🟡 Se o e-mail cair amanhã, como seu time atende o cliente?"
+Fonte: Forbes -- https://www.forbes.com/sites/kateoflahertyuk/2026/11/13/microsoft-outage-what-happened-and-what-to-do-next/
+
+ROTEIRO 2 -- O cliente do vizinho
+"O Magalu fechou o terceiro trimestre com prejuízo contábil de 10,7 milhões de reais, segundo a Exame. Mas o detalhe está dentro do número: 🟡`as lojas físicas cresceram 10%, enquanto o e-commerce caiu 9,8%.`🟡 E tem contexto: a Casas Bahia pediu recuperação judicial em agosto e fechou 298 lojas; segundo o Itaú BBA, cerca de dois terços delas têm um Magalu a até 400 metros. Case de gestão, não dica de ação. 🟡`Quando o concorrente fecha, ganha quem já está perto e preparado para receber o cliente dele.`🟡 Você está pronto para o cliente do vizinho?"
+Fonte: Exame -- https://exame.com/invest/mercados/magazine-luiza-sobe-ate-17-na-bolsa-o-que-o-mercado-viu-de-bom-no-balanco/
+
+ROTEIRO 3 -- Bateu a previsão, mas não é festa
+"O IBGE divulgou no dia 13: o varejo subiu 0,2% em setembro, quando o mercado esperava queda de 0,2%. Parece boa notícia, mas olha por dentro: 🟡`a média dos últimos três meses é de -0,1%, e os supermercados caíram 0,5% no mês.`🟡 O próprio gerente da pesquisa chamou de estabilidade, não de novo ciclo de crescimento. 🟡`Estabilidade com juro alto não é sinal de festa no Natal; é sinal para não encher o estoque no escuro.`🟡 Seu pedido de dezembro está baseado em quê?"
+Fonte: IBGE -- https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48611-pmcsetembrorelease
+
+ROTEIRO 4 -- O cliente pergunta para a IA, não para você
+"A McKinsey ouviu cerca de 46 mil consumidores em 13 países: 23% já usam IA generativa para tarefas bancárias. 🟡`Desses, 74% usam assistentes gerais, como o ChatGPT, contra 37% que usam o chatbot do próprio banco.`🟡 A consultoria vende projeto de IA para banco, vale lembrar. O estudo é sobre banco, mas a lógica vale para qualquer setor: 🟡`o cliente tira a dúvida com a IA antes de falar com você, fora do seu canal.`🟡 Onde o seu cliente está decidindo a compra hoje?"
+Fonte: McKinsey -- https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/global%20banking%20annual%20review%202026%20part%202/global-banking-annual-review-2026-the-ai-disruption-dividend.pdf
+
+ROTEIRO 5 -- A dívida que não tem desconto
+"Tem FGTS atrasado inscrito em dívida ativa? A PGFN abriu um edital que dá até 70% de desconto para micro e pequena empresa, com o saldo em até 133 parcelas. A adesão é pelo portal Regularize, até 29 de janeiro de 2027. Mas tem um detalhe: 🟡`o FGTS de rescisão, que é do trabalhador, não tem desconto nenhum e vai em no máximo 12 parcelas.`🟡 E quem a PGFN considera com capacidade de pagamento não recebe desconto. 🟡`Quem empurrou a rescisão para financiar o caixa descobre que essa era a dívida mais cara.`🟡 Confere com seu contador."
+Fonte: Fenacon -- https://fenacon.org.br/?p=55875
+
+ROTEIRO 6 -- Vendeu mais, perdeu mais
+"A Jaguar Land Rover vendeu 20% mais no trimestre e mesmo assim perdeu 451 milhões de libras, segundo o resultado divulgado no dia 13. Sem os itens extraordinários, como o programa de demissão voluntária, sobrou lucro antes de impostos de só 6 milhões. 🟡`A empresa cortou a previsão de margem do ano para 2% a 3% e, segundo a imprensa, quer baixar o ponto de equilíbrio para cerca de 300 mil carros por ano.`🟡 🟡`Crescer não paga estrutura que não escala.`🟡 Você sabe qual é o seu ponto de equilíbrio?"
+Fonte: Quartz -- https://qz.com/jaguar-land-rover-profit-forecast-tata-motors-loss-111326
+
+ROTEIRO 7 -- O corte foi no escritório
+"A PVH, dona da Calvin Klein e da Tommy Hilfiger, informou à SEC no dia 12 que vai cortar cerca de 4% dos funcionários no mundo. Mas a conta não é igual para todo mundo: 🟡`o corte cai fora das funções que atendem o cliente e equivale a cerca de 12% do pessoal de escritório.`🟡 Parte começa já, o resto até o início de 2027. 🟡`Quando a margem aperta, a gordura que as grandes procuram está nas camadas, não na ponta.`🟡 Quantos níveis existem entre você e quem atende o cliente?"
+Fonte: SEC (Form 8-K) -- https://www.sec.gov/Archives/edgar/data/0000078239/000121390026118427/ea0311951-8k_pvhcorp.htm
+
+ROTEIRO 8 -- Recorde na receita, queda no lucro
+"A Embraer teve receita recorde para um terceiro trimestre: 2,35 bilhões de dólares, alta de 17%, e carteira de pedidos recorde de 35,7 bilhões. Mesmo assim, o lucro ajustado caiu 15,6%. O motivo: 🟡`a despesa financeira mais que dobrou, puxada principalmente pela marcação a mercado das ações do plano de incentivo de longo prazo, que não sai do caixa.`🟡 🟡`Antes de comemorar ou entrar em pânico com o lucro, descubra qual linha do resultado mexeu nele.`🟡 Você lê só a última linha do seu resultado?"
+Fonte: Investidor10 -- https://investidor10.com.br/noticias/embraer-embj3-lucro-ajustado-cai-15-6-no-3t26-para-r-379-8-milhoes-123795/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 1] "Se o e-mail da sua empresa cair amanhã, seu time tem plano B escrito?" Sim / Não
+2. [Pergunta/Participacao, Roteiro 2] Caixinha: "Um concorrente perto de você já fechou as portas? O que você fez para receber os clientes dele? Me conta."
+3. [Virar Historia, Roteiro 6 -> Estilo Comparativo] Pôr lado a lado a receita subindo 20% e o prejuízo de 451 milhões de libras mostra, num olhar, que crescer não paga estrutura que não escala.
