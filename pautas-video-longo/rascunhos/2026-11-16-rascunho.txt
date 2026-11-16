@@ -1,0 +1,62 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-11-16 (segunda) -- ETAPA 1
+Checagem de nao-repeticao (saidas deste pipeline, 06/11 a 15/11): Selic/Copom, Canva, Disney, GPA, Casas Bahia, Magalu, Nvidia, Banco do Brasil, Braskem, recorde de RJs. Nenhum candidato abaixo repete empresa/assunto.
+Verificacao: por trechos de busca (WebSearch), varios veiculos concordando no fato central. IBC-Br de setembro sai hoje as 9h (BRT) e nao estava publicado na hora da pesquisa.
+
+CANDIDATO 1 -- Apagao global do Microsoft 365: Outlook, Teams e Copilot fora do ar por mais de 24 horas
+Fato: Falha comecou em 12/11/2026 e derrubou Exchange Online/Outlook, Teams, SharePoint, OneDrive e Copilot no mundo todo por mais de 24h (cerca de 30h pelo registro final citado pela imprensa). Pico de quase 100 mil relatos so do Outlook no Downdetector (Reuters). Tentativas de reparo falharam: servidores religados caiam de novo quando os usuarios reconectavam. Microsoft disse estar "profundamente arrependida", descartou ataque hacker e IA -- causa foi uma atualizacao de capacidade da propria rede. Em 14/11 declarou o incidente encerrado (reverteu configuracoes, corrigiu componente de autenticacao/roteamento, adicionou maquinas). Relatorio pos-incidente prometido, ainda nao publicado.
+Fonte: Deadline -- https://deadline.com/2026/11/microsoft-outage-apology-blames-upgrade-1237223202/ ; CNN -- https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk ; Forbes -- https://www.forbes.com/sites/kateoflahertyuk/2026/11/13/microsoft-outage-what-happened-and-what-to-do-next/ ; Bloomberg Linea (BR) -- https://bloomberglinea.com.br/negocios/falha-global-da-microsoft-chega-ao-segundo-dia-e-afeta-empresas-e-governos-no-mundo ; Reuters via WKZO -- https://wkzo.com/2026/11/12/microsoft-365-outlook-down-for-thousands-of-us-users-downdetector-shows/
+Ressalvas: horario de inicio diverge entre veiculos; pico de relatos 97 mil (Reuters) vs 130 mil -- usar "quase 100 mil"; "74 paises" vem de fonte fraca, nao usar; sem numero oficial de prejuizo.
+Score de Repercussao:
+- Frescor: 3/5 (12-14/11; desculpas e fim do incidente entre sexta e sabado)
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5 (debate sobre dependencia de big tech/nuvem e IA, sem carga politica)
+- Volume de cobertura: 5/5
+- Clareza do angulo: 5/5 (causa: um upgrade da propria empresa -> efeito: o mundo sem e-mail -> licao: plano B operacional e dependencia de um unico fornecedor)
+- Identificacao com audiencia: 5/5 (toda PME para quando o e-mail/WhatsApp/ERP cai)
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+
+CANDIDATO 2 -- Dolar fecha a R$ 5,65, maior nivel desde junho de 2025, com duvida sobre o pacote fiscal de 2027
+Fato: Em 13/11/2026 o dolar fechou a R$ 5,65 (+0,05% no dia), acumulando alta de 2,63% na semana (Agencia Brasil; Monitor do Mercado fala em 2,66%), maior patamar desde jun/2025. Pesaram a duvida do mercado sobre se o pacote fiscal de 2027 aprovado no Senado em 12/11 e suficiente (emendas votadas em 17/11) e a perspectiva de juros altos nos EUA.
+Fonte: Metropoles -- https://www.metropoles.com/brasil/dolar-ibovespa-bolsa-13-novembro ; Monitor do Mercado -- https://monitordomercado.com.br/noticias/436293-cambio-dolar-fecha-a-r-565-com-temor-fiscal-e-juros-dos-eua ; Agencia Brasil via Acessa -- https://www.acessa.com/economia/2026/11/344256-dolar-fecha-estavel-a-r-565-mas-sobe-263-na-semana.html
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5 (o dolar e reconhecido por todos, mas nao ha marca/pessoa protagonista)
+- Gravidade: 3/5
+- Polemica adjacente: 5/5 (debate fiscal do governo -- GUARDRAIL: se usado, nao comentar o pacote/governo, so o efeito no custo de importado e insumo)
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5 (varias causas concorrentes: fiscal + Fed)
+- Identificacao com audiencia: 4/5
+TOTAL: 26/35
+Status: runner-up
+
+CANDIDATO 3 -- Embraer: receita recorde no 3T26, mas lucro contabil cai 41% puxado pela despesa financeira
+Fato: Balanco de 10/11/2026: receita de US$ 2,347 bi (+17%), recorde para um 3o trimestre; Ebitda ajustado de R$ 1,63 bi (+27,7%); mesmo assim, lucro ajustado de R$ 379,8 mi (-15,6%) e contabil de R$ 366,7 mi (-41,1%), pressionado por despesas financeiras. Carteira recorde de US$ 35,7 bi; guidance de receita 2026 elevado para US$ 8,4-8,6 bi.
+Fonte: Band -- https://www.band.com.br/economia/embraer-registra-receita-recorde-de-r-12-bilhoes-no-3-trimestre-de-2026 ; Investidor10 -- https://investidor10.com.br/noticias/embraer-embj3-lucro-ajustado-cai-15-6-no-3t26-para-r-379-8-milhoes-123795/ ; Aeroin -- https://aeroin.net/embraer-registra-receita-recorde-de-us-23-bilhoes-no-terceiro-trimestre-e-eleva-projecoes-para-2026/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5 (juro alto)
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 24/35
+Status: runner-up (obs.: licao "o juro come o lucro" ja foi muito explorada nas pautas de Magalu, Braskem e GPA)
+
+CANDIDATO 4 -- Jaguar Land Rover vende 20% mais e perde 451 milhoes de libras
+Fato: Resultado de jul-set/2026 divulgado em 13/11: receita de GBP 5,9 bi (+20,3%), prejuizo de GBP 451 mi; GBP 295 mi para programa de saida de ~4.000 pessoas; margem do ano fiscal cortada para 2-3% (antes ~4%); queima de caixa prevista de ~GBP 1,25 bi.
+Fonte: Quartz -- https://qz.com/jaguar-land-rover-profit-forecast-tata-motors-loss-111326 ; Business Standard -- https://www.business-standard.com/amp/companies/quarterly-results/tata-motors-pv-q2-net-loss-at-5-531-cr-revenue-misses-estimates-126111301014_1.html
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 23/35
+Status: runner-up
+
+Descartados: LIV Golf em liquidacao (pouca fama no Brasil, fato de 05/11); Americanas encerra RJ (outubro, ja frio); "imposto sobre imposto" na reforma tributaria (decisoes espalhadas de set-nov, sem fato novo datado de hoje/ontem).
