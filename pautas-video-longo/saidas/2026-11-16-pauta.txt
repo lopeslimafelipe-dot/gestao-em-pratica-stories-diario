@@ -1,0 +1,71 @@
+PAUTA DO DIA -- 2026-11-16
+Assunto: Apagao global do Microsoft 365: Outlook, Teams e Copilot fora do ar por mais de 24 horas, causado por um upgrade da propria Microsoft
+Score final: 29/35 (Frescor 3/5 | Relevancia do protagonista 5/5 | Gravidade 4/5 | Polemica adjacente 2/5 | Volume de cobertura 5/5 | Clareza do angulo 5/5 | Identificacao com audiencia 5/5)
+
+Fato central verificado:
+Na quinta-feira, 12/11/2026, o Exchange Online (o e-mail corporativo da Microsoft) comecou a falhar e a pane se espalhou para os servicos que dependem dele: Outlook, calendarios do Teams, SharePoint e Copilot. Empresas, governos, tribunais, hospitais e universidades ficaram sem e-mail. Exemplos citados pela ABC News: a prefeitura de Austin (Texas), cujos funcionarios nao conseguiam enviar nem receber e-mails, e a Universidade de Cambridge, com e-mail, calendario e SharePoint afetados. O problema durou mais de 24 horas e atravessou dois dias uteis. Na sexta (13/11), as filas de e-mail ja estavam "se aproximando do normal". Entre a noite de 13/11 e o sabado (14/11), a Microsoft declarou o servico restaurado (as fontes divergem no horario exato).
+Downdetector: mais de 100 mil relatos dentro de uma hora do aviso da Microsoft (ABC News). O rascunho trazia 97 mil (Reuters) e 130 mil. Usar "cerca de 100 mil relatos".
+A Microsoft pediu desculpas ("deeply sorry", ou "profundamente arrependida") e descartou ataque hacker e IA. Segundo a empresa, a falha foi introduzida durante uma atualizacao anterior de capacidade da rede do Microsoft 365 e apareceu depois de uma mudanca de rede mais recente. A empresa prometeu um relatorio pos-incidente completo, que ainda nao saiu.
+Confirmado via WebSearch em varios veiculos concordantes: GeekWire (2 materias, 13 e 14/11), ABC News, CNN, BleepingComputer, Windows Latest e Outlook India. WebFetch bloqueado pela rede desta sessao: nenhuma pagina foi lida na integra.
+
+Cadeia causal (o que levou a isso):
+1. A Microsoft fez um upgrade de capacidade da rede do Microsoft 365, ou seja, uma obra para crescer. Esse upgrade deixou um defeito escondido.
+2. Uma mudanca de rede posterior fez o defeito aparecer: varios servidores do Exchange Online ficaram indisponiveis de forma inesperada.
+3. A carga desses servidores foi para os que sobraram, que tambem ficaram sobrecarregados e cairam (efeito cascata). Segundo a Microsoft, a carga alta nao veio de mais trafego, e sim de servidores fora do ar. O processo que estabelece as conexoes seguras nos servidores ficou sobrecarregado.
+4. As primeiras tentativas de conserto falharam: servidores religados voltavam a travar assim que recebiam trafego, porque milhoes de clientes tentavam reconectar ao mesmo tempo. A Microsoft precisou limitar e bloquear trafego e religar os servidores aos poucos.
+5. O conserto que funcionou foi um metodo alternativo de checagem de saude dos servidores, aplicado primeiro em um grupo e depois em todo o sistema, junto com um processo automatico para reiniciar as maquinas travadas.
+6. Resultado: um unico fornecedor com problema e milhares de organizacoes no mundo sem e-mail, agenda e documentos por mais de um dia util.
+
+Por que esta repercutindo agora:
+- Relevancia do protagonista (5) e Volume de cobertura (5): Microsoft, cobertura mundial de CNN, ABC, Reuters, GeekWire e veiculos brasileiros.
+- Identificacao com audiencia (5) e Clareza do angulo (5): todo dono de PME ja parou porque o e-mail, o WhatsApp ou o sistema caiu. A causa (uma obra da propria empresa) e o efeito (o mundo sem e-mail) sao faceis de entender.
+- Gravidade (4): mais de 24 horas, dois dias uteis, servicos publicos e hospitais afetados.
+- Frescor (3): o fim do incidente e o pedido de desculpas foram entre sexta e sabado. O relatorio pos-incidente ainda pode reacender o assunto.
+
+Angulo de gestao sugerido:
+"Sua empresa tem plano B se a ferramenta principal cair amanha?" A licao e continuidade operacional e dependencia de fornecedor unico:
+(a) mapear quais processos param se o e-mail, o WhatsApp Business, o ERP ou o sistema de pagamento cair;
+(b) ter um canal alternativo combinado de antemao com equipe e clientes (outro e-mail, telefone, grupo de contingencia), sem jogar dado sensivel em app pessoal;
+(c) manter copias offline do essencial: contatos de clientes e fornecedores, pedidos em aberto, agenda da semana;
+(d) olhar para dentro: mudanca e atualizacao feitas sem teste e sem plano de volta tambem derrubam a sua operacao (sistema novo, troca de ERP, migracao). Se aconteceu com a Microsoft, acontece com qualquer um;
+(e) comunicar rapido e com transparencia quando a falha e sua: a Microsoft pediu desculpas, explicou a causa e prometeu relatorio.
+
+Dados de apoio:
+- O Microsoft 365 tem mais de 450 milhoes de assentos comerciais pagos (ultimo numero oficial, relatorio do 2o trimestre fiscal de 2026, jan/2026). Fonte: https://office365itpros.com/tag/microsoft-365-user-number/
+- A pane atingiu e-mail em mais de 70 paises, segundo a GeekWire. Fonte: https://www.geekwire.com/2026/i-hope-this-email-finds-you-microsoft-declares-outage-over-as-the-world-digs-out-of-its-inbox/ (o numero "74 paises" vem de fonte fraca, nao usar; ver ressalva).
+- Nao foi a primeira em 2026: em janeiro, uma pane do Microsoft 365 durou quase 10 horas, com pico de 15 mil relatos no Downdetector (Reuters). Fontes: https://www.theregister.com/2026/01/23/microsoft_365_outage/ ; https://www.thestar.com.my/tech/tech-news/2026/01/23/microsoft-says-access-to-productivity-suite-restored-after-outage
+- Custo de parar: para mais de 90% das medias e grandes empresas, uma hora de sistema fora do ar custa mais de US$ 300 mil (ITIC, pesquisa 2024). Para pequenas empresas, a ITIC diz que perdas de US$ 25 mil a US$ 75 mil por hora ja podem ser graves o bastante para quebrar o negocio. Fonte: https://itic-corp.com/itic-2024-hourly-cost-of-downtime-part-2/ (pesquisa internacional e em dolar; usar so como ordem de grandeza, nao converter como se fosse dado brasileiro).
+- Detalhes tecnicos (servidores que voltavam a travar, checagem de saude alternativa, reinicio automatico), citando comunicados da Microsoft de segunda mao: https://controlplane.com/blog/post/microsoft-365-outage-november-2026-cause e Windows Latest -- https://www.windowslatest.com/2026/11/13/was-the-microsoft-365-outage-a-hack-microsoft-says-no-it-was-its-own-servers-and-its-copilot-boss-regrets-it/
+
+Ressalva/limite:
+- Polemica adjacente pesou pouco (2/5) e nao tem carga politica. Mesmo assim, o video NAO opina sobre big techs, regulacao ou governos. O foco e so continuidade operacional da PME.
+- Horarios divergem entre veiculos (inicio: "quinta de manha" segundo a GeekWire, 16h20 UTC segundo outra fonte; fim: noite de 13/11 ou sabado 14/11). No video, dizer so "mais de 24 horas" ou "mais de um dia util". Nao cravar "30 horas".
+- Relatos no Downdetector: usar "cerca de 100 mil". Isso mede reclamacoes de usuarios, nao numero de pessoas afetadas.
+- "Mais de 70 paises" (GeekWire) e o teto do que da para afirmar. Nao usar "74".
+- Nao ha numero oficial de prejuizo. Nao inventar quanto as empresas perderam.
+- A causa tecnica oficial e preliminar. O relatorio pos-incidente da Microsoft ainda nao saiu e pode detalhar ou corrigir a explicacao. Se sair antes da gravacao, conferir.
+- Nao confirmei nas buscas a materia da Bloomberg Linea citada no rascunho. A cobertura em portugues desta pane especifica apareceu pouco nas buscas, por isso as fontes abaixo sao em ingles.
+- Fontes primarias nao lidas na integra: WebFetch bloqueado nesta sessao.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: "A Microsoft deixou empresas, hospitais e governos sem e-mail por mais de um dia. E o culpado nao foi hacker: foi uma obra da propria Microsoft."
+- Contexto/causa raiz: o que e o Microsoft 365 (mais de 450 milhoes de usuarios pagos) e o upgrade de capacidade que deixou um defeito escondido.
+- Desenvolvimento da cadeia causal: servidores caem, a carga vai para os que sobraram, efeito domino, o conserto falha porque todo mundo reconecta ao mesmo tempo, religar aos poucos, mais de 24 horas.
+- Licao de gestao (a virada): "Se a Microsoft cai, a sua ferramenta tambem cai. A pergunta e: o que sua empresa faz nas proximas 24 horas?" Mapear dependencias, canal alternativo, copia offline do essencial, cuidado com as proprias mudancas.
+- Fechamento + CTA: pergunta pro publico ("se o seu WhatsApp ou e-mail cair amanha, qual e o seu plano B?") e convite pra seguir o Entre Gestores.
+
+Fonte(s):
+- GeekWire -- https://www.geekwire.com/2026/a-huge-pain-in-the-ass-microsoft-365-starts-to-recover-after-a-daylong-global-email-blackout/
+- GeekWire -- https://www.geekwire.com/2026/i-hope-this-email-finds-you-microsoft-declares-outage-over-as-the-world-digs-out-of-its-inbox/
+- ABC News -- https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203
+- ABC News -- https://abcnews.com/Business/microsoft-outlookoutage-impacts-governments-courts-hospitals-universities/story?id=138107029
+- CNN -- https://edition.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk
+- BleepingComputer -- https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/
+- Windows Latest -- https://www.windowslatest.com/2026/11/14/microsoft-is-begging-you-not-to-blame-ai-for-the-microsoft-365-outage-insisting-it-was-a-botched-network-upgrade/
+- Outlook India -- https://www.outlookindia.com/international/microsoft-fixes-24-hour-global-outage-that-silenced-outlook-and-teams-worldwide
+- Deadline (citada no rascunho) -- https://deadline.com/2026/11/microsoft-outage-apology-blames-upgrade-1237223202/
+
+Runners-up do dia (registro/transparencia):
+- Dolar fecha a R$ 5,65, maior nivel desde junho de 2025 -- 26/35
+- Embraer: receita recorde no 3T26, mas lucro contabil cai 41% -- 24/35
+- Jaguar Land Rover vende 20% mais e perde 451 milhoes de libras -- 23/35
