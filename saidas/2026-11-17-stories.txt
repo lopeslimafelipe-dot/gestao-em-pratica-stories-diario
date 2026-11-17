@@ -1,0 +1,37 @@
+ROTEIRO 1 -- O cliente sem rosto
+"A OpenAI lançou, no dia 13, o ChatGPT Wallet: os agentes de IA montam o carrinho e pagam a compra dentro da conversa, com aprovação do usuário a cada compra, segundo a CNBC. Por enquanto, só para assinantes Pro nos Estados Unidos. O curioso: 🟡`a Amazon bloqueia compras feitas por agentes, e a United Airlines proíbe que eles reservem passagens.`🟡 🟡`Em breve, parte de quem entra na sua loja não vai ter rosto, e você vai ter que decidir se barra ou se prepara a vitrine para ele.`🟡 Seu site está pronto para um cliente robô?"
+Fonte: CNBC -- https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html
+
+ROTEIRO 2 -- O mesmo duto, dois motivos
+"A Petrobras fechou acordo, no dia 12, para comprar os 70% que ainda não tinha da Logum, empresa que transporta etanol por duto. 🟡`Valor total: 620 milhões de reais, segundo comunicado à SEC`🟡; ainda depende do Cade. Um dos vendedores, a Raízen, que está renegociando dívidas, recebe cerca de 310 milhões. 🟡`Para quem vende, é alívio de caixa; para quem compra, é aposta no etanol de milho do Centro-Oeste.`🟡 🟡`O ativo que você vende no aperto é exatamente o que alguém compra para crescer.`🟡 Você está negociando com caixa ou sem caixa?"
+Fonte: Petrobras (Form 6-K na SEC) -- https://www.sec.gov/Archives/edgar/data/0001119639/000129281426005239/pbr20261112_6k.htm
+
+ROTEIRO 3 -- O freio que o varejo não mostrou
+"Ontem eu mostrei aqui que o varejo ficou estável em setembro. O dado de hoje não contradiz: o varejo mede só o comércio, e a prévia do PIB soma indústria, serviços e agro. 🟡`O IBC-Br, do Banco Central, caiu 0,2% em setembro e 0,9% no terceiro trimestre; só a agropecuária cresceu.`🟡 E a confiança do industrial, medida pela CNI, caiu para 40,2 pontos, o menor nível desde maio de 2020. 🟡`Quem planeja 2027 com o ritmo de 2025 na cabeça está dirigindo pelo retrovisor.`🟡 Seu orçamento do ano que vem considera esse freio?"
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/macroeconomia/previa-do-pib-ibc-br-aponta-retracao-de-09-no-3o-trimestre/
+
+ROTEIRO 4 -- Aquele fornecedor que não pode faltar
+"A McKinsey publicou um estudo sobre o ponto fraco do comércio global: 🟡`1 em cada 4 dólares importados no mundo vai para produtos com pelo menos dois de três riscos: ser crítico, ter fornecedor concentrado e vir de país geopoliticamente distante.`🟡 🟡`E essa fatia subiu de 15% em 2000 para 23% em 2024.`🟡 Vale lembrar: a McKinsey vende consultoria de cadeia de suprimentos. 🟡`Se a sua empresa tem aquele fornecedor que não pode falhar, você está nessa estatística.`🟡 Qual é o seu plano B?"
+Fonte: McKinsey Global Institute -- https://www.mckinsey.com/mgi/our-research/The-Achilles-heel-of-global-trade-Building-resilience-where-it-matters-most
+
+ROTEIRO 5 -- Faltam 29 dias
+"Faltam 29 dias. 🟡`Em 16 de dezembro, a jornada máxima cai de 44 para 42 horas semanais, com dois dias de descanso`🟡, pela emenda que acabou com a escala 6x1. Uma liminar do ministro Flávio Dino, do STF, manteve o calendário: 🟡`quem não fechar acordo coletivo até 15 de dezembro pode distribuir as 42 horas em cinco dias de até 8h24, sem hora extra pelos 24 minutos.`🟡 A liminar ainda vai ao plenário, então as regras de transição podem mudar. E isso cai justo no mês mais movimentado do comércio. A escala da sua equipe já está montada pela regra nova?"
+Fonte: Agência Senado -- https://www12.senado.leg.br/noticias/materias/2026/10/16/congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-de-agentes-de-saude
+
+ROTEIRO 6 -- Vendeu o prédio, ficou de inquilino
+"A Amazon vai vender os próprios prédios e continuar dentro deles pagando aluguel. Segundo a Blackstone, um fundo dela compra 75,1% de 13 data centers novos da AWS, em Indiana e no Mississippi, num negócio de cerca de 5 bilhões de dólares. 🟡`A AWS fica com o resto e aluga tudo de volta por 12 anos, com reajuste de 2,75% ao ano.`🟡 É dinheiro saindo do tijolo para a corrida da inteligência artificial. 🟡`Se a gigante da nuvem prefere caixa a escritura, por que o capital da sua empresa está parado em galpão, sala própria ou frota?`🟡"
+Fonte: Blackstone -- https://www.blackstone.com/news/press/blackstone-digital-infrastructure-trust-announces-5-billion-acquisition-of-stabilized-data-center-portfolio/
+
+ROTEIRO 7 -- O quarto PDV em quatro anos
+"A GM propôs, no dia 13, um plano de demissão voluntária na fábrica de São José dos Campos, onde faz a S10 e a Trailblazer, citando expectativa de menor volume de produção. A estimativa inicial é de pelo menos 100 voluntários, numa fábrica de cerca de 3.300 pessoas; a GM chama de medida pontual, e a proposta ainda passa por assembleia. O detalhe: 🟡`a mesma fábrica teve PDVs em 2023, 2024 e 2025.`🟡 🟡`Quando o ajuste vira rotina, o problema não é o corte, é o planejamento de capacidade.`🟡 Sua equipe está dimensionada pela demanda que vem ou pela de ontem?"
+Fonte: Automotive Business -- https://www.automotivebusiness.com.br/noticias/gm-propoe-pdv-em-fabrica-de-sao-jose-dos-campos
+
+ROTEIRO 8 -- Ração, areia de gato e cerveja
+"A Shopee diz que o 11.11 deste ano foi o maior volume de vendas da história dela no Brasil, mais que o dobro da Black Friday de 2025. Os números são da própria empresa, sem valores absolutos. Mas olha o que puxou: 🟡`entre os cinco produtos mais pedidos, quatro eram de pet, como ração e areia higiênica, seguidos de cerveja.`🟡 Muita gente usou o desconto para abastecer a casa, não só para realizar desejo. 🟡`Quem vende recorrência pode ganhar mais nesta Black Friday do que quem vende vitrine.`🟡 O que você vende: desejo ou reposição?"
+Fonte: E-Commerce Brasil -- https://www.ecommercebrasil.com.br/noticias/shopee-recorde-11-11-vendas-black-friday
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 5] "A escala da sua equipe para dezembro já está pronta pela regra das 42 horas?" Sim, já ajustei / Ainda não
+2. [Pergunta/Participacao, Roteiro 4] Caixinha: "Qual é o fornecedor que, se faltar amanhã, para a sua empresa? Você tem plano B para ele? Me conta."
+3. [Virar Historia, Roteiro 3 -> Estilo Quadro Branco] Desenhar no quadro as peças da prévia do PIB (comércio estável, indústria e serviços em queda, agro em alta) somando -0,9% no trimestre mostra visualmente por que o varejo de ontem e o dado de hoje não se contradizem.
