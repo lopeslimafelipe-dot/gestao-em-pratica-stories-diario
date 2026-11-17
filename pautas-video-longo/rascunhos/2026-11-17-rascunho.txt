@@ -1,0 +1,81 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-11-17 (terca-feira)
+Etapa 1: pesquisa e pontuacao
+
+Observacoes de metodo:
+- O WebFetch esta bloqueado nesta sessao (infomoney.com.br, tecnoblog.net e outros nao resolvem). Os fatos abaixo foram confirmados por WebSearch, em varios veiculos que concordam entre si. A fonte primaria NAO foi lida diretamente: a regra do Departamento de Comercio dos EUA (BIS) nem os releases das empresas. Conferir na Etapa 2.
+- Checagem de repeticao (ultimos 10 dias deste pipeline, 07 a 16/11): Canva, Disney, GPA, Casas Bahia, Magalu, Nvidia (conselho x Jensen Huang), Banco do Brasil, Braskem, recorde de RJs e apagao Microsoft 365. Nenhum candidato abaixo repete assunto. No vencedor, a Nvidia aparece so como fornecedora; o protagonista e a regra dos EUA. Ainda assim, NAO centrar o roteiro na Nvidia.
+- Descartados: resultado da Nvidia (sai hoje, 17/11, mas a Nvidia foi pauta em 12/11) e Disney (pauta em 08/11). Tambem a Parker Hannifin (fabrica de Jacarei fechada apos 38 dias de greve): fato de jul-ago/2026, so recirculando agora. E os Correios (prejuizo do 3T26 nao confirmado em fonte confiavel).
+
+------------------------------------------------------------
+
+CANDIDATO 1 -- EUA passam a exigir licenca pra data centers no Brasil comprarem chips de IA
+Fato: Em 16/11/2026 (segunda), o Departamento de Comercio dos EUA publicou uma regra provisoria. Operadores de data centers no Brasil, Singapura, Indonesia, Malasia e Tailandia passam a precisar de licenca do governo americano pra comprar chips avancados de IA (Nvidia e outros fabricantes americanos). Objetivo declarado: impedir que laboratorios chineses contornem as restricoes alugando capacidade em data centers de terceiros paises.
+- Excecoes: empresas com sede nos EUA que operam nesses paises (Amazon, Microsoft, Google, Oracle seguem sem licenca) e data centers usados em sistemas de recomendacao de varejo online e redes sociais.
+- Data centers ja instalados que se enquadrem no limite (servico a empresas ligadas a China/Macau acima de 12 milhoes de TPP) tem 90 dias, a partir da vigencia, pra obter a licenca. Esse limite NAO e um teto geral pros data centers brasileiros.
+- Divergencia: a Folha (via ICL) diz que no Brasil havera analise caso a caso, enquanto nos outros paises havera presuncao de aprovacao. A Telesintese fala em analise individual por criterios de seguranca nacional e politica externa. CONFIRMAR na regra original.
+- Contexto: a medida conflita com o programa brasileiro de incentivo a data centers (ReData) e pode afetar o polo de Fortaleza. Ate a checagem, NAO havia reacao oficial do governo brasileiro.
+- Mercado: bolsas asiaticas cairam em 17/11 (KOSPI -3,59%, Samsung e SK hynix em queda).
+Fonte: InfoMoney -- https://www.infomoney.com.br/business/brasil-entra-na-mira-de-nova-restricao-dos-eua-para-chips-avancados-de-ia/
+Fontes de apoio: Telesintese -- https://telesintese.com.br/eua-restringem-venda-de-chips-de-ia-para-data-centers-no-brasil/ ; InvestNews -- https://investnews.com.br/economia/eua-licenca-para-venda-de-chips-de-ia/ ; Tecnoblog -- https://tecnoblog.net/noticias/eua-impoem-restricoes-ao-brasil-para-compra-de-chips-de-ia/
+Score de Repercussao:
+- Frescor: 5/5 (publicada ontem, repercutindo hoje)
+- Relevancia do protagonista: 4/5 (governo dos EUA, Nvidia e "o Brasil" como alvo; o tema IA e de conhecimento geral)
+- Gravidade: 4/5 (o Brasil entra numa lista de restricao tecnologica junto a paises do Sudeste Asiatico; impacto num setor que recebe incentivo publico)
+- Polemica adjacente: 5/5 (relacao Brasil-EUA, guerra tecnologica EUA-China)
+- Volume de cobertura: 4/5 (InfoMoney, Telesintese, Tecnoblog, InvestNews, Folha/ICL, Revista Oeste, SpaceMoney e outros)
+- Clareza do angulo: 3/5 (regra tecnica, com excecoes e TPP; tem que simplificar)
+- Identificacao com audiencia: 2/5 (o dono de PME nao compra chip; a ponte e indireta: dependencia de fornecedor/tecnologia estrangeira e risco de cadeia)
+TOTAL: 27/35
+Status: VENCEDOR DO DIA
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesa 5/5 neste vencedor. O roteiro (Etapa 2) NAO comenta a relacao Lula x Trump nem a disputa EUA-China como posicao politica. Nao cita partido nem figura politica de forma critica. Angulo SO de gestao: o que acontece quando um insumo critico depende de um fornecedor/pais que pode mudar a regra da noite pro dia. Licao pra PME: mapear fornecedores criticos, ter plano B e nao concentrar dependencia (software, nuvem, importados, um unico cliente/fornecedor).
+
+------------------------------------------------------------
+
+CANDIDATO 2 -- Black Friday 2026: maior volume desde 2014, mas o crescimento esta travado pelo credito
+Fato: A CNC projeta R$ 11,52 bi em vendas no varejo na Black Friday (27/11/2026), maior volume desde 2014. A alta prevista e de so 1,8%, contra +3,2% em 2025. Freios citados pela CNC: juros de 61,7% a.a. no credito livre a pessoa fisica e 29,6% das familias com contas em atraso. Os maiores segmentos sao eletroeletronicos (R$ 4,70 bi) e moveis/eletrodomesticos (R$ 2,28 bi), este vindo de queda de 2,6% nas vendas de setembro. Divulgado por volta de 12-13/11.
+Fonte: IstoE Dinheiro -- https://istoedinheiro.com.br/?p=3482999 (apoio: brapi/CNC -- https://brapi.dev/news/cnc-projeta-black-friday-de-2026-em-r-11-52-bi-com-ce33cecf ; O Povo -- https://mais.opovo.com.br/jornal/economia/2026/11/13/black-friday-deve-movimentar-rs-2303-milhoes-no-comercio-do-ceara-este-ano-aponta-cnc.html)
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 2/5
+- Polemica adjacente: 4/5 (juros/endividamento das familias)
+- Volume de cobertura: 3/5
+- Clareza do angulo: 5/5
+- Identificacao com audiencia: 5/5
+TOTAL: 26/35
+Status: runner-up
+
+------------------------------------------------------------
+
+CANDIDATO 3 -- Americanas: vende mais (+10%), mas volta ao prejuizo (R$ 352 mi) e a acao cai 18%
+Fato: Em 11/11/2026, a Americanas (AMER3) divulgou prejuizo liquido de R$ 352 mi no 3T26, contra lucro de R$ 367 mi no 3T25. A receita liquida subiu cerca de 10%, pra R$ 2,97 bi, mas o Ebitda ajustado caiu de R$ 558 mi pra R$ 52 mi. O prejuizo acumulado em 9 meses e de R$ 955 mi. A acao caiu ~18% em 12/11.
+Fonte: Times Brasil (CNBC) -- https://timesbrasil.com.br/empresas-e-negocios/americanas-registra-prejuizo-de-r-352-milhoes-no-3o-trimestre/ (apoio: Investidor10 -- https://investidor10.com.br/noticias/americanas-amer3-reverte-lucro-e-registra-prejuizo-de-r-352-milhoes-no-3-tri-123846/)
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5 (vender mais e lucrar menos)
+TOTAL: 23/35
+Status: runner-up (obs.: o varejo em crise ja foi coberto 3x nos ultimos 10 dias: GPA, Casas Bahia, Magalu)
+
+------------------------------------------------------------
+
+CANDIDATO 4 -- CSN vende a CSN Cimentos pra chinesa Huaxin por R$ 12,74 bi pra reduzir a divida
+Fato: Contrato assinado em 07/11/2026 e divulgado em 08/11. O enterprise value e de R$ 12,74 bi; a Huaxin paga cerca de R$ 9,03 bi por 99,99%. Faz parte da desalavancagem: a divida liquida era de R$ 42 bi no 2T26 e a meta e levantar R$ 15-18 bi com venda de ativos. O negocio depende de Cade e outros reguladores.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/csn-acerta-venda-da-csn-cimentos-para-huaxin-por-r-127-bilhoes/
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5 (vender um pedaco bom pra salvar o todo)
+- Identificacao com audiencia: 3/5
+TOTAL: 21/35
+Status: runner-up
+
+------------------------------------------------------------
+RESUMO: Vencedor = Candidato 1 (27/35). Runners-up: Black Friday travada pelo credito (26/35), Americanas (23/35), CSN Cimentos (21/35).
