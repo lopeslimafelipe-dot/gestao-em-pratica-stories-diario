@@ -1,0 +1,218 @@
+RASCUNHO -- ETAPA 1 (PESQUISA) -- 18/11/2026 (quarta-feira)
+Canal: Entre Gestores
+Metodo: 3 subagentes em paralelo (A: linhas 1, 2, 8 / B: linhas 3, 4, 5 / C: linhas 6, 7), cada um com 3+ rodadas de busca por linha em PT e EN (cerca de 180 buscas no total), mais 1 rodada de checagem final na linha 7. O WebFetch esta bloqueado, entao TODA a verificacao foi feita por trechos de busca. A Etapa 2 deve re-conferir.
+Itens: 8 | Internacionais (fonte 1.2 ou empresa+fonte estrangeiras): 2 (Item 4 EY = grande consultoria; Item 6 Disney/CNBC)
+Nao repeticao conferida contra os rascunhos de 11, 12, 13, 16 e 17/11.
+
+ITEM 1 -- Microsoft Ignite 2026: agente de IA ganha cracha, chefe e teto de gastos
+Categoria: Tecnologia
+Fato: No Microsoft Ignite 2026 (Sao Francisco, 17 a 20/11; anuncios em 17/11), a Microsoft anunciou:
+- o "Office no Copilot" (Word, Excel e PowerPoint dentro do Copilot) e o Copilot Home (Chat + Cowork) disponiveis para todos;
+- o Autopilot, agente autonomo pessoal com identidade, memoria e ferramentas proprias dentro do ambiente da empresa, chegando primeiro aos clientes do programa Frontier;
+- os "Agentic Users" (teste aberto): agentes entram nas equipes do Teams com identidade propria, um responsavel humano definido e controle do administrador;
+- o Agent 365 Cost Management (teste): limites de gasto e alertas por usuario, grupo, organizacao ou recurso, com acompanhamento do consumo por agente e por modelo;
+- o Dynamics 365 (ERP/CRM) funcionando dentro do Copilot, com habilidades prontas de vendas, atendimento e financas.
+Fonte: Microsoft (oficial) -- https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/ ; Microsoft Copilot Blog -- https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/ ; Microsoft Dynamics 365 Blog -- https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/11/17/microsoft-ignite-2026-introducing-dynamics-365-in-copilot/ ; Microsoft Tech Community (Agent 365) -- https://techcommunity.microsoft.com/blog/agent-365-blog/whats-new-in-microsoft-agent-365-ignite-2026/4571753 ; UC Today (independente) -- https://uctoday.com/microsoft-ignite-2026-day-1-agents-teams-roundup
+Relevancia: O agente de IA deixa de ser tratado como ferramenta e passa a ser tratado como um "funcionario", com identidade, gestor responsavel e orcamento. Isso traz para dentro da empresa perguntas classicas de gestao: quem responde pelo agente e quanto ele pode gastar.
+Ressalva tecnica:
+- Verificacao por trechos de busca.
+- A base e quase toda material oficial da Microsoft, que tem interesse comercial direto. A UC Today e a confirmacao independente.
+- Muitos recursos ainda estao em teste ou restritos ao programa Frontier.
+- O numero "mais de 100 habilidades" do Dynamics nao foi confirmado; nao usar.
+- Um titulo do Office Watch fala em "76 de 215 novidades prontas hoje" (https://office-watch.com/2026/microsoft-ignite-2026-ready-today/). Nao foi confirmado; serve so como ressalva, nao como dado.
+- A Microsoft ja apareceu 2x nesta semana (IBM+Microsoft em 12/11 e apagao do 365 em 16/11). Se a Etapa 2 quiser variar a empresa, a RESERVA da linha e a Google Gemini Decisions API (beta de 11/11/2026), uma IA que so devolve decisoes fechadas (sim/nao, nota, multipla escolha) com indice de confianca. Custa cerca de US$ 0,10 por milhao de tokens de entrada, sem cobranca de saida, e avalia ate 1.000 perguntas por chamada. Fontes: Techstrong.ai -- https://techstrong.ai/articles/google-launches-gemini-decisions-api-to-cut-enterprise-ai-costs-latency/ ; Channel Insider -- https://www.channelinsider.com/ai/news-google-gemini-decisions-api-ai-agents-channel/ ; Interesting Engineering -- https://interestingengineering.com/ai-robotics/google-gemini-decisions-api-fast-ai-agents
+Possivel contradicao com roteiro anterior: nenhuma. E outro assunto, nao o apagao do Microsoft 365 de 16/11.
+Tese de gancho sugerida: A Microsoft deu ao agente de IA cracha, chefe e cartao corporativo com limite. Se a big tech ja trata IA como funcionario que precisa de gestor e de orcamento, quem e o "gestor" da IA que a sua empresa usa, e quanto ela gasta por mes sem ninguem olhar?
+
+ITEM 2 -- Lupo dobra a aposta no "made in Paraguay": 200 teares novos e capacidade 65% maior
+Categoria: Noticia de empresa
+Fato: Em 13/11/2026, a Lupo anunciou 200 novos teares na fabrica de Ciudad del Este (Paraguai), com conclusao prevista para o 1o trimestre de 2027. Segundo o Brazil Journal:
+- a capacidade sobe de 20 milhoes para 33 milhoes de pares por ano (+65%);
+- produzir no Paraguai custa cerca de 30% a 32% menos que no Brasil (o CEO Carlos Mazzeu fala em cerca de 28%);
+- a vantagem vem do regime de maquila (incentivo a empresa exportadora), da energia e da mao de obra mais baratas.
+Um centro de distribuicao em Ciudad del Este comeca em fevereiro, para Paraguai, Argentina e Uruguai. A fabrica foi inaugurada em 2025 com R$ 30 milhoes de investimento. A Lupo diz que a unidade amplia a capacidade do grupo e nao transfere producao do Brasil. O valor da nova etapa nao foi divulgado.
+Fonte: Brazil Journal -- https://braziljournal.com/lupo-dobra-aposta-no-made-in-paraguay ; InvestNews -- https://investnews.com.br/negocios/lupo-amplia-producao-no-paraguai-crise/ ; Paraiba Business -- https://paraibabusiness.com.br/lupo-instala-200-maquinas-no-paraguai-ate-o-primeiro-trimestre-de-2027/
+Relevancia: E um caso concreto de industria centenaria que responde a concorrencia de importados mudando a estrutura de custo, nao cortando preco. A pergunta "produzir aqui ou no vizinho" vale para qualquer industria media.
+Ressalva tecnica:
+- Verificacao por trechos de busca.
+- O diferencial de custo varia entre as fontes (28% a 32%). Preferir "cerca de 30%".
+- Nao usar o dado de "52% do mercado e importado", que vem de texto de 2025.
+- A InvestNews cita "crise politica" no Paraguai; evitar esse angulo, porque e politico.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Uma marca com mais de 100 anos descobriu que fazer meia do outro lado da fronteira custa cerca de 30% menos, e vai aumentar a fabrica de la em 65%. O concorrente de amanha da industria brasileira pode nao ser o importado da Asia, e sim o empresario brasileiro que foi produzir no Paraguai.
+
+ITEM 3 -- Servicos param: primeira queda anual depois de 29 altas seguidas (PMS setembro, IBGE)
+Categoria: Macroeconomia-indice
+Fato: Em setembro de 2026, o volume de servicos caiu 0,1% ante agosto (com ajuste sazonal) e 0,1% ante setembro de 2025. E a primeira queda na comparacao anual depois de 29 altas seguidas. O mercado esperava -0,4% no mes e -0,5% no ano.
+- Puxaram para baixo: transportes (-0,5%) e informacao e comunicacao (-0,5%).
+- Compensaram: servicos profissionais e administrativos.
+- Acumulado de janeiro a setembro: +1,5%. Em 12 meses: +1,9%.
+- O setor esta 0,4% abaixo do pico da serie.
+Divulgado pelo IBGE em 11/11/2026. O dado de outubro sai em 10/12.
+Fonte: IBGE (caderno oficial) -- https://ftp.ibge.gov.br/Comercio_e_Servicos/Pesquisa_Mensal_de_Servicos/Fasciculo_Indicadores_IBGE/pms_202609caderno.pdf ; Metropoles -- https://www.metropoles.com/brasil/setor-de-servicos-varia-01-em-setembro-diz-ibge ; Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/11/1270076-volume-de-servicos-recua-01-em-setembro-ante-agosto-revela-ibge.html ; Paraiba Business -- https://paraibabusiness.com.br/volume-de-servicos-recua-01-em-setembro-e-interrompe-29-altas-anuais-diz-ibge/
+Relevancia: Servicos sao o maior setor da economia e o maior empregador de PMEs. E o primeiro sinal anual negativo depois de mais de dois anos de expansao.
+Ressalva tecnica:
+- Verificacao por trechos de busca.
+- A queda e pequena e veio melhor que o esperado.
+- Ha efeito de base alta (setembro de 2025 teve +4,3%) e de calendario (setembro de 2026 teve 1 dia util a menos). Nao chamar de recessao do setor.
+- Foram descartadas materias antigas com "+0,6% em setembro", que sao de outro ano.
+- Data: 11/11, dentro da ultima semana, mas no limite.
+- Linha 3 RESERVA: Serasa Experian, demanda das empresas por credito +9,9% em 12 meses ate setembro, com as MPEs em +10%. As duas fontes encontradas (Jornal do Comercio e Tribuna do Sertao, 17/11) parecem vir do mesmo texto de agencia, e o release oficial nao foi achado.
+Possivel contradicao com roteiro anterior: nenhuma direta, mas convem dar contexto. Em 16/11 saiu que o varejo ficou estavel em setembro (+0,2%), e em 17/11 que a previa do PIB (IBC-Br) caiu 0,2% em setembro. As tres pesquisas medem setores diferentes: a PMC mede so o comercio, a PMS so os servicos, e o IBC-Br estima a economia toda (industria, servicos, agro). As tres apontam para o mesmo quadro, de setembro morno. A PMS confirma o freio que o IBC-Br ja sinalizava.
+Tese de gancho sugerida: O setor que nao parava ha 29 meses parou. O -0,1% parece nada, mas quem sentiu primeiro foi quem vende servico para outras empresas (transporte e tecnologia), e isso costuma ser o primeiro sinal de que o cliente empresarial esta segurando o gasto.
+
+ITEM 4 -- EY: 64% dos lideres de financas dizem que o gargalo da IA e o dado, nao a ferramenta
+Categoria: Tendencia internacional (grande consultoria -- EY)
+Fato: A pesquisa EY Tax and Finance Operations 2026 ouviu 1.600 CFOs e lideres de financas e tributos em 30 jurisdicoes e 22 setores, e foi divulgada em 11/11/2026.
+- 64% dizem que a falta de dados prontos para IA e a maior barreira para avancar.
+- So 16% consideram a area tributaria altamente eficaz em acessar, organizar e reutilizar dados.
+- Marna Ricker (EY Global Vice Chair-Tax): "ambicao sozinha nao sera suficiente".
+- Na pesquisa irma de precos de transferencia (04/11), 73% acham dificil obter dados e 85% esperam dificuldade para acompanhar mudancas de regra.
+Fonte: EY Newsroom -- https://www.ey.com/en_gl/newsroom/2026/11/ai-ambition-outpaces-data-readiness-in-tax-and-finance-functions-ey-study-finds ; CPA Practice Advisor -- https://www.cpapracticeadvisor.com/2026/11/13/ai-ambition-outpaces-data-readiness-in-tax-and-finance-functions-ey-study-finds/193869/ ; Futurum -- https://futurumgroup.com/insights/ey-survey-data-gaps-are-stalling-enterprise-ai-in-tax-and-finance/ ; CFOtech -- https://cfotech.news/story/ey-survey-finds-tax-teams-keen-on-ai-but-data-lags
+Relevancia: A empresa compra IA antes de arrumar a casa. No Brasil, o tema conversa diretamente com a transicao da reforma tributaria (IBS/CBS), em que dado fiscal bagunçado vira custo.
+Ressalva tecnica:
+- Verificacao por trechos de busca.
+- Ha numeros de edicoes anteriores circulando (43%, 51%, 80%). Usar so 64% e 16%, que estao no release de novembro de 2026.
+- A EY vende consultoria fiscal e tecnologia tributaria, ou seja, tem interesse comercial no tema.
+- A amostra e de empresas grandes e multinacionais.
+- Alternativas: Deloitte "AI Compounders" (Asia-Pacifico, 16/11/2026: so 7% das empresas usam IA para criar vantagem original, 67% so "adotam"), em https://www.deloitte.com/global/en/what-we-do/capabilities/ai/research/ceo-ai-leadership-report.html ; e PwC Hopes and Fears, recorte Brasil (12/11/2026: 75% dos brasileiros usam IA no trabalho, contra 64% no mundo), em https://www.pwc.com.br/pt/estudos/servicos/consultoria-negocios/2026/pesquisa-global-hopes-and-fears-2026.html
+Possivel contradicao com roteiro anterior: nenhuma. Nao se confunde com os itens Deloitte de 11/11 e 12/11 (ROI da IA e governanca do board).
+Tese de gancho sugerida: O gargalo da IA no financeiro nao e a ferramenta, e a planilha. Dois em cada tres lideres de financas do mundo dizem que nao tem dado bom o bastante para a IA usar, e muita empresa vai entrar na reforma tributaria com esse mesmo dado.
+
+ITEM 5 -- Simples Nacional: ate 20/12/2026 para desfazer a opcao pelo regime regular de IBS/CBS (e pelo Simples) em 2027
+Categoria: Prazo de Acao (Obrigacao/decisao com prazo)
+Fato: A Resolucao CGSN no 194/2026 (DOU de 28/09/2026) abriu uma janela de 03/11/2026 a 20/12/2026 (DATA-LIMITE) para cancelar, de forma irretratavel, duas opcoes:
+(1) a opcao pelo regime regular de IBS/CBS dentro do Simples, feita ate 30/10;
+(2) a opcao pelo Simples Nacional para 2027, feita ate 15/10.
+Sao pedidos diferentes: cancelar o regime regular NAO tira a empresa do Simples. Os efeitos valem a partir de 1o/01/2027. O pedido e feito no Portal do Simples Nacional, com conta gov.br prata ou ouro. Como 20/12 cai num domingo e a norma nao preve prorrogacao, o recomendado e agir ate sexta, 18/12.
+Fonte: O Liberal -- https://www.oliberal.com/economia/ibs-e-cbs-simples-nacional-abre-prazo-para-cancelamento-de-opcoes-nesta-terca-1.1189829 ; Foco Tributario -- https://focotributario.com.br/simples-nacional-prazo-para-cancelar-opcoes-de-ibs-e-cbs-comeca-nesta-terca-3/ ; AmdJus -- https://amdjus.com.br/simples-nacional-empresas-tem-ate-dezembro-para-cancelar-opcoes-de-2027/ ; Sindifisco-MS -- https://www.sindifisco-ms.org.br/?p=62158 ; Receita Federal (manual oficial) -- https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/manual/Manual%20op%C3%A7%C3%A3o%20regime%20regular%20IBS%20e%20CBS%20no%20Simples%20Nacional.pdf
+Relevancia: A decisao mexe direto no caixa e na competitividade de toda empresa do Simples que vende para outras empresas, porque define se o cliente aproveita credito de IBS/CBS. E norma em vigor, nao projeto de lei.
+Ressalva tecnica:
+- Verificacao por trechos de busca.
+- Fontes antigas (Resolucao CGSN 186) citam 30/11 como prazo, e um item da Receita menciona 30/11 e 15/12. A data de 20/12 vem da Resolucao 194 e aparece em varias fontes, mas a Etapa 2 deve conferir no Portal do Simples.
+- Empresas que ja tiveram ressarcimento de credito de IBS/CBS seguem regra propria, nao detalhada nos trechos.
+- Tratar como fato administrativo.
+- Linha 5 RESERVA: 1a parcela do 13o salario ate segunda-feira, 30/11/2026; a 2a vence em 20/12 (domingo), entao pagar ate 18/12. Fontes: DCI -- https://www.dci.com.br/economia/13o-salario-2026-empresas-tem-ate-30-de-novembro-para-pagar-primeira-parcela/ ; Diario do Nordeste -- https://diariodonordeste.verdesmares.com.br/negocios/13-salario-em-2026-veja-qual-e-a-data-limite-para-o-pagamento-da-1-parcela-1.3802766
+Possivel contradicao com roteiro anterior: nenhuma, mas ha relacao com o item de 11/11 (IBS/CBS na nota fiscal, obrigatorio em 1o/12/2026 e em 1o/01/2027 para o Simples). Aquele tratava de COMO emitir a nota; este trata da ESCOLHA do regime, com prazo proprio. Os dois sao complementares, e vale a Etapa 2 citar a ligacao.
+Tese de gancho sugerida: Voce tem ate 20 de dezembro, que na pratica e sexta, 18, para mudar de ideia sobre o maior imposto novo do pais. Depois disso a escolha vale para 2027 inteiro, sem volta, e quem escolheu no automatico pode ter decidido o preco que o cliente dele vai topar pagar.
+
+ITEM 6 -- Disney cresce 16%, bate a previsao e no mesmo dia avisa: "esperamos mais demissoes"
+Categoria: Empresa global reconhecida
+Fato: Ao divulgar o 4o trimestre fiscal de 2026, em 17/11/2026, a Disney anunciou uma meta de US$ 3 bilhoes em economia de custos ate o ano fiscal de 2029, com demissoes entre as medidas.
+- O CFO, Hugh Johnston, disse a CNBC: "We do expect more layoffs" ("esperamos mais demissoes").
+- Parte da economia vira de despesas gerais e administrativas.
+- O CEO Josh D'Amaro chamou os cortes de "not easy" ("nao sao faceis").
+- O trimestre foi forte: receita de US$ 25,95 bilhoes (+16%), contra US$ 25,2 bilhoes esperados, e lucro por acao ajustado de US$ 1,77, contra US$ 1,67 esperados (FactSet).
+- Em 03/11, a Bloomberg ja tinha relatado que a Disney planejava "milhares" de cortes e pedira a gestores ate 20% de reducao de custos.
+Fonte: CNBC -- https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html ; TheWrap -- https://www.thewrap.com/industry-news/business/disney-earnings-q4-2026/ ; Yahoo Finance -- https://finance.yahoo.com/media-advertising/articles/disney-targets-3-billion-cost-113500332.html ; MySA (Hearst) -- https://www.mysanantonio.com/business/article/disney-earnings-cost-cuts-22534973.php ; CNBC (contexto, 03/11) -- https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html
+Relevancia: A empresa bate as estimativas, cresce dois digitos e mesmo assim anuncia corte estrutural. Cortar com caixa bom e decisao de gestao, nao de crise, e a licao serve para qualquer porte.
+Ressalva tecnica:
+- Verificacao por trechos de busca.
+- A Disney nao divulgou quantas vagas serao cortadas. O "milhares" vem da Bloomberg (03/11), nao da empresa.
+- Os +16% incluem uma semana a mais no trimestre.
+- Nao usar o dado de "aumento de 33% no dividendo", que veio de fonte fraca.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Receita recorde e plano de demissao no mesmo dia. A Disney nao corta porque vai mal: corta enquanto vai bem, porque enxugar estrutura administrativa sai mais barato com o caixa cheio do que no desespero. Quando foi a ultima vez que voce revisou a estrutura num mes bom?
+
+ITEM 7 -- BrasPine demite cerca de 180 no Parana: a quarta rodada de cortes em 16 meses
+Categoria: Reestruturacao-corte-fechamento
+Fato: A madeireira BrasPine, uma das maiores do mundo em madeira de pinus, confirmou em nota de 13/11/2026 o desligamento de cerca de 180 trabalhadores nas unidades de Jaguariaiva e Telemaco Borba (PR).
+- As duas fabricas seguem operando, mas com producao menor.
+- A empresa citou o ajuste a demanda e ao plano de 2027, o mercado internacional e a tarifa dos EUA sobre produtos brasileiros.
+- Historico: ferias coletivas para cerca de 1.500 dos cerca de 2.500 funcionarios em julho de 2025, cerca de 400 demissoes em setembro de 2025 e cerca de 250 em Telemaco Borba em fevereiro de 2026 (segundo a Banda B).
+Fonte: Compre Rural -- https://comprerural.com/braspine-uma-das-maiores-madeireiras-do-mundo-demite-cerca-de-180-trabalhadores-no-parana/ ; Click Petroleo e Gas -- https://clickpetroleoegas.com.br/180-trabalhadores-demitidos-empresa-reduz-producao-em-duas-fabricas-no-parana-flpc96/ ; Gazeta do Povo (contexto 2025) -- https://www.gazetadopovo.com.br/parana/tarifa-dos-eua-ameaca-empregos-industria-madeireira/
+Relevancia: E um exportador brasileiro de porte medio-grande encolhendo em ondas por causa de um choque em um unico mercado. Mostra, na folha de pagamento, o risco de concentrar clientes.
+Ressalva tecnica:
+- Verificacao por trechos de busca.
+- AS FONTES SAO FRACAS (portal de agro e portal agregador), e a Click Petroleo e Gas nao tem data visivel no trecho. Nao achei G1, Gazeta do Povo nem a nota original da empresa sobre o episodio de novembro.
+- A empresa nao dividiu os 180 desligamentos entre as duas cidades.
+- A Etapa 2 deve confirmar antes de usar. Se nao confirmar, ha duas alternativas, ambas na borda da janela de 5 dias uteis:
+(a) Upwork amplia o corte de cerca de 24% para cerca de 37% do quadro em 6 meses. Aprovado pelo conselho em 10/11/2026. O custo estimado passou de US$ 16-23 milhoes para US$ 27-37 milhoes. Fontes: documento oficial -- https://investors.upwork.com/node/13411/html ; Nasdaq -- https://www.nasdaq.com/articles/upwork-inc-expands-restructuring-plan-reduce-workforce-approximately-37 . A Upwork e estrangeira, e so ha o documento oficial mais o resumo da Nasdaq.
+(b) Adama fecha a fabrica de ingredientes ativos de Taquari (RS), inaugurada em dezembro de 2022 com R$ 300 milhoes, menos de 4 anos depois. Sao 62 empregados efetivos, e a producao vira importacao. Noticia de 09-10/11. Fontes: Canal Rural -- https://www.canalrural.com.br/economia/adama-encerra-producao-em-fabrica-de-taquari-no-rio-grande-do-sul/ ; Revista Cultivar -- https://revistacultivar.com.br/noticias/adama-anuncia-encerramento-da-producao-em-taquari
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Quarta rodada de corte em 16 meses. Quando boa parte da receita depende de um unico mercado, uma tarifa decidida la fora vira demissao em serie aqui dentro. Concentracao de cliente e um risco que nao aparece no DRE do mes bom, mas aparece na folha.
+
+ITEM 8 -- Um fundo de ate R$ 500 milhoes para comprar empresas cujo dono nao tem sucessor
+Categoria: Livre (case -- sucessao virou tese de investimento)
+Fato: Em 13/11/2026, a gestora Crescera Capital e a Heartman House criaram uma joint venture para comprar o controle de empresas medias cujos donos querem sair do dia a dia e nao tem sucessor.
+- A meta e captar de R$ 100 milhoes a R$ 500 milhoes num primeiro fundo, para uma aquisicao. O ultimo fundo de private equity da Crescera pode servir de ancora.
+- Perfil buscado: empresas que geram caixa, com pouca divida e EBITDA (lucro operacional) de R$ 30 milhoes a R$ 50 milhoes por ano, nos setores de saude, educacao, tecnologia, varejo, consumo e servicos B2B. Nao buscam empresas em crise.
+- A Crescera escolhe as empresas e a Heartman assume a gestao.
+- O fundador pode sair totalmente, ficar como conselheiro ou manter uma fatia minoritaria.
+Fonte: Brazil Journal (original) -- https://braziljournal.com/um-fundo-para-comprar-empresas-sem-sucessao ; SpaceMoney -- https://www.spacemoney.com.br/investimentos/fundos-de-investimentos/crescera-heartman-fundo-empresas-sem-sucessao ; O Cafezinho -- https://www.ocafezinho.com/2026-11-15/crescera-e-heartman-house-criam-fundo-para-comprar-empresas-sem-sucessor
+Relevancia: Fala direto com o dono de empresa de 30 a 50 anos. A falta de sucessor preparado virou oportunidade de compra para fundos, ou seja, ganhou preco de mercado.
+Ressalva tecnica:
+- Verificacao por trechos de busca.
+- Ha uma unica apuracao original (Brazil Journal); SpaceMoney e O Cafezinho repercutem, entao os numeros nao sao independentes.
+- O fundo esta em captacao; nenhuma compra foi feita ainda.
+- Ha interesse comercial: os socios divulgam o proprio veiculo de investimento.
+- RESERVA da linha 8: Ri Happy estreia com loja oficial na Shopee (16/11/2026; grupo com 293 lojas e marketplace proprio). Fontes: Meio & Mensagem -- https://www.meioemensagem.com.br/marketing/grupo-ri-happy-estreia-no-marketplace-da-shopee ; Exame -- https://exame.com/negocios/ri-happy-estreia-na-shopee-e-aposta-em-marketplaces-para-ampliar-vendas/
+- RESERVA da linha 2: os donos da Loovi compram 100% da insurtech Justos (16/11/2026), que passa a vender so por corretor. Fonte: Capital Aberto -- https://capitalaberto.com.br/empresas/2026/11/controladores-da-loovi-compram-a-insurtech-justos
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Alguem montou um fundo de ate meio bilhao so para comprar empresas cujo dono nao tem quem o substitua. Se a sua sucessao nao esta resolvida, sua empresa ja e um "alvo", e quem dita o preco nessa conversa e quem tem o cheque, nao quem tem a pressa de sair.
+
+---
+CONTROLE DE COTAS E FONTES
+- Cota internacional, dia com 8 itens (minimo 2, com 1 de grande consultoria): cumprida.
+  - Item 4: EY, fonte 1.2 e grande consultoria.
+  - Item 6: Disney, empresa estrangeira com fonte CNBC, ambas estrangeiras.
+  - O Item 1 (Microsoft, fonte oficial estrangeira) nao foi contado como 1.2.
+- Teto de indice: 1 item de macro (Item 3).
+- Diversificacao: InfoMoney nao foi usada.
+  - Fontes BR novas ou pouco usadas: Brazil Journal (2x), Metropoles, Jornal do Comercio, O Liberal, Compre Rural.
+  - Forbes Brasil, Bloomberg Linea, Times Brasil e Money Times foram evitadas de proposito.
+  - G1, Estadao e Valor nao apareceram em resultados utilizaveis: os sites estao restritos e nao houve trecho com o fato.
+- Linhas 6 e 7 coexistem, as duas sobre enxugamento, com angulos diferentes: global e com caixa forte (Disney) x exportador brasileiro sob tarifa (BrasPine).
+
+CONSULTAS FEITAS (resumo por linha)
+- L1:
+  - "inteligencia artificial empresas lancamento novembro 2026"
+  - "AI agents enterprise launch November 17, 2026"
+  - Microsoft Ignite 2026 (varias variacoes)
+  - Gemini Decisions API
+  - Agent 365 Cost Management
+  - Itau ia.i PME (09/11, fora da janela)
+  - TechCrunch, startups de IA para pequenas empresas
+- L2:
+  - recuperacao judicial novembro 2026
+  - "17 de novembro de 2026" empresa anuncia
+  - Brazil Journal, NeoFeed, Valor, G1
+  - Reuters, aquisicoes Brasil 16/11
+  - Descartados: Nestle (ciclo antigo), Honda (05/11), Fleury/Atlantica (10/11), Yduqs/Afya (setembro), Casas Bahia
+  - Lupo; Loovi/Justos; ASSA ABLOY/Rometal
+- L3:
+  - IBGE PMS setembro 2026
+  - Serasa inadimplencia outubro/setembro
+  - FGV previa novembro
+  - ABF 3T26
+  - CNI faturamento setembro (+0,8%)
+  - Panorama da Pequena Industria (30/10, fora da janela)
+  - FecomercioSP novembro
+- L4:
+  - PwC survey November 2026; PwC Hopes and Fears; PwC Pulse; PwC US$ 100M critical thinking
+  - EY TFO 2026
+  - Deloitte AI Compounders
+  - McKinsey November 2026; State of Fashion 2027
+  - Gartner; WEF; NFIB outubro
+- L5:
+  - Pronampe prazo; NR-1 (em vigor desde 26/05/2026, sem prazo novo)
+  - 13o salario 2026
+  - PGFN/RFB editais 4 e 5/2026 (nicho)
+  - Desenrola MEI (datas divergentes)
+  - Simples cancelamento IBS/CBS ate 20/12
+- L6:
+  - "CEO steps down November 2026"
+  - layoffs 13, 16 e 17/11
+  - Stellantis/VW; Nestle/Unilever/Starbucks; Apple/Google/Meta; Walmart; Nike/Tesla; Shein/Netflix/Spotify/Disney; BYD Camacari
+  - CNBC por data
+  - Disney 4T (EN e PT)
+  - Home Depot McPhail (reserva)
+  - Qualcomm India (numeros divergentes)
+- L7:
+  - "demissao em massa novembro 2026"; "fecha fabrica novembro 2026"; "PDV novembro 2026"; "Reuters job cuts November 2026"
+  - "encerra operacoes no Brasil"; "fechamento de lojas 2026"; recuperacao judicial
+  - montadoras; bancos fechando agencias
+  - Adama Taquari; Mosaic; BrasPine (2 rodadas, incluindo a checagem final)
+  - Gerdau Divinopolis e Vetorial (fora da janela)
+  - Inonibras (so sindicato); John Deere Catalao (1 fonte)
+  - Upwork (2 rodadas); Boeing (09/11, fora); Umicore
