@@ -1,0 +1,37 @@
+ROTEIRO 1 -- O agente de IA ganhou chefe
+"A Microsoft abriu ontem o Ignite, a conferência anual dela, com uma ideia clara: agente de IA vai ser tratado como funcionário. 🟡`Os agentes entram nas equipes do Teams com identidade própria e um responsável humano definido`🟡, e a empresa testa um controle de gastos com limite e alerta por usuário, por grupo e por agente. Vale lembrar: é a Microsoft vendendo o próprio produto, e boa parte ainda está em teste. 🟡`Se a big tech já dá crachá, chefe e teto de gasto para a IA, quem é o gestor da IA que a sua empresa usa?`🟡 E quanto ela custa por mês?"
+Fonte: Microsoft -- https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/
+
+ROTEIRO 2 -- O concorrente que mudou de endereço
+"A Lupo, marca de meias com mais de 100 anos, vai instalar 200 teares novos na fábrica de Ciudad del Este, no Paraguai, até o primeiro trimestre de 2027. 🟡`A capacidade sobe de 20 para 33 milhões de pares por ano, 65% a mais.`🟡 O motivo, segundo o Brazil Journal: produzir lá custa cerca de 30% menos, com incentivo à exportação, energia e mão de obra mais baratas. A Lupo diz que não tira produção do Brasil. 🟡`O concorrente de amanhã da indústria brasileira pode ser o empresário brasileiro que foi produzir no vizinho.`🟡 Você já fez essa conta?"
+Fonte: Brazil Journal -- https://braziljournal.com/lupo-dobra-aposta-no-made-in-paraguay
+
+ROTEIRO 3 -- O setor que não parava, parou
+"Depois do varejo estável e da prévia do PIB em queda, faltava o dado dos serviços: recuo de 0,1% em setembro, segundo o IBGE. Parece nada, mas 🟡`foi a primeira queda na comparação com o mesmo mês do ano anterior depois de 29 altas seguidas.`🟡 Veio melhor que o esperado, com base alta e um dia útil a menos; não é recessão. Mas olha quem puxou: 🟡`transportes e informação e comunicação, que inclui tecnologia, caíram 0,5% cada.`🟡 🟡`Quando quem vende para outras empresas sente primeiro, costuma ser sinal de que o cliente empresarial está segurando o gasto.`🟡 Seus clientes já estão demorando mais para decidir?"
+Fonte: Metrópoles -- https://www.metropoles.com/brasil/setor-de-servicos-varia-01-em-setembro-diz-ibge
+
+ROTEIRO 4 -- O gargalo é a planilha
+"A EY ouviu 1.600 líderes de finanças e tributos em 30 jurisdições, e o recado é direto: 🟡`64% dizem que a maior barreira para avançar com IA é não ter dados prontos para ela usar.`🟡 E 🟡`só 16% consideram a área tributária muito eficaz em organizar e reaproveitar os próprios dados.`🟡 Detalhe: a EY vende consultoria nessa área, e a amostra é de empresas grandes. 🟡`O gargalo da IA no financeiro não é a ferramenta, é a planilha.`🟡 E muita empresa vai entrar na reforma tributária com esse mesmo dado bagunçado. Como está o seu?"
+Fonte: EY -- https://www.ey.com/en_gl/newsroom/2026/11/ai-ambition-outpaces-data-readiness-in-tax-and-finance-functions-ey-study-finds
+
+ROTEIRO 5 -- A escolha que não volta
+"Semana passada eu falei aqui de como emitir a nota com IBS e CBS. Agora é a escolha do regime. 🟡`Quem está no Simples tem até 20 de dezembro para cancelar a opção pelo regime regular de IBS e CBS para 2027, ou a própria opção pelo Simples.`🟡 São pedidos diferentes, feitos no Portal do Simples, e o cancelamento não tem volta. Como o dia 20 cai num domingo, faça até sexta, 18. 🟡`Essa escolha define quanto crédito do imposto o seu cliente empresa aproveita, ou seja, mexe no preço que ele topa pagar.`🟡 Já revisou isso com seu contador?"
+Fonte: Foco Tributário -- https://focotributario.com.br/simples-nacional-prazo-para-cancelar-opcoes-de-ibs-e-cbs-comeca-nesta-terca-3/
+
+ROTEIRO 6 -- Cortar com o caixa cheio
+"A Disney divulgou ontem um trimestre forte: 🟡`receita de 25,9 bilhões de dólares, alta de 16%, acima do esperado`🟡, com ajuda de uma semana a mais no período. No mesmo dia, anunciou meta de 3 bilhões de dólares em economia de custos até o ano fiscal de 2029, e o diretor financeiro disse à CNBC: esperamos mais demissões. A empresa não disse quantas. 🟡`A Disney não corta porque vai mal; corta enquanto vai bem, porque enxugar estrutura sai mais barato com caixa cheio do que no desespero.`🟡 Quando foi a última vez que você revisou a sua estrutura num mês bom?"
+Fonte: CNBC -- https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html
+
+ROTEIRO 7 -- A terceira leva
+"A BrasPine, uma das maiores madeireiras de pinus do mundo, confirmou o desligamento de cerca de 180 trabalhadores em Jaguariaíva e Telêmaco Borba, no Paraná. As fábricas seguem, mas produzindo menos, e a empresa citou demanda, mercado internacional e a tarifa americana. 🟡`Segundo a imprensa regional, é a terceira leva de demissões em 14 meses`🟡, depois de cerca de 400 em setembro de 2025 e 250 em fevereiro. 🟡`Quando boa parte da receita depende de um único mercado, uma decisão tomada lá fora vira demissão em série aqui dentro.`🟡 Quanto do seu faturamento depende de um só cliente?"
+Fonte: Compre Rural -- https://comprerural.com/braspine-uma-das-maiores-madeireiras-do-mundo-demite-cerca-de-180-trabalhadores-no-parana/
+
+ROTEIRO 8 -- Sucessão virou alvo
+"A gestora Crescera e a consultoria Heartman House montaram uma parceria para comprar empresas médias cujo dono quer sair do dia a dia e não tem sucessor. Segundo o Brazil Journal, 🟡`a meta é captar de 100 a 500 milhões de reais num primeiro fundo, mirando empresas com lucro operacional de 30 a 50 milhões por ano`🟡, que geram caixa e devem pouco. O fundo ainda está em captação. 🟡`Sucessão mal resolvida virou tese de investimento, e nessa mesa quem dita o preço é quem tem o cheque, não quem tem pressa de sair.`🟡 Se você quisesse sair amanhã, sua empresa estaria pronta para essa conversa?"
+Fonte: Brazil Journal -- https://braziljournal.com/um-fundo-para-comprar-empresas-sem-sucessao
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 5] "Você já decidiu, com seu contador, se fica ou sai do regime regular de IBS e CBS em 2027?" Sim, já decidi / Ainda não
+2. [Pergunta/Participacao, Roteiro 8] Caixinha: "Se você quisesse sair do dia a dia da sua empresa amanhã, quem assumiria? Me conta como está a sua sucessão."
+3. [Virar Historia, Roteiro 2 -> Estilo Comparativo] Pôr lado a lado a fábrica no Brasil e a do Paraguai, com custo cerca de 30% menor e capacidade saltando de 20 para 33 milhões de pares, mostra num olhar por que a Lupo dobrou a aposta do outro lado da fronteira.
