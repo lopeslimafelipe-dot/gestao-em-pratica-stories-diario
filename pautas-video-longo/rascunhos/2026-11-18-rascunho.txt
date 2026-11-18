@@ -1,0 +1,66 @@
+RADAR DE REPERCUSSAO -- RASCUNHO 2026-11-18 (Etapa 1)
+
+Checagem de repeticao (ultimos 10 dias de pautas-video-longo/saidas, 08 a 17/11): Nvidia (12/11) e Braskem (14/11) ja foram pauta.
+- Excluidos por repeticao: balanco da Nvidia no 3T fiscal (17/11) + saida de Jensen Huang; prazo da Braskem com credores.
+Obs.: WebFetch nao foi usado; os fatos abaixo foram confirmados por trechos de busca em varios veiculos concordantes. Confirmar na fonte primaria antes de gravar.
+
+CANDIDATO 1 -- Dolar no maior valor em 19 meses (R$ 5,78) com duvidas sobre o ajuste fiscal
+Fato: Na segunda (16/11/2026) o dolar subiu 2,12% e fechou a R$ 5,776, o maior fechamento desde abril de 2025 (maxima intradia de ~R$ 5,79, segundo a Bloomberg Linea). Na terca (17/11) fechou a ~R$ 5,78 (+0,10%), renovando o maior valor em 19 meses. Bolsa caiu ~2,2% na segunda. O motivo apontado pelo mercado: duvida sobre se o pacote de ajuste fiscal sera suficiente para conter a divida publica (o pacote passou no Senado e aguarda a Camara; votacao de destaques adiada para 18/11). Fator externo secundario: expectativa de juros altos nos EUA. Varejistas ainda vendem estoque comprado com cambio mais baixo; a reposicao (inclusive pos-Black Friday, que e em 27/11) tende a vir mais cara. O repasse aos precos nao e imediato e depende de estoque, concorrencia e duracao do movimento.
+Fonte: Bloomberg Linea -- https://www.bloomberglinea.com.br/mercados/dolar-atinge-o-maior-valor-em-19-meses-e-ativos-caem-com-duvidas-sobre-ajuste-fiscal/
+Outras: Metropoles -- https://www.metropoles.com/brasil/dolar-nesta-segunda-16-11 ; ISTOE -- https://istoe.com.br/dolar-dispara-578-maior-valor-19-meses ; Campo Grande News -- https://www.campograndenews.com.br/economia/dolar-dispara-para-r-5-77-e-atinge-maior-valor-em-19-meses ; O Liberal (reposicao de estoque/Black Friday) -- https://www.oliberal.com/economia/dolar-em-alta-pode-pressionar-precos-de-eletronicos-e-importados-na-black-friday-1.1190101
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5 (o "protagonista" e a moeda; todo mundo sente, mas nao e uma marca)
+- Gravidade: 4/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 32/35
+Status: VENCEDOR DO DIA
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score (debate fiscal do governo, votacao no Congresso, cobertura com recorte politico em alguns veiculos). O roteiro NAO comenta o pacote fiscal em si, NAO cita governo/partido/politico, NAO opina se o ajuste e suficiente. Angulo exclusivamente pratico: "o dolar subiu -- o que isso faz com o custo e o preco da sua empresa". Citar "incerteza fiscal" so como o motivo que o mercado aponta, de forma neutra, numa frase.
+Angulo de gestao sugerido: o dolar chega na PME mesmo de quem nao importa nada (insumo, embalagem, combustivel, eletronico, software cobrado em dolar). Cadeia: cambio sobe -> fornecedor repoe estoque mais caro -> repasse com defasagem de semanas/meses -> margem espremida se o dono so descobrir na nota fiscal. Licao: mapear quais custos tem dolar "escondido", conversar com fornecedor antes do reajuste, nao travar preco de longo prazo sem clausula de revisao, e decidir antes se repassa, absorve ou troca de insumo.
+
+CANDIDATO 2 -- Cosan negocia vender fatias da Rumo, Compass e Moove para zerar a divida (e troca o CEO)
+Fato: Segundo o Valor Economico (repercutido em 17/11/2026), a holding Cosan (CSAN3) negocia vender participacoes minoritarias na Rumo, Compass e Moove para zerar uma divida liquida de R$ 9,5 bi (3T26). A Cosan confirmou conversas sobre venda parcial da Rumo e negou ter acordo assinado para a Compass (fala-se em ate 25% para fundo estrangeiro). Em fato relevante de 13/11 anunciou a sucessao do CEO Marcelo Eduardo Martins. Lucro de R$ 190 mi no 3T26.
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/reducao-divida-radar-cosan-csan3-negocia-venda-participacoes-rumo-compass-moove-diz-jornal-lmrs/
+Outras: Money Times -- https://www.moneytimes.com.br/cosan-csan3-negocia-venda-de-participacoes-na-rumo-compass-e-moove-diz-jornal-lmrs/ ; ADVFN (esclarecimento a B3) -- https://br.advfn.com/jornal/2026/11/cosan-nega-acordo-para-venda-de-participacao-na-compass-e-esclarece-negociacao-a-b3
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5 (Cosan e conhecida no mercado; o publico geral conhece mais Rumo/Comgas/Mobil-Shell)
+- Gravidade: 4/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 24/35
+Status: runner-up
+Angulo possivel: vender parte do que e bom para pagar a divida -- quando a divida fica cara, ate empresa lucrativa precisa se desfazer de ativo.
+
+CANDIDATO 3 -- Madeireira multinacional demite ~180 em duas fabricas no Parana por efeito das tarifas dos EUA
+Fato: Demissoes feitas em 12/11 e confirmadas pela empresa em 13/11 nas fabricas de Jaguariaiva e Telemaco Borba (PR). As fabricas seguem operando, mas com capacidade ajustada para 2027; causa apontada: tarifas dos EUA sobre exportacoes brasileiras. Nome da empresa e numeros devem ser confirmados na fonte original (Portal aRede) antes de uso.
+Fonte: ND+ -- https://ndmais.com.br/economia/gigante-mundial-da-industria-madeireira-demite-180-trabalhadores-em-duas-fabricas-no-parana-apos-tarifas-dos-eua-afetarem-exportacoes/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 3/5
+- Polemica adjacente: 4/5 (tarifas EUA)
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5 (dependencia de um unico mercado/cliente)
+TOTAL: 23/35
+Status: runner-up
+
+CANDIDATO 4 -- Black Friday 2026 deve crescer so 1,8% (CNC), travada pelo credito caro
+Fato: A CNC projeta R$ 11,52 bi em vendas na Black Friday 2026 (27/11), alta de 1,8% sobre 2025 (que cresceu 3,2%). Freios: juros de 61,7% a.a. no credito livre a pessoa fisica e 29,6% das familias com contas em atraso. DATA DA PROJECAO NAO CONFIRMADA (pagina-fonte com data incoerente) -- verificar no release da CNC.
+Fonte: brapi (relay de noticia) -- https://brapi.dev/news/cnc-projeta-black-friday-de-2026-em-r-11-52-bi-com-ce33cecf
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 2/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 21/35
+Status: runner-up
