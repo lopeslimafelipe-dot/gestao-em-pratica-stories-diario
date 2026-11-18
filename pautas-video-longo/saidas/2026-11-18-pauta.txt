@@ -1,0 +1,80 @@
+PAUTA DO DIA -- 2026-11-18
+Assunto: Dolar no maior valor em 19 meses (cerca de R$ 5,78): o que o cambio faz com o custo e o preco da sua empresa, mesmo se voce nao importa nada
+Score final: 32/35 (Frescor 5/5 | Relevancia do protagonista 4/5 | Gravidade 4/5 | Polemica adjacente 5/5 | Volume de cobertura 5/5 | Clareza do angulo 4/5 | Identificacao com audiencia 5/5)
+
+Fato central verificado:
+- Segunda-feira, 16/11/2026: o dolar a vista subiu 2,13% e fechou a R$ 5,7770, o maior valor desde abril de 2025. Durante o pregao chegou a R$ 5,79. (Forbes Brasil; SBT News; Bora Investir/B3)
+- Terca-feira, 17/11/2026: o dolar fechou a R$ 5,78 (+0,10%), renovando o maior valor em 19 meses. Na maxima do dia chegou a R$ 5,812 (+0,61%). (Melhor Investimento; Cardinot; InvestNews)
+- Alta acumulada de cerca de 16% desde 23/10, segundo a InvestNews.
+- Motivo apontado pelo mercado, de forma neutra: duvidas sobre o ajuste fiscal. Fatores externos secundarios: sinalizacao de juros mais altos nos EUA (Fed) e petroleo em alta.
+Confirmado via WebSearch em varios veiculos concordantes. WebFetch bloqueado pela rede desta sessao (bloomberglinea.com.br nao resolve), entao nenhuma pagina foi lida na integra.
+
+CORRECOES EM RELACAO AO RASCUNHO:
+(1) Queda da Bolsa na segunda (16/11): o rascunho dizia "~2,2%". O numero confirmado e -1,83%, com o Ibovespa a 169.295 pontos (Bora Investir/B3). Usar -1,83%.
+(2) Ha divergencia entre fontes sobre a etapa da votacao do pacote no Congresso. Como o tema nao entra no video (ver guardrail), nao usar esse detalhe.
+(3) Os numeros de fechamento variam por centavos entre veiculos (R$ 5,77 a R$ 5,78). No video, dizer "perto de R$ 5,78" ou "o maior valor em 19 meses", sem cravar terceira casa decimal.
+
+Cadeia causal (o que levou a isso):
+1. O mercado passa a cobrar mais para carregar ativos brasileiros: duvida sobre as contas publicas, somada a juros altos nos EUA, que puxam dinheiro para la. -> O real se desvaloriza, cerca de 16% em menos de um mes.
+2. O dolar mais caro encarece tudo o que tem componente importado ou cotado em moeda estrangeira: eletronicos, pecas, embalagem, insumo agricola, combustivel, quimicos, frete maritimo e software/assinaturas cobrados em dolar. Em 2025, os insumos importados chegaram a 25,8% de tudo o que a industria de transformacao comprou para produzir.
+3. O efeito nao chega no mesmo dia. Varejistas e distribuidores ainda vendem estoque comprado com cambio mais baixo. Por isso as ofertas da Black Friday (27/11) tendem a se manter, mas a REPOSICAO vem mais cara: e ali que o reajuste aparece.
+4. A defasagem engana: o dono da PME so ve o aumento semanas ou meses depois, na tabela nova do fornecedor ou na nota fiscal. Muitas vezes ja fechou preco com o cliente, ja fez promocao ou ja assinou contrato de prazo longo.
+5. O repasse e assimetrico. Quando o dolar sobe, a cadeia tende a repassar rapido; quando cai, as empresas primeiro recompoem margem. Resultado: quem esta no fim da cadeia, como a PME, absorve o aperto se nao se antecipar.
+6. Licao: o cambio e um custo "escondido" de quase toda empresa. Quem mapeia isso antes decide se repassa, absorve ou troca; quem nao mapeia descobre na margem.
+
+Por que esta repercutindo agora:
+- Frescor (5): dois pregoes seguidos de recorde em 19 meses (16 e 17/11), com cobertura diaria.
+- Volume de cobertura (5) e Identificacao com audiencia (5): o dolar aparece em todo veiculo, e todo dono de empresa sente o efeito no fornecedor, mesmo sem importar.
+- Timing: cai a 9 dias da Black Friday e na fase de reposicao de estoque para o Natal, quando os pedidos aos fornecedores estao sendo fechados.
+- Polemica adjacente (5): o tema encosta no debate fiscal do pais. Isso pesou no score, mas NAO entra no video (ver Ressalva).
+
+Angulo de gestao sugerido:
+"O dolar chegou na sua empresa, mesmo que voce nunca tenha importado nada." Licao pratica para o dono de PME:
+(a) Mapear o "dolar escondido": listar os 10 maiores custos e perguntar ao fornecedor quanto de cada um e importado ou cotado em dolar (insumo, embalagem, peca, equipamento, software, frete).
+(b) Conversar com o fornecedor ANTES da tabela nova: perguntar quando vem o reajuste e se da para antecipar compra de itens criticos, sem estocar alem do que o caixa aguenta.
+(c) Nao travar preco de longo prazo com cliente sem clausula de revisao ligada a custo.
+(d) Decidir com antecedencia, item a item: repassar, absorver por um tempo, trocar por insumo nacional/alternativo ou rever o mix.
+(e) Na Black Friday: cuidado com promocao em cima de produto cuja reposicao ja vai custar mais caro. Desconto calculado sobre o custo antigo pode virar prejuizo na proxima compra.
+Sem nenhuma recomendacao de investimento pessoal ou de "comprar dolar".
+
+Dados de apoio:
+- Dolar a vista: +2,13% em 16/11, a R$ 5,7770, maior valor desde abril de 2025 -- Forbes Brasil: https://forbes.com.br/geral/2026/11/dolar-sobe-213-e-fecha-a-r-577-maior-valor-desde-abril-de-2025/
+- Maxima intradia de R$ 5,79 em 16/11 -- SBT News: https://sbtnews.sbt.com.br/noticia/economia/dolar-fecha-a-r-5-77-maior-valor-desde-abril-de-2025
+- Ibovespa -1,83% em 16/11, a 169.295 pontos -- Bora Investir (B3): https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-183-com-pressao-do-exterior-e-cautela-fiscal-dolar-sobe/
+- Fechamento de 17/11 a R$ 5,78 (+0,10%) -- Melhor Investimento: https://melhorinvestimento.net/noticias/dolar-hoje-578-maior-valor-19-meses ; Cardinot: https://cardinot.com.br/noticias/economia/dolar-chega-a-r-578-e-atinge-maior-cotacao-em-19-meses/
+- Maxima de R$ 5,812 em 17/11 e alta de cerca de 16% desde 23/10 -- InvestNews: https://investnews.com.br/investimentos/dolar-supera-os-r-580/
+- Boletim Focus elevou a projecao do dolar para R$ 5,40 no fim de 2026 e R$ 5,45 em 2027, antes R$ 5,35 e R$ 5,40. O mercado ainda ve o patamar atual acima do esperado para o fim do ano, mas a projecao subiu. -- Forbes Brasil (mesma URL acima)
+- Insumos importados = 25,8% das compras da industria de transformacao em 2025 (25% em 2024; media historica de 22,5%) -- Movimento Economico: https://movimentoeconomico.com.br/economia/industria-empresas/2026/10/28/importados-batem-recorde-de-23-anos-e-ja-representam-283-do-consumo-brasileiro/
+- Repasse assimetrico: quando o dolar sobe, o repasse tende a ser rapido e quase completo; quando cai, as empresas recompoem margem primeiro (economista citado) -- Setcesp: https://setcesp.org.br/noticias/dolar-ou-petroleo-o-que-deve-ficar-mais-caro-e-quais-precos-podem-cair/
+- Estoque antigo segura as ofertas da Black Friday, mas a reposicao tende a vir com reajuste (eletronicos, celulares, TVs, informatica) -- O Liberal: https://www.oliberal.com/economia/dolar-em-alta-pode-pressionar-precos-de-eletronicos-e-importados-na-black-friday-1.1190101 (materia de 03/11, com o dolar ainda perto de R$ 5,40; a pressao so aumentou desde entao)
+
+Ressalva/limite:
+!! GUARDRAIL POLITICO (REGRA DURA): o fator "Polemica adjacente" pesou 5/5 no score (debate fiscal, votacao no Congresso, cobertura com recorte politico). O video NAO comenta o pacote fiscal, NAO cita governo, partido ou politico, NAO opina se o ajuste e suficiente e NAO faz previsao politica. "Incerteza fiscal" entra no maximo numa frase neutra, como o motivo que o mercado aponta. Todo o resto e efeito pratico na empresa.
+- Nao prever para onde o dolar vai. Cambio oscila, e o video pode envelhecer em dias. A licao (mapear custo dolarizado, negociar antes, clausula de revisao) vale com o dolar subindo ou caindo.
+- Nao afirmar que "os precos vao subir X%". O repasse depende de estoque, concorrencia e duracao do movimento, e nenhuma fonte checada quantifica o repasse de novembro de 2026.
+- Nada de recomendacao de investimento (comprar dolar, hedge pessoal etc.).
+- Numeros de fechamento variam por centavos entre veiculos; arredondar ("perto de R$ 5,78").
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico -- "Voce nao importa nada. Mesmo assim, o dolar no maior valor em 19 meses vai aparecer na sua proxima nota de fornecedor."
+- Contexto/causa raiz: dolar perto de R$ 5,78, cerca de 16% de alta em menos de um mes. Uma frase neutra sobre o motivo apontado pelo mercado (incerteza fiscal + juros nos EUA). Sem comentario politico.
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo): onde o dolar se esconde (insumo, embalagem, peca, software, frete; 25,8% das compras da industria sao importadas) -> por que voce ainda nao sentiu (estoque comprado mais barato, Black Friday segurando oferta) -> quando vai sentir (reposicao/Natal) -> por que a PME e quem mais aperta (repasse rapido na subida, margem no fim da cadeia).
+- Licao de gestao (a virada): o cambio e um custo da sua empresa, nao so do importador. Mapear, conversar com o fornecedor antes, clausula de revisao e decidir repasse/absorcao/troca item a item. Cuidado com promocao sobre custo antigo.
+- Fechamento + CTA: "Qual custo seu tem dolar escondido? Comenta aqui" / convite para salvar o checklist dos 10 maiores custos.
+
+Fonte(s):
+- Forbes Brasil -- https://forbes.com.br/geral/2026/11/dolar-sobe-213-e-fecha-a-r-577-maior-valor-desde-abril-de-2025/
+- SBT News -- https://sbtnews.sbt.com.br/noticia/economia/dolar-fecha-a-r-5-77-maior-valor-desde-abril-de-2025
+- Bora Investir (B3) -- https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-183-com-pressao-do-exterior-e-cautela-fiscal-dolar-sobe/
+- InvestNews -- https://investnews.com.br/investimentos/dolar-supera-os-r-580/
+- Melhor Investimento -- https://melhorinvestimento.net/noticias/dolar-hoje-578-maior-valor-19-meses
+- Cardinot -- https://cardinot.com.br/noticias/economia/dolar-chega-a-r-578-e-atinge-maior-cotacao-em-19-meses/
+- Movimento Economico -- https://movimentoeconomico.com.br/economia/industria-empresas/2026/10/28/importados-batem-recorde-de-23-anos-e-ja-representam-283-do-consumo-brasileiro/
+- Setcesp -- https://setcesp.org.br/noticias/dolar-ou-petroleo-o-que-deve-ficar-mais-caro-e-quais-precos-podem-cair/
+- O Liberal -- https://www.oliberal.com/economia/dolar-em-alta-pode-pressionar-precos-de-eletronicos-e-importados-na-black-friday-1.1190101
+- (Fonte do rascunho, nao lida -- dominio bloqueado nesta sessao) Bloomberg Linea -- https://www.bloomberglinea.com.br/mercados/dolar-atinge-o-maior-valor-em-19-meses-e-ativos-caem-com-duvidas-sobre-ajuste-fiscal/
+
+Runners-up do dia (registro/transparencia):
+- Cosan negocia vender fatias da Rumo, Compass e Moove para zerar a divida (e troca o CEO) -- 24/35
+- Madeireira multinacional demite ~180 em duas fabricas no Parana por efeito das tarifas dos EUA -- 23/35
+- Black Friday 2026 deve crescer so 1,8% (CNC), travada pelo credito caro -- 21/35
