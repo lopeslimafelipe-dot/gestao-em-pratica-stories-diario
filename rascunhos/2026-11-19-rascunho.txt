@@ -1,0 +1,151 @@
+RASCUNHO -- ETAPA 1 (PESQUISA) -- 19/11/2026 (quinta-feira)
+Canal: Entre Gestores
+Metodo: 3 subagentes em paralelo (A: linhas 1, 2, 8 / B: linhas 3, 4, 5 / C: linhas 6, 7), cada um com 3 a 4 rodadas de busca por linha em PT e EN (linha 7 tambem em DE), cerca de 150 buscas no total. O WebFetch esta bloqueado, entao TODA a verificacao foi feita por trechos de busca. A Etapa 2 deve re-conferir.
+Itens: 8 | Internacionais (fonte 1.2 ou empresa+fonte estrangeiras): 3 (Item 4 PwC = grande consultoria; Item 6 Home Depot/CNBC+SEC; Item 7 Accenture Portugal/Observador+Publico)
+Nao repeticao conferida contra os rascunhos e saidas de 12, 13, 16, 17 e 18/11.
+Diversificacao de fonte: nenhum item de InfoMoney nem de Agencia Sebrae. Fontes do dia: OpenAI, CNN Brasil, CNI (Portal da Industria), PwC, Gazeta SP/O Povo/DCI, CNBC/SEC, Observador/Publico/RTP, Canaltech/Fast Company Brasil/NeoFeed. G1, Valor e Estadao foram buscados, mas a cobertura de novembro/2026 deles quase nao aparece indexada.
+
+ITEM 1 -- OpenAI lanca o "ChatGPT for Sales": o funil de vendas inteiro dentro do chat
+Categoria: Tecnologia
+Fato: Em 17/11/2026 a OpenAI lancou o ChatGPT for Sales:
+- um plugin proprio de Vendas mais de 30 plugins de parceiros, novos ou ampliados (Salesforce, HubSpot, Close CRM, monday CRM, Gong, Docusign);
+- escolhe contas-alvo, prepara reunioes e, depois delas, redige follow-ups, registra as acoes combinadas e propoe atualizacoes no CRM para revisao humana;
+- o agente "dot" pode receber tarefas e continuar trabalhando entre conversas;
+- admins dos planos Business/Enterprise ativam no Admin Console; nao ha preco separado.
+No mesmo dia saíram os modelos GPT-6.2 Astra e Sol (Astra a US$ 8 / US$ 40 por milhao de tokens de entrada/saida, cerca de 20% mais barato que o GPT-6 Astra).
+Fonte: OpenAI (oficial) -- https://openai.com/index/introducing-chatgpt-for-sales/ ; Technobezz -- https://www.technobezz.com/news/openai-chatgpt-sales-partner-plugins ; BigGo Finance -- https://finance.biggo.com/news/323f863e-11c6-487b-845c-af82612136e3 ; modelos: OpenAI -- https://openai.com/index/introducing-gpt-6-2-astra-sol ; Digital Trends -- https://www.digitaltrends.com/computing/openai-gpt-6-2-astra-sol-launch/
+Relevancia: O CRM, que era "o sistema" da area comercial, vira um plugin dentro de uma interface de chat. Muda o trabalho do vendedor e a disputa entre fornecedores de software de gestao.
+Ressalva tecnica:
+- Verificacao por trechos de busca.
+- Fonte principal e o release da propria OpenAI (interesse comercial); cobertura secundaria e de sites de tecnologia menores.
+- As fontes divergem sobre quais planos tem acesso; nao cravar plano.
+- SATURACAO: e a 3a pauta de OpenAI em 7 dias (Businesses in ChatGPT 13/11, ChatGPT Wallet 17/11). Produto diferente, mas se a Etapa 2 quiser variar a empresa, a RESERVA e o Google Gemini Notebook (ex-NotebookLM), que desde 16/11/2026 cria sites interativos, dashboards de dados e rastreadores de projeto a partir das fontes do caderno, com o comando tipo "make me a site"; liberado no mundo todo para maiores de 18 anos, inclusive Workspace; celular depois; consome limites de computacao, preco nao detalhado. Fontes: Google (oficial) -- https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites ; Digital Trends -- https://digitaltrends.com/computing/gemini-notebook-can-now-turn-your-notes-into-interactive-websites ; Android Authority -- https://androidauthority.com/gemini-notebook-research-interactive-sites-3735782 . Gancho da reserva: o relatorio mensal em PDF que ninguem le vira painel interativo em minutos, sem TI; o gargalo passa a ser ter dado organizado.
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: O vendedor nao vai mais "abrir o CRM" -- a Salesforce e a HubSpot aceitaram virar plugin dentro do ChatGPT. Se ate o dono da ferramenta virou coadjuvante, quanto tempo o seu time comercial ainda gasta preenchendo sistema em vez de vender?
+
+ITEM 2 -- Rede D'Or vende a SulAmerica Investimentos para a BlackRock por ate R$ 850 milhoes
+Categoria: Noticia de empresa
+Fato: Em 18/11/2026 a Rede D'Or anunciou a venda da SulAmerica Investimentos (gestora + DTVM) para a BlackRock:
+- preco de ate R$ 850 milhoes, sujeito a ajustes de caixa liquido e capital de giro: R$ 700 milhoes a vista e ate R$ 150 milhoes variaveis, ligados a metas, pagos no 3o e no 5o aniversario do fechamento;
+- a gestora tem cerca de US$ 17 bilhoes (cerca de R$ 100 bilhoes) sob gestao;
+- fechamento previsto para 2027, dependendo de aprovacoes regulatorias.
+A gestora veio junto quando a Rede D'Or comprou a SulAmerica, cujo interesse principal era o seguro-saude.
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/negocios/rede-dor-vende-sul-america-investimentos-para-blackrock-por-r-850-milhoes/ ; CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/negocios/blackrock-preve-concluir-aquisicao-da-sulamerica-investimentos-em-2027/ ; NSC Total -- https://www.nsctotal.com.br/economia/rede-dor-vende-sulamerica-investimentos-blackrock ; LatinFinance -- https://latinfinance.com/daily-brief/2026/11/18/blackrock-acquires-brazil-asset-manager/ ; Exame -- https://exame.com/invest/mercados/rede-dor-vende-gestora-da-sulamerica-para-a-blackrock-por-r-850-milhoes/
+Relevancia: Caso classico de pos-aquisicao: toda compra traz junto pedacos que nao sao o negocio principal, e a disciplina de vender o que nao e core.
+Ressalva tecnica:
+- Verificacao por trechos de busca; 4+ veiculos concordam no valor.
+- Ha relatorio da XP (https://conteudos.xpi.com.br/acoes/relatorios/rede-dor-rdor3-rede-dor-vende-ativo-da-sulamerica-para-a-blackrock-por-ate-r-850-milhoes) que ve a venda como positiva -- casa de investimento, com vies; nao usar como argumento.
+- Evitar angulo de acao (RDOR3).
+- A data e 18/11 segundo a LatinFinance e a CNN; um subagente encontrou "18 ou 19/11" -- conferir a data do fato relevante.
+- RESERVA da linha: Toyota inaugurou em 18/11/2026 a segunda fabrica de Sorocaba (100 mil veiculos/ano, expansivel a 200 mil), que assume o Corolla sedan feito em Indaiatuba desde 1998 (fabrica fechada em 30/06/2026); cerca de 1,7 mil funcionarios; parte de plano de R$ 11,5 bi ate 2030 (alguns citam R$ 11 bi). Fontes regionais: Jornal Cruzeiro -- https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/11/767960-toyota-inaugura-segunda-fabrica-em-sorocaba-e-anuncia-producao-de-nova-picape.html ; Brasil em Folhas -- https://brasilemfolhas.com.br/2026/11/toyota-inaugura-segunda-fabrica-em-sorocaba/ ; contexto Automotive Business -- https://www.automotivebusiness.com.br/noticias/toyota-fabrica-nova-em-novembro-adeus-a-indaiatuba-em-junho
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Um hospital descobriu que nao precisava ser gestora de fundos de R$ 100 bilhoes. A Rede D'Or comprou a SulAmerica pelo seguro-saude e agora vende o que veio "de brinde". Toda aquisicao -- ate a compra de um concorrente pequeno -- traz um pedaco que voce nao quer; o erro e ficar com ele por vaidade.
+
+ITEM 3 -- Confianca da industria (ICEI/CNI) cai ao menor nivel desde maio de 2020
+Categoria: Macroeconomia-indice
+Fato: Divulgado pela CNI em 13/11/2026: o ICEI de novembro caiu 6 pontos, de 46,2 para 40,2 -- o menor patamar desde maio de 2020 (34,7) e a 3a maior queda em 16 anos, segundo a CNI. Sao 23 meses seguidos abaixo de 50 (linha que separa confianca de falta de confianca). O Indice de Expectativas caiu 7,8 pontos, para 41,5. Amostra: 1.104 empresas (463 pequenas, 407 medias, 234 grandes), ouvidas de 3 a 9/11/2026.
+Fonte: CNI (oficial) -- https://noticias.portaldaindustria.com.br/noticias/economia/icei-tem-3a-maior-queda-em-16-anos-e-cai-ao-patamar-mais-baixo-desde-maio-de-2020-informa-cni/ ; Times Brasil -- https://timesbrasil.com.br/brasil/economia-brasileira/confianca-industrial-atinge-pior-nivel-desde-maio-de-2020/ ; Acessa (republica Agencia Brasil) -- https://www.acessa.com/economia/2026/11/344252-confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020.html ; A Critica -- https://acritica.net/noticias/confianca-da-industria-despenca-e-atinge-menor-nivel-desde-2020-aponta-cni/
+Relevancia: Industria pessimista corta encomenda, estoque e contratacao -- e isso chega na cadeia de fornecedores e servicos nos meses seguintes.
+Ressalva tecnica:
+- Verificacao por trechos de busca; ha pagina oficial da CNI.
+- CNI e entidade patronal, com interesse institucional em pautas de juros e custo.
+- Os subindices de condicoes atuais divergem entre veiculos (37,7 x 41,2): usar so 40,2 / 46,2 / 34,7 / 23 meses / 41,5.
+- Nao confundir com o ICEI de novembro de 2025 (48,3), que aparece nas buscas.
+- Pesquisa de percepcao, nao dado de producao.
+- RESERVA da linha: Boletim Focus de 16/11 (Selic fim de 2027 subiu de 12,50% para 12,75%; PIB 2026 em 1,72%, 5a queda seguida) -- A Critica https://acritica.net/economia/focus-16-novembro-selic-13-75-pib-1-72-dolar-5-40-ipca/ ; Gazeta do Povo https://www.gazetadopovo.com.br/economia/mercado-eleva-previsao-de-inflacao-para-2027-e-reduz-estimativa-para-2026/
+Possivel contradicao com roteiro anterior: O IBC-Br (17/11) e a PMS (18/11) mediram atividade REALIZADA ate setembro; o ICEI mede PERCEPCAO e EXPECTATIVA coletada em novembro. Metodologias e periodos diferentes; na verdade o ICEI e coerente com a desaceleracao do IBC-Br (-0,9% no 3o tri). Nao e contradicao.
+Tese de gancho sugerida: O industrial brasileiro nunca esteve tao pessimista desde a pandemia -- sem pandemia nenhuma. A queda de 6 pontos num mes so e o tipo de sinal que chega no seu pedido de compra, no seu cliente B2B e no seu prazo de recebimento antes de chegar na manchete.
+
+ITEM 4 -- PwC: o consumidor nao esta cortando o Natal, esta cortando quantidade
+Categoria: Tendencia internacional (grande consultoria -- PwC)
+Fato: Pesquisa PwC Australian Holiday Season Consumer Spending Outlook 2026 (pagina de 10/11, release de 13/11/2026), com 1.009 consumidores de 18 a 80 anos:
+- 76% esperam precos mais altos neste fim de ano;
+- mesmo assim, 73% planejam gastar igual ou mais que no ano passado para "proteger o Natal";
+- 58% preferem comprar menos presentes a comprar muitos itens baratos;
+- familias de renda menor sao as que mais cortam;
+- entre quem pretende usar IA nas compras de fim de ano, 70% acham que ela vai facilitar.
+Fonte: PwC Australia (release) -- https://www.pwc.com.au/media/2026/australian-holiday-season-consumer-spending-outlook-2026.html ; PwC Australia (outlook) -- https://www.pwc.com.au/retail-consumer-markets/holiday-outlook.html
+Relevancia: Mostra um comportamento de consumo em ambiente de inflacao -- trocar volume por qualidade -- que muda como montar mix, kit e preco no fim de ano.
+Ressalva tecnica:
+- Verificacao por trechos de busca, a partir de 2 paginas oficiais da propria PwC; NAO ha cobertura independente com os mesmos numeros (as materias australianas encontradas eram de outras pesquisas). Exige re-conferencia pela Etapa 2.
+- PwC vende consultoria de varejo e consumo (interesse comercial).
+- Mercado australiano, amostra de 1.009 pessoas.
+- SUBTEMA: consumo de fim de ano ja apareceu em 12/11 (BCG Black Friday) e 13/11 (EY-Parthenon Natal americano). Diferenciar pelo angulo "menos presentes, mais caros". Escolhido porque e o unico item inedito de grande consultoria (McKinsey, PwC, Deloitte, EY) achado na janela -- buscados e descartados: Deloitte Holiday Retail Survey (setembro), PwC Global CEO Survey (janeiro), EY CEO Outlook (outubro), KPMG CEO Outlook (outubro), McKinsey State of Fashion 2027 (nao achado), McKinsey State of AI (antigo), EY Future Consumer Index (sem edicao de novembro).
+- RESERVA da linha (fora das 4 grandes): NFIB Small Business Optimism de outubro/2026 (EUA, 10/11): indice 97,8; saldo liquido de 37% dos donos planeja subir precos nos proximos 3 meses (maior nivel desde julho de 2022); impostos citados por 21% como problema (+10 pontos, maior desde maio de 2021). Fontes: NFIB -- https://www.nfib.com/wp-content/uploads/2026/11/SBET-Report-October-2026.pdf ; Morningstar/Dow Jones -- https://www.morningstar.com/news/dow-jones/202611103314/us-small-business-confidence-held-steady-in-october
+Possivel contradicao com roteiro anterior: EY-Parthenon (13/11) mostrou Natal americano com gasto resiliente e consumidor de mau humor; BCG (12/11) mostrou desconfianca com desconto. A PwC e outro pais e outra pergunta (intencao de gasto e preferencia de compra) -- nao contradiz; reforca o padrao "gasta, mas desconfiado e seletivo".
+Tese de gancho sugerida: Quase 6 em cada 10 consumidores preferem dar menos presentes e melhores a encher a sacola de coisa barata. Se o seu plano de fim de ano e "baixar preco e girar volume", voce pode estar lendo o cliente ao contrario.
+
+ITEM 5 -- 13o salario: 1a parcela ate 30/11 e 2a ate 18/12 (o dia 20 cai num domingo)
+Categoria: Prazo de Acao (Obrigacao)
+Fato: Prazos do 13o salario de 2026 (Lei 4.090/1962 e Lei 4.749/1965):
+- 1a parcela: ate segunda-feira, 30/11/2026 -- 50% do salario bruto, sem desconto de INSS e IR;
+- 2a parcela: prazo legal 20/12, que em 2026 cai num domingo, por isso o pagamento deve ser antecipado para sexta-feira, 18/12/2026; INSS e IR incidem nesta parcela;
+- quem paga em parcela unica tem de pagar tudo ate 30/11 -- pagar so em dezembro fica fora do prazo.
+DATAS-LIMITE: 30/11/2026 (1a parcela ou parcela unica) e 18/12/2026 (2a parcela).
+Fonte: Gazeta SP -- https://www.gazetasp.com.br/economia/13o-salario-de-2026-tem-primeira-parcela-ate-30-de-novembro-e-segunda-deve-ser-antecipada-para-18-de-dezembro/ ; O Povo -- https://www.opovo.com.br/trends/13o-salario-de-2026-tem-duas-datas-chave-primeira-parcela-ate-30-de-novembro-e-segunda-ate-18-de-dezembro/ ; DCI -- https://www.dci.com.br/economia/13o-salario-2026-empresas-tem-ate-30-de-novembro-para-pagar-primeira-parcela/ ; Diario do Nordeste -- https://diariodonordeste.verdesmares.com.br/negocios/13-salario-em-2026-veja-qual-e-a-data-limite-para-o-pagamento-da-1-parcela-1.3802766
+Relevancia: E o maior desembolso de folha do ano e o calendario de 2026 tira 2 dias do prazo de dezembro; atraso gera multa por empregado.
+Ressalva tecnica:
+- Verificacao por trechos de busca; 4 veiculos concordam. Nenhuma pagina gov.br/MTE apareceu na busca.
+- O 18/12 e antecipacao pratica do prazo legal de 20/12 (domingo); formular como "como o dia 20 cai no domingo, pague ate sexta, 18/12".
+- Nao confundir com o prazo de 20/12 do Simples Nacional (cancelar opcao IBS/CBS), publicado em 18/11.
+- RESERVA da linha: Receita prorrogou ate 30/12/2026 a adesao aos Editais de Transacao RFB no 9 e no 10/2026 (debitos em contencioso administrativo; Edital 10 para debitos de ate 60 salarios minimos por processo) -- Portaria RFB no 742/2026 (DOU 29/10). Fontes: Fenacon -- https://fenacon.org.br/?p=56037 ; LegisWeb -- https://www.legisweb.com.br/noticia/?id=34707 ; CRC-SP -- https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11432
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Faltam 11 dias para o maior pagamento de folha do ano -- e o calendario roubou dois dias de dezembro. Quem deixa o 13o para "o fim do mes" esta planejando o caixa com uma data que este ano nao existe.
+
+ITEM 6 -- Home Depot troca de CEO e poe o CFO no comando num trimestre de menos clientes e ticket maior
+Categoria: Empresa global reconhecida
+Fato: Em 17/11/2026, junto com o resultado do 3o trimestre, a Home Depot anunciou:
+- Ted Decker (em licenca medica desde agosto) deixa o cargo de CEO em 23/11/2026 e segue como chairman;
+- o CFO Richard McPhail (na empresa desde 2005, CFO desde 2019) vira CEO; Ann-Marie Campbell vira presidente e COO; Jordan Broggi vira CFO.
+Resultado do 3T: vendas de US$ 43,4 bi (+4,9%); vendas comparaveis +2,2%; lucro liquido de US$ 3,7 bi; transacoes comparaveis -0,5% e ticket medio +3% (US$ 93,09); projecao de crescimento do lucro por acao cortada para cerca de 1,5% (antes, de 0% a 4%).
+Fonte: CNBC -- https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html ; Transport Topics -- https://www.ttnews.com/articles/home-depot-mcphail-ceo ; WRDW -- https://www.wrdw.com/2026/11/17/home-depot-ceo-steps-down-after-medical-leave-new-leaders-named/ ; SEC (Form 8-K, exhibit 99.1) -- https://www.sec.gov/Archives/edgar/data/0000354950/000035495026000182/exhibit991november2026.htm
+Relevancia: Sucessao de lideranca resolvida por dentro, e um caso claro de crescer em ticket enquanto perde fluxo de clientes.
+Ressalva tecnica:
+- Verificacao por trechos de busca, com documento oficial na SEC.
+- A margem bruta de 32,8% e calculo de analista; nao usar.
+- Dado de remuneracao (chairman US$ 12,8 mi x CEO US$ 11,5 mi) aparece em uma unica fonte; nao usar.
+- RESERVA da linha: Target, em 18/11/2026, teve vendas comparaveis de +5,6% e trafego de +5% (melhor crescimento em cerca de 5 anos), apos cortes de preco; parte do lucro (US$ 0,50 por acao) e reembolso de tarifa. Fontes: CNBC -- https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html ; Fox Business -- https://www.foxbusiness.com/retail/target-price-cuts-help-retailer-post-strongest-sales-growth-years-heading-holidays . (Podem ser combinados: no mesmo setor e na mesma semana, uma cresceu em fluxo, a outra so em ticket.)
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: A maior varejista de material de construcao do mundo vendeu mais para MENOS clientes -- e colocou o "dono da planilha" no comando. E a sucessao foi tranquila porque havia alguem de 21 anos de casa pronto. Se voce ficasse tres meses fora amanha, quem tocaria a sua empresa?
+
+ITEM 7 -- Accenture vai cortar 950 vagas em Portugal nas equipes que moderam conteudo para a Meta
+Categoria: Reestruturacao-corte-fechamento
+Fato: Em 18/11/2026 a Accenture abriu processo para eliminar 950 postos em Portugal ate janeiro de 2027, por saidas voluntarias. Os cortes atingem as equipes de Trust & Safety que moderam conteudo de Facebook, Instagram e WhatsApp para a Meta. Cerca de 1.400 trabalhadores serao consultados (950 e cerca de 17% desse grupo); o Publico estima quase 20% dos cerca de 5.500 funcionarios da empresa no pais. Justificativa: "alteracoes significativas na procura do cliente". Trabalhadores do polo de Miraflores aprovaram greve para 21/11.
+Fonte: Observador -- https://observador.pt/2026/11/18/consultora-accenture-preve-reduzir-950-postos-de-trabalho-em-portugal-ate-janeiro/ ; Publico -- https://www.publico.pt/2026/11/18/economia/noticia/accenture-portugal-abre-processo-eliminar-950-postos-trabalho-ate-janeiro-2195376 ; RTP -- https://www.rtp.pt/noticias/economia/accenture-prepara-saida-de-17-dos-trabalhadores-em-portugal_n1780025 ; Radio Renascenca -- https://rr.pt/noticia/economia/2026/11/18/trabalhadores-da-accenture-anunciam-greve-enquanto-empresa-prepara-corte-de-950-postos-de-trabalho/494170/
+Relevancia: Mostra o risco de concentracao de cliente: a decisao de um unico contratante elimina quase um quinto do quadro de uma multinacional num pais.
+Ressalva tecnica:
+- Verificacao por trechos de busca; 4 veiculos portugueses concordam.
+- Ligar o corte ao uso de IA pela Meta na moderacao e INTERPRETACAO -- a Accenture so falou em "procura do cliente". Nao afirmar.
+- Um veiculo cita terca (17/11) como dia do anuncio; os demais, quarta (18/11).
+- Nenhum bom item brasileiro foi achado na janela para a linha (ver consultas no fim). RESERVAS: Volkswagen -- CEO Oliver Blume defendeu ao Bild (16/11) o plano de mais de 100 mil vagas a menos e meta de margem de 9% em 2030, contra 2,8% em 2025 e no maximo 1% em 2026 (numero de 100 mil nao e novo) -- https://ecomento.de/2026/11/16/volkswagen-ceo-blume-erklaert-abbau-von-100-000-stellen-und-ziele-bis-2030/ ; https://www.t-online.de/finanzen/aktuelles/id_101529794/vw-chef-blume-will-2030-rekordrendite-erreichen.html . Salesforce -- nova rodada de cortes reportada pelo Business Insider em 17/11, sem numero oficial -- https://www.investing.com/news/stock-market-news/salesforce-starts-fresh-round-of-job-cuts-business-insider-reports-5034500 ; https://cxtoday.com/in-brief/salesforce-begins-fresh-round-of-layoffs-reports-say-uWNoud7R5RpCLTX8PCKSyCw
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: Um cliente mudou de ideia e quase 1 em cada 5 empregos de uma multinacional em um pais inteiro sumiu. Se um cliente responde por boa parte do seu faturamento, voce nao tem uma empresa -- tem um departamento terceirizado dele.
+
+ITEM 8 -- "GTA Flu": empresas dao folga ou atrasam o expediente para o lancamento de GTA VI
+Categoria: Livre (curiosidade / gestao de pessoas)
+Fato: Para o lancamento de GTA VI em 19/11/2026:
+- Magalu e KaBuM! liberaram os funcionarios para comecar as 11h em 19/11;
+- a Logitech criou o "Logi Game Day", um dia de folga paga para cerca de 7 mil funcionarios, que pode ser usado ate novembro de 2027;
+- a Pocketpair (do jogo Palworld) deu 5 dias de folga; a Burger Motorsports (EUA) fecha no dia depois de excesso de pedidos de folga; a Atlas Technologies (RS) deu 5 horas de folga remunerada;
+- no Reino Unido, segundo a BrightHR, cerca de 83 mil dias de licenca foram reservados entre novembro e dezembro para jogar.
+Fonte: Canaltech -- https://canaltech.com.br/games/magalu-e-kabum-dao-colher-de-cha-para-funcionarios-jogarem-gta-6-no-lancamento/ ; O Povo -- https://mais.opovo.com.br/colunistas/wanderson-trindade/2026/11/17/empresas-brasileiras-liberam-funcionarios-para-jogar-gta-vi.html ; Fast Company Brasil -- https://fastcompanybrasil.com/games/gta-vi-pode-aumentar-faltas-trabalho-entenda-historia-chamado-gta-flu/ ; NeoFeed -- https://neofeed.com.br/finde/alerta-de-apagao-nos-escritorios-o-videogame-gta-vi-vem-ai/ ; Logitech: GamesBeat -- https://gamesbeat.com/?p=338653 ; Notebookcheck -- https://www.notebookcheck.net/Logitech-is-letting-its-staff-take-a-day-off-just-to-play-GTA-6.1447714.0.html
+Relevancia: Evento cultural de massa vira questao de gestao de pessoas: absenteismo previsivel tratado como beneficio e marca empregadora em vez de "atestado coletivo". Assunto do dia.
+Ressalva tecnica:
+- Verificacao por trechos de busca.
+- Reportagens sao de antes do lancamento; nao se sabe quantos faltaram de fato.
+- A Logitech vende perifericos gamer: a folga tambem e marketing.
+- O dado de 83 mil dias vem da BrightHR, empresa de software de RH (interesse comercial).
+- Magalu ja apareceu em 16/11 (loja fisica 3T), mas o assunto e outro.
+- RESERVA da linha: Meta Muse passou a ligar para estabelecimentos em nome do consumidor nos EUA (12/11/2026), por US$ 20 a US$ 100/mes; muitos estabelecimentos desligam ao perceber que e IA (TechCrunch). Fontes: Android Authority -- https://androidauthority.com/meta-muse-phone-calls-us-paid-subscribers-3734830 ; Digital Trends -- https://digitaltrends.com/computing/meta-muse-ai-phone-calls-paid-subscription
+Possivel contradicao com roteiro anterior: nenhuma.
+Tese de gancho sugerida: A falta vai acontecer de qualquer jeito -- a unica escolha e entre o atestado coletivo e transformar o dia em beneficio. A Magalu trocou duas horas de expediente por engajamento. Quanto custa a sua empresa fingir que hoje e um dia normal?
+
+==================================================
+CONSULTAS POR LINHA (resumo dos subagentes)
+- L1: OpenAI/Anthropic/Google Gemini/Salesforce Agentforce/AWS/Nvidia novembro 2026; "launches" 16, 17, 18 November 2026; IA varejo Black Friday; Omie agentes IA; Zucchetti Copiloto; WhatsApp Business; Pix novidades.
+- L2: resultados 3T26 empresas BR; aquisicao/fusao novembro 2026; inaugura fabrica novembro 2026; recuperacao judicial; Brazil Journal/NeoFeed/Exame/Valor. Descartados: Honda Manaus (05/11), Zara BarraShopping (11/11), Itausa (tema de bolsa), Grupo Toky (sem fato novo), Palo Alto/Applied Compute (so SEC).
+- L3: Caged outubro (ainda nao saiu), Serasa empresas (data/numeros nao confirmados), Serasa consumidor (02/11, fora), FGV previa novembro e ICC (nao saiu), ICEC, Focus 16/11, ICEI CNI novembro.
+- L4: PwC holiday/CEO survey/Hopes and Fears; Deloitte holiday/BFCM/tech; EY CEO Outlook/Future Consumer Index; McKinsey State of Fashion 2027/State of AI/novembro 2026; KPMG CEO Outlook; NFIB outubro.
+- L5: 13o salario 2026; editais RFB 9 e 10 (prorrogacao 30/12); Edital PGFN/RFB 5/2026 (nicho); Receita Social eSocial (so orgaos publicos); Pronampe 20/12 (1 fonte); DeRE IBS/CBS 15/12 (nao verificado).
+- L6: Walmart (resultado nao indexado ainda), Lowe's (pouco gancho), Target (reserva), Home Depot, Nvidia (ja publicado Jensen Huang), Netflix (outubro), "CEO steps down November 2026", layoffs 16-18/11.
+- L7 (Brasil sem item na janela): "demissao em massa novembro 2026", "PDV novembro 2026", "fecha fabrica demissoes novembro 2026", "fechamento de lojas novembro 2026", "recuperacao judicial novembro 2026", "encerra operacoes no Brasil novembro 2026", "17/18 de novembro de 2026 demissao", montadoras, startups, Braskem, Correios, Natura. Fora da janela: CMPC Campos Novos (10/11), Gerdau Divinopolis (03/11), Cisam e Vetorial (inicio de novembro). Aeris (recuperacao extrajudicial de R$ 1,52 bi aprovada 17/11) sem cortes anunciados. Internacionais descartados: Conagra Macon (09/11), BT Group (05/11), Ecolab (1 fonte), Intel (sem numeros), Danone Ochsenfurt (antigo).
