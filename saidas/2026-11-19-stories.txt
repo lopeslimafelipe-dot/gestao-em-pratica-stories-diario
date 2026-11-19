@@ -1,0 +1,37 @@
+ROTEIRO 1 -- O CRM virou plugin
+"A OpenAI lançou nesta semana o ChatGPT for Sales. 🟡`Ele junta um plugin próprio de vendas a mais de 30 plugins de parceiros, como Salesforce, HubSpot, Gong e Docusign`🟡, para preparar reunião, redigir follow-up e propor atualização no CRM, sempre com revisão humana. É anúncio da própria OpenAI, que vende o produto. Mas repara no movimento: 🟡`as donas do CRM aceitaram virar uma peça dentro do chat, porque o vendedor já não quer abrir o sistema.`🟡 Quanto tempo o seu time comercial ainda gasta preenchendo sistema em vez de vender?"
+Fonte: OpenAI -- https://openai.com/index/introducing-chatgpt-for-sales/
+
+ROTEIRO 2 -- O brinde que custava caro
+"A Rede D'Or anunciou a venda da SulAmérica Investimentos, gestora com cerca de 100 bilhões de reais sob gestão, para a BlackRock. 🟡`São até 850 milhões de reais: 700 milhões à vista e até 150 milhões atrelados a metas`🟡, pagos no terceiro e no quinto ano. A gestora veio junto quando a Rede D'Or comprou a SulAmérica de olho no seguro-saúde, e o negócio ainda depende do Banco Central e do Cade. 🟡`Toda aquisição traz um pedaço que não é o seu negócio, e o erro é ficar com ele por vaidade.`🟡 Na sua última compra, o que veio de brinde?"
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/negocios/rede-dor-vende-sul-america-investimentos-para-blackrock-por-r-850-milhoes/
+
+ROTEIRO 3 -- O freio chegou na indústria
+"Ontem eu falei dos serviços, com dado de setembro. Hoje é a confiança da indústria, medida em novembro, e ela confirma o freio. Segundo a CNI, 🟡`o índice caiu 6 pontos em um mês, de 46,2 para 40,2, o menor nível desde maio de 2020`🟡, e já são 23 meses abaixo da linha de 50. É pesquisa de percepção, feita por uma entidade patronal. Mas 🟡`indústria pessimista corta pedido, estoque e contratação, e isso chega no fornecedor antes de chegar na manchete.`🟡 Seu cliente B2B já começou a segurar compra?"
+Fonte: CNI -- https://noticias.portaldaindustria.com.br/noticias/economia/icei-tem-3a-maior-queda-em-16-anos-e-cai-ao-patamar-mais-baixo-desde-maio-de-2020-informa-cni/
+
+ROTEIRO 4 -- Menos presentes, mais caros
+"A PwC ouviu 1.009 consumidores na Austrália sobre as compras de fim de ano. 🟡`76% esperam preços mais altos, mas 73% vão gastar igual ou mais que no ano passado.`🟡 E o dado que mais importa: 🟡`58% preferem dar menos presentes, só que melhores, a encher a sacola de coisa barata.`🟡 É outro país, e a PwC vende consultoria de varejo, mas o padrão é claro: o cliente não está cortando o Natal, está cortando quantidade. 🟡`Se o seu plano é baixar preço e girar volume, você pode estar lendo o cliente ao contrário.`🟡 Que kit premium você monta até dezembro?"
+Fonte: PwC Australia -- https://www.pwc.com.au/media/2026/australian-holiday-season-consumer-spending-outlook-2026.html
+
+ROTEIRO 5 -- O dia 20 não existe
+"Faltam 11 dias para o maior pagamento de folha do ano. 🟡`A primeira parcela do 13º vence segunda, 30 de novembro: metade do salário bruto, sem desconto de INSS e IR.`🟡 Quem paga em parcela única também tem que quitar tudo até lá. E atenção: 🟡`a segunda parcela vence dia 20 de dezembro, que este ano cai num domingo, então pague até sexta, 18.`🟡 🟡`Quem planeja o caixa para o fim do mês está contando com uma data que este ano não existe.`🟡 Seu caixa já está separado? Confere com seu contador."
+Fonte: Gazeta SP -- https://www.gazetasp.com.br/economia/13o-salario-de-2026-tem-primeira-parcela-ate-30-de-novembro-e-segunda-deve-ser-antecipada-para-18-de-dezembro/
+
+ROTEIRO 6 -- Mais caro para menos gente
+"A Home Depot, maior varejista de material de construção do mundo, divulgou o terceiro trimestre: vendas de 43,4 bilhões de dólares, alta de 4,9%. Mas olha a conta por dentro: 🟡`o número de compras nas lojas comparáveis caiu 0,5%, e o tíquete médio subiu 3%, para 93 dólares.`🟡 No mesmo dia, trocou o CEO e colocou o diretor financeiro, de 21 anos de casa, no comando. 🟡`Crescer só no tíquete, com menos clientes passando no caixa, é crescimento que não se sustenta sozinho.`🟡 Na sua empresa, o faturamento sobe por mais clientes ou só por preço?"
+Fonte: CNBC -- https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html
+
+ROTEIRO 7 -- O time que tinha um cliente só
+"A Accenture abriu em Portugal um processo para cortar cerca de 950 vagas até janeiro, por saídas voluntárias. 🟡`O corte mira as equipes que moderam conteúdo de Facebook, Instagram e WhatsApp para a Meta, e equivale a cerca de 17% do quadro no país`🟡, segundo a RTP. A empresa fala em mudança na procura do cliente, e parte dos trabalhadores marcou greve para sábado. 🟡`Quando você monta um time inteiro em volta de um contrato, é o contrato que decide o tamanho da sua empresa.`🟡 Quantas pessoas da sua equipe só existem por causa de um cliente?"
+Fonte: Observador -- https://observador.pt/2026/11/18/consultora-accenture-preve-reduzir-950-postos-de-trabalho-em-portugal-ate-janeiro/
+
+ROTEIRO 8 -- A falta que já estava marcada
+"Hoje sai GTA VI, e tem empresa tratando a data como questão de gestão. 🟡`Magalu e KaBuM! liberaram toda a equipe para começar às 11h, e a Logitech deu um dia de folga paga para cerca de 7 mil funcionários`🟡, que pode ser usado até o ano que vem. Claro, a Logitech vende periférico gamer, então também é marketing, e ninguém sabe ainda quantos faltaram de fato. 🟡`A falta previsível vai acontecer de qualquer jeito; a escolha é entre o atestado coletivo e transformar o dia em benefício.`🟡 Quanto custa fingir que hoje é um dia normal?"
+Fonte: Canaltech -- https://canaltech.com.br/games/magalu-e-kabum-dao-colher-de-cha-para-funcionarios-jogarem-gta-6-no-lancamento/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 4] "Neste Natal, você prefere dar..." Menos presentes, mais caros / Mais presentes, mais baratos
+2. [Pergunta/Participacao, Roteiro 8] Caixinha: "Sua empresa já liberou a equipe num dia de jogo, final ou lançamento? Me conta como foi e se compensou."
+3. [Virar Historia, Roteiro 6 -> Estilo Quadro Branco] Desenhar a conta "vendas = número de compras x tíquete", com -0,5% de um lado e +3% do outro, mostra num traço por que o crescimento da Home Depot veio do preço e não de mais clientes.
