@@ -1,0 +1,84 @@
+PAUTA DO DIA -- 2026-11-19
+Assunto: Anthropic faz o maior IPO da historia (cerca de US$ 81 bi) sem que os fundadores percam o controle da empresa: o que o dono de PME aprende sobre trazer socio e dinheiro de fora
+Score final: 28/35 (Frescor 5/5 | Relevancia do protagonista 4/5 | Gravidade 5/5 | Polemica adjacente 4/5 | Volume de cobertura 5/5 | Clareza do angulo 3/5 | Identificacao com audiencia 2/5)
+
+!! AVISO DE CONFLITO DE INTERESSE (LER ANTES DE TUDO): este briefing foi produzido por um agente que roda num modelo da propria Anthropic (Claude), a empresa protagonista da pauta. O fact-check seguiu o mesmo metodo das outras pautas, e o briefing traz de proposito os pontos negativos (prejuizo, dependencia de poucos clientes, critica de governanca, risco de bolha). Mesmo assim, recomenda-se REVISAO HUMANA da escolha da pauta e do tom. O video nao pode soar como propaganda da empresa nem do produto. Se preferir evitar o problema, o 1o runner-up (ICEI, confianca da industria) e uma alternativa ja pontuada.
+
+Fato central verificado:
+- Na noite de quarta, 18/11/2026, a Anthropic (dona do assistente de IA Claude) precificou o IPO a US$ 83 por acao, acima da faixa indicativa de US$ 70 a US$ 78. (CNBC; FinanceFeeds)
+- Vendeu cerca de 980 milhoes de acoes, mais que os 825 milhoes previstos inicialmente, e captou cerca de US$ 81,3 bilhoes: o maior IPO ja registrado, acima da SpaceX (cerca de US$ 75 bi em junho de 2026). Manchete da CNBC: "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX". (CNBC; FinanceFeeds; Times Brasil/brapi para o numero da SpaceX)
+- Valor de mercado de cerca de US$ 1,5 trilhao no preco do IPO, em base totalmente diluida. (FinanceFeeds/resumos da oferta)
+- Estreia na Nasdaq Global Select Market hoje, quinta 19/11, com o codigo ANT. (CNN; FinanceFeeds; Times Brasil)
+- Demanda: a oferta teria tido procura de cerca de 7 vezes o volume ofertado. Esse numero aparece em resumos de mercado, nao no anuncio oficial. Use "demanda muito acima da oferta", sem cravar o "7x".
+Metodo: confirmado via WebSearch em varios veiculos concordantes. WebFetch esta bloqueado pela rede desta sessao (www.cnbc.com nao resolve), entao nenhuma pagina foi lida na integra. A manchete e o resumo da CNBC batem com o rascunho.
+
+CORRECOES EM RELACAO AO RASCUNHO:
+(1) Nvidia: o rascunho dizia "pior sequencia de quedas desde 2008". O que as fontes sustentam e outra coisa: seis semanas seguidas de queda, a maior sequencia semanal desde 2012, com perda de cerca de US$ 1,4 a 1,7 tri em valor de mercado desde o recorde de outubro. Uma analise diz que a sequencia empata com a mais longa desde 2008, mas a de 2008 foi bem mais funda (cerca de -53%). No video, dizer "a maior sequencia de quedas da Nvidia em mais de uma decada" ou simplesmente nao usar.
+(2) Desempenho do 1o pregao: NAO CONFIRMADO. Ate esta checagem a acao ainda nao tinha estreado, e nenhuma fonte trazia abertura ou fechamento. Conferir antes de gravar. Se nao der, o video nao deve mencionar o preco em bolsa, so a captacao.
+(3) Controle: o rascunho fala em "sete cofundadores e um trust independente seguem no controle". As fontes confirmam o mecanismo, mas divergem no detalhe: os cofundadores tem poder de voto via um veiculo proprio (Founder LLC) e o Long-Term Benefit Trust elege a maioria do conselho (uma fonte fala em 4 de 7). Juntos, conseguem eleger o conselho inteiro, o que faz da Anthropic uma "controlled company" pelas regras da Nasdaq. No video, dizer "os fundadores e um conselho independente ficaram com o controle", sem cravar numero de cadeiras.
+
+Cadeia causal (o que levou a isso):
+1. Crescer em IA custa caro demais para o caixa da propria empresa. O prospecto mostra receita de cerca de US$ 4,6 bi em 2025, 12 vezes a do ano anterior. Mesmo assim a empresa teve prejuizo, porque o gasto com computacao (data centers e chips) cresce mais rapido que a receita. Os compromissos futuros com computacao e infraestrutura somam cerca de US$ 518 bi, e cerca de 80% disso precisa ser pago mesmo que a capacidade nao seja usada.
+2. A escala da conta tira o banco do jogo e encurta a fila de investidores privados. -> A saida e abrir o capital: vender um pedaco da empresa para milhares de investidores na bolsa. Google e Nvidia ainda se comprometeram a comprar US$ 10 bi cada em acoes, condicionados ao IPO.
+3. O dilema classico de quem traz dinheiro de fora: quem poe dinheiro quer voz. Vender acao normalmente significa dividir o controle e passar a ser cobrado por resultado trimestral.
+4. A solucao da Anthropic foi separar DINHEIRO de PODER. O investidor da bolsa compra participacao economica, mas o controle das decisoes fica com os fundadores e com um trust independente que elege a maioria do conselho. E o mesmo principio que muitas empresas de tecnologia usam com acoes de classes diferentes.
+5. Isso tem preco. Gestores de fundos de pensao publicos, como o de Nova York, que tem cerca de US$ 7 mi de exposicao a empresa, criticaram a estrutura por dar pouca voz ao acionista e pediram mais garantias. Investidor que aceita menos voz pode cobrar isso no preco, agora ou mais tarde.
+6. Licao: na hora de trazer socio ou investidor, o desenho de quem manda vale tanto quanto o valor do cheque. Isso vale para um IPO de US$ 81 bi e para a PME que traz um socio-investidor. E o desenho tem de ser feito ANTES do dinheiro entrar.
+
+Por que esta repercutindo agora:
+- Frescor (5) e Gravidade (5): precificacao ontem a noite e estreia hoje, com recorde historico absoluto de captacao, acima da SpaceX de poucos meses atras.
+- Volume de cobertura (5): CNBC, CNN, AP, TechCrunch e Quartz la fora, Seu Dinheiro, Times Brasil e BP Money aqui.
+- Relevancia do protagonista (4): marca central da corrida da IA, embora menos popular no Brasil que o ChatGPT.
+- Polemica adjacente (4): chega no meio do debate sobre "bolha de IA", com a Nvidia em queda forte, e da discussao sobre IA e emprego. Isso pesou no score, mas NAO entra no video (ver Ressalva).
+- Pontos fracos do score: Clareza do angulo (3) e Identificacao com audiencia (2). E preciso traduzir IPO e governanca para a realidade da PME, e o briefing abaixo foi montado para isso.
+
+Angulo de gestao sugerido:
+"A maior captacao da historia foi desenhada para os donos nao perderem o controle. Voce faria o mesmo ao trazer um socio?" Licoes praticas para o dono de PME:
+(a) Separar capital de controle. Socio-investidor pode entrar com dinheiro e ter participacao no lucro sem ter o mesmo peso nas decisoes. Isso se negocia: classes de quotas, quorum para decisoes estrategicas, cadeira no conselho consultivo em vez de poder de veto.
+(b) Escrever o acordo de socios ANTES do dinheiro entrar: quem decide o que, o que exige unanimidade, como se resolve um impasse, como um socio sai (tag along, drag along, direito de preferencia). Depois do cheque, o poder de negociar muda de lado.
+(c) Controle tem custo. Quanto menos voz voce da ao investidor, mais ele tende a pedir em troca (preco menor pela participacao, mais garantias, mais transparencia). Decidir conscientemente quanto controle vale para voce.
+(d) Crescer consome caixa. A Anthropic cresceu a receita 12 vezes e mesmo assim precisou de dinheiro de fora, porque o investimento corre na frente da receita. Na PME o mecanismo e o mesmo, em menor escala: expansao, estoque e equipe chegam antes do faturamento. Planejar a fonte de capital antes de acelerar.
+(e) Bonus, a fragilidade que o prospecto expoe: cerca de 25% da receita vem de dois clientes (Amazon e Google). Concentracao de cliente e risco ate para gigante. Quanto do seu faturamento esta nos 2 maiores clientes?
+SEM recomendacao de investimento: o video nao diz se a acao e boa ou ruim, nao fala em "comprar ANT" e nao faz previsao de preco.
+
+Dados de apoio:
+- Preco de US$ 83, cerca de 980 mi de acoes, cerca de US$ 81,3 bi captados, maior oferta ja registrada, acima da SpaceX -- CNBC: https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html ; FinanceFeeds: https://financefeeds.com/anthropic-ant-stock-first-trade-today-after-83-ipo-bull-104-bear-78/
+- Faixa original de US$ 70-78, 825 mi de acoes, estreia em 19/11 na Nasdaq com codigo ANT -- RTTNews: https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx?type=ipo ; Times Brasil: https://timesbrasil.com.br/empresas-e-negocios/anthropic-define-faixa-de-preco-de-seu-ipo-entre-us-70-e-us-78-e-espera-iniciar-as-negociacoes-em-19-de-novembro-diz-fontes/
+- SpaceX captou US$ 75 bi em junho de 2026 -- brapi: https://brapi.dev/news/anthropic-busca-ate-us-90-4-bi-em-ipo-com-avaliacao-de-4f6e7dd3
+- Google e Nvidia: US$ 10 bi cada em colocacao privada, condicionada ao IPO -- brapi (mesma URL acima)
+- Contexto do mercado no dia da estreia -- CNN: https://www.cnn.com/2026/11/18/investing/anthropic-ipo-wall-street-ai
+- Receita de 2025 de cerca de US$ 4,6 bi (12 vezes a de 2024); compromissos de computacao e infraestrutura de cerca de US$ 518 bi -- InvestmentNews: https://investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+- Prejuizo de 2025: as fontes DIVERGEM. Cobertura baseada na Reuters fala em prejuizo liquido de US$ 42 bi (OfficeChai: https://officechai.com/ai/anthropics-revenue-was-4-6-billion-in-2025-with-a-loss-of-42-billion-its-ipo-prospectus-says/), outra fala em mais de US$ 8 bi de prejuizo operacional. Sao medidas diferentes. No video, dizer apenas "deu prejuizo bilionario", sem cravar o numero.
+- Cerca de 25% da receita vem de Amazon e Google -- Crypto Briefing: https://cryptobriefing.com/anthropic-ipo-amazon-google-revenue/
+- Estrutura de controle (fundadores com voto via Founder LLC, trust elegendo a maioria do conselho, "controlled company") e debate de governanca -- CLS Blue Sky Blog (Columbia Law): https://clsbluesky.law.columbia.edu/2026/10/02/public-purpose-and-founder-control-at-anthropic/?amp=1 ; Trending Topics: https://www.trendingtopics.eu/anthropic-ipo-criticism-founders-power-grab/
+- Critica de governanca de gestor de fundo de pensao publico (carta do controlador da cidade de Nova York, 14/10, cerca de US$ 7 mi de exposicao) -- documento oficial: https://comptroller.nyc.gov/reports/letter-to-anthropic-re-planned-initial-public-offering/
+- Nvidia: seis semanas seguidas de queda, a maior sequencia desde 2012, e perda de mais de US$ 1,4 tri desde o recorde de outubro -- IBTimes: https://www.ibtimes.co.uk/nvidia-loses-market-value-ai-stock-selloff-1830575 (usar no maximo como contexto de uma frase)
+
+Ressalva/limite:
+!! CONFLITO DE INTERESSE: ver aviso no topo. Revisao humana recomendada. Manter os pontos negativos (prejuizo, concentracao de clientes, critica de governanca). Nao elogiar produto nem empresa.
+!! GUARDRAIL POLITICO (REGRA DURA): o fator "Polemica adjacente" pesou 4/5 (bolha de IA, IA e emprego, regulacao). O video NAO opina sobre regulacao de IA, politica de chips, eleicoes ou governos, e NAO cita figura politica de forma critica. A carta do controlador de Nova York entra, SE entrar, so como "investidores institucionais criticaram a estrutura de controle", sem nome e sem juizo sobre quem criticou. O debate "IA vai tirar empregos" fica fora.
+- Nada de recomendacao de investimento: nao dizer se a acao vale a pena, nao citar alvos de preco (os "bull US$ 104 / bear US$ 78" de analistas ficam fora) e nao prever bolha nem alta.
+- Fato em andamento: o desempenho do 1o pregao nao estava disponivel nesta checagem. Confirmar antes de gravar, ou nao mencionar.
+- Numeros arredondados: "cerca de US$ 81 bilhoes", "cerca de US$ 1,5 trilhao". O valor de mercado varia conforme a base de acoes usada.
+- A ponte com a PME precisa ser explicita. Classes de acao e trust nao existem na limitada comum. O equivalente pratico e acordo de socios, quotas preferenciais e quorum qualificado. Recomendar que o espectador consulte advogado societario antes de trazer socio, sem prometer que "da pra fazer igual".
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico -- "Uma empresa acabou de levantar 81 bilhoes de dolares na bolsa, o maior IPO da historia. E os donos desenharam tudo pra nao perder o controle. Voce, quando trouxe um socio, pensou nisso?"
+- Contexto/causa raiz: crescer em IA exige uma conta de computacao gigante. Receita multiplicada por 12 e mesmo assim prejuizo bilionario. O dinheiro tinha de vir de fora.
+- Desenvolvimento da cadeia causal: quem poe dinheiro quer voz -> a solucao foi separar dinheiro de poder (investidor ganha participacao, fundadores e um conselho independente mantem as decisoes) -> isso tem custo (investidores institucionais criticaram, e menos voz pode virar desconto no preco) -> e mesmo gigante tem fragilidade (25% da receita em dois clientes).
+- Licao de gestao (a virada): no seu negocio, o desenho de quem manda vale tanto quanto o valor do cheque. Acordo de socios antes do dinheiro, decisoes que exigem quorum, regra de saida. E planejar de onde vem o capital antes de acelerar o crescimento.
+- Fechamento + CTA: "Se voce tem socio, ou pensa em ter: o seu acordo diz quem decide quando voces discordarem? Comenta aqui." Sem falar da acao nem de investimento.
+
+Fonte(s):
+- CNBC -- https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html
+- FinanceFeeds -- https://financefeeds.com/anthropic-ant-stock-first-trade-today-after-83-ipo-bull-104-bear-78/
+- CNN -- https://www.cnn.com/2026/11/18/investing/anthropic-ipo-wall-street-ai
+- Times Brasil -- https://timesbrasil.com.br/empresas-e-negocios/anthropic-define-faixa-de-preco-de-seu-ipo-entre-us-70-e-us-78-e-espera-iniciar-as-negociacoes-em-19-de-novembro-diz-fontes/
+- InvestmentNews -- https://investmentnews.com/equities/anthropics-landmark-ipo-filing-shows-12-fold-revenue-jump-518b-compute-bill/268391
+- NYC Comptroller (carta oficial) -- https://comptroller.nyc.gov/reports/letter-to-anthropic-re-planned-initial-public-offering/
+- Fontes do rascunho (nao relidas na integra por bloqueio de rede): AP/PBS -- https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion ; TechCrunch -- https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/ ; Seu Dinheiro -- https://www.seudinheiro.com/2026/internacional/anthropic-estreia-na-bolsa-nesta-quinta-19-ipo-sai-a-us-83-por-acao-o-que-o-investidor-precisa-saber-agora-ccgg/
+
+Runners-up do dia (registro/transparencia):
+- Confianca da industria cai ao menor nivel desde maio de 2020 (ICEI 40,2) -- 24/35 (1o runner-up pelo desempate por Gravidade)
+- Accenture corta 950 vagas em Portugal (17% do quadro) apos a Meta reduzir contratos -- 24/35
+- Black Friday 2026 deve crescer so 1,8%, com juro de 61,7% a.a. travando o parcelamento -- 24/35
