@@ -1,0 +1,75 @@
+RADAR DE REPERCUSSAO -- RASCUNHO 2026-11-19 (quinta-feira)
+Etapa 1 (pesquisa e pontuacao). Checagem anti-repeticao: saidas/ de 09/11 a 18/11 (GPA, Casas Bahia, Magalu, Nvidia, Banco do Brasil, Braskem, recorde de RJ, Microsoft 365, chips EUA, dolar).
+Observacao de checagem: WebFetch bloqueado nesta sandbox para infomoney.com.br e portaldaindustria.com.br (nao resolvem na rede da sessao); fatos confirmados por WebSearch com varias fontes concordantes.
+
+DESCARTADOS POR REPETICAO (10 dias):
+- Nvidia: 1o balanco sem Jensen Huang (receita US$ 115,8 bi, acima do esperado) -- Nvidia ja foi pauta em 12/11.
+- Dolar no maior valor em 19 meses (R$ 5,86-5,87) -- ja foi pauta em 18/11.
+
+------------------------------------------------------------
+CANDIDATO 1 -- Anthropic faz o maior IPO da historia (US$ 81 bi) e estreia hoje na Nasdaq
+Fato: A Anthropic (dona do assistente de IA Claude) precificou o IPO na noite de 18/11 a US$ 83 por acao, acima da faixa indicativa de US$ 70-78. Vendeu ~980 milhoes de acoes (contra 825 milhoes planejados), captando ~US$ 81,3 bi -- maior IPO da historia, acima da SpaceX (~US$ 75 bi em junho/2026). Valor de mercado ~US$ 1,5 tri (base totalmente diluida). Estreia na Nasdaq hoje, 19/11, ticker ANT. Os sete cofundadores e um trust independente seguem no controle ("controlled company"), o que gerou critica de governanca do controlador de NY (Mark Levine). Ao mesmo tempo, a Nvidia vive a pior sequencia de quedas desde 2008 -> debate "bolha de IA".
+Fonte: CNBC -- https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html
+Fontes adicionais: AP/PBS -- https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion ; TechCrunch -- https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/ ; Quartz -- https://qz.com/anthropic-ipo-price-record-81-billion-nasdaq-111826 ; Seu Dinheiro -- https://www.seudinheiro.com/2026/internacional/anthropic-estreia-na-bolsa-nesta-quinta-19-ipo-sai-a-us-83-por-acao-o-que-o-investidor-precisa-saber-agora-ccgg/ ; Euronews PT -- https://pt.euronews.com/2026/11/19/anthropic-prepara-ipo-de-15-bilioes-enquanto-nvidia-sofre-pior-serie-de-quedas-desde-2008
+Score de Repercussao:
+- Frescor: 5/5 (precificacao ontem a noite, estreia hoje)
+- Relevancia do protagonista: 4/5 (marca conhecida no mundo da IA; no Brasil menos popular que ChatGPT/OpenAI)
+- Gravidade: 5/5 (recorde historico absoluto de IPO)
+- Polemica adjacente: 4/5 (debate "bolha de IA", Nvidia em queda, IA tirando empregos)
+- Volume de cobertura: 5/5 (CNBC, AP, TechCrunch, Quartz, Seu Dinheiro, Euronews, Times Brasil, BP Money...)
+- Clareza do angulo: 3/5 (IPO/valuation/acao sem voto exige explicar conceitos; angulo possivel: "por que uma empresa abre capital e o que os fundadores fizeram pra nao perder o controle" ou "crescer com dinheiro de socio x dinheiro de banco")
+- Identificacao com audiencia: 2/5 (licao de fundo -- trazer socio/investidor sem perder o controle da empresa -- existe, mas e distante do dia a dia da PME)
+TOTAL: 28/35
+Status: VENCEDOR DO DIA
+!! ALERTA DE CONFLITO DE INTERESSE: este rascunho foi produzido por um agente que roda em um modelo da propria Anthropic (Claude). A pontuacao seguiu os mesmos criterios aplicados aos demais, mas recomenda-se revisao humana da escolha e do tom -- o video NAO deve soar como promocao da empresa; tratar com o mesmo distanciamento critico de qualquer outra pauta (incluir a critica de governanca e o risco de bolha).
+!! FATO EM ANDAMENTO: ate esta checagem (~09h UTC de 19/11) a acao ainda nao tinha estreado; confirmar o desempenho do 1o pregao antes de gravar.
+!! GUARDRAIL: fator "Polemica adjacente" pesou (4/5) por causa do debate sobre bolha de IA/emprego. O roteiro NAO deve opinar sobre regulacao, politica de chips ou figuras politicas -- angulo estritamente de gestao (captacao, controle societario, governanca).
+
+------------------------------------------------------------
+CANDIDATO 2 -- Accenture corta 950 vagas em Portugal (17% do quadro) depois que a Meta reduziu contratos
+Fato: A Accenture abriu em 18/11 processo para eliminar 950 postos em Portugal ate janeiro (~17% dos trabalhadores no pais), ligado a reducao de servicos contratados pela Meta; trabalhadores convocaram greve para sabado. Antes, a empresa ja havia suspendido 100 contratos de forma polemica.
+Fonte: Publico -- https://www.publico.pt/2026/11/18/economia/noticia/accenture-portugal-abre-processo-eliminar-950-postos-trabalho-ate-janeiro-2195376
+Fontes adicionais: Observador -- https://observador.pt/2026/11/18/consultora-accenture-preve-reduzir-950-postos-de-trabalho-em-portugal-ate-janeiro/ ; RTP -- https://www.rtp.pt/noticias/economia/accenture-prepara-saida-de-17-dos-trabalhadores-em-portugal_n1780025 ; Renascenca -- https://rr.pt/noticia/economia/2026/11/18/trabalhadores-da-accenture-anunciam-greve-enquanto-empresa-prepara-corte-de-950-postos-de-trabalho/494170
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5 (IA x emprego, onda global de cortes)
+- Volume de cobertura: 3/5 (forte em Portugal, fraca no Brasil)
+- Clareza do angulo: 4/5 (cliente concentrado -> cliente corta -> empresa corta gente; licao: dependencia de um unico cliente)
+- Identificacao com audiencia: 3/5
+TOTAL: 24/35
+Status: runner-up (2o colocado entre os runners-up pelo desempate por Gravidade)
+
+------------------------------------------------------------
+CANDIDATO 3 -- Black Friday 2026 deve crescer so 1,8%: juro de 61,7% ao ano trava o parcelamento
+Fato: A CNC projeta R$ 11,52 bi em vendas no varejo na Black Friday (27/11), alta de 1,8% -- abaixo dos 3,2% de 2025. Juros de 61,7% a.a. no credito livre a pessoa fisica limitam o parcelamento; 29,6% das familias tem contas em atraso e 81,6% tem dividas.
+Fonte: IstoE Dinheiro (dados CNC) -- https://istoedinheiro.com.br/?p=3482999
+Fontes adicionais: brapi -- https://brapi.dev/news/cnc-projeta-black-friday-de-2026-em-r-11-52-bi-com-ce33cecf ; O Povo -- https://mais.opovo.com.br/jornal/economia/2026/11/13/black-friday-deve-movimentar-rs-2303-milhoes-no-comercio-do-ceara-este-ano-aponta-cnc.html
+Score de Repercussao:
+- Frescor: 2/5 (divulgado por volta de 13/11; tema ganha forca na semana da data)
+- Relevancia do protagonista: 3/5
+- Gravidade: 2/5
+- Polemica adjacente: 4/5 (juro alto, endividamento das familias, cenario pos-eleicao)
+- Volume de cobertura: 3/5
+- Clareza do angulo: 5/5 (juro alto -> cliente nao parcela -> desconto nao basta; licao: margem e caixa na promocao)
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: runner-up (3o colocado entre os runners-up pelo desempate por Gravidade)
+
+------------------------------------------------------------
+CANDIDATO 4 -- Confianca da industria cai ao menor nivel desde maio de 2020 (ICEI 40,2)
+Fato: O ICEI da CNI caiu de 46,2 para 40,2 pontos em novembro (3a maior queda em 16 anos), menor patamar desde maio/2020; 23 meses seguidos de pessimismo; indice de expectativas -7,8 pontos (41,5).
+Fonte: CNI (Agencia de Noticias da Industria) -- https://noticias.portaldaindustria.com.br/noticias/economia/icei-tem-3a-maior-queda-em-16-anos-e-cai-ao-patamar-mais-baixo-desde-maio-de-2020-informa-cni/
+Fontes adicionais: Times Brasil -- https://timesbrasil.com.br/brasil/economia-brasileira/confianca-industrial-atinge-pior-nivel-desde-maio-de-2020/ ; A Critica -- https://acritica.net/noticias/confianca-da-industria-despenca-e-atinge-menor-nivel-desde-2020-aponta-cni/
+Score de Repercussao:
+- Frescor: 1/5 (divulgado em 13/11)
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 5/5 (cenario pos-eleicao, dolar, fiscal)
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 24/35
+Status: runner-up (empate triplo em 24 com Candidatos 2 e 3; desempate por Gravidade: ICEI 4 > Accenture 3 > Black Friday 2 -- ou seja, este e o 1o runner-up)
+!! GUARDRAIL: se escolhido, nao comentar eleicao/governo; angulo = como planejar investimento com confianca baixa.
