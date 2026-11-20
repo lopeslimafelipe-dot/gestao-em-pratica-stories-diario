@@ -1,0 +1,77 @@
+PAUTA DO DIA -- 2026-11-20
+Assunto: Decreto regulamenta a escala 5x2: jornada maxima cai de 44h para 42h em 16/12/2026, sem reducao de salario -- e a hora do funcionario fica ~4,8% mais cara
+Score final: 34/35
+- Frescor: 5/5 (assinado e publicado em 19/11/2026)
+- Relevancia do protagonista: 5/5 (regra que atinge todo empregador CLT do pais)
+- Gravidade: 5/5 (mudanca estrutural de jornada, prazo de 26 dias para adaptar)
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5 (Exame, Band, Gazeta do Povo, Metropoles, O Povo, Agencia Brasil e dezenas de portais)
+- Clareza do angulo: 4/5 (causa -> custo/hora e escala da equipe -> licao de planejamento; parte ainda depende do STF)
+- Identificacao com audiencia: 5/5 (dono de PME com funcionario CLT e afetado diretamente)
+
+Fato central verificado:
+Em 19/11/2026 foi assinado no Palacio do Planalto e publicado em edicao extra do Diario Oficial o Decreto n. 13.173/2026, que regulamenta a Emenda Constitucional 141/2026 (fim da escala 6x1, promulgada em 16/10/2026). Pontos confirmados em multiplas fontes:
+- Em 16/12/2026 a jornada maxima semanal cai de 44h para 42h, com dois dias de descanso semanal remunerado (escala 5x2); em 16/12/2027 cai para 40h.
+- Sem reducao de salario.
+- Divisor do salario-hora: 210 para jornada de 42h e 200 para 40h (antes, 220).
+- Exemplo (calculo sobre os divisores confirmados): salario de R$ 3.000 -> valor-hora vai de R$ 13,64 (/220) para R$ 14,29 (/210), alta de ~4,8%; hora extra de 50% vai de R$ 20,45 para R$ 21,43 (e para R$ 22,50 com 40h, /200).
+- A escala 12x36 nao e extinta, mas tera ajustes/compensacoes via negociacao coletiva.
+Confirmado via busca (WebFetch bloqueado nesta sessao) em: BPMoney, O Povo, Agencia Brasil, Metropoles, Portal do Comercio (CNC), Blog do BG. O numero do decreto (13.173) e a publicacao em edicao extra aparecem em reportagens pos-assinatura; recomendacao: abrir o texto no DOU/Planalto antes de gravar.
+
+Cadeia causal (o que levou a isso):
+1. Congresso promulga a EC 141/2026 em 16/10/2026: fim da 6x1, jornada de 44h -> 42h em ~60 dias e -> 40h 12 meses depois, sem corte de salario; regime diferente do 5x2 so por acordo/convencao coletiva.
+2. Entidades empresariais (CNI, CNC) vao ao STF pedir adiamento/excecao para micro e pequenas empresas. O ministro Flavio Dino, em liminar (meados de novembro), MANTEM o inicio em 16/12/2026, mas flexibiliza a transicao: sem acordo coletivo, admite distribuir as 42h em 5 jornadas de ate 8h24 sem adicional de hora extra sobre os 24 min; folgas nao precisam mais cair obrigatoriamente na mesma semana/mes; e pede ao Congresso que, em 180 dias, discipline regimes diferenciados e regras para MPEs. O julgamento do referendo foi interrompido por pedido de destaque e nao tem data.
+3. Em 19/11 sai o decreto com as regras operacionais -- inclusive os divisores 210/200, que mexem no valor-hora.
+4. Efeito na empresa: mesmo salario dividido por menos horas = hora mais cara -> hora extra, adicional noturno e qualquer verba calculada sobre o valor-hora sobem; quem opera com 6 dias (comercio, servicos, construcao, atendimento de sabado) precisa redesenhar escala, cobertura de turnos e, possivelmente, quadro de pessoal -- tudo em menos de 1 mes.
+5. Parte da regra ainda pode mudar (STF no merito, lei para MPEs), entao a empresa precisa se adaptar agora sem certeza do desenho final.
+
+Por que esta repercutindo agora:
+Pesaram Frescor (decreto de ontem), Gravidade e Identificacao com audiencia: e a regra que vale para praticamente toda empresa com funcionario CLT, com prazo de 26 dias (16/12) caindo justamente no pico de fim de ano do comercio e servicos. A cobertura e massiva e o tema tem alta polemica adjacente (ver ressalva).
+
+Angulo de gestao sugerido:
+"Sua hora de trabalho ficou ~5% mais cara e voce tem 26 dias para refazer a escala." A licao pratica: mudanca regulatoria com prazo curto se resolve com conta e planejamento, nao com espera.
+Checklist para o dono de PME ate 16/12:
+- Refazer a conta do custo/hora da folha com o divisor 210 (e projetar o 200 de 12/2027).
+- Mapear quem hoje trabalha 6 dias / sabados e redesenhar a escala 5x2 (cobertura de turnos, rodizio de folgas).
+- Revisar banco de horas, hora extra recorrente e escalas especiais (12x36).
+- Verificar a convencao coletiva da categoria e o sindicato -- a negociacao coletiva e o caminho previsto para escalas diferentes e para a transicao.
+- Sentar com o contador/RH trabalhista ANTES da folha de dezembro (dezembro tera duas regras: ate 15/12 e a partir de 16/12).
+- Revisar precificacao/margem: se a hora sobe ~4,8%, onde isso entra no preco ou na produtividade?
+
+Dados de apoio:
+- Divisores 210 (42h) e 200 (40h) e critica de que elevam hora extra e encargos -- Fiemg via Metropoles: https://www.metropoles.com/brasil/entidades-reforcam-necessidade-de-ajustes-apos-regulamentacao-da-escala-5x2
+- Tabela salario R$ 3.000: hora R$ 14,29 e HE 50% R$ 21,43 com 42h; HE R$ 22,50 com 40h -- Barbieri Advogados / Jornal Contabil: https://jornalcontabil.com.br/noticia/escala-6x1-como-a-reducao-da-jornada-muda-o-calculo-das-horas-extras/
+- CBIC: prazo de menos de 1 mes "beira a impossibilidade tecnica" -- Blog do BG: https://www.blogdobg.com.br/escala-5x2-setor-produtivo-reclama-do-decreto-e-diz-que-prazo-de-menos-de-um-mes-beira-a-impossibilidade-tecnica/
+- CNC: decreto publicado sem alteracoes significativas; preocupacao com MPEs e atividades continuas -- Portal do Comercio: https://portaldocomercio.org.br/acoes-institucionais/jornada-5x2-decreto-e-publicado-e-cnc-seguira-defendendo-ajustes/
+- EC 141/2026 promulgada em 16/10/2026, 42h em 16/12/2026 e 40h em 16/12/2027 -- Correio da Manha: https://www.correiodamanha.com.br/politica/2026/10/327551-congresso-promulga-fim-da-escala-6x1-e-preve-jornada-de-40-horas.html
+- Liminar Dino: inicio mantido, jornada de ate 8h24 sem HE na transicao, folgas flexiveis, 180 dias para Congresso tratar de MPEs -- Correio do Estado: https://correiodoestado.com.br/economia/2026/11/12/dino-mantem-prazo-inicial-da-5x2-mas-flexibiliza-regra-de-transicao.html
+- Dimensao do impacto: estimativas variam muito por metodologia -- CNC fala em ~14,9 mi de trabalhadores afetados (Metropoles, acima); Ministerio do Trabalho estimava 37,1 mi de celetistas com jornada acima de 41h (NSC Total: https://www.nsctotal.com.br/?p=7955935). Se usar, cite como "milhoes de trabalhadores" ou atribua a fonte.
+
+Ressalva/limite:
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou 5/5 no score. O video NAO pode opinar se a mudanca e boa ou ruim, nem criticar/elogiar governo, presidente, ministros, partidos, sindicatos ou entidades empresariais. Citar decreto, emenda e liminar apenas como fatos normativos. Criticas de entidades (CBIC, CNC, Fiemg) so como dado do tipo "o setor X aponta dificuldade de prazo", nunca como argumento do canal. Angulo 100% pratico.
+- Regra em movimento: a liminar do STF ainda sera referendada/julgada no merito (sem data), a Fiemg sustenta que o divisor 210 contraria a liminar, e o Congresso pode criar regras para MPEs em 180 dias. Dizer no video "regra valida hoje, pode ter ajustes".
+- Os numeros das ADIs citados no rascunho (8041/8042) NAO foram confirmados no fact-check -- nao usar.
+- O valor-hora e calculo aritmetico sobre os divisores do decreto; nao e orientacao juridica individual. Reforcar "confirme com seu contador/advogado trabalhista".
+- Ler o decreto no DOU antes de gravar (WebFetch bloqueado nesta sessao; confirmacao feita por varios veiculos concordantes).
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico -- "O salario do seu funcionario nao mudou. Mas a hora dele ficou quase 5% mais cara -- e voce tem 26 dias pra se adaptar."
+- Contexto/causa raiz: emenda de outubro (44h -> 42h -> 40h), decreto de 19/11 com as regras e a data de 16/12.
+- Desenvolvimento da cadeia causal: divisor 220 -> 210 -> conta do R$ 3.000 (R$ 13,64 -> R$ 14,29; HE R$ 20,45 -> R$ 21,43) -> efeito em escala de sabado, turnos, banco de horas -> o que a liminar flexibilizou (8h24, folgas) -> o que ainda pode mudar.
+- Licao de gestao (a virada): quem refaz a conta e a escala agora decide; quem espera o STF decide sob pressao, na folha de dezembro. Checklist em 3-4 itens.
+- Fechamento + CTA: "Ja refez a conta da sua folha? Manda esse video pro seu contador" / comentar o setor para proximos conteudos.
+
+Fonte(s):
+- Exame -- https://exame.com/brasil/lula-assina-decreto-que-regulamenta-reducao-de-jornada-e-escala-5x2-a-partir-de-dezembro/
+- BPMoney -- https://bpmoney.com.br/economia/lula-assina-decreto-regulamenta-escala-5x2-dezembro/
+- O Povo -- https://mais.opovo.com.br/jornal/economia/2026/11/19/lula-regulamenta-escala-5x2-para-humanizar-o-mundo-do-trabalho.html
+- Agencia Brasil -- https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/lula-assina-decreto-que-regulamenta-escala-de-trabalho-5x2
+- Metropoles -- https://www.metropoles.com/brasil/entidades-reforcam-necessidade-de-ajustes-apos-regulamentacao-da-escala-5x2
+- Gazeta do Povo -- https://www.gazetadopovo.com.br/republica/escala-5x2-o-que-muda-com-o-decreto-de-lula-e-o-que-ainda-depende-do-stf/
+- Portal do Comercio (CNC) -- https://portaldocomercio.org.br/acoes-institucionais/jornada-5x2-decreto-e-publicado-e-cnc-seguira-defendendo-ajustes/
+- Correio do Estado (liminar) -- https://correiodoestado.com.br/economia/2026/11/12/dino-mantem-prazo-inicial-da-5x2-mas-flexibiliza-regra-de-transicao.html
+
+Runners-up do dia (registro/transparencia):
+- Dolar emenda 5 altas seguidas e chega a R$ 5,87, com BC vendendo US$ 1 bi -- 31/35 (repeticao do tema de 18/11)
+- Banrisul: lucro cai 52% no 3T26 e inadimplencia sobe para 4,74% -- 23/35
+- Progen (socia das concessoes do Pacaembu e do Mineirinho) pede recuperacao extrajudicial -- 21/35
