@@ -1,0 +1,37 @@
+ROTEIRO 1 -- O cliente que não é gente
+"O Google liberou de graça o Tasks, o agente do Gemini que trabalha sozinho pelo usuário, em seis países, entre eles Estados Unidos, Japão e Índia. Antes, era recurso do plano pago de 19,99 dólares por mês. 🟡`Nos Estados Unidos, ele já liga para estabelecimentos para comparar preço e checar estoque, avisando que é uma IA`🟡, e o dono pode optar por não receber essas ligações. No Brasil, ainda é só para assinante. 🟡`Em breve, quem atende o seu telefone vai negociar com uma máquina do outro lado.`🟡 O seu atendimento consegue fechar uma reserva com um robô?"
+Fonte: Android Authority -- https://androidauthority.com/google-gemini-tasks-update-3736266
+
+ROTEIRO 2 -- A parcela que acendeu o alarme
+"O Corinthians pediu à Justiça de São Paulo proteção de até 60 dias contra cobranças e bloqueios, para renegociar cerca de 2,8 bilhões de reais em dívidas. Ainda não é recuperação judicial, e a decisão do juiz não tinha saído até agora. 🟡`O gatilho foi o fim do prazo para pagar cerca de 10 milhões em parcelas atrasadas do plano de execuções`🟡, um valor pequeno perto da dívida toda. 🟡`Empresa não quebra pelo tamanho da dívida, quebra pela parcela de amanhã que não cabe no caixa de hoje.`🟡 Você sabe qual é a sua próxima parcela crítica?"
+Fonte: Times Brasil -- https://timesbrasil.com.br/brasil/corinthians-pede-protecao-para-negociar-divida-de-r-28-bi/
+
+ROTEIRO 3 -- A torneira do crédito apertou
+"A Serasa Experian mede quantas empresas vão atrás de crédito. 🟡`Em julho, a procura subia 17,6% sobre o ano anterior; em setembro, só 0,6%.`🟡 No comércio, caiu 1,4%, e na indústria, 3,4%. A Serasa, que vende análise de crédito, fala em concessão mais restritiva, e o dado mede pedido, não empréstimo liberado. 🟡`Quando o banco fecha a torneira, quem pede crédito no aperto paga mais caro, ou nem leva.`🟡 O seu limite foi renovado antes de você precisar dele?"
+Fonte: Jornal do Comércio -- https://www.jornaldocomercio.com/economia/2026/11/1270851-serasa-experian-demanda-das-empresas-por-credito-segue-em-alta-mas-da-sinais-de-desaceleracao.html
+
+ROTEIRO 4 -- Menos malas, mais gasto
+"A Deloitte ouviu 4.272 americanos sobre as viagens de fim de ano. 🟡`Só 47% pretendem viajar, contra 54% no ano passado, 7 pontos a menos`🟡, e a queda pegou até famílias de renda alta. Mas quem vai, gasta mais: o orçamento médio da viagem principal subiu 5%, para 2.792 dólares. É pesquisa de intenção, nos Estados Unidos, e a Deloitte presta consultoria ao setor. 🟡`É o mesmo padrão que venho mostrando aqui: menos clientes, cada um pagando mais.`🟡 O seu negócio está montado para volume ou para quem ainda paga bem?"
+Fonte: Deloitte -- https://www.deloitte.com/global/en/insights/industry/retail-distribution/holiday-travel-survey.html
+
+ROTEIRO 5 -- O prazo real é antes do Natal
+"Quem discute débito com a Receita em processo administrativo ganhou mais tempo. 🟡`A adesão aos Editais de Transação 9 e 10 foi prorrogada até 30 de dezembro`🟡, com descontos que podem chegar a 50%, conforme o edital e o parcelamento. O Edital 10 é o de pequeno valor, até 60 salários mínimos por processo, e vale para MEI, ME e EPP. Atenção: não vale para dívida ativa na PGFN. 🟡`Trinta de dezembro é véspera de Ano-Novo com contador de férias; o seu prazo real é meados de dezembro.`🟡 Já pediu para ele levantar seus processos?"
+Fonte: Fenacon -- https://fenacon.org.br/noticias/receita-federal-prorroga-ate-30-de-dezembro-o-prazo-para-adesao-aos-editais-de-transacao/
+
+ROTEIRO 6 -- Dois anos de queda, no palco
+"A Nike fez o primeiro dia do investidor em nove anos e disse com todas as letras: 🟡`a receita cai algo entre 7% e 9% neste ano fiscal, segue caindo no seguinte e só volta ao ritmo do mercado a partir de 2029.`🟡 A meta é somar cerca de 5 bilhões de dólares em receita até 2031, com margem de 12% a 14%. 🟡`Mostrar dois anos de queda com um plano na mão gera mais confiança que prometer um crescimento que não vem.`🟡 Você teria coragem de levar um plano assim para o seu sócio ou para o seu banco?"
+Fonte: Nike (8-K na SEC) -- https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000207/q2fy27exhibit991investorday.htm
+
+ROTEIRO 7 -- Segurar quem sabe fazer
+"A Marcopolo, líder em ônibus no Brasil, fechou acordo para as fábricas de Caxias do Sul: 🟡`PDV para quem quer sair e suspensão de contratos, o lay-off, de 2 a 5 meses.`🟡 O motivo é a queda na demanda por ônibus novos, e o anúncio veio duas semanas depois de um lucro trimestral 43,4% menor. A empresa não disse quantas pessoas entram. 🟡`Lay-off é uma aposta de que a demanda volta: você segura quem já sabe fazer, sem pagar a folha cheia.`🟡 Na sua empresa, qual função seria impossível recontratar rápido?"
+Fonte: Money Times -- https://www.moneytimes.com.br/marcopolo-pomo4-prepara-demissoes-voluntarias-e-suspensao-de-contratos-apos-queda-nos-resultados-miql/
+
+ROTEIRO 8 -- A Black Friday do relógio
+"A CNC projeta a Black Friday deste ano em 11,52 bilhões de reais, 🟡`alta de só 1,8%, contra 3,2% no ano passado.`🟡 E o Carrefour respondeu com relógio, não só com desconto: mais de 90 hipermercados abertos por 90 horas seguidas, das 6h de quinta, dia 26, até domingo, dia 29. 🟡`Quando o cliente não quer gastar mais, a briga passa a ser por conveniência.`🟡 Mas loja aberta de madrugada custa folha e energia. Você sabe quanto a sua loja margeia por hora aberta?"
+Fonte: Correio do Estado -- https://correiodoestado.com.br/cidades/2026/11/13/carrefour-anuncia-90-horas-sem-fechar-e-5-mil-ofertas-na-black-friday.html
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] "Sua empresa pediu crédito ao banco nos últimos 3 meses?" Sim / Não
+2. [Pergunta/Participacao, Roteiro 1] Caixinha: "Algum cliente já te ligou ou mandou mensagem usando IA? Me conta como foi o atendimento."
+3. [Virar Historia, Roteiro 4 -> Estilo Comparativo] Colocar lado a lado 2025 x 2026, 54% contra 47% viajando e o orçamento subindo 5%, deixa visível num quadro só o padrão "menos clientes, cada um pagando mais".
