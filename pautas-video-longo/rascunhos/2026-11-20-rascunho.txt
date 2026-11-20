@@ -1,0 +1,63 @@
+RADAR DE REPERCUSSAO -- RASCUNHO 2026-11-20 (sexta-feira)
+Checagem de repeticao (saidas/ de 10/11 a 19/11): Casas Bahia, Magalu, Nvidia/Huang, Banco do Brasil, Braskem, recorde de RJs, apagao Microsoft 365, chips EUA, dolar R$ 5,78, IPO Anthropic. Nenhuma pauta anterior sobre jornada/escala 5x2/6x1.
+Obs. de rede: WebFetch bloqueado nesta sessao (exame.com nao resolve); fatos confirmados por trechos de busca em varios veiculos concordantes. Ler o decreto no DOU antes de gravar.
+
+CANDIDATO 1 -- Decreto regulamenta escala 5x2: jornada cai de 44h para 42h em 16/12/2026, sem reducao de salario
+Fato: Em 19/11/2026 foi assinado e publicado em edicao extra do DOU o Decreto 13.173/2026, que regulamenta a transicao da escala 6x1 para 5x2. A jornada maxima semanal cai de 44h para 42h em 16/12/2026 (com dois dias de descanso remunerado) e para 40h em 16/12/2027. Salario preservado: quem ganha R$ 3.000 continua com R$ 3.000, mas o valor-hora de referencia sobe de R$ 13,64 para R$ 14,29. O decreto fixa divisores 210 (42h) e 200 (40h), o que encarece hora extra e encargos (critica da Fiemg). CBIC: prazo de menos de 1 mes "beira a impossibilidade tecnica". CNC: agrava dificuldades de micro e pequenas empresas e atividades continuas; decreto nao trata de MPEs. CNI e CNC questionam a mudanca constitucional no STF (ADIs 8041 e 8042, sem data de julgamento); o STF deu 180 dias ao Congresso para regulamentar regimes diferenciados para MPEs.
+Fonte: Exame -- https://exame.com/brasil/lula-assina-decreto-que-regulamenta-reducao-de-jornada-e-escala-5x2-a-partir-de-dezembro/
+Fontes de apoio: Band -- https://www.band.com.br/politica/lula-assina-decreto-que-regulamenta-reducao-de-jornada-e-escala-5x2 ; Gazeta do Povo -- https://www.gazetadopovo.com.br/republica/escala-5x2-o-que-muda-com-o-decreto-de-lula-e-o-que-ainda-depende-do-stf/ ; Metropoles (reacao das entidades) -- https://www.metropoles.com/brasil/entidades-reforcam-necessidade-de-ajustes-apos-regulamentacao-da-escala-5x2 ; Debate Juridico (calculo da hora) -- https://debatejuridico.com.br/decreto-da-escala-5x2-muda-calculo-da-hora-e-eleva-custo-para-empresas/
+Score de Repercussao:
+- Frescor: 5/5 (assinado e publicado ontem, 19/11)
+- Relevancia do protagonista: 5/5 (regra que atinge todo empregador CLT do pais)
+- Gravidade: 5/5 (mudanca estrutural da jornada, primeira desde 1988, com prazo de menos de 1 mes)
+- Polemica adjacente: 5/5 (debate 6x1 x 5x2, governo x setor produtivo, STF)
+- Volume de cobertura: 5/5 (Exame, Band, Gazeta do Povo, Metropoles, Agencia Senado e dezenas de portais)
+- Clareza do angulo: 4/5 (causa -> efeito no custo/hora e na escala da equipe -> licao de planejamento; ponto de atencao: parte ainda depende do STF)
+- Identificacao com audiencia: 5/5 (dono de PME com funcionario CLT e diretamente afetado em 26 dias)
+TOTAL: 34/35
+Status: VENCEDOR DO DIA
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score (5/5). O roteiro NAO pode opinar se a mudanca e boa ou ruim, nem criticar/elogiar governo, presidente, partidos ou entidades. Citar o decreto como fato normativo ("decreto publicado em 19/11"). Angulo 100% pratico: o que muda na conta do dono de PME (valor-hora +4,8%, hora extra, escala de quem trabalha sabado/comercio), o que fazer ate 16/12 (refazer escala, revisar banco de horas e convencao coletiva, falar com o contador) e o que ainda pode mudar (STF/regras para MPE).
+
+CANDIDATO 2 -- Dolar emenda 5 altas seguidas e chega a R$ 5,87, com BC vendendo US$ 1 bi
+Fato: Em 18/11/2026 o dolar fechou em alta de 1,45%, a R$ 5,8667, quinta alta seguida, pressionado por incerteza fiscal domestica e temor de juros mais altos nos EUA; o BC fez dois leiloes de linha com venda integral de US$ 1 bi. Agregadores do dia 19 citam 6a alta seguida (+1,15%) se aproximando de R$ 6 (fechamento de 19/11 NAO confirmado em fonte primaria).
+Fonte: Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/11/1271090-dolar-tem-5-alta-e-atinge-rs-586-com-riscos-ao-plp-do-ajuste-e-exterior.html
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 31/35
+Status: runner-up (ATENCAO: REPETICAO -- tema dolar ja foi a pauta de 18/11; so usar como atualizacao se o vencedor cair)
+
+CANDIDATO 3 -- Banrisul: lucro cai 52% no 3T26 e inadimplencia sobe para 4,74%
+Fato: O Banrisul lucrou R$ 157,8 mi no 3T26, queda de 52% sobre o 3T25 (R$ 328,8 mi) e de 51,5% sobre o 2T26. Inadimplencia subiu para 4,74% (4,62% no 2T26; 3,55% um ano antes). Uma fonte (TradeMap) traz base diferente (R$ 146,5 mi, -60%) -- usar os numeros majoritarios.
+Fonte: Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/11/1270322-lucro-do-banrisul-cai-52-no-terceiro-trimestre-e-fica-em-rs-1578-milhoes.html
+Score de Repercussao:
+- Frescor: 2/5 (balanco da semana passada)
+- Relevancia do protagonista: 3/5 (forte no RS, regional no resto)
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 23/35
+Status: runner-up (angulo muito parecido com BB de 13/11)
+
+CANDIDATO 4 -- Progen (socia das concessoes do Pacaembu e do Mineirinho) pede recuperacao extrajudicial
+Fato: A Progen S.A. pediu recuperacao extrajudicial; um dos processos tramita no TJSP com valor da causa de R$ 955,6 mi; reportagem cita passivo total acima de R$ 1,6 bi e R$ 530,6 mi sem garantia a renegociar. Data exata do pedido nao confirmada (novembro/2026).
+Fonte: Diario do Comercio -- https://diariodocomercio.com.br/negocios/progen-recuperacao-extrajudicial-mineirinho/
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 2/5 (empresa pouco conhecida; os estadios e que sao famosos)
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 21/35
+Status: runner-up
+
+Descartados por repeticao (mesma empresa nos ultimos 10 dias): Nvidia (balanco recorde de US$ 115,8 bi, 1o apos saida de Huang -- empresa coberta em 12/11); Banco do Brasil (governo avalia trocar presidente -- coberto em 13/11, e troca nao oficializada).
