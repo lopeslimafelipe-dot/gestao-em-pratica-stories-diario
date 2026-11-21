@@ -1,0 +1,79 @@
+PAUTA DO DIA -- 2026-11-21
+Assunto: "Sexta-feira negra" das acoes de IA -- Nasdaq despenca 5,28% e tem a pior semana desde marco de 2020; S&P 500 e Dow Jones entram em correcao
+Score final: 29/35
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+
+Fato central verificado:
+Na sexta-feira, 20/11/2026, Wall Street fechou em forte queda puxada pelas acoes ligadas a inteligencia artificial (dados da Reuters):
+- Nasdaq Composite: -5,28%, a 22.617,73 pontos
+- S&P 500: -3,70%, a 6.910,42 pontos
+- Dow Jones: -1,93%, a 48.147,33 pontos
+- S&P 500 e Dow fecharam mais de 10% abaixo das maximas, o que o mercado chama de "correcao".
+- Na semana, o Nasdaq teve a maior perda percentual desde marco de 2020 (inicio da pandemia) e o S&P 500 a pior semana desde abril de 2025. Foi a 7a queda seguida do S&P 500, a sequencia mais longa desde fevereiro de 2020.
+- Nvidia caiu 13,8% no dia (Reuters; outras fontes arredondam para 14%), depois de a Reuters noticiar, com base em duas fontes, que a fiscalizacao da SEC (orgao regulador do mercado nos EUA) apura possiveis problemas contabeis da empresa. O escopo nao foi divulgado, a Nvidia e a SEC nao comentaram, e uma investigacao nao prova irregularidade.
+- A Anthropic, no 2o pregao depois de abrir capital, caiu 9,1% (Reuters; o rascunho trazia 8,5%, e vale o numero da Reuters).
+- O VIX, o "indicador do medo" de Wall Street, foi ao maior nivel desde abril de 2025 (CNN Portugal).
+Fontes confirmadas: Reuters via Investing.com Brasil (titulo e numeros conferidos na busca) e CNN Portugal. WebFetch bloqueado nesta sessao; fatos conferidos por WebSearch, com varios veiculos concordando.
+
+Cadeia causal (o que levou a isso):
+1. Aposta gigante: as grandes empresas de tecnologia elevaram os planos de investimento em IA (data centers, chips, energia) para cerca de US$ 760 bilhoes em 2026, contra cerca de US$ 413 bilhoes em 2025 (Statista, depois dos balancos do 2o tri). E um gasto feito HOJE, contando com receita que viria DEPOIS.
+2. O preco das acoes ja embutia esse futuro: as empresas da cadeia de IA (Nvidia a frente) foram precificadas como se o retorno fosse certo e rapido.
+3. A duvida aparece: investidores passam a perguntar quando esse investimento vira lucro suficiente pra pagar o custo. Some-se a isso o medo de juros altos por mais tempo nos EUA (inflacao persistente), que encarece o dinheiro e pesa mais sobre empresas avaliadas por lucro futuro.
+4. Gatilhos da semana: a noticia da apuracao da SEC sobre a contabilidade da Nvidia (a acao perdeu cerca de 23% na semana, a pior semana desde 2008, segundo o Motley Fool) e a estreia na bolsa de uma grande empresa de IA abaixo do esperado reforcaram a desconfianca.
+5. Efeito manada: quando o maior nome do setor cai, os fundos vendem o setor inteiro; o medo (VIX) dispara e a queda se espalha para os indices amplos -> correcao no S&P 500 e no Dow.
+Espinha dorsal do video: expectativa alta -> gasto antecipado -> duvida sobre o retorno -> o valor some rapido quando a confianca vira.
+
+Por que esta repercutindo agora:
+- Frescor maximo (fechamento de ontem) e gravidade historica (pior semana do Nasdaq desde o inicio da pandemia; dois indices em correcao).
+- Volume de cobertura alto, no Brasil e no exterior (Reuters, CNN Portugal, Jornal de Negocios, Seu Dinheiro, InfoMoney, Motley Fool, entre outros).
+- "IA" e "Nvidia" sao nomes que todo mundo conhece; a expressao "bolha da IA" virou assunto fora do mercado financeiro.
+
+Angulo de gestao sugerido:
+EXPECTATIVA NAO E CAIXA. Empresas gigantes comprometeram centenas de bilhoes contando com um crescimento futuro; quando o mercado duvidou que o retorno viria no prazo, bilhoes em valor sumiram em dias. Licao para o dono de PME:
+- Nao assuma custo fixo nem divida com base na projecao otimista. Planeje expansao pelo cenario conservador e tenha um plano B se a receita nova atrasar.
+- Investimento grande precisa de marco de retorno: em quanto tempo isso se paga e o que fazer se nao se pagar.
+- Concentracao e risco: quando tudo depende de um unico cliente, produto ou fornecedor, um tropeco dele derruba voce junto (como a Nvidia arrastou o setor).
+Explicar sem jargao de bolsa; a bolsa e so o exemplo, a licao e de gestao de caixa e expansao.
+
+Dados de apoio:
+- Indices de 20/11/2026: Nasdaq -5,28% (22.617,73), S&P 500 -3,70% (6.910,42), Dow -1,93% (48.147,33); maior perda semanal do Nasdaq desde marco de 2020; 7a queda seguida do S&P, a mais longa desde fevereiro de 2020 -- Reuters via Investing.com Brasil: https://br.investing.com/news/stock-market-news/wall-st-fecha-em-forte-queda-com-vendas-no-setor-de-ia-sp-500-e-dow-jones-entram-em-correcao-2134593
+- Nasdaq acumulou cerca de -10% na semana; VIX no maior nivel desde abril de 2025 -- CNN Portugal: https://cnnportugal.iol.pt/nasdaq/nvidia/sexta-feira-negra-para-o-setor-tecnologico-com-o-nasdaq-a-cair-5-28-indicador-do-medo-dispara/20261120/6b00d0c70cf22114c91285be
+- Nvidia: queda perto de 14% em 20/11, quase US$ 500 bilhoes de valor de mercado perdidos em um dia, depois da noticia da apuracao da SEC -- Motley Fool: https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/
+- Nvidia: cerca de -23% na semana, a pior semana desde 2008 -- Motley Fool: https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/
+- Investimento das big techs em IA: cerca de US$ 760 bi em 2026 contra US$ 413 bi em 2025 (estimativa depois dos balancos do 2o tri) -- Statista: https://statista.com/chart/35046/capital-expenditure-of-meta-alphabet-amazon-and-microsoft/
+- No Brasil, 20/11 foi feriado e a B3 nao abriu; o efeito na bolsa brasileira aparece so na reabertura -- InfoMoney: https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/
+
+Ressalva/limite:
+- GUARDRAIL POLITICO (Polemica adjacente pesou 4/5): parte da cobertura liga quedas anteriores deste mes ao resultado da eleicao legislativa dos EUA e a um debate sobre restricoes a data centers. O video NAO comenta politica americana nem brasileira, NAO cita partido nem figura politica e NAO opina sobre se existe ou nao "bolha". O angulo e so gestao: expectativa x caixa.
+- SEC/Nvidia: apuracao noticiada por fontes anonimas (Reuters), escopo desconhecido, sem comentario da empresa. Dizer "esta sendo investigada", nunca "fraudou" ou "maquiou balanco". Investigacao nao prova irregularidade.
+- CONFLITO DE INTERESSE: a Anthropic (empresa do modelo que gera este briefing) aparece no fato. Citar so de passagem e de forma neutra, ou nem citar. Recomenda-se revisao humana do tom.
+- Os numeros variam um pouco entre as fontes (Nvidia -13,8% x -14,01%; Anthropic -9,1% x -8,5%; S&P 6.910,42 x 6.910,39). Usar os da Reuters ou arredondar ("cerca de 14%").
+- O numero do BofA citado no rascunho (45% dos gestores veem a bolha de IA como principal risco) NAO foi confirmado para nov/2026; ele parece ser de nov/2025. Ficou FORA do briefing.
+- Os valores de investimento em IA (US$ 760 bi) sao estimativas de meados de 2026 e variam entre fontes (US$ 700-760 bi). Usar "mais de US$ 700 bilhoes".
+- Nao e recomendacao de investimento: nao dizer "venda", "compre" ou "e hora de entrar".
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico. "Em uma unica semana, as empresas mais badaladas do mundo perderam bilhoes, e nao foi porque deram prejuizo. Foi porque o mercado parou de acreditar na promessa."
+- Contexto/causa raiz: as big techs vao gastar mais de US$ 700 bilhoes em IA este ano, quase o dobro de 2025, pagando hoje por uma receita que so vem depois.
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo): a aposta foi precificada como certa -> surge a duvida sobre quando o retorno vem -> juros altos encarecem a espera -> o maior nome do setor tropeca (apuracao da SEC na Nvidia, -14% no dia) -> efeito manada: o Nasdaq tem a pior semana desde 2020 e o S&P 500 e o Dow entram em correcao.
+- Licao de gestao (a virada): expectativa nao e caixa. Na sua empresa, quantas decisoes de custo fixo ou divida foram tomadas contando com o "mes bom que vem ai"? Planeje pelo cenario conservador, defina em quanto tempo o investimento se paga e evite depender de um unico pilar.
+- Fechamento + CTA: "Se o seu plano de expansao so funciona no cenario otimista, ele nao e um plano, e uma aposta." Puxar pro comentario: qual investimento voce fez contando com uma receita que demorou a chegar?
+
+Fonte(s):
+- Reuters via Investing.com Brasil -- https://br.investing.com/news/stock-market-news/wall-st-fecha-em-forte-queda-com-vendas-no-setor-de-ia-sp-500-e-dow-jones-entram-em-correcao-2134593
+- Terra/Reuters (a mesma materia) -- https://www.terra.com.br/economia/wall-st-fecha-em-forte-queda-com-vendas-no-setor-de-ia-sp-500-e-dow-jones-entram-em-correcao,f6d51a4305695f2eccb3a52b5e9a593dzsff0861.html
+- CNN Portugal -- https://cnnportugal.iol.pt/nasdaq/nvidia/sexta-feira-negra-para-o-setor-tecnologico-com-o-nasdaq-a-cair-5-28-indicador-do-medo-dispara/20261120/6b00d0c70cf22114c91285be
+- Jornal de Negocios -- https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-afunda-sob-pressao-da-ia-nasdaq-recua-mais-de-5-nvidia-desce-14
+- Motley Fool (Nvidia/SEC) -- https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/
+- Statista (investimento em IA) -- https://statista.com/chart/35046/capital-expenditure-of-meta-alphabet-amazon-and-microsoft/
+
+Runners-up do dia (registro/transparencia):
+- SEC investiga a contabilidade da Nvidia; acao cai 14% e tem a 7a semana seguida de queda -- 27/35 (usado so como contexto; a empresa ja foi pauta em 12/11)
+- Black Friday 2026 deve crescer so 1,8%, travada pelo credito caro (CNC) -- 27/35 (boa alternativa 100% Brasil/PME ate 26/11)
+- Etsy recua na clausula de IA sobre o conteudo dos vendedores -- 22/35 (fonte unica, nao verificado)
