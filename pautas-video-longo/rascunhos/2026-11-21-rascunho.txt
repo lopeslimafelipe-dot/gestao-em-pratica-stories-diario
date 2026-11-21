@@ -1,0 +1,64 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-11-21 (sabado)
+Checagem de repeticao (saidas/ 11/11 a 20/11): Nvidia (12/11) e Anthropic (19/11) ja foram pautas. O vencedor abaixo e o MOVIMENTO DE MERCADO (bolsas dos EUA / acoes de IA) e nao uma empresa, mas as duas aparecem no fato. No video, nao centrar em nenhuma das duas.
+Obs. rede: WebFetch bloqueado nesta sessao (infomoney.com.br e eco.sapo.pt sem resolucao). Fatos confirmados por buscas, com varios veiculos concordando.
+
+CANDIDATO 1 -- "Sexta-feira negra" das acoes de IA: Nasdaq tem a pior semana desde marco de 2020
+Fato: Na sexta, 20/11/2026, o Nasdaq Composite caiu 5,28% (22.617,73 pontos), o S&P 500 caiu 3,70% (6.910,39) e o Dow Jones caiu 1,93% (48.147,33). S&P 500 e Dow entraram em correcao (mais de 10% abaixo do pico); o Nasdaq 100 (-5,61% no dia) entrou em mercado de baixa (-20% do pico) e o Nasdaq zerou os ganhos de 2026. Na semana: Nasdaq cerca de -10% (pior semana desde marco de 2020), S&P cerca de -9%, Dow cerca de -8%. O "indicador do medo" (VIX) foi ao maior nivel desde abril de 2025. Gatilhos: venda generalizada de acoes ligadas a IA; Nvidia -14% depois de a Reuters noticiar que a SEC analisa a contabilidade da empresa; a acao da Anthropic caiu 8,5% no 2o pregao depois do IPO. Pano de fundo: duvida se os gastos bilionarios em IA (data centers, energia) vao virar lucro ("bolha da IA"). Pesquisa do BofA: 45% dos gestores veem a bolha de IA como principal risco.
+Fonte: Terra/Reuters -- https://www.terra.com.br/economia/wall-st-fecha-em-forte-queda-com-vendas-no-setor-de-ia-sp-500-e-dow-jones-entram-em-correcao,f6d51a4305695f2eccb3a52b5e9a593dzsff0861.html
+Outras: SpaceMoney -- https://www.spacemoney.com.br/investimentos/acoes/sp500-dow-correcao-nasdaq-2026/ | CNN Portugal -- https://cnnportugal.iol.pt/nasdaq/nvidia/sexta-feira-negra-para-o-setor-tecnologico-com-o-nasdaq-a-cair-5-28-indicador-do-medo-dispara/20261120/6b00d0c70cf22114c91285be | Jornal de Negocios -- https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-afunda-sob-pressao-da-ia-nasdaq-recua-mais-de-5-nvidia-desce-14 | ECO -- https://eco.sapo.pt/2026/11/20/arrastado-pela-inteligencia-artificial-nasdaq-apaga-todos-os-ganhos-e-ja-recua-269-no-ano/ | Seu Dinheiro (Nvidia) -- https://www.seudinheiro.com/2026/internacional/nvidia-cai-14-e-vive-a-pior-sequencia-desde-2008-a-ex-queridinha-de-wall-street-vai-ter-que-desatar-mais-um-no/
+Atencao no fact-check: os percentuais semanais variam um pouco entre as fontes (Dow -7% a -8%; Nasdaq -9% a -10%). Usar "cerca de 10%" e "a pior semana desde o inicio da pandemia". Nao confirmei o efeito no Ibovespa/dolar de 20/11 (20/11 e feriado da Consciencia Negra no Brasil; checar se a B3 abriu).
+Angulo sugerido: euforia x caixa. Empresas gastaram bilhoes contando com um crescimento futuro; quando o mercado duvida que o retorno vem, o valor cai rapido. Licao para o dono de PME: nao comprometer custo fixo e divida com base em projecao otimista; expansao financiada por expectativa e o que quebra quando o cenario vira. Explicar sem jargao de bolsa.
+Score de Repercussao:
+- Frescor: 5/5 (fechamento de ontem, 20/11)
+- Relevancia do protagonista: 4/5 (Wall Street, Nvidia, big techs, "IA": todo mundo conhece, mas o protagonista e difuso)
+- Gravidade: 5/5 (pior semana desde 2020, correcao em dois indices, bear market no Nasdaq 100)
+- Polemica adjacente: 4/5 (debate da "bolha da IA", tensao de mercado global, cenario politico dos EUA citado como gatilho no inicio do mes)
+- Volume de cobertura: 5/5 (Terra/Reuters, SpaceMoney, CNN Portugal, Jornal de Negocios, ECO, Seu Dinheiro, InfoMoney e muitos outros)
+- Clareza do angulo: 3/5 (varias causas ao mesmo tempo: IA, Nvidia/SEC, Anthropic, juros; precisa simplificar)
+- Identificacao com audiencia: 3/5 (o dono de PME nao opera Nasdaq; a licao de expansao por expectativa e de divida contra receita futura e o que conecta)
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+!! GUARDRAIL POLITICO: o fator 'Polemica adjacente' pesou (4/5). Parte da cobertura cita a eleicao legislativa dos EUA (inicio de novembro) como gatilho de quedas anteriores. O roteiro NAO comenta politica americana nem brasileira, nao cita partido ou politico, e nao opina sobre "bolha". O angulo e so gestao: expectativa x caixa.
+!! CONFLITO DE INTERESSE: a Anthropic (empresa do modelo que roda este agente) aparece no fato, com queda de 8,5%. Citar so de passagem, de forma neutra, ou nem citar. Recomenda-se revisao humana do tom.
+
+CANDIDATO 2 -- SEC investiga a contabilidade da Nvidia; acao cai 14% e tem a 7a semana seguida de queda
+Fato: Em 20/11/2026 a Reuters informou (duas fontes) que a equipe de fiscalizacao da SEC examina possiveis problemas contabeis da Nvidia. O escopo nao foi confirmado; o WSJ ja tinha noticiado a apuracao. A acao caiu 14,01%, a US$ 125,53, a 7a semana seguida de queda (maior sequencia desde 2008). A apuracao vem depois da saida de Jensen Huang; Colette Kress (CFO) e CEO interina. A Nvidia nao comentou. Investigacao nao prova irregularidade.
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/internacional/nvidia-cai-14-e-vive-a-pior-sequencia-desde-2008-a-ex-queridinha-de-wall-street-vai-ter-que-desatar-mais-um-no/ (tb. InfoMoney -- https://infomoney.com.br/mercados/acoes-da-nvidia-desabam-noticia-sobre-investigacao-da-sec-sobre-companhia)
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5 (escopo da investigacao desconhecido; risco de especular)
+- Identificacao com audiencia: 2/5
+TOTAL: 27/35
+Status: runner-up (e REPETE EMPRESA da pauta de 12/11; so usar como parte do contexto do Candidato 1)
+
+CANDIDATO 3 -- Black Friday 2026 (27/11) deve crescer so 1,8%, travada pelo credito caro
+Fato: A CNC projeta R$ 11,52 bi em vendas no varejo na Black Friday 2026, alta real de 1,8%, abaixo dos 3,2% de 2025. Motivos citados: juros de 61,7% ao ano no credito livre para pessoa fisica e 29,6% das familias com contas em atraso, o que limita o parcelamento. Moveis e eletrodomesticos devem somar R$ 2,3 bi, mas o segmento ja caia 2,6% em setembro. O IEMI preve queda de 2,5% no varejo restrito em novembro. A data e na proxima sexta-feira.
+Fonte: Economic News Brasil -- https://economicnewsbrasil.com.br/2026/11/13/black-friday-2026-queda-vendas-eletrodomesticos/ (tb. Istoe Dinheiro -- https://istoedinheiro.com.br/?p=3482999 ; Brapi -- https://brapi.dev/news/cnc-projeta-black-friday-de-2026-em-r-11-52-bi-com-ce33cecf). Confirmar no release original da CNC.
+Score de Repercussao:
+- Frescor: 2/5 (projecao divulgada por volta de 13/11; a data em si e daqui a 6 dias)
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 4/5 (juro alto e endividamento das familias)
+- Volume de cobertura: 4/5
+- Clareza do angulo: 5/5
+- Identificacao com audiencia: 5/5
+TOTAL: 27/35
+Status: runner-up (desempate com o Candidato 2 por Gravidade e Frescor, ambos menores aqui). Boa alternativa ate quinta-feira, 26/11, se o dono do canal preferir um tema 100% Brasil/PME.
+
+CANDIDATO 4 -- Etsy recua e vai revisar a clausula que usava conteudo dos vendedores para treinar IA, depois que lojas fecharam em protesto
+Fato: A Etsy disse ao New York Times que vai revisar os termos que permitiam a ela e a parceiros usar o conteudo dos vendedores para treinar IA. Os termos entrariam em vigor em 16/12. Algumas lojas fecharam em protesto. Nao verifiquei em fonte primaria (achado em um unico resultado de busca).
+Fonte: pasqualepillitteri.it (via NYT) -- https://pasqualepillitteri.it/pt/news/35680/etsy-anuncia-revisao-da-clausula-de-ia-apos-lojas
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 2/5
+- Gravidade: 2/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 22/35
+Status: runner-up (fraco; precisa de checagem)
