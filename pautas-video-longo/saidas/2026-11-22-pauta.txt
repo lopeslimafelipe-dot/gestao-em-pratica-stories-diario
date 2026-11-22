@@ -1,0 +1,77 @@
+PAUTA DO DIA -- 2026-11-22
+Assunto: Black Friday 2026 travada pelo juro: CNC preve volume recorde desde 2014, mas a menor alta em anos (+1,8%)
+Score final: 26/35
+- Frescor: 2/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 2/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 5/5
+- Identificacao com audiencia: 5/5
+(Obs. da Etapa 1: score abaixo dos dias anteriores, entre 28 e 34. E uma pauta util e oportuna, nao algo bombando. Nenhum fato mais quente apareceu ate a Etapa 2.)
+
+Fato central verificado:
+A CNC (Confederacao Nacional do Comercio) projeta que a Black Friday de 2026 (sexta, 27/11) movimente R$ 11,52 bilhoes no varejo, o maior volume desde 2014. O crescimento, porem, e de so 1,8% sobre 2025, contra alta de 3,2% no ano passado. A CNC atribui o freio ao credito: juro medio de 61,7% ao ano no credito livre para pessoa fisica (dado do Banco Central, o maior para o periodo desde 2017) e 29,6% das familias com contas em atraso. Por segmento: eletroeletronicos e utilidades domesticas R$ 4,70 bi; moveis e eletrodomesticos R$ 2,28 bi; hiper e supermercados R$ 2,04 bi; vestuario e acessorios R$ 1,47 bi. A CNC aponta ainda que eletrodomesticos (+11,91%), fones de ouvido (+10,56%) e itens de pet shop (+10,25%) ja subiram de preco antes da data, sobrando pouco espaco para desconto real.
+Checagem: confirmado por busca, com trechos coincidentes em IstoE Dinheiro, BPMoney e no agregador brapi.dev (que reproduz a materia "Vendas da Black Friday somam R$ 11,52 bi, alta de 1,8% travada pelo credito"). O WebFetch direto no InfoMoney foi bloqueado pela rede desta sessao, entao a URL principal foi conferida so pelos resultados de busca.
+
+Cadeia causal (o que levou a isso):
+1. Juro alto por muito tempo: a Selic ficou em 15% ao ano de junho/2025 a marco/2026, o maior nivel em quase 20 anos. Desde abril/2026 houve cinco cortes, mas em 04/11/2026 o Copom parou em 13,75%. O juro na ponta, para o consumidor, continua altissimo: 61,7% ao ano no credito livre para pessoa fisica.
+->
+2. Consumidor endividado e com parcela cara: 81,6% das familias tem alguma divida e cerca de 29% estao com contas em atraso (29,6% em setembro, 29,3% em outubro, pela Peic/CNC). 19,3% das familias comprometem mais da metade da renda com dividas.
+->
+3. O parcelamento, motor dos produtos de ticket alto, perde forca. Isso aparece antes da data: em setembro, as vendas de moveis e eletrodomesticos cairam 2,6% sobre agosto (IBGE), a maior queda entre os segmentos do varejo, enquanto o varejo como um todo ficou quase parado (+0,2%).
+->
+4. Do lado da oferta, parte dos produtos subiu de preco antes da Black Friday (eletrodomesticos +11,91%, fones +10,56%), o que reduz a margem para desconto de verdade.
+->
+5. Resultado: o volume em reais ainda cresce (R$ 11,52 bi), mas o crescimento real desacelera para 1,8%. A data continua grande, so que mais disputada e com cliente mais seletivo.
+
+Por que esta repercutindo agora:
+- Faltam 5 dias para a Black Friday (27/11). E a semana em que o dono de PME decide se entra, com quais produtos e com que desconto (Identificacao com audiencia 5/5).
+- A historia e facil de contar: "a data e recorde em volume, mas cresce menos por causa do juro" (Clareza do angulo 5/5).
+- Cobertura ampla na imprensa de economia e o tema esquenta nesta semana (Volume 4/5). A projecao em si e de meados de novembro (Frescor 2/5); o gancho e o evento.
+- Polemica adjacente 4/5: juro e endividamento sao debate economico nacional. NAO e o angulo do video (ver Ressalva).
+
+Angulo de gestao sugerido:
+"Black Friday com juro alto: venda que nao da lucro e prejuizo com fila na porta." Com credito caro e cliente apertado, quem entra na data sem conta feita vende mais e ganha menos. Licoes praticas para o dono de PME:
+- Faca a conta de margem por produto antes de definir desconto: qual desconto maximo ainda deixa lucro depois de taxa de cartao, frete e comissao.
+- Se o seu fornecedor ja subiu o preco (caso de eletrodomesticos e fones), o espaco para desconto real e menor. Prefira menos itens com desconto de verdade a "metade do dobro" (que queima reputacao).
+- Parcelamento sem juros com cliente endividado tem custo para a empresa (antecipacao de recebiveis, taxa da maquininha). Coloque esse custo no preco ou ofereca vantagem a vista/Pix.
+- Estoque: compre para a demanda real, nao para o "recorde" da manchete. Crescimento de 1,8% nao justifica dobrar a compra; sobra de estoque em dezembro vira caixa parado.
+- Se o seu segmento e ticket alto (moveis, eletro), espere um cliente mais seletivo. Se e ticket baixo ou servico, a data pode ser oportunidade para atrair cliente novo, nao so para dar desconto.
+
+Dados de apoio:
+- Projecao CNC 2026: R$ 11,52 bi, +1,8% (contra +3,2% em 2025); juro de 61,7% a.a. no credito livre PF; 29,6% das familias com contas em atraso; R$ 4,70 bi eletroeletronicos/utilidades, R$ 2,28 bi moveis/eletro, R$ 2,04 bi hiper/super, R$ 1,47 bi vestuario. Fonte: IstoE Dinheiro / BPMoney / InfoMoney (URLs abaixo).
+- Precos que ja subiram antes da data: eletrodomesticos +11,91%, fones +10,56%, pet shop +10,25% (CNC). Fonte: mesmas materias acima.
+- Varejo em setembro/2026 (IBGE, divulgado em 13/11): +0,2% sobre agosto; moveis e eletrodomesticos -2,6% (maior queda entre os segmentos); informatica e comunicacao +7,6%; hiper e supermercados -0,5%. Fonte: IstoE -- https://istoe.com.br/vendas-comercio-setembro-2026-ibge | Bora Investir (B3) -- https://borainvestir.b3.com.br/noticias/vendas-no-comercio-variam-02-em-setembro-ibge-mostra-estabilidade/ | Economic News Brasil -- https://economicnewsbrasil.com.br/2026/11/13/black-friday-2026-queda-vendas-eletrodomesticos/
+- Endividamento (Peic/CNC, outubro/2026): 81,6% das familias endividadas; inadimplencia 29,3% (contra 29,6% em setembro), menor nivel de 2026; 19,3% das familias comprometem mais da metade da renda com dividas; 48,8% das contas em atraso estao vencidas ha mais de 90 dias. Fonte: Paraiba Business -- https://paraibabusiness.com.br/endividamento-recua-a-816-e-inadimplencia-cai-a-293-em-outubro-diz-cnc/ | Correio da Manha -- https://www.correiodamanha.com.br/economia/2026/11/333155-dividas-pesam-no-bolso-de-8-em-cada-10-familias.html
+- Selic: Copom manteve em 13,75% a.a. em 04/11/2026, depois de cinco cortes desde abril; ficou em 15% de jun/2025 a mar/2026. Fonte: IstoE -- https://istoe.com.br/copom-mantem-selic-1375-novembro-2026 | Folha de Pernambuco -- https://www.folhape.com.br/economia/banco-central-surpreende-e-mantem-juros-basicos-em-1375-ao-ano/522444/
+
+Ressalva/limite:
+- !! GUARDRAIL POLITICO: o fator "Polemica adjacente" (4/5) pesou no score. O video fala SO do efeito do juro e do endividamento no caixa, na margem e na venda da empresa. NAO comentar a politica monetaria nem o Banco Central como decisao, NAO citar governo, partido ou figura politica, NAO tomar posicao sobre quem e culpado pelo juro alto. Selic e juro entram como dado de contexto, nunca como critica.
+- Comparacao com anos anteriores: a CNC projetou R$ 5,4 bi para a Black Friday de 2025. O salto para R$ 11,52 bi em 2026 sugere mudanca de metodologia ou de abrangencia. NAO dizer "dobrou em relacao a 2025"; usar so o crescimento de 1,8% e o "maior volume desde 2014", como a propria CNC informa.
+- Inadimplencia: o 29,6% citado pela CNC e o dado de setembro; o de outubro ja saiu e e 29,3%. Se citar, preferir "cerca de 3 em cada 10 familias com contas em atraso".
+- O rascunho trazia smartphones (-3,66%) e notebooks (-3,68%) como os itens de maior potencial de desconto. Esses numeros NAO foram confirmados nesta checagem e ficaram fora do briefing.
+- E projecao, nao resultado. O dado real so sai depois de 27/11.
+- Nao e recomendacao de compra ou investimento para pessoa fisica; o foco e a decisao do dono de empresa.
+- Antes de gravar, abrir a URL do InfoMoney e conferir os numeros (o acesso direto foi bloqueado nesta sessao).
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico -- "A Black Friday deste ano vai ser a maior desde 2014 e, mesmo assim, muito lojista vai sair dela no prejuizo."
+- Contexto/causa raiz: a projecao da CNC (R$ 11,52 bi, so +1,8%) e o freio: credito a 61,7% ao ano e cerca de 3 em cada 10 familias com contas atrasadas.
+- Desenvolvimento da cadeia causal: juro alto -> parcela cara -> cliente endividado corta o ticket alto (moveis/eletro ja cairam 2,6% em setembro) -> fornecedor subiu preco antes da data -> sobra pouco desconto real -> volume cresce, margem encolhe.
+- Licao de gestao (a virada): Black Friday nao e sobre vender mais, e sobre vender com lucro. Conta de margem por produto, custo do parcelamento no preco, estoque para a demanda real, desconto de verdade em poucos itens.
+- Fechamento + CTA: "Antes de sexta, pega os seus 5 produtos mais vendidos e calcula o desconto maximo que ainda da lucro." + CTA do canal.
+
+Fonte(s):
+- InfoMoney -- https://www.infomoney.com.br/economia/vendas-black-friday-2026-juros-inflacao-cnc/
+- IstoE Dinheiro -- https://istoedinheiro.com.br/black-friday-2026-vendas-juros-altos-cnc
+- BPMoney -- https://bpmoney.com.br/economia/black-friday-2026-juros-vendas-cnc/
+- brapi.dev (reproducao da materia) -- https://brapi.dev/news/cnc-projeta-black-friday-de-2026-em-r-11-52-bi-com-ce33cecf
+- IBGE varejo setembro (IstoE) -- https://istoe.com.br/vendas-comercio-setembro-2026-ibge
+- Peic outubro (Paraiba Business) -- https://paraibabusiness.com.br/endividamento-recua-a-816-e-inadimplencia-cai-a-293-em-outubro-diz-cnc/
+- Copom novembro (IstoE) -- https://istoe.com.br/copom-mantem-selic-1375-novembro-2026
+
+Runners-up do dia (registro/transparencia):
+- "Previa do PIB" (IBC-Br) cai 0,9% no 3o trimestre -- 25/35 (sugestao da Etapa 1: guardar para 02/12, PIB oficial do IBGE)
+- Marcopolo abre PDV e suspende contratos apos lucro cair 43% -- 24/35
+- Bitcoin volta a cair abaixo de US$ 60 mil -- 20/35 (fato nao confirmado em fonte primaria)
