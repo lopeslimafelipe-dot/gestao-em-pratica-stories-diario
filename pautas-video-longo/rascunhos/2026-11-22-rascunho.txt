@@ -1,0 +1,66 @@
+RASCUNHO -- RADAR DE REPERCUSSAO -- 2026-11-22 (domingo)
+
+Contexto do dia: fim de semana prolongado (Consciencia Negra, 20 a 22/11), noticiario de negocios fraco no Brasil. O grande assunto da semana (a queda das acoes de IA, Nvidia e Anthropic) ja foi pauta em 19/11, 21/11 e 12/11 e fica fora pela regra de nao repetir nos ultimos 10 dias. Tambem ficaram fora: dolar (18/11), recuperacoes judiciais recorde (15/11) e Banco do Brasil (13/11).
+Observacao de checagem: nesta sessao o WebFetch nao alcancou alguns sites (dominios fora da rede permitida). Os fatos abaixo foram confirmados por varios resultados de busca com veiculos coincidentes. Antes de gravar, abrir as URLs e conferir os numeros.
+
+CANDIDATO 1 -- Black Friday 2026 travada pelo juro: CNC preve a menor alta em anos
+Fato: A CNC projeta R$ 11,52 bilhoes em vendas na Black Friday (27/11/2026), o maior volume desde 2014, mas com alta de so 1,8% (contra 3,2% em 2025). O freio apontado e o credito: juro medio de 61,7% ao ano no credito livre para pessoa fisica, o maior para o periodo desde 2017 (dados do BC), e 29,6% das familias com contas em atraso. Eletroeletronicos e utilidades domesticas (R$ 4,70 bi) e moveis e eletrodomesticos (R$ 2,28 bi) somam mais de 60% do movimento. A CNC ainda aponta que eletrodomesticos (+11,91%) e fones de ouvido (+10,56%) subiram de preco antes da data, sobrando pouco espaco para desconto real; smartphones (-3,66%) e notebooks (-3,68%) tem o maior potencial de desconto.
+Fonte: InfoMoney -- https://www.infomoney.com.br/economia/vendas-black-friday-2026-juros-inflacao-cnc/
+Apoio: IstoE Dinheiro -- https://istoedinheiro.com.br/black-friday-2026-vendas-juros-altos-cnc | BPMoney -- https://bpmoney.com.br/economia/black-friday-2026-juros-vendas-cnc/
+Score de Repercussao:
+- Frescor: 2/5 (projecao da CNC divulgada por volta de 11 a 13/11; o gancho e o evento em si, daqui a 5 dias)
+- Relevancia do protagonista: 4/5 (a Black Friday todo mundo conhece; a CNC e fonte oficial do comercio)
+- Gravidade: 2/5 (desaceleracao, nao crise)
+- Polemica adjacente: 4/5 (juros altos e endividamento das familias, debate economico do pais)
+- Volume de cobertura: 4/5 (InfoMoney, IstoE Dinheiro, BPMoney, O Povo e outros; o tema esquenta na semana do evento)
+- Clareza do angulo: 5/5 (juro alto -> menos parcelamento -> vendas crescem menos -> licao: margem, estoque e desconto real em vez de "metade do dobro")
+- Identificacao com audiencia: 5/5 (quase todo dono de PME de varejo e servico decide agora se entra ou nao na Black Friday e como)
+TOTAL: 26/35
+Status: VENCEDOR DO DIA
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score (juros e Selic sao tema de debate politico). O roteiro fala do efeito do juro e do endividamento no caixa e na venda da empresa. NAO comentar a politica monetaria nem o governo, NAO citar partido ou figura politica, NAO tomar posicao sobre quem e culpado pelo juro.
+Nota: o score ficou abaixo dos dias anteriores (28 a 34). E uma pauta util e oportuna, mas nao algo bombando hoje. Se surgir um fato mais quente ate a Etapa 2, reavaliar.
+
+CANDIDATO 2 -- "Previa do PIB" cai 0,9% no 3o trimestre e economistas ja falam em PIB negativo
+Fato: O IBC-Br, indice de atividade do Banco Central, recuou 0,2% em setembro e 0,9% no 3o trimestre de 2026 contra o 2o trimestre. E a primeira queda trimestral em um ano. Por setor: agropecuaria -2%, industria -1,1%, servicos -0,5%. Em 12 meses o indice ainda sobe 1,4%. Divulgado em 16/11/2026. Economistas veem retracao provavel do PIB do 3o trimestre; o IBGE divulga o PIB oficial em 02/12.
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/atividade-economica-tem-queda-de-09-no-terceiro-trimestre
+Apoio: InfoMoney -- https://www.infomoney.com.br/economia/ibc-br-setembro-2026-queda-economia-pib-2027/ | CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/macroeconomia/previa-do-pib-ibc-br-aponta-retracao-de-09-no-3o-trimestre/
+Score de Repercussao:
+- Frescor: 2/5 (16/11, ha 6 dias; volta a ser assunto em 02/12 com o PIB oficial)
+- Relevancia do protagonista: 3/5 (indicador do BC, pouco conhecido do publico em geral; "PIB" e conhecido)
+- Gravidade: 4/5 (pior trimestre em um ano, risco de PIB negativo)
+- Polemica adjacente: 5/5 (rumo da economia em ano de debate polarizado)
+- Volume de cobertura: 4/5 (Agencia Brasil, InfoMoney, CNN Brasil e portais regionais)
+- Clareza do angulo: 3/5 (indicador macro, causas multiplas: juro, agro, industria)
+- Identificacao com audiencia: 4/5 (economia esfriando = menos demanda para a PME)
+TOTAL: 25/35
+Status: runner-up (sugestao: guardar para 02/12, quando o IBGE divulgar o PIB do 3o trimestre)
+!! GUARDRAIL POLITICO: se for usado, o angulo e "como a PME se prepara para demanda fraca", sem comentar governo ou politica economica.
+
+CANDIDATO 3 -- Marcopolo abre PDV e suspende contratos depois de lucro cair 43%
+Fato: A fabricante de carrocerias de onibus fechou acordo coletivo (assinado em 19/11/2026) que permite um Programa de Demissao Voluntaria e a suspensao de contratos por 2 a 5 meses (lay-off, sem romper o vinculo) nas fabricas de Caxias do Sul (RS). No 3o trimestre de 2026 o lucro caiu 43,4%, para R$ 186,5 milhoes (contra R$ 329,6 mi), e a producao caiu 25,2%. O balanco saiu em 03/11. A empresa cita a demanda menor por onibus urbanos.
+Fonte: Jornal do Comercio (RS) -- https://www.jornaldocomercio.com/economia/2026/11/1271232-marcopolo-anuncia-pdv-e-suspensao-de-contratos.html
+Apoio: Investidor10 -- https://investidor10.com.br/noticias/marcopolo-pomo4-fala-em-pdv-e-suspensao-de-contratos-apos-queda-no-lucro-123989/ | DGABC (lucro) -- https://www.dgabc.com.br/Noticia/4366650/marcopolo-tem-lucro-43-4-menor-no-3tri26-ante-3tri25-de-r-186-5-milhoes
+Score de Repercussao:
+- Frescor: 4/5 (acordo de 19/11, cobertura entre 19 e 21/11)
+- Relevancia do protagonista: 3/5 (marca conhecida, mas nao do dia a dia do consumidor)
+- Gravidade: 3/5 (PDV e lay-off, nao demissao em massa)
+- Polemica adjacente: 3/5 (industria esfriando, debate sobre emprego)
+- Volume de cobertura: 3/5 (imprensa de economia e do RS; pouco nos grandes portais)
+- Clareza do angulo: 4/5 (demanda cai -> custo fixo pesa -> lay-off e PDV como alternativa a demitir)
+- Identificacao com audiencia: 4/5 (como ajustar a equipe quando a demanda cai, sem destruir a empresa)
+TOTAL: 24/35
+Status: runner-up
+
+CANDIDATO 4 -- Bitcoin volta a cair abaixo de US$ 60 mil (sabado, 21/11)
+Fato: Segundo o Bitnoticias, o bitcoin caiu cerca de 6% no sabado e chegou perto de US$ 58 mil, com o mercado em "medo extremo"; a moeda ja acumula forte queda em novembro, junto com a queda das acoes de IA. NAO CONFIRMADO em veiculo primario de grande porte nesta checagem.
+Fonte: Bitnoticias -- https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-21-de-novembro-de-2026/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 2/5
+- Identificacao com audiencia: 1/5 (pouco a ver com o dia a dia da PME)
+TOTAL: 20/35
+Status: runner-up (fraco, fato nao confirmado em fonte primaria)
