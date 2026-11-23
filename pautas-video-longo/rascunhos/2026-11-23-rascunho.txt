@@ -1,0 +1,114 @@
+RADAR DE REPERCUSSAO -- RASCUNHO -- 2026-11-23 (segunda-feira)
+Etapa 1 (pesquisa e pontuacao). Rodada as ~06h (Brasilia), antes da abertura do mercado e do Focus do dia.
+
+OBSERVACAO DE METODO: nesta sessao, o acesso direto (fetch) aos sites dos veiculos foi bloqueado pela rede do ambiente
+(infomoney.com.br, g1.globo.com, agenciabrasil.ebc.com.br, entre outros). Os fatos abaixo foram confirmados pelo
+cruzamento de varios veiculos na busca, mas a Etapa 2 deve reabrir as URLs principais antes de fechar numeros.
+
+Checagem de repeticao (pautas-video-longo/saidas/, 13/11 a 22/11): BB/agro, Braskem (14/11), recorde de RJ, apagao
+Microsoft, chips IA/EUA, dolar, IPO Anthropic, escala 5x2, queda das acoes de IA, Black Friday/juro. O vencedor de hoje
+nao repete nenhum desses assuntos/empresas.
+
+=====================================================================
+
+CANDIDATO 1 -- Subvencao de R$ 2,12/litro do diesel vence nesta quinta (26/11): o frete da sua empresa pode subir
+Fato: O governo nao renovou o subsidio extra de R$ 1,40/litro ao diesel importado (venceu em 12/11, anunciado em 13/11);
+com isso o incentivo maximo aos importadores caiu de R$ 3,52 para R$ 2,12/litro. A subvencao de R$ 2,12/litro ao diesel
+rodoviario (Portaria MF 3.181, de 27/10, base na MP 1.391/2026) vence em 26/11/2026 e, ate esta manha, nao havia ato da
+Fazenda renovando. A Abicom aponta defasagem media de R$ 2,91/litro entre o diesel da Petrobras e o preco de importacao;
+analistas estimam o diesel ~20% abaixo da paridade internacional. Transportadoras ja manifestam preocupacao com repasse
+ao frete (Transporte Moderno, 19/11); ha relato de que o governo estuda prorrogar para conter inflacao e risco de greve
+de caminhoneiros (CNTTL diz que nao ha convocacao nacional de greve). Somado a isso: o Confaz aprovou alta do ICMS do
+diesel de R$ 1,17 para R$ 1,30/litro (+11,1%) a partir de 01/02/2027.
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado
+Fonte: Metropoles -- https://www.metropoles.com/brasil/governo-lula-anuncia-fim-de-subsidio-de-r-140-ao-diesel-importado
+Fonte: Transporte Moderno -- https://transportemoderno.com.br/2026/11/19/diesel-fica-13-mais-barato-em-novembro-mas-retirada-de-subsidio-preocupa-transportadoras/
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/petrobras-petr4-tera-que-reajustar-diesel-por-que-tema-segue-no-radar-mesmo-com-subsidios/
+Fonte: Agencia Brasil (prorrogacao anterior, ate 26/11) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-prorroga-por-um-mes-subvencao-de-r-212-ao-diesel
+Fonte (ICMS 2027): Cenario Energia -- https://cenarioenergia.com.br/2026/10/29/confaz-aprova-alta-de-ate-11-no-icms-da-gasolina-e-do-diesel-em-2027/
+Score de Repercussao:
+- Frescor: 3/5 (prazo vence nesta semana; ultimo fato novo de 13-19/11; decisao esperada ate quinta)
+- Relevancia do protagonista: 4/5 (diesel/Petrobras/governo federal: todo mundo sabe o que e)
+- Gravidade: 3/5 (risco iminente, ainda nao consumado; pode haver prorrogacao)
+- Polemica adjacente: 4/5 (decisao do governo, risco de greve de caminhoneiros tipo 2018, debate fiscal)
+- Volume de cobertura: 4/5 (Agencia Brasil, Metropoles, InfoMoney, imprensa de transporte e regional)
+- Clareza do angulo: 4/5 (diesel -> frete -> custo de quase tudo; licao: revisar contrato de frete, formacao de preco e estoque ANTES da decisao)
+- Identificacao com audiencia: 5/5 (todo dono de PME paga frete, direta ou indiretamente)
+TOTAL: 27/35
+Status: VENCEDOR DO DIA
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score (decisao do governo, caminhoneiros). O roteiro
+(Etapa 2) NAO comenta a politica, NAO critica governo/partido/figura politica e NAO opina se o subsidio deve ou nao
+existir. Angulo exclusivamente pratico: "o que acontece com o custo da sua empresa se o subsidio acabar, e como se
+preparar nos dois cenarios (prorrogado ou nao)". ATENCAO na Etapa 2: rechecar na manha de 26/11 se saiu portaria de
+prorrogacao -- o fato pode mudar ate a gravacao.
+
+---------------------------------------------------------------------
+
+CANDIDATO 2 -- Bitcoin despenca a ~US$ 55 mil e a Strategy (empresa que trocou o caixa por bitcoin) acumula US$ 16,8 bi de prejuizo no papel
+Fato: No fim de semana (noite de sabado, 21/11/2026), o bitcoin caiu a cerca de US$ 55,1 mil, menor nivel desde set/2024,
+estendendo queda de mais de 30% em um mes; cerca de US$ 1,8 bi em posicoes alavancadas foram liquidadas em 24h, com saida
+de recursos dos ETFs nos EUA. Depois voltou a ~US$ 60 mil. A Strategy (ex-MicroStrategy, de Michael Saylor), que detem
+850.849 BTC a preco medio de ~US$ 68,9 mil, chegou a ficar ~US$ 16,8 bi abaixo do que pagou (prejuizo nao realizado) --
+e ainda comprou mais 485 BTC na semana.
+Fonte: Rankia Brasil -- https://rankia.com.br/bitcoin-cai-55-mil-dolares-menor-nivel-desde-2024-reais/
+Fonte: Bitcoin.com News -- https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-60k-crash-near-55k-billions-liquidations/
+Fonte: CryptoNinjas (citando CoinDesk) -- https://www.cryptoninjas.net/news/bitcoin-hits-55500-following-strategys-massive-16-8b-paper-loss/
+Fonte: BitNoticias -- https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-21-de-novembro-de-2026
+Score de Repercussao:
+- Frescor: 5/5 (sabado/domingo)
+- Relevancia do protagonista: 4/5 (bitcoin e amplamente conhecido; Strategy, menos)
+- Gravidade: 4/5 (menor nivel em mais de 2 anos, -30% no mes, liquidacoes bilionarias)
+- Polemica adjacente: 3/5 (onda de aversao a risco junto com a queda das acoes de IA e juro americano)
+- Volume de cobertura: 3/5 (forte em sites cripto e de investimento; nao confirmei destaque nos grandes portais de negocios)
+- Clareza do angulo: 4/5 (empresa que pos o caixa num ativo volatil -> balanco no vermelho; licao: caixa da empresa e seguranca, nao aposta)
+- Identificacao com audiencia: 2/5 (licao valida, mas poucas PMEs tem caixa em cripto; tema puxa mais investidor que gestor)
+TOTAL: 25/35
+Status: runner-up (1o)
+
+---------------------------------------------------------------------
+
+CANDIDATO 3 -- 1a parcela do 13o vence em 30/11: R$ 399,1 bi saem do caixa das empresas (e entram no bolso do consumidor)
+Fato: Segundo nota do Dieese (13/11/2026), o 13o salario deve injetar ate R$ 399,1 bilhoes na economia em 2026 (2,9% do PIB),
+para cerca de 99,7 milhoes de pessoas, media de R$ 3.720. Prazo da 1a parcela (ou parcela unica): 30/11/2026; 2a parcela:
+18/12/2026. SP concentra ~R$ 112,7 bi (28,2%).
+Fonte: Dieese -- https://www.dieese.org.br/notaaimprensa/2026/decimoTerceiroSalario2026.html
+Fonte: Itatiaia -- https://www.itatiaia.com.br/economia/13o-salario-deve-movimentar-quase-r-400-bilhoes-na-economia-em-2026/
+Score de Repercussao:
+- Frescor: 2/5 (dado de 13/11; gancho e o prazo da proxima segunda)
+- Relevancia do protagonista: 4/5 (todo empregador e todo trabalhador CLT)
+- Gravidade: 2/5 (obrigacao anual de rotina)
+- Polemica adjacente: 2/5 (baixa)
+- Volume de cobertura: 4/5 (replicado por muitos veiculos)
+- Clareza do angulo: 5/5 (provisao mensal x aperto de caixa em novembro; capital de giro; oportunidade de vendas)
+- Identificacao com audiencia: 5/5 (dor direta de todo dono de PME)
+TOTAL: 24/35
+Status: runner-up (2o)
+
+---------------------------------------------------------------------
+
+CANDIDATO 4 -- Braskem: prazo de 90 dias da recuperacao extrajudicial venceu no domingo (22/11) sem adesao confirmada da maioria
+Fato: A Braskem precisava apresentar, ate 22/11/2026, adesao de credores com mais de 50% dos ~US$ 10,9 bi em dividas
+abrangidas (tinha 39,6%). Reportagens de 16-18/11 indicam que credores rejeitaram a ultima proposta (injecao de US$ 1,1 bi
++ conversao de US$ 2,9 bi em acoes) e a coluna de Lauro Jardim (O Globo) informou que a Petrobras saiu da mesa e que a
+empresa deve pedir recuperacao judicial. Ate esta manha, NAO encontrei comunicado oficial (fato relevante) sobre o
+desfecho -- nem acordo, nem pedido de RJ.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/braskem-quer-concluir-negociacoes-com-credores-ate-4a-feira-dizem-fontes/
+Fonte: Times Brasil -- https://timesbrasil.com.br/brasil/petrobras-teria-deixado-negociacoes-da-braskem-por-discordar-de-proposta-da-ig4/
+Fonte: Mix Vale -- https://www.mixvale.com.br/2026/11/18/braskem-e-credores-concordam-com-capitalizacao-de-us-4-bilhoes-mas-travam-aumento-futuro/
+Score de Repercussao:
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5 (risco de uma das maiores RJs da historia do pais)
+- Polemica adjacente: 4/5 (Petrobras/estatal na mesa)
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5 (estrutura societaria e de credores complexa)
+- Identificacao com audiencia: 4/5 (divida cara comendo a operacao)
+TOTAL: 28/35 -- MAS DESCLASSIFICADO pela regra de nao-repeticao: Braskem foi a pauta de 14/11 (dentro da janela de 10 dias).
+Status: fora da disputa (registrado so como alerta). Se nas proximas horas sair fato relevante confirmando PEDIDO DE
+RECUPERACAO JUDICIAL, e um fato novo e muito maior que o de 14/11 -- vale o usuario decidir manualmente se troca a pauta.
+
+=====================================================================
+RESUMO
+Vencedor: Subvencao do diesel vence em 26/11 / risco de alta do frete -- 27/35 (guardrail politico sinalizado)
+Runner-ups: Bitcoin a US$ 55 mil e prejuizo de US$ 16,8 bi da Strategy -- 25/35; 13o salario e o caixa de novembro -- 24/35
+Alerta fora da disputa: desfecho do prazo da Braskem (28/35, bloqueado por repeticao).
