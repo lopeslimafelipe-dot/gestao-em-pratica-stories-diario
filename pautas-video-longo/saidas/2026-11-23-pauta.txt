@@ -1,0 +1,87 @@
+PAUTA DO DIA -- 2026-11-23
+Assunto: A ajuda de R$ 2,12 por litro do diesel acaba nesta quinta (26/11), e o frete da sua empresa pode subir
+Score final: 27/35
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+
+Fato central verificado:
+1) A ajuda extra de R$ 1,40 por litro ao diesel importado acabou. Ela foi criada pela Portaria n. 3.082, de 13/10/2026, valia por 30 dias e venceu. Na sexta, 13/11, o Ministerio da Fazenda informou que nao vai renova-la. Disse tambem que pode rever a decisao, conforme o preco do petroleo.
+2) Continua valendo a ajuda de R$ 2,12 por litro ao diesel rodoviario, que vale para o diesel feito no Brasil e para o importado. Ela foi prorrogada por mais 30 dias pela Portaria MF n. 3.181, de 27/10/2026. Segundo a ANP, o prazo atual acaba em 26/11/2026 (quinta-feira). Ate a checagem desta manha (23/11), nenhuma fonte mostrava nova prorrogacao publicada.
+3) Com o fim dos R$ 1,40, o maximo que um importador recebia caiu de R$ 3,52 para R$ 2,12 por litro (R$ 2,12 + R$ 1,40 = R$ 3,52).
+4) Essa ajuda nao vai direto para caminhoneiros nem para donos de veiculo. O dinheiro vai para produtores e importadores de diesel que cumprem as regras do programa.
+Checagem: os fatos foram confirmados pela busca, com trechos que coincidem em SBT News, Times Brasil, Correio da Manha, NovaCana, Compre Rural, Mundo Logistica e DGABC. Nesta sessao, a rede bloqueou o acesso direto ao site da Agencia Brasil, entao a URL dela foi conferida so pelos resultados de busca.
+NUMEROS DO RASCUNHO QUE NAO SE CONFIRMARAM (retirados do briefing): a "defasagem media de R$ 2,91/litro" da Abicom, o "diesel ~20% abaixo da paridade" e o "diesel 13% mais barato em novembro" (Transporte Moderno, 19/11). Nenhum deles apareceu nas fontes encontradas. As fontes trazem numeros diferentes e de datas diferentes. Os numeros confirmados estao em "Dados de apoio". Tambem nao confirmei a referencia "MP 1.391/2026", que por isso ficou de fora.
+
+Cadeia causal (o que levou a isso):
+1. Choque do petroleo: as tensoes e o conflito no Oriente Medio fizeram o petroleo subir. Para o aumento nao chegar inteiro ao preco do diesel no Brasil, o governo passou a pagar parte do valor por litro a produtores e importadores (R$ 2,12/l) e, em outubro, criou um extra de R$ 1,40/l so para o importado.
+->
+2. A ajuda tinha prazo curto: foi renovada de 30 em 30 dias (uma portaria em setembro e a Portaria 3.181 em outubro). Isso deixa o custo do combustivel pendente de uma decisao todo mes.
+->
+3. O petroleo cedeu: o Brent caiu cerca de 16% em quatro semanas, e o diesel ficou um pouco mais barato nos postos na 1a quinzena de novembro (S-10 a ~R$ 7,39, -0,94%, segundo o IPTL). A justificativa para a ajuda extra perdeu forca, e os R$ 1,40 do importado acabaram em 13/11.
+->
+4. O Brasil depende de diesel importado. Em outubro, a propria Petrobras respondeu por 51% de todo o diesel importado pelo pais, segundo a Abicom. Sem os R$ 1,40, importar fica mais caro. O setor de distribuicao estima alta media de R$ 0,42/l no preco do diesel importado nos postos (Abicom, 17/11).
+->
+5. Agora vence a ajuda principal, de R$ 2,12/l, em 26/11. Se nao for renovada, quem produz e importa diesel deixa de receber esse valor por litro, e a pressao para subir o preco aumenta. O diesel e cerca de 35% do custo do frete rodoviario (media da NTC&Logistica), entao o efeito chega ao frete. E o frete esta no custo de quase tudo que uma PME compra e vende.
+->
+6. Mais um aumento ja marcado: os estados (Confaz) aprovaram o ICMS do diesel subindo de R$ 1,17 para R$ 1,30 por litro (+11,1%) a partir de 01/02/2027. Mesmo que a ajuda seja renovada agora, o custo do diesel tem nova alta prevista para o inicio do ano.
+
+Por que esta repercutindo agora:
+- O prazo vence nesta semana (quinta, 26/11) e ninguem sabe se a ajuda sera renovada (Frescor 3/5, Gravidade 3/5: risco proximo, mas que ainda nao aconteceu).
+- Diesel, Petrobras e frete: todo mundo entende o que esta em jogo (Relevancia 4/5).
+- Muita cobertura na imprensa de economia, de logistica e de transporte (Volume 4/5).
+- Todo dono de PME paga frete, direta ou indiretamente (Identificacao 5/5). A historia e simples: diesel -> frete -> custo (Clareza 4/5).
+- Polemica adjacente 4/5: a decisao e do governo e passa pelo debate fiscal e pelo risco de greve de caminhoneiros. ISSO NAO E O ANGULO DO VIDEO (ver Ressalva).
+
+Angulo de gestao sugerido:
+"O custo do seu frete depende de uma decisao com data marcada. Nao espere a quinta-feira para fazer a conta." Licoes praticas para o dono de PME, valendo para os dois cenarios (ajuda renovada ou nao):
+- Saiba quanto o frete pesa na sua margem. Calcule quanto ele representa no custo de cada produto ou pedido. Se o frete for 10% do custo e subir 3%, quanto sobra de lucro?
+- Use uma regra de bolso para simular. A NTC calculou que um aumento de 5% no diesel pode subir o frete em ate ~1,7%, porque o diesel e cerca de 35% do custo do frete. Faca esse teste nos seus produtos.
+- Revise os contratos com a transportadora. Veja se ha clausula de reajuste pelo diesel (gatilho automatico) e qual o prazo de aviso. E melhor negociar antes de o aumento chegar do que depois.
+- Se voce cobra frete do cliente, revise a tabela: frete gratis, valor minimo para frete gratis e prazo em que a cotacao vale. Promessa de frete gratis feita com o diesel barato pode virar prejuizo.
+- Compras e estoque: para insumos muito afetados pelo frete, vale antecipar parte da compra ou travar o preco com o fornecedor, desde que o caixa aguente. Nao compre estoque so por medo.
+- Coloque o calendario no planejamento: 26/11 (fim da ajuda de R$ 2,12) e 01/02/2027 (novo ICMS do diesel). O orcamento de 2027 ja deve contar com diesel mais caro.
+
+Dados de apoio:
+- Ajuda de R$ 1,40/l ao diesel importado: Portaria 3.082 (13/10/2026), valia 30 dias, nao foi renovada (anuncio da Fazenda em 13/11). Fonte: SBT News -- https://sbtnews.sbt.com.br/noticia/economia/governo-encerra-subsidio-adicional-ao-diesel-importado ; Times Brasil -- https://timesbrasil.com.br/brasil/fazenda-encerra-subsidio-extra-de-r-140-ao-diesel-importado/
+- Ajuda de R$ 2,12/l prorrogada pela Portaria MF 3.181 (27/10/2026), por 30 dias, ate 26/11. Fonte: Mercado & Consumo -- https://mercadoeconsumo.com.br/27/10/2026/noticias/governo-prorroga-por-um-mes-subvencao-de-r-212-ao-diesel/ ; Canal Rural -- https://www.canalrural.com.br/economia/fazenda-prorroga-por-30-dias-subvencao-de-r-212-por-litro-de-diesel/
+- Teto de R$ 3,52/l para o importado antes do corte (R$ 2,12 + R$ 1,40). Fonte: Times Brasil / A Critica -- https://acritica.net/noticias/governo-encerra-subsidio-de-r-140-ao-diesel-importado-mas-mantem-outro-beneficio/
+- Estimativa do setor de distribuicao: alta media de R$ 0,42/l no diesel importado nos postos com o fim dos R$ 1,40. A Petrobras respondeu por 51% do diesel importado pelo pais em outubro. Fonte: BiodieselBR / Fecombustiveis (Abicom, 17/11) -- https://www.biodieselbr.com/noticias/regulacao/politica/fim-de-subvencao-ao-diesel-importado-deve-pressionar-precos-nos-postos-diz-abicom
+- Brent caiu ~16% em quatro semanas; diesel e gasolina ficaram mais baratos nos postos na 1a quinzena de novembro (IPTL). Fonte: Times Brasil -- https://timesbrasil.com.br/brasil/diesel-e-gasolina-ficam-mais-baratos-nos-postos-enquanto-etanol-sobe-na-primeira-quinzena-de-novembro-aponta-iptl/
+- Diesel = cerca de 35% do custo do frete rodoviario (media da NTC&Logistica). Um aumento de 5% no diesel pode subir o frete em ate 1,72% (calculo da NTC num reajuste anterior). Fonte: Mundo Logistica -- https://mundologistica.com.br/noticias/ntclogistica-divulga-impacto-do-aumento-do-diesel-no-frete
+- ICMS do diesel: de R$ 1,17 para R$ 1,30/l (+11,1%) a partir de 01/02/2027 (Convenios ICMS 127 e 128/2026, publicados no DOU em 28/10/2026). Fonte: Movimento Economico -- https://movimentoeconomico.com.br/economia/combustivel/2026/10/29/confaz-estados-elevam-icms-sobre-diesel-gasolina-e-gas-de-cozinha-em-2027/ ; Comsefaz -- https://comsefaz.org.br/novo/wp-content/uploads/2026/10/Nota-ad-rem-2027-1.pdf
+
+Ressalva/limite:
+- !! GUARDRAIL POLITICO: o fator "Polemica adjacente" (4/5) pesou no score. O video NAO comenta a decisao do governo, NAO critica nem elogia governo, partido ou figura politica, NAO opina se a ajuda deve existir, ser renovada ou acabar, e NAO entra no debate fiscal nem na discussao sobre greve de caminhoneiros. O angulo e so pratico: "o que acontece com o custo da sua empresa nos dois cenarios e como se preparar".
+- O FATO PODE MUDAR ANTES DA GRAVACAO: rechecar na manha de 26/11 (ou antes de gravar) se saiu portaria renovando os R$ 2,12. Se for renovada, o video continua valendo com outro gancho: "ganhou mais 30 dias, use esse prazo para se preparar; o ICMS de fevereiro ja esta marcado".
+- Nao existe repasse automatico: o fim da ajuda nao vira aumento do mesmo valor no posto. O preco final depende da Petrobras, do Brent e do cambio. Nao prometa no video "o diesel vai subir R$ 2,12".
+- A Fazenda disse que pode rever a decisao sobre os R$ 1,40, conforme o preco do petroleo.
+- O ICMS de R$ 1,30 em 2027 e o cenario-base. Estados estudam alternativas para diminuir o reajuste do diesel, entao o numero ainda pode mudar.
+- A defasagem do diesel em relacao ao preco internacional muda toda semana e aparece com numeros diferentes conforme a fonte e a data (R$ 2 a R$ 3,50 por litro nas fontes encontradas). Nao cite um numero fixo de defasagem.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico. "Nesta quinta-feira acaba uma ajuda de R$ 2,12 em cada litro de diesel. Voce talvez nem saiba que ela existe, mas ela esta no preco de cada entrega que a sua empresa faz ou recebe."
+- Contexto/causa raiz: o petroleo subiu com a crise no Oriente Medio, e o pais passou a pagar parte do valor por litro para o aumento nao chegar inteiro ao diesel. A ajuda e renovada de 30 em 30 dias. O extra de R$ 1,40 do importado ja acabou em 13/11.
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo): diesel -> cerca de 35% do custo do frete -> frete no custo de quase tudo. Regra de bolso da NTC (diesel +5% = frete ate +1,7%). E o ICMS do diesel ja marcado para fevereiro (+11,1%).
+- Licao de gestao (a virada): "Voce nao controla o preco do diesel, mas controla quanto ele pesa na sua margem." Calcular o peso do frete, revisar clausulas de reajuste e a tabela de frete, ajustar compras e colocar as duas datas no orcamento.
+- Fechamento + CTA: "Renovando ou nao na quinta, a conta tem que estar feita antes. Salva esse video e manda pra quem cuida das compras e da logistica da sua empresa."
+
+Fonte(s):
+- SBT News -- https://sbtnews.sbt.com.br/noticia/economia/governo-encerra-subsidio-adicional-ao-diesel-importado
+- Times Brasil -- https://timesbrasil.com.br/brasil/fazenda-encerra-subsidio-extra-de-r-140-ao-diesel-importado/
+- Correio da Manha -- https://www.correiodamanha.com.br/economia/2026/11/amp/335203-governo-nao-renova-subsidio-de-rs-140-ao-diesel-importado.html
+- NovaCana -- https://www.novacana.com/noticias/subvencao-de-r-1-40-ao-diesel-importado-nao-sera-renovada-diz-ministerio
+- Agencia Brasil (conferida so pela busca; acesso direto bloqueado) -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado
+- Mercado & Consumo (prorrogacao ate 26/11) -- https://mercadoeconsumo.com.br/27/10/2026/noticias/governo-prorroga-por-um-mes-subvencao-de-r-212-ao-diesel/
+- BiodieselBR (Abicom, 17/11) -- https://www.biodieselbr.com/noticias/regulacao/politica/fim-de-subvencao-ao-diesel-importado-deve-pressionar-precos-nos-postos-diz-abicom
+- Movimento Economico (ICMS 2027) -- https://movimentoeconomico.com.br/economia/combustivel/2026/10/29/confaz-estados-elevam-icms-sobre-diesel-gasolina-e-gas-de-cozinha-em-2027/
+- Mundo Logistica (NTC, peso do diesel no frete) -- https://mundologistica.com.br/noticias/ntclogistica-divulga-impacto-do-aumento-do-diesel-no-frete
+
+Runners-up do dia (registro/transparencia):
+- Bitcoin cai a ~US$ 55 mil e a Strategy acumula US$ 16,8 bi de prejuizo no papel -- 25/35
+- 1a parcela do 13o vence em 30/11: R$ 399,1 bi saem do caixa das empresas -- 24/35
+- (Fora da disputa, bloqueado pela regra de nao-repeticao: desfecho do prazo da Braskem -- 28/35. Se sair fato relevante confirmando pedido de recuperacao judicial, cabe ao usuario decidir manualmente se troca a pauta.)
