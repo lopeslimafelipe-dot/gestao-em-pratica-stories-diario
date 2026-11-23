@@ -1,0 +1,37 @@
+ROTEIRO 1 -- O preço da IA mudou de novo
+"O Google lançou na semana passada o Gemini 4 Neon, um modelo intermediário da sua família de IA, voltado a programação e trabalho de escritório. Segundo o próprio Google, que obviamente quer vender, 🟡`ele custa 32% menos por tarefa que o Carbon, o modelo premium da casa`🟡. E tem mais: o preço promocional do Carbon acaba dia 30, e a partir de 1º de dezembro ele dobra, de 2 para 4 dólares por milhão de tokens de entrada. 🟡`Inteligência artificial virou insumo com tabela de preço que muda todo mês.`🟡 Quando foi a última vez que você comparou o plano de IA que a sua empresa paga?"
+Fonte: Google (blog oficial) -- https://blog.google/intl/pt-br/novidades/tecnologia/apresentando-gemini-4-neon/
+
+ROTEIRO 2 -- Fechar uma fábrica para crescer
+"A Toyota inaugurou na semana passada a segunda fábrica em Sorocaba, no interior de São Paulo. 🟡`São 100 mil carros por ano de capacidade inicial, o que leva a montadora a cerca de 270 mil no Brasil`🟡, com 1.700 empregos diretos e previsão de 2 mil até 2030. Mas o detalhe está no que ela fechou: a fábrica de Indaiatuba, que fazia o Corolla, encerrou em junho, e o sedã agora sai de Sorocaba, onde a picape híbrida flex Corolla Deck entra em 2027. 🟡`Às vezes crescer é fechar uma unidade para ganhar escala na outra.`🟡 O que na sua empresa está espalhado e devia estar junto?"
+Fonte: Times Brasil (CNBC) -- https://timesbrasil.com.br/empresas-e-negocios/toyota-inaugura-fabrica-em-sorocaba-e-amplia-capacidade-para-270-mil-veiculos-por-ano/
+
+ROTEIRO 3 -- Quem financia o calote
+"Sexta eu mostrei aqui que a procura das empresas por crédito quase parou. Agora o outro lado, também da Serasa Experian, que vende serviços de crédito: 🟡`9,4 milhões de empresas estavam negativadas em setembro, recorde da série e 12% a mais que um ano antes`🟡; 95,2% são micro e pequenas. E o maior credor não é o banco: 🟡`serviços respondem por 31,7% das dívidas, bancos e cartões por 19,6%`🟡. 🟡`Quem vende a prazo para outra empresa está financiando o calote sem perceber.`🟡 Quanto do seu contas a receber está em cliente que já está no vermelho?"
+Fonte: Let's Money -- https://www.letsmoney.com.br/credito/serasa-inadimplencia-empresas-setembro-2026/
+
+ROTEIRO 4 -- Remarcar não é lucrar
+"A NFIB, associação de pequenas empresas dos Estados Unidos, divulgou a pesquisa mensal de outubro. 🟡`Um saldo de 37% dos donos planeja subir preço nos próximos três meses, o maior desde julho de 2022`🟡. Só que, na mesma pesquisa, a tendência de lucro é a mais fraca desde março, e os impostos viraram a queixa principal de 21% deles, o maior nível desde 2021. 🟡`Subir preço não é o mesmo que ter margem: muitas vezes é só correr atrás do custo.`🟡 Quando você repassa aumento, a sua margem cresce ou só para de encolher?"
+Fonte: NFIB (relatório de outubro) -- https://www.nfib.com/wp-content/uploads/2026/11/SBET-Report-October-2026.pdf
+
+ROTEIRO 5 -- O calendário da nota mudou
+"No dia 11 eu falei aqui que em 1º de dezembro a nota de serviço passaria a exigir IBS e CBS. Dois dias depois, a Receita e o Comitê Gestor publicaram o Ato Conjunto nº 7 e mudaram o calendário. 🟡`A nota de plataformas digitais passou para 1º de março, e a de locações, para 1º de janeiro`🟡; no Simples, parte vence em janeiro, parte em março. Mas o IBS e a CBS no Simples continuam começando em 1º de janeiro. 🟡`Adiaram a nota, não o imposto.`🟡 Seu contador já te disse em que data a sua nota muda?"
+Fonte: CGIBS (texto oficial) -- https://www.cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf
+
+ROTEIRO 6 -- O teste do dono ausente
+"O fundador saiu numa quinta. Na terça seguinte, a Nvidia entregou o maior trimestre da história dela: 🟡`receita de 115,8 bilhões de dólares, 103% a mais que um ano antes`🟡, e previsão de 130 bilhões para o próximo. Jensen Huang deixou o comando no dia 12, em meio a uma investigação interna, e quem apresentou os números foi a diretora financeira, Colette Kress, agora CEO interina. 🟡`O teste de uma empresa não é quando o dono está, é quando ele some.`🟡 Se você sumisse amanhã, o seu mês fecharia?"
+Fonte: Nvidia (release oficial) -- https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/
+
+ROTEIRO 7 -- A próxima onda é no chão de fábrica
+"A Procter & Gamble, dona de Pampers, Gillette e Oral-B, contou aos investidores na quinta passada que 🟡`a força de trabalho de fábricas e logística, terceirizados incluídos, vai ser de 20% a 30% menor até 2030`🟡. O plano aposta em automação e em turnos de fábrica rodando sem ninguém, com meta de até 10 bilhões de dólares em economia de produtividade em quatro anos. A empresa não disse quantas vagas. 🟡`Produtividade não é pedir para a equipe correr mais, é redesenhar o processo para precisar de menos mãos.`🟡 Qual tarefa da sua operação ainda depende de alguém só para apertar botão?"
+Fonte: Quartz -- https://qz.com/procter-gamble-supply-chain-jobs-cuts-automation-112026
+
+ROTEIRO 8 -- O desconto que não aguenta print
+"A Black Friday é nesta sexta, e os Procons já estão de planilha na mão. Segundo o Procon do Rio, 🟡`uma geladeira anunciada por 2.269 reais em 22 de outubro passou a 8.139 reais em 12 de novembro, alta de 258,7% em três semanas`🟡. Em Vitória, sete de cada dez produtos monitorados estavam mais caros do que no menor preço já registrado. E o Procon do Rio pode abrir processo e multar. 🟡`Desconto maquiado deixou de ser esperteza de varejo e virou risco de multa e de print viral.`🟡 A sua promoção aguenta alguém comparar com o preço de outubro?"
+Fonte: Diário do Rio -- https://diariodorio.com/rio-de-janeiro/2026/11/18/black-friday-tem-produtos-com-alta-de-ate-2587-antes-das-promocoes-alerta-procon-rj.html
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] "Hoje você tem algum cliente te devendo há mais de 30 dias?" Sim / Não
+2. [Pergunta/Participacao, Roteiro 6] Caixinha: "Se você ficasse 30 dias fora da empresa, o que travaria primeiro? Me conta."
+3. [Virar Historia, Roteiro 3 -> Estilo Ranking] Revelar os credores do menor para o maior (telefonia 6,2%, utilities 6,7%, cooperativas 8,5%, bancos e cartões 19,6%) deixa a surpresa para o fim: serviços em 1º, com 31,7%.
