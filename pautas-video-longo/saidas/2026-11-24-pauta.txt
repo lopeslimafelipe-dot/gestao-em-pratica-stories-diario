@@ -1,0 +1,81 @@
+PAUTA DO DIA -- 2026-11-24
+Assunto: Ajuste fiscal aprovado vai a sancao -- o que muda no imposto e no caixa da empresa em 2027 (lucro presumido acima de R$ 5 mi, incentivos fiscais cortados em 20% e trava na compensacao de creditos)
+Score final: 31/35
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 4/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 5/5
+
+Fato central verificado:
+A Camara aprovou o texto-base do PLP 299/2026 em 23/11/2026 por 353 votos a 128 (5 abstencoes) e, na madrugada de 24/11, rejeitou todos os destaques. O texto vai a sancao exatamente como saiu do Senado (texto-base aprovado la em 12/11, 45 a 31; votacao concluida em 18/11). Pontos que atingem empresas, confirmados em mais de um veiculo:
+  1) Corte linear dos beneficios/incentivos tributarios federais sobe de 10% para 20% (a empresa passa a aproveitar 80% do incentivo original, nao mais 90%). Atinge beneficios ligados a PIS/Cofins, IRPJ, CSLL, IPI, entre outros; ficam ressalvadas as excecoes legais (Simples Nacional, Zona Franca, cesta basica, Prouni).
+  2) Lucro presumido: o acrescimo sobre os percentuais de presuncao de IRPJ/CSLL, criado em 10% pela LC 224/2025, dobra para 20% -- SO sobre a parcela da receita que passar de R$ 5 mi/ano (R$ 1,25 mi por trimestre). Em servicos, a presuncao sobre o excedente vai de 32% (original) / 35,2% (regra atual) para 38,4%. O ponto estava no texto-base do Senado, foi mantido nas votacoes de 18/11 e a Camara nao alterou nada.
+  3) Compensacao de creditos tributarios federais: o governo ganha autorizacao para limitar o uso de creditos para pagar outros tributos (na pratica, mais desembolso de caixa mesmo para quem tem credito). Emenda acolhida no Senado protege compensacoes com creditos de PIS/Cofins; os limites concretos ainda dependem de regulamentacao.
+  4) Vigencia: regras de IRPJ a partir de 1/1/2027; CSLL a partir do primeiro dia do quarto mes apos a publicacao (noventena).
+  5) Impacto total estimado para 2027: entre R$ 45,1 bi e R$ 56,1 bi (estimativa do governo citada na cobertura; outras fontes falam em ~R$ 50 bi).
+Confirmado em: O Tempo (votacao e destaques), CNN Brasil (ponto a ponto), Canal Rural / Rota da Jurisprudencia (texto do Senado mantendo lucro presumido e trava de compensacao). O texto final oficial (Camara/Senado) nao pode ser lido diretamente nesta sessao -- ver Ressalva.
+
+Cadeia causal (o que levou a isso):
+1. Dez/2025 -> o Congresso aprovou a LC 224/2025: primeiro corte linear de 10% nos incentivos fiscais federais e o primeiro acrescimo de 10% na presuncao do lucro presumido para receita acima de R$ 5 mi, para fechar o orcamento de 2026 (CNN Brasil, dez/2025).
+2. 2026 -> as empresas do lucro presumido ja sentiram a primeira dose: simulacao do Sescon-SP aponta R$ 54,4 mil a mais de IRPJ/CSLL em 2026 para uma empresa de servicos que fatura R$ 10 mi.
+3. Nov/2026 -> para cumprir a meta fiscal de 2027 (com crescimento real de despesa limitado a 2%), o PLP 299/2026 vem buscar mais receita e a fonte escolhida e, em grande parte, a empresa: nota da Consultoria de Orcamentos do Senado indica que mais da metade do impacto vem de receitas ligadas a empresas.
+4. A "segunda dose": corte dos incentivos dobra para 20%, acrescimo do presumido dobra para 20%, e entra a trava de compensacao de creditos.
+5. Efeito pratico em 2027: mesma empresa de servicos de R$ 10 mi paga mais R$ 54,4 mil, totalizando R$ 108,8 mil/ano a mais que em 2025 (Sescon-SP) -- e quem vivia de incentivo ou de credito acumulado ve o caixa apertar mesmo sem vender menos.
+6. Consequencia de gestao: o regime tributario que era o melhor em 2025 pode nao ser mais o melhor em 2027 -- e a decisao de regime para 2027 se toma em janeiro.
+
+Por que esta repercutindo agora:
+- Frescor maximo (votacao 23/11 a noite, destaques 24/11 de madrugada) e fim da tramitacao: agora "e lei", so falta sancao.
+- Volume de cobertura altissimo (politica, economia, contabil, juridico).
+- Identificacao com a audiencia: dono de PME fora do Simples, sobretudo servicos no lucro presumido acima de R$ 5 mi, sente direto no caixa de 2027 -- e esta a ~5 semanas da virada do ano.
+- A polemica adjacente (debate fiscal nacional) pesou no score, mas NAO entra no video (ver Ressalva).
+
+Angulo de gestao sugerido:
+"O imposto da sua empresa vai subir em janeiro e a janela pra reagir e agora." Licao: regime tributario nao e escolha permanente -- e decisao anual de gestao. Acoes praticas:
+  (a) Pedir ao contador uma simulacao 2027 lucro presumido x lucro real (e, pra quem esta perto do limite, Simples) com as novas regras;
+  (b) Mapear todo incentivo fiscal federal que a empresa usa e recalcular a margem com 80% do beneficio;
+  (c) Se a empresa depende de compensar creditos federais pra pagar tributo, refazer o fluxo de caixa de 2027 assumindo desembolso em dinheiro;
+  (d) Revisar precificacao/contratos de 2027 (especialmente servicos) antes de fechar com clientes.
+Mensagem central: quem decide regime tributario no automatico paga a conta sem perceber.
+
+Dados de apoio:
+- Placar: 353 x 128, 5 abstencoes; todos os destaques rejeitados; vai a sancao sem mudancas -- O Tempo: https://www.otempo.com.br/politica/2026/11/24/governo-barra-todas-as-mudancas-e-ajuste-fiscal-de-lula-vai-a-sancao-como-saiu-do-senado
+- Corte linear de incentivos de 10% para 20%; impacto R$ 45,1 bi a R$ 56,1 bi em 2027 -- CNN Brasil: https://www.cnnbrasil.com.br/economia/money/macroeconomia/entenda-o-ajuste-fiscal-aprovado-pela-camara-e-as-principais-medidas/
+- Lucro presumido: R$ 54,4 mil a mais em 2026 e R$ 108,8 mil/ano a mais em 2027 vs. 2025 para empresa de servicos de R$ 10 mi (simulacao Sescon-SP) -- Paraiba Business: https://paraibabusiness.com.br/lucro-presumido-empresa-de-servicos-pode-pagar-r-1088-mil-a-mais-diz-sescon-sp/
+- Presuncao em servicos sobe para 38,4% sobre o excedente de R$ 5 mi; R$ 1,25 mi/trimestre; IRPJ em 1/1/2027, CSLL apos noventena -- Omie: https://www.omie.com.br/blog/lucro-presumido-aumento-impostos-plp-299-2026/ e Jornal Contabil: https://jornalcontabil.com.br/noticia/lucro-presumido-senado-aprova-aumento-da-tributacao-para-empresas-com-receita-acima-de-r-5-milhoes/
+- Senado manteve trava de compensacao e aumento do presumido; emenda protege creditos de PIS/Cofins -- Rota da Jurisprudencia: https://rotadajurisprudencia.com.br/2026/11/senado-aprova-plp-299-2026-e-mantem-restricoes-as-compensacoes-tributarias-texto-segue-para-a-camara/ e Canal Rural: https://www.canalrural.com.br/politica/ajuste-fiscal-segue-a-camara-apos-emenda-sobre-credito-tributario/
+- Mais da metade do impacto vem de receitas ligadas a empresas (Consultoria de Orcamentos do Senado) -- Times Brasil: https://timesbrasil.com.br/brasil/empresas-devem-responder-por-mais-da-metade-do-impacto-do-novo-ajuste-fiscal-aponta-senado/
+- 119 entidades empresariais (incl. Fiesp e CNA) pediram retirada da trava de creditos; CNI alerta para pressao no caixa -- Folha PE: https://www.folhape.com.br/economia/ajuste-fiscal-pode-pressionar-caixa-das-empresas-diz-cni/523950/
+- Origem: LC 224/2025 (corte de 10% em dez/2025) -- CNN Brasil: https://www.cnnbrasil.com.br/economia/macroeconomia/entenda-o-corte-de-incentivos-fiscais-aprovado-pelo-congresso/
+
+Ressalva/limite:
+- !! GUARDRAIL POLITICO (Polemica adjacente = 5/5): o video NAO comenta o governo, o presidente, partidos, ministros, o placar politico nem se o ajuste e certo ou errado. Nao usar "pacote de Lula" nem "tributaco" no titulo/roteiro. Angulo exclusivamente: o que muda no imposto/caixa e o que o dono de empresa faz agora. Citar o placar so como fato ("aprovado, vai a sancao").
+- O texto ainda depende de sancao (pode haver vetos pontuais). Falar "aprovado pelo Congresso, vai a sancao", nao "ja esta em vigor".
+- A redacao final oficial nao foi lida diretamente (WebFetch bloqueado nesta sessao); o ponto do lucro presumido esta confirmado por varias analises contabeis/juridicas concordantes e pela informacao de que a Camara nao alterou o texto do Senado. Ainda assim, no roteiro, falar em "acrescimo de 20% sobre a presuncao na receita acima de R$ 5 mi" e nao generalizar "imposto dobra".
+- Os limites da trava de compensacao ainda serao definidos em regulamentacao -- nao cravar valores por empresa.
+- Valores do Sescon-SP sao simulacao de um caso-exemplo (servicos, R$ 10 mi), nao regra geral. Comercio/industria tem impacto menor (efeito recai mais na CSLL).
+- Simples Nacional nao e atingido -- deixar isso claro pra nao gerar panico em quem e do Simples.
+- Nada de recomendacao de investimento; recomendacao e "fale com seu contador e simule".
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico -- "Sua empresa de servicos fatura R$ 10 milhoes? Em 2027 ela paga R$ 108 mil a mais de imposto do que pagava em 2025 -- sem vender um real a menos."
+- Contexto/causa raiz: em dez/2025 veio a primeira dose (corte de 10% em incentivos, +10% na presuncao acima de R$ 5 mi); agora o Congresso aprovou a segunda, que dobra tudo e vai a sancao.
+- Desenvolvimento da cadeia causal: (1) incentivo cai pra 80%; (2) lucro presumido acima de R$ 5 mi fica mais caro; (3) credito tributario pode deixar de "pagar" imposto e virar desembolso de caixa; (4) quem nao e afetado: Simples.
+- Licao de gestao (a virada): regime tributario e decisao anual, nao heranca -- e a janela de decisao pra 2027 e janeiro. Quem nao simula, paga no automatico.
+- Fechamento + CTA: checklist de 3 itens pra levar ao contador ainda em dezembro (simular presumido x real, recalcular margem com 80% do incentivo, refazer fluxo de caixa sem contar com compensacao) + CTA pra salvar/compartilhar com o socio.
+
+Fonte(s):
+- O Tempo -- https://www.otempo.com.br/politica/2026/11/24/governo-barra-todas-as-mudancas-e-ajuste-fiscal-de-lula-vai-a-sancao-como-saiu-do-senado
+- O Tempo -- https://www.otempo.com.br/politica/2026/11/23/camara-aprova-pacote-fiscal-de-lula-por-353-a-128-e-texto-fica-a-dez-destaques-da-sancao
+- CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/macroeconomia/entenda-o-ajuste-fiscal-aprovado-pela-camara-e-as-principais-medidas/
+- Rota da Jurisprudencia -- https://rotadajurisprudencia.com.br/2026/11/senado-aprova-plp-299-2026-e-mantem-restricoes-as-compensacoes-tributarias-texto-segue-para-a-camara/
+- Paraiba Business (Sescon-SP) -- https://paraibabusiness.com.br/lucro-presumido-empresa-de-servicos-pode-pagar-r-1088-mil-a-mais-diz-sescon-sp/
+- Times Brasil -- https://timesbrasil.com.br/brasil/empresas-devem-responder-por-mais-da-metade-do-impacto-do-novo-ajuste-fiscal-aponta-senado/
+- Congresso Nacional (ficha do PLP 299/2026) -- https://www.congressonacional.leg.br/web/atividade/materias/-/materia/176328
+
+Runners-up do dia (registro/transparencia):
+- Petrobras aprova plano de US$ 122 bi ate 2031 -- 26/35
+- Raizen: aumento de capital de ate R$ 39,8 bi e risco de diluicao do fundador -- 22/35
+- Hapvida contrata bancos e reavalia portfolio (venda de hospitais) -- 21/35
