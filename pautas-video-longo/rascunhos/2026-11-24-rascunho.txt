@@ -1,0 +1,72 @@
+RADAR DE REPERCUSSAO -- RASCUNHO 2026-11-24 (Etapa 1: pesquisa e pontuacao)
+
+Observacoes da pesquisa:
+- WebFetch bloqueado pela rede desta sessao (fenacon.org.br e otempo.com.br nao resolvem). Fatos confirmados via WebSearch em varios veiculos concordantes; textos oficiais (Agencia Camara, fatos relevantes na CVM) NAO foram lidos diretamente. Etapa 2 deve conferir.
+- Descartados por repeticao (ultimos 10 dias deste pipeline): Braskem (acordo de US$ 4,9 bi com credores em 23/11 -- foi vencedora em 14/11); Nvidia/investigacao da SEC (coberta na pauta de 21/11); Marcopolo PDV (runner-up listado na pauta de 22/11).
+
+CANDIDATO 1 -- Ajuste fiscal aprovado na Camara vai a sancao: corte de beneficios fiscais dobra para 20%, trava na compensacao de creditos e (a confirmar) lucro presumido mais caro
+Fato: Na noite de segunda (23/11/2026), a Camara aprovou o texto-base do PLP 299/2026 por 353 a 128 (5 abstencoes) e, ja na madrugada/terca (24/11), rejeitou todos os destaques -- o texto vai a sancao exatamente como saiu do Senado (texto-base aprovado la em 12/11, 45 a 31). Pontos que mexem com empresas:
+  - Corte linear dos beneficios/incentivos fiscais federais sobe de 10% para 20% (governo estima ~R$ 15 bi). Isencao/aliquota zero passa a pagar 20% da aliquota-padrao; credito presumido aproveitavel em 80%.
+  - Restricao ao uso de creditos tributarios/compensacao (estimativa R$ 12,8 bi a R$ 18,3 bi) -- na pratica, parte das empresas desembolsa mais caixa para pagar tributo.
+  - Lucro presumido: analises juridicas (Conjur 19/11, Chambarelli, TAGD) apontam que o texto do Senado dobra de 10% para 20% o acrescimo nos percentuais de presuncao de IRPJ/CSLL sobre a parcela da receita acima de R$ 5 mi/ano (ex.: 8% -> 9,6%; 32% -> 38,4%). STATUS FINAL DESTE PONTO NAO CONFIRMADO -- Etapa 2 precisa checar a redacao final antes de usar.
+  - Simples Nacional, Zona Franca, cesta basica e Prouni ficam ressalvados do corte linear (nao ha aumento automatico do DAS).
+  - Vigencia prevista: 1/1/2027 (tributos com noventena podem ter data diferente).
+  - Economia total estimada varia entre fontes: R$ 45 bi a R$ 60 bi em 2027.
+Fonte: O Tempo -- https://www.otempo.com.br/politica/2026/11/23/camara-aprova-pacote-fiscal-de-lula-por-353-a-128-e-texto-fica-a-dez-destaques-da-sancao
+Apoio: O Tempo (destaques barrados, vai a sancao) -- https://www.otempo.com.br/politica/2026/11/24/governo-barra-todas-as-mudancas-e-ajuste-fiscal-de-lula-vai-a-sancao-como-saiu-do-senado | JOTA -- https://www.jota.info/legislativo/ajuste-fiscal-camara-aprova-texto-base-e-avanca-para-a-analise-dos-destaques | Brasil de Fato -- https://www.brasildefato.com.br/2026/11/23/camara-aprova-ajuste-fiscal-sem-alteracoes-texto-vai-a-sancao-presidencial/ | Conjur (lucro presumido e compensacao) -- https://conjur.com.br/2026-nov-19/ajuste-fiscal-onera-lucro-presumido-e-ameaca-compensacao-tributaria/ | Conjur (texto do Senado) -- https://conjur.com.br/2026-nov-23/ajuste-fiscal-o-texto-aprovado-no-senado-e-o-que-esta-em-jogo/ | Contabeis (Simples ressalvado) -- https://www.contabeis.com.br/noticias/80814/ajuste-fiscal-senado-pode-votar-projeto-que-reduz-beneficios-tributarios/ | Money Times (mercado de olho no ajuste, 24/11) -- https://www.moneytimes.com.br/tempo-real-24-11-2026-davs/
+Score de Repercussao:
+- Frescor: 5/5 (votacao 23/11 a noite, destaques 24/11)
+- Relevancia do protagonista: 4/5 (regra que atinge toda empresa fora do Simples; tema conhecido do publico geral)
+- Gravidade: 4/5 (aumento efetivo de carga/caixa para empresas a partir de 2027)
+- Polemica adjacente: 5/5 (pacote do governo, debate fiscal, OAB contra, ano pos-eleitoral polarizado)
+- Volume de cobertura: 5/5 (O Tempo, JOTA, Brasil de Fato, Conjur, Money Times, Contabeis, dezenas de portais)
+- Clareza do angulo: 3/5 (varias medidas tecnicas ao mesmo tempo; precisa recortar em 1-2 pontos -- creditos/compensacao e, se confirmado, lucro presumido)
+- Identificacao com audiencia: 5/5 (dono de PME no lucro presumido ou com incentivo fiscal sente direto no caixa de 2027)
+TOTAL: 31/35
+Status: VENCEDOR DO DIA
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" (5/5) pesou no score. O video NAO comenta o governo, o presidente, partidos, nem se o ajuste e certo ou errado, nem o placar politico da votacao. Angulo exclusivamente pratico: "o que muda no imposto e no caixa da sua empresa em 2027, quem esta fora (Simples) e o que fazer agora (simular regime tributario com o contador antes de janeiro, revisar incentivos e creditos)". Evitar no titulo/roteiro a expressao "pacote de Lula".
+
+CANDIDATO 2 -- Petrobras aprova plano de US$ 122 bi ate 2031: mais investimento, dividendo ordinario de US$ 55-60 bi
+Fato: Em 23/11/2026, o conselho da Petrobras aprovou o Plano de Negocios 2027-2031 com investimentos de US$ 122 bi (US$ 113 bi em implantacao + US$ 9 bi em avaliacao), contra US$ 109 bi do plano anterior. Mais de 70% vai para Exploracao e Producao; meta de 3,2 milhoes de barris de oleo equivalente/dia entre 2028 e 2031; US$ 23 bi em refino/fertilizantes; US$ 13,5 bi em transicao energetica. Projeta fluxo de caixa operacional de US$ 230-250 bi e dividendos ordinarios de US$ 55-60 bi no quinquenio. Mercado vinha preocupado com capex alto comendo dividendo.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-aprova-investimentos-de-us-122-bi-em-plano-de-negocios-2027-2031/
+Apoio: Times Brasil -- https://timesbrasil.com.br/brasil/petrobras-aprova-plano-de-us-122-bilhoes-ate-2031-e-promete-producao-recorde-de-32-milhoes-de-barris/ | SpaceMoney -- https://www.spacemoney.com.br/investimentos/acoes/petrobras-plano-122-bi-2027-2031 | Money Times -- https://www.moneytimes.com.br/tempo-real-24-11-2026-davs/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 3/5 (plano anual, esperado pelo mercado)
+- Polemica adjacente: 4/5 (estatal, uso politico, dividendos x investimento)
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5 (licao "reinvestir x distribuir lucro" e boa, mas numeros em dolar e setor distante)
+- Identificacao com audiencia: 2/5
+TOTAL: 26/35
+Status: runner-up
+
+CANDIDATO 3 -- Raizen: aumento de capital de ate R$ 39,8 bi e o fundador que pode ser diluido por nao ter caixa para acompanhar
+Fato: Conselho da Raizen aprovou (inicio de nov/2026) aumento de capital privado de ate R$ 39,8 bi, com aporte de ate R$ 3,5 bi da Shell e potencialmente R$ 500 mi da Aguassanta (family office da familia Ometto). Quem nao exercer preferencia pode ser diluido em ~57% (subscricao minima) a ate 94% (maxima); prazo de preferencia de 9/11 a 8/12. Segundo Reuters (citada em resumo de mercado de 23/11), a capitalizacao deve atingir a faixa superior, mas dificilmente atraira novos recursos de Rubens Ometto, aumentando a chance de maior diluicao.
+Fonte: InvestNews -- https://investnews.com.br/negocios/raizen-aprova-aumento-de-capital-de-ate-r-397-bilhoes/
+Apoio: Mercado & Consumo -- https://mercadoeconsumo.com.br/03/11/2026/economia/raizen-divide-negocios-e-preve-aumento-de-capital-de-ate-r-398-bi/ | Mercado Hoje (23/11) -- https://mercadohoje.uai.com.br/2026/11/23/mercado-hoje-23-11-2026
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5 (socio que nao acompanha aporte perde fatia -- licao direta de sociedade)
+- Identificacao com audiencia: 4/5
+TOTAL: 22/35
+Status: runner-up
+
+CANDIDATO 4 -- Hapvida contrata bancos e reavalia portfolio: venda de hospitais no Sul/Sudeste para cortar divida
+Fato: Apos questionamento da CVM sobre reportagem do Estadao (17/11), a Hapvida confirmou em 19/11 reavaliacao do portfolio e contratacao de assessores, sem decisao vinculante. Bloco citado: 8 hospitais, 21 clinicas, ~490 mil vidas (Clinipam e Centro Clinico Gaucho, ~R$ 1 bi). Itau BBA estima R$ 500-800 mi, sem resolver os problemas operacionais.
+Fonte: Economic News Brasil -- https://economicnewsbrasil.com.br/2026/11/19/revisao-ativos-hapvida-venda-fundos/
+Apoio: brapi -- https://brapi.dev/news/hapvida-poe-8-hospitais-e-21-clinicas-a-venda-com-btg-na-8e432365
+Score de Repercussao:
+- Frescor: 3/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 3/5
+TOTAL: 21/35
+Status: runner-up
