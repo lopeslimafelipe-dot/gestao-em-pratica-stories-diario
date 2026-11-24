@@ -1,0 +1,37 @@
+ROTEIRO 1 -- Nem a OpenAI confia na IA sozinha
+"A OpenAI lançou ontem o OpenWorks, um piloto em 20 comunidades dos Estados Unidos. Segundo sites de tecnologia e um post da própria OpenAI, 🟡`ela vai pagar até 8 mil dólares por mês a especialistas locais para ensinar pequenos negócios a usar IA, de graça`🟡. A empresa atendida ganha três meses de ChatGPT Business, ou seja, a OpenAI também quer vender. 🟡`Se nem quem fabrica a IA acredita que ela se implanta sozinha, a assinatura que você paga também não vai.`🟡 Na sua empresa, quem é o responsável por fazer a IA funcionar?"
+Fonte: Tech Startups -- https://techstartups.com/2026/11/23/openai-to-pay-ai-experts-up-to-8000-a-month-to-help-small-businesses-adopt-ai/
+
+ROTEIRO 2 -- O credor virou sócio
+"A Braskem chegou ao último dia da proteção contra credores com o pedido de recuperação judicial pronto, segundo o Brazil Journal. E fechou acordo ontem: 🟡`cerca de 3,6 bilhões de dólares em dívida vão virar ações dos credores`🟡, mais 1,3 bilhão de dinheiro novo da Petrobras. Os detalhes ainda serão formalizados, mas o plano reestrutura cerca de 11 bilhões e a dívida cai para perto de 7. 🟡`Quem renegocia antes de vencer paga juros; quem renegocia no último minuto entrega um pedaço da empresa.`🟡 Você conversa com seu banco agora ou espera o prazo apertar?"
+Fonte: Brazil Journal -- https://braziljournal.com/a-braskem-estava-com-a-rj-pronta-um-acordo-de-ultima-hora-evitou-o-pior
+
+ROTEIRO 3 -- Difícil vender, difícil contratar
+"Semana passada eu mostrei a confiança da indústria no menor nível desde 2020. Agora o outro lado, e emprego é o dado que reage por último. Segundo o IBGE, 🟡`no terceiro trimestre a desocupação caiu em 8 estados, ficou estável em 18 e só subiu no Espírito Santo`🟡, com média nacional de 5,2%. A maior queda foi na Bahia: 🟡`2 pontos em apenas três meses, de 9,1% para 7,1%`🟡. 🟡`Está difícil vender e, ao mesmo tempo, difícil contratar, inclusive no Nordeste.`🟡 Você revisou salário e retenção este ano ou ainda conta com fila de currículo?"
+Fonte: Agência Gov -- https://agenciagov.ebc.com.br/noticias/202611/pnad-desocupacao-cai-em-oito-estados-e-fica-estavel-em-18-no-terceiro-trimestre
+
+ROTEIRO 4 -- A recessão que só existe no humor
+"O americano jura que vai gastar menos no Natal. Na pesquisa de outubro da PwC, com 4.050 consumidores, 🟡`o gasto planejado com presentes caiu 10% desde junho`🟡. Só que a própria PwC cruzou isso com dados reais de compra da Numerator, e 🟡`a projeção é de gasto de fim de ano 5,4% maior que no ano passado`🟡. A consultoria chama isso de vibecession, a recessão que só existe no humor. 🟡`Quem planeja estoque e promoção pela conversa do cliente erra a dose; olhe o caixa, não o clima.`🟡 O seu planejamento de dezembro está baseado em quê?"
+Fonte: PwC -- https://www.pwc.com/us/en/industries/consumer-markets/library/holiday-spending-update.html
+
+ROTEIRO 5 -- A dívida mais barata do ano
+"Tem estado perdoando juros e multa de ICMS, e a porta fecha em dezembro. No Ceará, a Lei 19.915 dá 🟡`100% de desconto em multas e juros para quem pagar à vista até 30 de dezembro`🟡, para débitos com fato gerador até abril de 2026. Na Paraíba, o desconto também chega a 100%, com adesão até 18 de dezembro. Outros estados podem ter programas parecidos. 🟡`A dívida que você empurra há anos está, por algumas semanas, mais barata do que nunca.`🟡 Seu contador já conferiu se o seu estado está com Refis aberto?"
+Fonte: O Povo -- https://mais.opovo.com.br/jornal/economia/2026/11/03/refis-2026-no-ceara-comeca-nesta-terca-veja-como-obter-ate-100-de-desconto.html
+
+ROTEIRO 6 -- O custo de quem fica
+"A Volkswagen, que já planeja cortar mais 50 mil vagas, agora quer segurar o custo de quem fica. 🟡`A montadora pediu ao sindicato zero de reajuste salarial em 2027 e em 2028`🟡, o fim de pagamentos extras e mais flexibilidade na semana de 35 horas. O sindicato IG Metall pede 5%, chamou a lista de catálogo do horror e fala em greve a partir de janeiro. A negociação começa hoje. 🟡`Demitir resolve o custo de quem sai; o difícil é o custo de quem fica.`🟡 O que você faz quando a folha cresce mais rápido que a receita?"
+Fonte: Volkswagen Group (comunicado oficial) -- https://www.volkswagen-group.com/en/press-releases/2026-collective-bargaining-negotiations-volkswagen-ag-calls-for-significant-relief-in-labor-costs-20874
+
+ROTEIRO 7 -- Cortar com o lucro subindo
+"A BAE Systems, gigante britânica de defesa, vai cortar até 1.070 vagas no Reino Unido, por demissão voluntária. Detalhe: segundo a imprensa britânica, 🟡`a empresa projeta lucro operacional subindo de 10% a 12% este ano`🟡. E repare onde cortou: cerca de 940 vagas na divisão aérea e 130 na sede, preservando o chão de fábrica, a manutenção e os trainees. 🟡`Enxugar não é sintoma de crise, é decisão de eficiência, e quem espera a crise para cortar costuma cortar errado.`🟡 Onde está a sede inchada da sua empresa?"
+Fonte: Yorkshire Post -- https://www.yorkshirepost.co.uk/business/up-to-1070-jobs-to-be-cut-by-bae-systems-in-air-division-and-head-office-9360326
+
+ROTEIRO 8 -- De parceira a dona
+"Até ontem eram parceiras; agora uma vai comprar a outra. 🟡`A CrowdStrike anunciou a compra da Zscaler por 43,9 bilhões de dólares, tudo em ações`🟡: cada ação da Zscaler vira 1,135 ação da compradora. Juntas, passam de 10 bilhões de dólares em receita recorrente anual. O negócio ainda depende de acionistas e reguladores. 🟡`A IA está forçando a consolidação: você vai comprar tecnologia de cada vez menos fornecedores, cada vez maiores.`🟡 Quanto da sua operação depende de um fornecedor só?"
+Fonte: Zscaler/CrowdStrike (comunicado conjunto na SEC) -- https://www.sec.gov/Archives/edgar/data/0001713683/000119312526471211/d115803dex991.htm
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 2] "Quando você renegocia uma dívida da empresa, costuma ser:" Antes de vencer / Depois que aperta
+2. [Pergunta/Participacao, Roteiro 3] Caixinha: "Está mais difícil contratar na sua cidade este ano? Me conta qual vaga você não consegue preencher."
+3. [Virar Historia, Roteiro 4 -> Estilo Duplo Eu] Um eu-consumidor diz "vou gastar 10% menos" e o outro eu, com o recibo na mão, responde "+5,4%": o contraste entre o que se diz e o que se faz é exatamente o dado.
