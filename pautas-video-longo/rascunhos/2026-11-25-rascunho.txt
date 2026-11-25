@@ -1,0 +1,69 @@
+RADAR DE REPERCUSSAO -- ETAPA 1 (PESQUISA E PONTUACAO) -- 2026-11-25 (quarta-feira)
+
+Checagem de repeticao (pautas-video-longo/saidas/, 15/11 a 24/11): recorde de RJs, apagao Microsoft 365, chips EUA, dolar R$ 5,78, IPO Anthropic, escala 5x2, queda das acoes de IA/Nvidia (21/11), Black Friday/juros, fim da ajuda ao diesel, ajuste fiscal PLP 299 (24/11).
+- Braskem: ultima pauta em 14/11 (11 dias atras), fora da janela de 10 dias corridos -> ELEGIVEL hoje. O fato de hoje e novo: acordo com credores (23/11) e pedido de mais prazo (24/11).
+- DESCARTADOS por repeticao: Nvidia reconduz Jensen Huang como CEO, acoes +30% em 23/11 (Nvidia foi coberta em 21/11; score estimado ~29/35). Dolar a R$ 5,91 e leiloes do BC (cambio coberto em 18/11). Sancao do ajuste fiscal / LC 239 (tema da pauta de 24/11).
+Obs. de metodo: os portais G1, InfoMoney e Agencia Brasil estavam bloqueados pela rede desta sessao (WebFetch falhou). Os fatos foram levantados por busca web e confirmados em varios veiculos que noticiaram o mesmo fato. A Etapa 2 deve reconfirmar numeros na fonte primaria (comunicado CVM da Braskem; DOU para a Resolucao CGSN 196).
+
+----------------------------------------------------------------
+
+CANDIDATO 1 -- Braskem fecha acordo com credores: Petrobras poe US$ 1,3 bi e credores trocam US$ 3,6 bi de divida por participacao na empresa
+Fato: Em 23/11/2026 a Braskem informou a CVM um acordo de principios (nao vinculante) com credores que somam a maioria dos creditos do plano de recuperacao extrajudicial. Os acionistas Petrobras e Shine I FIP apoiam o acordo. Pelas reportagens, a Petrobras aportaria cerca de US$ 1,3 bi e os credores converteriam cerca de US$ 3,6 bi de dividas em acoes ou outros instrumentos, dentro da reestruturacao de mais de US$ 11 bi em obrigacoes financeiras, para evitar uma recuperacao judicial. Em 24/11 a empresa pediu mais 20 dias uteis para protocolar o plano atualizado. Contexto: a Fitch rebaixou a Braskem para 'RD' (inadimplencia restrita) em agosto, depois que a empresa deixou de pagar juros.
+Fonte: Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/braskem-brkm5-chega-a-acordo-com-credores-e-pede-prorrogacao-para-plano-de-recuperacao-extrajudicial-mlem/
+Fonte: Money Times -- https://www.moneytimes.com.br/braskem-brkm5-pede-prorrogacao-para-apresentar-plano-de-recuperacao-extrajudicial-mlem/
+Fonte: Jornal do Comercio -- https://www.jornaldocomercio.com/economia/2026/11/1271575-braskem-pede-prorrogacao-de-20-dias-para-apresentar-plano-de-recuperacao-extrajudicial.html
+Fonte: Terra -- https://www.terra.com.br/economia/braskem-pede-prorrogacao-de-20-dias-para-apresentar-plano-de-recuperacao-extrajudicial,4a29fc52533f421b24809706b1b77101w0s6851p.html
+Fonte (fato relevante a CVM, resumo): Atlas Publico -- https://atlaspublico.com.br/cvm/noticias/braskem-fecha-acordo-de-principios-com-credores-e-pede-mais-104742
+Contexto (rebaixamento): InfoMoney -- https://www.infomoney.com.br/mercados/fitch-rebaixa-braskem-para-rd-inadimplencia-restrita-por-nao-pagamento-de-juros/
+Score de Repercussao:
+- Frescor: 4/5 (acordo em 23/11, pedido de prazo em 24/11)
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5 (maior petroquimica da America Latina; credor virando dono; aporte da Petrobras)
+- Polemica adjacente: 4/5 (dinheiro de estatal entrando para salvar empresa privada endividada)
+- Volume de cobertura: 4/5 (Seu Dinheiro, Money Times, Terra, Jornal do Comercio, Brasil 247, Mercado & Consumo, entre outros)
+- Clareza do angulo: 3/5 (reestruturacao com varias pecas; o fio "divida impagavel -> credor vira socio -> dono dilui" precisa ser simplificado)
+- Identificacao com audiencia: 3/5 (licao de endividamento e de negociar antes de quebrar; porte distante)
+TOTAL: 27/35
+Status: VENCEDOR DO DIA (empate com o Candidato 2 em 27/35; desempate por GRAVIDADE, 5 contra 4)
+!! GUARDRAIL POLITICO: o fator 'Polemica adjacente' pesou (4/5) por causa do aporte da Petrobras, que e estatal. O roteiro NAO deve opinar sobre uso de dinheiro publico, governo ou figuras politicas. Angulo sempre de gestao: o que acontece quando a divida passa do ponto, por que negociar com credores antes da recuperacao judicial, e o que significa o credor virar socio (o dono perde parte da empresa).
+Nota pra Etapa 2: o Candidato 2 (Simples Nacional) empatou e tem identificacao maxima com o publico. Se a Etapa 2 achar o angulo da Braskem pesado demais, o Simples e uma troca legitima.
+
+----------------------------------------------------------------
+
+CANDIDATO 2 -- Simples Nacional muda para 2027: Resolucao CGSN 196 traz novas tabelas com IBS e CBS
+Fato: O Comite Gestor do Simples Nacional publicou no DOU, em 24/11/2026, a Resolucao CGSN n. 196 (assinada em 16/11). Ela adapta o Simples a reforma tributaria: substitui os Anexos I a V (comercio, industria e servicos) com nova reparticao das aliquotas, agora com CBS e IBS, valendo a partir de 01/01/2027 e com transicao ate 2033. Empresas do regime normal poderao tomar credito de IBS/CBS sobre compras de empresas do Simples, limitado ao imposto devido na operacao. Em regra, a receita passa a ser reconhecida na emissao da nota fiscal. Valores de vendas feitas ate 31/12/2026 e ainda nao recebidos entram na apuracao de dezembro de 2026. Vendas a orgaos publicos devem ser informadas em separado. A DEFIS de 2026 vence em 31/03/2027. (Uma fonte cita 30/11/2026 como prazo para desistir da opcao feita em setembro entre o Simples e o recolhimento de IBS/CBS por fora -- confirmar no DOU.)
+Fonte: Contabeis -- https://www.contabeis.com.br/noticias/81103/simples-nacional-cgsn-atualiza-regras-para-adaptacao-a-reforma/
+Fonte: CRC-MG -- https://crcmg.org.br/noticias/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria/
+Fonte: Mix Vale -- https://www.mixvale.com.br/2026/11/24/cgsn-publica-resolucao-que-adapta-o-simples-nacional-ao-ibs-e-a-cbs
+Fonte: Atlas Publico -- https://atlaspublico.com.br/noticias/cgsn-altera-regras-do-simples-nacional-e-fixa-novas-tabelas-104489
+Score de Repercussao:
+- Frescor: 5/5 (publicada no DOU ontem, 24/11)
+- Relevancia do protagonista: 4/5 (regime de milhoes de empresas)
+- Gravidade: 4/5 (muda o calculo do imposto de quem esta no Simples a partir de janeiro)
+- Polemica adjacente: 3/5 (reforma tributaria e carga sobre pequenas empresas)
+- Volume de cobertura: 3/5 (muitos sites contabeis e regionais; nao achei nos grandes portais)
+- Clareza do angulo: 3/5 (tema tecnico; o angulo "seu cliente PJ vai olhar o credito que voce gera" e claro, mas tabelas e prazos sao densos)
+- Identificacao com audiencia: 5/5
+TOTAL: 27/35
+Status: runner-up (perdeu no desempate por gravidade)
+
+----------------------------------------------------------------
+
+CANDIDATO 3 -- Grupo Mateus: 28 lojas fechadas e 6,6 mil vagas a menos volta a circular
+Fato: O Grupo Mateus reduziu o quadro de 47,9 mil para 41,2 mil pessoas (-6.673, ou -13,9%) entre dez/2025 e mar/2026 e fechou 28 lojas numa reorganizacao em seis estados do Norte e Nordeste. O fato e antigo (noticiado desde junho de 2026) e voltou a circular em 24/11 em portais menores. As fontes divergem sobre qual bandeira foi mais afetada (Eletro Mateus ou Mix Mateus).
+Fonte: Agencia GBC (24/11/2026) -- https://agenciagbc.com/2026/11/24/terceira-maior-rede-de-supermercados-do-brasil-fecha-28-lojas-e-reduz-milhares-de-postos-de-trabalho-saiba-o-que-aconteceu-com-a-operacao/
+Fonte: Diario de Pernambuco (jun/2026) -- https://www.diariodepernambuco.com.br/economia/2026/06/11717380-grupo-mateus-fecha-28-lojas-e-reduz-88-de-funcionarios-no-norte-e-no-nordeste-entenda.html
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 4/5
+TOTAL: 19/35
+Status: runner-up (fraco: fato velho requentado)
+
+----------------------------------------------------------------
+Resumo: VENCEDOR = Braskem: acordo com credores e aporte da Petrobras (27/35). Runners-up: Simples Nacional / CGSN 196 (27/35, perdeu no desempate) e Grupo Mateus (19/35). Fora da disputa por repeticao: Nvidia reconduz Huang (~29/35).
+Dia sem um fato "bombando" do tamanho de 18/11 ou 20/11: score abaixo da media recente (26 a 34), mas acima do piso de 15.
