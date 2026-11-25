@@ -1,0 +1,80 @@
+PAUTA DO DIA -- 2026-11-25
+Assunto: Braskem fecha acordo de principios com credores -- quem emprestou o dinheiro vai virar socio (parte da divida trocada por participacao) e a empresa pede mais 20 dias uteis para entregar o plano
+Score final: 27/35
+- Frescor: 4/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 4/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+(Empate com o Simples Nacional/CGSN 196 em 27/35; desempate por Gravidade 5 x 4, conforme a Etapa 1.)
+
+Fato central verificado:
+Em 23/11/2026 a Braskem informou ao mercado que chegou a um ACORDO DE PRINCIPIOS sobre os principais termos comerciais do plano atualizado de recuperacao extrajudicial, com o comite diretivo de credores. Esses credores representam, juntos, a maioria dos creditos sujeitos ao plano. Pelo comunicado da empresa, os principios NAO sao vinculantes e NAO sao um contrato preliminar: ainda nao e o acordo definitivo. Na sequencia, a Braskem pediu a Justica mais 20 dias uteis para protocolar o plano atualizado, com apoio dos credores financeiros que detem a maioria dos creditos.
+Termos economicos (segundo pessoas proximas as negociacoes citadas pela imprensa, NAO pelo comunicado oficial): aporte de cerca de US$ 1,3 bilhao pela Petrobras, maior acionista individual, e conversao de cerca de US$ 3,6 bilhoes de divida em participacao pelos credores -- reforco de capital total de cerca de US$ 4,9 bilhoes, dentro de uma reestruturacao de cerca de US$ 10,9 bilhoes em dividas.
+Confirmado via busca em varios veiculos (WebFetch bloqueado nesta sessao para seudinheiro.com e bloomberglinea.com.br; o fato relevante na CVM nao foi lido diretamente):
+- Money Times -- https://www.moneytimes.com.br/braskem-brkm5-anuncia-acordo-preliminar-com-credores-sobre-plano-de-reestruturacao-fets/
+- Money Times -- https://www.moneytimes.com.br/braskem-brkm5-pede-prorrogacao-para-apresentar-plano-de-recuperacao-extrajudicial-mlem/
+- Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/braskem-fecha-acordo-para-reestruturacao-mas-pede-prazo-maior-para-concluir-operacao/
+- Acionista.com.br -- https://acionista.com.br/braskem-acordo-credores-recuperacao-extrajudicial/
+- Seu Dinheiro (fonte do rascunho) -- https://www.seudinheiro.com/2026/empresas/braskem-brkm5-chega-a-acordo-com-credores-e-pede-prorrogacao-para-plano-de-recuperacao-extrajudicial-mlem/
+
+Cadeia causal (o que levou a isso):
+1. Divida grande contratada em ciclo bom: petroquimica e setor ciclico; a Braskem carregava divida pesada, majoritariamente em dolar e em titulos vendidos a investidores (bondholders).
+2. O ciclo virou: entre 2024 e 2026 as margens petroquimicas globais encolheram (excesso de capacidade, sobretudo na Asia, e demanda fraca). Geracao de caixa caiu, divida ficou -- divida/geracao de caixa chegou a 14,7x no fim de 2025 (pauta de 14/11).
+3. Sem folego para pagar: em junho de 2026 a empresa obteve tutela cautelar contra credores (Fitch cortou para 'C'); em 14/08/2026 deixou de pagar juros e a Fitch rebaixou para 'RD' (inadimplencia restrita).
+4. Recuperacao extrajudicial: pedido em 24/08/2026, renegociando cerca de US$ 10,9 bi, com apenas 39,6% de adesao no protocolo; prazo de 90 dias para passar de 50%.
+5. Queda de braco sobre "quanto da divida vira acao": as propostas foram mudando -- US$ 1,1 bi de aporte + US$ 2,9 bi de conversao; depois US$ 1,4 bi de aporte condicionado a converter US$ 3,8 bi (rejeitado pelos credores, oferta chegou a ser retirada); prazos prorrogados varias vezes (30/10, 12/11, 22/11).
+6. Hoje: acordo de principios em torno de ~US$ 1,3 bi novo + ~US$ 3,6 bi de divida virando participacao. Traduzindo: o credor aceita receber menos dinheiro e, em troca, vira dono de um pedaco da empresa -- e quem ja era socio fica com uma fatia menor (diluicao).
+7. Proximo passo: plano atualizado em ate 20 dias uteis e homologacao judicial; se nao fechar, o risco e uma recuperacao judicial.
+
+Por que esta repercutindo agora:
+- Gravidade (5/5): uma das maiores petroquimicas das Americas evitando, por enquanto, a recuperacao judicial; virada de um impasse de meses.
+- Frescor (4/5): acordo em 23/11 e pedido de prazo em 24/11.
+- Volume de cobertura (4/5): imprensa economica e de mercado inteira.
+- A Polemica adjacente (4/5) pesou por causa da participacao de uma estatal no aporte -- isso NAO entra no video (ver Ressalva).
+
+Angulo de gestao sugerido:
+"Quando a divida passa do ponto, o credor vira socio -- e o dono perde pedaco da empresa." Licoes praticas pro dono de PME:
+- Divida nao e so juros: se o caixa nao paga, a conta vem em participacao, controle ou garantias. Dimensione a divida pelo pior ano provavel, nao pelo melhor.
+- Negocie ANTES de dar calote: quem chega a mesa depois de atrasar parcela negocia em desvantagem (a Braskem so conseguiu acordo meses depois do nao pagamento e com varias rodadas fracassadas).
+- Recuperacao extrajudicial x judicial: a extrajudicial e uma negociacao direta com os credores (homologada depois pelo juiz), a empresa segue operando e mantem a gestao -- existe caminho antes da recuperacao judicial, mas exige maioria dos credores a bordo.
+- Diluicao: trazer socio ou converter divida em participacao salva o caixa, mas o dono passa a dividir decisoes e lucro. Saiba quanto da empresa voce aceitaria ceder antes de precisar.
+- Indicadores de alerta para acompanhar: divida/geracao de caixa, prazo medio da divida x prazo do recebivel, moeda da divida x moeda da receita.
+
+Dados de apoio:
+- Recuperacao extrajudicial pedida em 24/08/2026, cerca de US$ 10,9 bi em dividas (quase R$ 57 bi), 39,6% de adesao no protocolo, precisa de 50% + 1 em 90 dias. Fontes: Acionista.com.br https://acionista.com.br/braskem-brkm3-anuncia-pedido-de-recuperacao-extrajudicial-de-us-109-bilhoes/ | SBT News https://sbtnews.sbt.com.br/noticia/economia/braskem-recebe-aval-da-justica-para-recuperacao-extrajudicial
+- Fitch rebaixou de 'C' para 'RD' (inadimplencia restrita) em 14/08/2026 por nao pagamento de juros apos o periodo de carencia. Fontes: Mercado & Consumo https://mercadoeconsumo.com.br/17/08/2026/mc-capital/fitch-rebaixa-braskem-de-c-para-rd-inadimplencia-restrita-por-nao-pagamento-de-juros/ | Times Brasil https://timesbrasil.com.br/empresas-e-negocios/fitch-rebaixa-nota-de-credito-da-braskem-apos-falta-de-pagamento-de-juros/
+- Evolucao das propostas: aporte de US$ 1,1 bi + conversao de US$ 2,9 bi (capitalizacao de US$ 4 bi); depois oferta de US$ 1,4 bi condicionada a conversao de US$ 3,8 bi, rejeitada pelos credores e retirada pelos acionistas. Fontes: InvestNews https://investnews.com.br/negocios/braskem-petrobras-e-ig4-retiram-proposta-de-aporte-apos-impasse-com-credores/amp/ | InvestNews https://investnews.com.br/negocios/credores-acionistas-braskem-acordo/ | brapi https://brapi.dev/news/braskem-acionistas-retiram-aporte-de-us-1-4-bi-apos-credores-rejeitarem-9377b127
+- Prorrogacoes anteriores do prazo de negociacao (30/10 e depois 12/11). Fontes: Times Brasil https://timesbrasil.com.br/empresas-e-negocios/braskem-prorroga-negociacao-com-credores-ate-sexta-feira-30/ | Acionista.com.br https://acionista.com.br/brkm5-petroquimica-amplia-negociacoes-com-credores-e-acionistas/
+- Controle: a gestora IG4 fechou acordo para assumir o controle (que era da Novonor) e divide o controle com a Petrobras por acordo de acionistas. Fontes: Bloomberg Linea https://www.bloomberglinea.com.br/negocios/ig4-fecha-acordo-para-assumir-o-controle-da-braskem-apos-meses-de-incerteza/ | TNH1 https://www.tnh1.com.br/noticia/nid/ig4-tera-controle-da-braskem-e-petrobras-presidira-conselho/
+- Contexto operacional (3T26): prejuizo de R$ 1,068 bi com Ebitda recorrente +140% a/a -- custo financeiro de R$ 1,6 bi no trimestre engoliu a melhora. Fonte: InfoMoney https://www.infomoney.com.br/mercados/braskem-tem-prejuizo-liquido-de-r-1068-bi-no-3o-trimestre/ (verificado na pauta de 14/11).
+
+Ressalva/limite:
+- GUARDRAIL POLITICO (regra dura): o fator 'Polemica adjacente' pesou (4/5) porque uma estatal participa do aporte. O video NAO comenta uso de dinheiro publico, governo, politica de estatais, partidos ou figuras politicas, nem o historico de Alagoas. Se precisar citar quem poe dinheiro, usar apenas "os acionistas" / "o maior acionista" no contexto de aporte de capital. Angulo exclusivamente de gestao: divida, negociacao com credor e diluicao.
+- Os valores US$ 1,3 bi (aporte) e US$ 3,6 bi (conversao) vem de fontes proximas as negociacoes citadas pela imprensa, NAO do comunicado oficial, e o acordo e NAO vinculante. No video, falar "cerca de" e "pelo que foi noticiado", ou apenas "mais de US$ 1 bilhao de dinheiro novo e alguns bilhoes de divida virando participacao".
+- NAO confirmado no fact-check (retirado): a mencao do rascunho ao fundo "Shine I FIP" como acionista apoiador. Nao usar.
+- O total da divida aparece como "mais de US$ 11 bi" em algumas fontes e US$ 10,9 bi em outras; usar "cerca de US$ 11 bilhoes".
+- Situacao pode mudar ate a gravacao (plano protocolado, homologacao, novo impasse) -- conferir manchetes do dia antes de gravar.
+- Nada de recomendacao sobre comprar/vender a acao (BRKM5) ou titulos da empresa.
+- Braskem foi pauta em 14/11 (balanco do 3T26) -- o video de hoje deve ser apresentado como "o capitulo seguinte", sem repetir o mesmo hook.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico -- "Quem emprestou dinheiro pra Braskem vai virar dono de um pedaco dela. E isso foi a SAIDA boa."
+- Contexto/causa raiz: divida gigante em dolar contratada no ciclo bom; o ciclo virou, o caixa encolheu e a divida ficou.
+- Desenvolvimento da cadeia causal: calote de juros (agosto) -> rebaixamento para inadimplencia restrita -> recuperacao extrajudicial com so 39,6% dos credores -> meses de queda de braco sobre quanto da divida vira acao -> acordo de principios em 23/11 -> mais 20 dias uteis para fechar o plano.
+- Licao de gestao (a virada): divida que o caixa nao paga vira perda de participacao/controle; negocie antes de atrasar; saiba quanto da empresa voce aceitaria ceder; existe caminho antes da recuperacao judicial, mas ele exige credor a bordo.
+- Fechamento + CTA: "Se o seu banco te ligasse amanha, quanto da sua empresa ele ia pedir? Faz a conta de divida/geracao de caixa hoje." + CTA do canal.
+
+Fonte(s):
+- Money Times -- https://www.moneytimes.com.br/braskem-brkm5-anuncia-acordo-preliminar-com-credores-sobre-plano-de-reestruturacao-fets/
+- Money Times -- https://www.moneytimes.com.br/braskem-brkm5-pede-prorrogacao-para-apresentar-plano-de-recuperacao-extrajudicial-mlem/
+- Bloomberg Linea -- https://www.bloomberglinea.com.br/negocios/braskem-fecha-acordo-para-reestruturacao-mas-pede-prazo-maior-para-concluir-operacao/
+- Acionista.com.br -- https://acionista.com.br/braskem-acordo-credores-recuperacao-extrajudicial/
+- Seu Dinheiro -- https://www.seudinheiro.com/2026/empresas/braskem-brkm5-chega-a-acordo-com-credores-e-pede-prorrogacao-para-plano-de-recuperacao-extrajudicial-mlem/
+
+Runners-up do dia (registro/transparencia):
+- Simples Nacional muda para 2027: Resolucao CGSN 196 traz novas tabelas com IBS e CBS -- 27/35 (perdeu no desempate por gravidade)
+- Grupo Mateus: 28 lojas fechadas e 6,6 mil vagas a menos volta a circular -- 19/35
+- (Fora da disputa por repeticao: Nvidia reconduz Jensen Huang -- ~29/35)
