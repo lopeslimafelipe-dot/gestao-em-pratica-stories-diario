@@ -1,0 +1,37 @@
+ROTEIRO 1 -- O próximo cliente pode ser um robô
+"O Walmart deixou um robô fechar compra de Black Friday. Segundo o TechCrunch, desde esta semana o Muse, agente de IA da Meta, acha as ofertas, monta o carrinho e paga dentro do chat, com o cartão salvo na conta Walmart. 🟡`O cliente define um teto de gasto e decide se quer aprovar cada compra.`🟡 Enquanto isso, a Amazon bloqueia esse mesmo agente desde setembro. 🟡`A briga do varejo agora também é sobre quem atende o robô do cliente, não só o cliente.`🟡 A sua loja está pronta pra vender pra quem não é gente?"
+Fonte: TechCrunch -- https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/
+
+ROTEIRO 2 -- Voltar como sócio, não como dono
+"A Petrobras saiu do etanol em 2020 e agora vai pagar 2,8 bilhões de reais pra voltar. Segundo o comunicado da empresa, 🟡`ela compra 42% da Neomille, terceira maior produtora de etanol de milho do país`🟡, e 1,8 bilhão desse valor entra como dinheiro novo no caixa da Neomille. O controle continua com a CerradinhoBio, e o negócio ainda depende do Cade. Em vez de construir usina do zero, virou sócia minoritária de quem já opera. 🟡`Comprar fatia de quem já sabe fazer custa caro, mas aprender sozinho costuma custar mais.`🟡 Na sua empresa, você prefere construir ou se associar?"
+Fonte: Petrobras (comunicado na SEC) -- https://www.sec.gov/Archives/edgar/data/0001119639/000129281426005382/pbr20261123_6k2.htm
+
+ROTEIRO 3 -- Sem dinheiro agora, não sem esperança
+"O consumidor chega à Black Friday com a confiança no menor nível em mais de quatro anos. Segundo a FGV, o índice caiu para 83,5 pontos em novembro, o menor desde agosto de 2022. E o detalhe está na divisão: 🟡`a nota do momento atual ficou em 79,9 pontos, e a das expectativas, em 86,9`🟡. A própria FGV aponta a situação financeira das famílias como principal motivo. 🟡`O cliente não está sem esperança no futuro; está sem dinheiro agora.`🟡 Desconto sozinho não destrava essa venda; condição de pagamento destrava. A sua oferta desta sexta é de preço ou de prazo?"
+Fonte: BM&C News -- https://bmcnews.com.br/economia/confianca-do-consumidor-cai-em-novembro-ao-menor-nivel-desde-agosto-de-2022/
+
+ROTEIRO 4 -- Seu cliente já tem outro conselheiro
+"Seu cliente já pede conselho financeiro pra inteligência artificial, só que não pra do banco. A McKinsey ouviu cerca de 46 mil consumidores em 13 países, Brasil incluído, no relatório anual sobre bancos: 23% já usam IA generativa pra cuidar do dinheiro. E 🟡`desses, 74% usam ferramentas como ChatGPT e Gemini, e só 37% usam o chatbot do próprio banco`🟡. Vale lembrar que a McKinsey vende projetos de IA pra bancos. 🟡`O cliente não espera você lançar o seu robô; ele já está usando o de outro.`🟡 Quando o seu cliente tem dúvida, ele pergunta pra você ou pro ChatGPT?"
+Fonte: McKinsey (Global Banking Annual Review 2026) -- https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/global%20banking%20annual%20review%202026%20part%202/global-banking-annual-review-2026-the-ai-disruption-dividend.pdf
+
+ROTEIRO 5 -- A dívida que aparece na hora errada
+"Se a sua empresa tem FGTS atrasado em dívida ativa, tem uma janela aberta, e ela fecha em 29 de janeiro. Segundo o Ministério da Fazenda, o edital 12 da PGFN dá 🟡`desconto de até 70% para MEI, micro e pequena empresa, e de até 65% para as demais`🟡, em dívidas de até 45 milhões de reais. Atenção: o desconto é sobre multa, juros e encargos, e o FGTS do trabalhador é pago integral. Adesão só pelo portal Regularize. 🟡`FGTS atrasado é a dívida que aparece na hora errada: no processo trabalhista, no pedido de crédito, na venda da empresa.`🟡 Seu contador já conferiu a sua situação?"
+Fonte: Ministério da Fazenda -- https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/pgfn-lanca-edital-para-negociar-dividas-de-fgts-e-contribuicoes-sociais-de-ate-r-45-milhoes
+
+ROTEIRO 6 -- O preço de esperar o sucessor
+"A Sanofi vai pagar 41 bilhões de dólares pela americana Insmed. Segundo o comunicado oficial, 🟡`são 175 dólares por ação em dinheiro, prêmio de cerca de 46% sobre o preço de antes dos rumores`🟡. O motivo, segundo a imprensa especializada: o Dupixent, remédio que sustenta a Sanofi, caminha para perder a exclusividade, e ela precisa de um sucessor. O fechamento está previsto pro primeiro semestre de 2027. 🟡`Quem depende de um produto campeão costuma comprar o sucessor tarde, e caro.`🟡 Se o seu principal produto sumisse amanhã, o que pagaria as contas?"
+Fonte: Insmed (comunicado oficial na SEC) -- https://www.sec.gov/Archives/edgar/data/0001104506/000114036126045364/ef20086426_ex99-1.htm
+
+ROTEIRO 7 -- Lucro recorde, corte no mesmo mês
+"O Inter lucrou 425 milhões de reais no terceiro trimestre, recorde, alta de 26%. Logo depois, segundo o Sindicato dos Bancários de BH, 🟡`desligou mais de 200 pessoas, cerca de 5% do quadro pelas contas do Brazil Journal`🟡, a maioria em tecnologia. O banco não confirma o número e fala em evolução do modelo de atuação. Depois da cobrança do sindicato, 🟡`a compensação dos demitidos subiu de 3 para 6 meses`🟡. 🟡`Quando o corte é decisão e não desespero, não há desculpa pra fazer de qualquer jeito: a saída bem feita custa menos que a manchete.`🟡 Como você comunica uma demissão?"
+Fonte: Reuters via Investing.com -- https://br.investing.com/news/stock-market-news/banco-inter-demite-mais-de-200-funcionarios-diz-sindicato-2137414
+
+ROTEIRO 8 -- Dado de cliente é reputação
+"O iFood teve o segundo vazamento de dados do ano, a poucos dias da Black Friday. A empresa confirmou no dia 19 um acesso indevido detectado no dia 14: telefone de clientes, dados de restaurantes parceiros e, 🟡`de entregadores, nome, CPF e, em alguns casos, a conta bancária de repasse`🟡. Senhas e cartões não foram acessados, diz o iFood, que ainda não informou quantas pessoas foram atingidas. Em junho, já tinha confirmado outro caso, de cerca de 1,2 milhão de usuários. 🟡`Dado de cliente não é assunto do TI, é a reputação da sua marca.`🟡 Você sabe quem tem acesso à base de clientes da sua empresa?"
+Fonte: Folha de Pernambuco -- https://www.folhape.com.br/economia/ifood-sofre-ataque-hacker-e-tem-vazamento-de-dados-de-usuarios/525212/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 3] "Nesta Black Friday, o que mais faz o seu cliente fechar a compra?" Desconto maior / Mais parcelas
+2. [Pergunta/Participacao, Roteiro 8] Caixinha: "Sua empresa já teve vazamento ou golpe com dado de cliente? Me conta o que aconteceu e o que você mudou depois."
+3. [Virar Historia, Roteiro 1 -> Estilo Comparativo] Walmart abre o checkout pro robô e a Amazon bloqueia o mesmo robô: são duas estratégias opostas diante do mesmo fato, e lado a lado o contraste fica claro na hora.
