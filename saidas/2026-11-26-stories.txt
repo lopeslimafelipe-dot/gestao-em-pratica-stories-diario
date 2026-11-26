@@ -1,0 +1,37 @@
+ROTEIRO 1 -- O vendedor que não tem CPF
+"O KaBuM! colocou um robô pra vender no WhatsApp, e ele faturou mais de 2 milhões de reais em cerca de dois meses. Segundo a Exame, o Compre com o Ninja recomenda produto, tira dúvida técnica e recebe o pagamento na própria conversa, entendendo texto, áudio e foto. 🟡`No piloto, só com clientes empresa, foram mais de 2 mil clientes atendidos`🟡; os números são da própria empresa. Agora ele abre pra pessoa física. 🟡`O teste começou no B2B por um motivo: quem compra pro CNPJ quer resposta rápida, não papo.`🟡 O WhatsApp da sua empresa vende ou só responde?"
+Fonte: Exame -- https://exame.com/tecnologia/kabum-ninja-ia-whatsapp/
+
+ROTEIRO 2 -- A economia que virou risco
+"Muita empresa foi pro mercado livre de energia pra pagar menos na conta de luz. Agora, uma comercializadora desse mercado pediu recuperação judicial. Segundo a CNN Brasil e o Brazil Journal, 🟡`o grupo Safira pediu recuperação judicial com 558,8 milhões de reais em dívidas`🟡, e entre os credores estão a Cemig, com 37 milhões, e a Copel, com 12,9 milhões. O pedido ainda depende de a Justiça aceitar. 🟡`Desconto na energia sem olhar quem está do outro lado do contrato não é economia, é risco.`🟡 Você sabe a saúde financeira de quem vende energia pra sua empresa?"
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/infra/safira-pede-recuperacao-judicial-com-r-559-milhoes-em-dividas/
+
+ROTEIRO 3 -- O recorde que olha pra trás
+"Nas últimas semanas eu mostrei a confiança do empresário e do consumidor caindo. Agora veio um recorde, e uma coisa não desmente a outra. Segundo o Ministério da Fazenda, 🟡`a arrecadação federal somou 293,975 bilhões de reais em outubro, alta real de 7,28%`🟡, o maior valor pro mês desde 1995. Parte veio de receitas atípicas e de tributos sobre importação, que subiram 20%. 🟡`Arrecadação mede o que já saiu do caixa; confiança avisa o que vem pela frente.`🟡 Pra planejar 2027, qual dos dois números você está olhando?"
+Fonte: Ministério da Fazenda -- https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/arrecadacao-das-receitas-federais-em-outubro-soma-r-293-975-bilhoes
+
+ROTEIRO 4 -- Mais gente, mesmo bolso
+"Amanhã é Black Friday, e a Deloitte mediu o consumidor americano: 🟡`87% pretendem comprar entre a Black Friday e a Cyber Monday, o maior nível em 10 anos`🟡. Só que o gasto previsto ficou parado em 624 dólares por pessoa, e metade já viu preço mais alto. É intenção declarada, e a Deloitte vende consultoria pro varejo. 🟡`Mais gente comprando com o mesmo dinheiro quer dizer que o desconto disputa um bolo que não cresceu.`🟡 Quem entra só pelo preço sacrifica margem pra ganhar uma fatia que já existia. A sua promoção traz cliente novo ou só antecipa a venda que você já ia fazer?"
+Fonte: Deloitte -- https://www.deloitte.com/us/en/about/press-room/deloitte-black-friday-cyber-monday-survey.html
+
+ROTEIRO 5 -- A segunda porta fecha junto
+"Ontem falei da negociação de FGTS. Tem uma segunda porta, com o mesmo prazo, pra tributo federal e Simples. Segundo a PGFN, o edital 6 de 2026 foi prorrogado e 🟡`aceita adesão até 29 de janeiro de 2027, para dívidas de até 45 milhões de reais inscritas na dívida ativa da União`🟡. O desconto pode chegar a 100% de juros e multas, com teto sobre o total, conforme a classificação de cada devedor; confira no edital. 🟡`A porta fecha logo depois de dezembro e janeiro, os meses em que o caixa mais aperta: quem deixar pra janeiro decide no pior momento.`🟡 Seu contador já simulou no Regularize?"
+Fonte: PGFN -- https://www.gov.br/pgfn/pt-br/servicos/orientacoes-contribuintes/acordo-de-transacao/edital-no-6-2026
+
+ROTEIRO 6 -- Onze dias sem o fundador
+"No dia 13 eu contei aqui que o Jensen Huang tinha saído da Nvidia. Onze dias depois, ele voltou. Segundo o comunicado da empresa à SEC, 🟡`o conselho votou por unanimidade e readmitiu Huang como CEO no dia 23`🟡, poucos dias depois de dizer que não pretendia trazê-lo de volta. Uma investigação independente continua. A ação subiu cerca de 30% no dia e devolveu parte logo depois. 🟡`Quando uma única pessoa mexe tanto no valor da empresa, isso não é força, é dependência.`🟡 Se você saísse amanhã, a sua empresa seguiria funcionando?"
+Fonte: Nvidia (comunicado na SEC) -- https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm
+
+ROTEIRO 7 -- Cortar sem mostrar a conta
+"Segundo um memorando vazado do conselho de trabalhadores, noticiado pelo The Next Web, 🟡`a Oracle propõe cortar até 1.390 funções na Europa, a terceira rodada no continente em cerca de 12 meses`🟡. A justificativa é a IA: os data centers custam caro e o custo operacional precisa cair. Os funcionários pediram a conta que liga a IA aos cortes, e ouviram que não há fórmula padrão pra isso. A Oracle não confirmou. 🟡`Cortar por causa da IA sem mostrar quanto ela economiza é desculpa, não estratégia.`🟡 E corte em série pesa mais em quem fica. Se você cortasse hoje, saberia explicar a conta?"
+Fonte: The Next Web -- https://thenextweb.com/news/oracle-european-job-cuts-third-round
+
+ROTEIRO 8 -- Vender menos, lucrar mais
+"Bastaram 3 euros por pacote pra Shein perder mais de um quarto das vendas na Europa. Segundo a Bloomberg e a CNN Brasil, 🟡`a receita europeia caiu 27,6% no terceiro trimestre, para 2,98 bilhões de dólares`🟡, depois que a União Europeia passou a cobrar a taxa e a Shein subiu preço. Mas 🟡`o lucro ajustado subiu 27%, para 790 milhões de dólares, com corte de marketing`🟡. Os números são da própria empresa. 🟡`Vender menos e gastar menos pra vender pode dar mais lucro do que crescer comprando cliente.`🟡 Quanto do seu faturamento é comprado com anúncio?"
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/negocios/receita-da-shein-na-europa-cai-quase-28-apos-novas-taxas-da-ue/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 6] "Se você ficasse 30 dias fora, sua empresa seguiria funcionando normal?" Sim / Não
+2. [Pergunta/Participacao, Roteiro 1] Caixinha: "O WhatsApp da sua empresa já responde ou vende sozinho? Me conta o que funcionou e o que deu errado."
+3. [Virar Historia, Roteiro 8 -> Estilo Quadro Branco] Receita europeia caindo 27,6% e lucro subindo 27% parece contraditório; desenhar a conta no quadro (receita, menos marketing, igual lucro) mostra na hora de onde veio o resultado.
