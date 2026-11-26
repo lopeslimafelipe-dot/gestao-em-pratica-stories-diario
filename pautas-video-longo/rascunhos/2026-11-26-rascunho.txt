@@ -1,0 +1,85 @@
+RADAR DE REPERCUSSAO -- ETAPA 1 (PESQUISA E PONTUACAO) -- 2026-11-26 (quinta-feira)
+
+Checagem de repeticao (pautas-video-longo/saidas/, 16/11 a 25/11): apagao Microsoft 365, chips de IA EUA/Brasil (17/11), dolar R$ 5,78 (18/11), IPO Anthropic, escala 5x2, queda das acoes de IA/Nvidia (21/11), Black Friday/juros, fim da ajuda ao diesel (23/11), ajuste fiscal (24/11), Braskem/credores (25/11).
+- Tarifas EUA sobre Embraer/acucar: assunto NOVO. A pauta de 17/11 tratou de licenca de exportacao de chips (outra medida, outro angulo). Elegivel.
+- DESCARTADOS por repeticao: Nvidia (crise de sucessao do CEO / Moody's muda perspectiva; Nvidia coberta em 21/11). Fim da ajuda ao diesel hoje, 26/11 (tema da pauta de 23/11).
+- Casas Bahia: sem fato novo relevante hoje (so o adiamento do balanco do 3o tri para 10/12, noticiado no inicio do mes). Nao pontuado.
+Obs. de metodo: WebFetch bloqueado pela rede desta sessao (timesbrasil.com.br e infomoney.com.br nao resolvem). Os fatos foram levantados por busca web e cruzados em varios veiculos que noticiaram o mesmo fato, incluindo o comunicado oficial do USTR. A Etapa 2 deve reconfirmar os numeros na fonte primaria (comunicado do USTR; nota do Planalto; comunicado da Embraer).
+
+----------------------------------------------------------------
+
+CANDIDATO 1 -- EUA propoem tarifa de 10% sobre avioes brasileiros (Embraer) e taxa extra no acucar; Embraer chega a cair mais de 9% na B3
+Fato: Em 25/11/2026 o USTR (escritorio de comercio dos EUA) abriu consulta publica sobre mudancas na acao da Secao 301 contra o Brasil. A proposta acaba com a isencao dos avioes prontos fabricados no Brasil e aplica tarifa adicional de 10% (seis categorias: avioes de varios portes, helicopteros, planadores etc.). Avioes acabados sao o 4o maior item de exportacao do Brasil para os EUA. No acucar, troca a cobranca anterior de 25% por tarifas extras por quilo sobre importacoes acima da cota (fontes citam US$ 0,44/kg bruto e US$ 0,60/kg refinado -- confirmar no texto do USTR). Ainda NAO esta em vigor: comentarios ate 30/12/2026 e audiencia publica em 14/01/2027. No mesmo dia, os EUA propuseram tarifas de ate 20% a outros 14 parceiros (China, UE, Japao etc.) por "excesso de capacidade industrial".
+Efeito: acoes da Embraer chegaram a cair mais de 9% no pregao e fecharam em queda de cerca de 4% (as fontes divergem: 4% a 6%). Os EUA respondem por cerca de um terco das receitas de exportacao da Embraer, e 48% dos pedidos de jatos comerciais entregues vao para os EUA (relatorio do Banco Besse citado pela CNN Brasil). Na tarifa anterior de 10% (abr/2025 a fev/2026) o impacto estimado foi de US$ 85 milhoes. A Embraer disse que analisa a medida e defende a tarifa zero para a industria aeroespacial. O governo divulgou nota de "indignacao", disse que "nao cedera" e nao descarta reciprocidade ou OMC (o Brasil pediu painel na OMC contra as tarifas de julho em 24/11).
+Fonte: USTR (oficial) -- https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable
+Fonte: CNN Brasil -- https://www.cnnbrasil.com.br/economia/analise-tarifas-podem-impactar-embraer-em-us-80-bilhoes/
+Fonte: Metropoles -- https://www.metropoles.com/brasil/embraer-diz-que-vai-defender-isencao-de-tarifas-dos-eua-sobre-avioes
+Fonte: Jornal de Brasilia (reproduz Folha) -- https://jornaldebrasilia.com.br/noticias/economia/acoes-da-embraer-caem-mais-de-9-apos-proposta-dos-eua-de-tarifa-sobre-avioes-brasileiros/
+Fonte: Suno -- https://www.suno.com.br/noticias/embraer-embj3-tarifa-eua-queda-25112026-go/
+Fonte: O Tempo -- https://www.otempo.com.br/economia/2026/11/25/acoes-da-embraer-caem-mais-de-6-na-bolsa-apos-anuncio-de-tarifaco-de-trump-sobre-avioes-brasileiros
+Fonte: GHY International (detalhes e prazos) -- https://www.ghy.com/trade-compliance/us-proposes-10-tariff-on-brazilian-aircraft-and-higher-out-of-quota-sugar-tariff-under-section-301
+Score de Repercussao:
+- Frescor: 5/5 (anunciado ontem, 25/11; reacao do governo hoje, 26/11)
+- Relevancia do protagonista: 5/5 (Embraer, EUA/Trump, acucar -- todo mundo conhece)
+- Gravidade: 4/5 (atinge o principal mercado da Embraer; ainda e proposta, nao medida final)
+- Polemica adjacente: 5/5 (tensao comercial EUA x Brasil em ano eleitoral)
+- Volume de cobertura: 5/5 (CNN, Folha, Metropoles, Suno, O Tempo, O Povo, imprensa internacional)
+- Clareza do angulo: 4/5 (cadeia clara: um cliente/mercado concentra metade dos pedidos -> uma decisao de fora derruba a acao em 9% -> licao: concentracao de clientes/mercado e risco que voce nao controla)
+- Identificacao com audiencia: 4/5 (todo dono de PME conhece o medo de depender de 1 ou 2 grandes clientes)
+TOTAL: 32/35
+Status: VENCEDOR DO DIA
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou 5/5 no score. O roteiro (Etapa 2) NAO comenta a disputa politica entre os governos, NAO cita Trump, Lula, partidos ou a nota do Planalto de forma critica ou elogiosa, e NAO toma lado sobre quem tem razao. O angulo e so gestao: concentracao de receita num unico mercado/cliente, como medir esse risco e como diversificar. Citar o fato (proposta de tarifa e queda da acao) de forma neutra.
+
+----------------------------------------------------------------
+
+CANDIDATO 2 -- Bets proibidas: setor ja soma mais de 3,5 mil demissoes
+Fato: A MP 1.394/2026 (25/09/2026) proibiu exploracao, oferta e publicidade de apostas de quota fixa no Brasil. O Congresso prorrogou a MP por 60 dias em 11/11 e o STF (min. Fux) suspendeu as acoes judiciais contra ela. A associacao do setor (ANJL) contabiliza mais de 3,5 mil demissoes; H2Bet confirmou 150 cortes e a Rivalo confirmou rescisoes (reportagem de 23/11).
+Fonte: Band -- https://www.band.com.br/nacional/brasil/o-apagar-das-luzes-no-mundo-das-bets
+Fonte: Agencia Brasil (prorrogacao da MP) -- https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-prorroga-por-60-dias-mp-que-proibe-bets-no-pais
+Score de Repercussao:
+- Frescor: 3/5 (reportagem de 23/11; a MP e de setembro)
+- Relevancia do protagonista: 4/5 (bets sao conhecidas do publico geral)
+- Gravidade: 4/5 (setor inteiro fechado por medida provisoria)
+- Polemica adjacente: 4/5
+- Volume de cobertura: 2/5 (poucos veiculos grandes sobre as demissoes hoje)
+- Clareza do angulo: 4/5 (risco regulatorio: negocio que depende de uma regra pode acabar de um dia pro outro)
+- Identificacao com audiencia: 3/5 (afeta PMEs de marketing, agencias e clubes patrocinados, mas nao a maioria)
+TOTAL: 24/35
+Status: runner-up
+
+----------------------------------------------------------------
+
+CANDIDATO 3 -- Ate o pequeno investidor corre para o dolar; bancos la fora tem fila de brasileiros
+Fato: Reportagem do InfoMoney (26/11/2026) mostra procura crescente de poupadores menores por dolar e contas no exterior. Socio da KAT Wealth diz que bancos internacionais que abriam 2 ou 3 contas por dia para brasileiros agora tem filas de mais de cem pedidos.
+Fonte: InfoMoney -- https://www.infomoney.com.br/onde-investir/ate-pequeno-investidor-corre-para-dolar-e-bancos-la-fora-ja-tem-fila-de-brasileiros/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5 (fenomeno, sem marca forte)
+- Gravidade: 2/5 (tendencia, sem evento marcante; dado anedotico)
+- Polemica adjacente: 5/5 (cambio, fiscal, ano eleitoral)
+- Volume de cobertura: 2/5 (materia de um veiculo)
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 3/5
+TOTAL: 23/35
+Status: runner-up (obs.: tema cambio ja coberto em 18/11, angulo diferente)
+
+----------------------------------------------------------------
+
+CANDIDATO 4 -- Recorde de 8.478 empresas em recuperacao judicial
+Fato: Monitor RGF-BIZDOC (divulgado em 10/11/2026): o Brasil terminou setembro de 2026 com 8.478 empresas em recuperacao judicial, recorde da serie iniciada em 2023. No 3o tri, 701 entraram e 269 sairam. Agronegocio lidera (2,01 RJs por mil empresas ativas); inadimplencia de clientes aparece como causa frequente.
+Fonte: Conjur -- https://conjur.com.br/2026-nov-12/recuperacao-judicial-bate-recorde-no-brasil-e-acende-alerta-para-crise-nas-empresas/
+Fonte: Mix Vale -- https://www.mixvale.com.br/2026/11/11/recuperacoes-judiciais-chegam-a-recorde-de-8-478-empresas-no-brasil/
+Score de Repercussao:
+- Frescor: 1/5 (dado de duas semanas atras)
+- Relevancia do protagonista: 2/5
+- Gravidade: 4/5
+- Polemica adjacente: 3/5
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 22/35
+Status: runner-up (obs.: recorde de RJs ja apareceu como tema de pauta na janela de 15/11)
+
+----------------------------------------------------------------
+Resumo: VENCEDOR = EUA propoem tarifa de 10% sobre avioes da Embraer e taxa extra no acucar (32/35). Runners-up: Bets proibidas, 3,5 mil demissoes (24/35); Corrida do pequeno investidor ao dolar (23/35); Recorde de RJs (22/35).
+Vencedor com folga e com GUARDRAIL POLITICO ativo (ver aviso no Candidato 1).
