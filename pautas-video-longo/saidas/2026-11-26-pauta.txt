@@ -1,0 +1,86 @@
+PAUTA DO DIA -- 2026-11-26
+Assunto: EUA propoem tarifa de 10% sobre avioes fabricados no Brasil (Embraer) e taxa extra por quilo no acucar -- acao da Embraer chega a cair mais de 9% na B3
+Score final: 32/35
+- Frescor: 5/5
+- Relevancia do protagonista: 5/5
+- Gravidade: 4/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+
+Fato central verificado:
+Em 25/11/2026 o USTR (escritorio do Representante Comercial dos EUA) propos mudar a acao da Secao 301 contra o Brasil, a que impos tarifa de 25% sobre produtos brasileiros em julho/2026 com uma lista de excecoes. Pela proposta:
+- Avioes prontos fabricados no Brasil perdem a isencao (confirmada em 20/07) e passam a pagar tarifa adicional de 10%. Avioes prontos sao hoje o 4o principal item de exportacao do Brasil para os EUA.
+- Acucar: a cobranca anterior e trocada por tarifas por quilo sobre importacoes acima da cota -- US$ 0,44/kg para acucar bruto de cana e US$ 0,60/kg para bruto de beterraba/refinado (valores citados por mlq.ai/Particle; ver Ressalva).
+- AINDA NAO ESTA EM VIGOR: abre-se consulta publica, com audiencia prevista para janeiro de 2027. O rascunho da Etapa 1 cita comentarios ate 30/12/2026 e audiencia em 14/01/2027 (GHY International); a busca desta etapa confirmou "consulta publica + audiencia em janeiro", sem ler o texto oficial do USTR.
+- Mercado: as acoes da Embraer recuavam 5,89% as 11h23 de 25/11, cotadas a R$ 101,16, com minima de R$ 97,15 (O Tempo); outras reportagens registram queda de ate 9,6% no pregao. O percentual de fechamento diverge entre as fontes (de cerca de 4% a 6%) -- usar "chegou a cair mais de 9%".
+- A Embraer disse que analisa a proposta e defende tarifa zero para o setor aeroespacial; lembrou que 55% das pecas de seus avioes vem de fornecedores americanos (Flying Magazine).
+Confirmado via busca em varios veiculos (WebFetch bloqueado nesta sessao: ustr.gov nao resolve; o comunicado oficial NAO foi lido diretamente):
+- AIN Online -- https://www.ainonline.com/aviation-news/air-transport/2026-11-25/us-proposes-new-10-tariff-brazilian-aircraft
+- Flying Magazine -- https://www.flyingmag.com/embraer-proposed-10-percent-aircraft-tariff/
+- O Tempo -- https://www.otempo.com.br/economia/2026/11/25/acoes-da-embraer-caem-mais-de-6-na-bolsa-apos-anuncio-de-tarifaco-de-trump-sobre-avioes-brasileiros
+- TV Sim Brasil -- https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/26/embraer-cai-na-bolsa-com-tarifa-dos-eua-sobre-jatos
+- mlq.ai (detalhe do acucar) -- https://mlq.ai/news/us-proposes-a-10-tariff-on-brazilian-aircraft-and-new-per-kilo-sugar-duties-in-its-section-301-case/
+- USTR (fonte primaria, via rascunho) -- https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable
+
+Cadeia causal (o que levou a isso):
+1. Um mercado que vale metade do negocio: os EUA sao o maior mercado da Embraer -- clientes americanos respondem por cerca de 45% dos jatos comerciais e 70% dos jatos executivos da empresa (dado da propria Embraer, citado pela imprensa em 2025).
+2. Abril/2025: os EUA criam uma tarifa global de 10% que pega os jatos da Embraer. A empresa chama de "prejudicial, mas administravel" -- e ate mar/2026 ja tinha pago cerca de US$ 80 milhoes em tarifas, ~85% ligados a aviacao executiva.
+3. Julho/2025: anuncio de tarifa de 50% sobre produtos brasileiros. A acao da Embraer desaba mais de 8% num dia; a empresa estima impacto de ate R$ 20 bilhoes ate 2030 e compara ao choque da pandemia. Quando os avioes entram na lista de excecoes, a acao sobe 10,93% num dia (30/07/2025).
+4. Fev/2026: novo regime americano isenta aeronaves comerciais, motores e pecas da tarifa global de 10% -- alivio para a Embraer.
+5. Jun-jul/2026: a investigacao da Secao 301 termina com tarifa de 25% sobre produtos brasileiros a partir de 22/07/2026, mas com mais de 1.600 categorias isentas -- avioes entre elas.
+6. 25/11/2026: o USTR propoe tirar os avioes prontos da lista de isencao (10%) e endurecer o acucar. Uma decisao tomada fora da empresa, sobre a qual ela nao tem controle, apaga num dia ate 9% do valor de mercado.
+7. Proximo passo: consulta publica e audiencia em janeiro; a Embraer tenta reverter. Ate la, incerteza sobre preco e prazo de entrega para o principal cliente.
+Traduzindo: a Embraer nao fez nada de errado na operacao naquele dia. O que pesou foi a CONCENTRACAO -- quando metade da receita depende de um unico mercado, qualquer mudanca de regra nesse mercado vira problema do negocio inteiro.
+
+Por que esta repercutindo agora:
+- Frescor (5/5): proposta anunciada ontem (25/11), reacoes e analises hoje.
+- Relevancia do protagonista (5/5): Embraer e um dos nomes mais conhecidos da industria brasileira; acucar e um item central da exportacao.
+- Volume de cobertura (5/5): imprensa economica brasileira e internacional (AIN, Flying, Publico, O Tempo).
+- A Polemica adjacente (5/5) pesou pela tensao comercial entre os dois governos -- isso NAO entra no video (ver Ressalva).
+
+Angulo de gestao sugerido:
+"Quando um cliente vale metade do seu faturamento, quem decide o seu futuro nao e voce." Licoes praticas pro dono de PME:
+- Meca a concentracao: qual % do faturamento vem do maior cliente? E dos 3 maiores? Regra de bolso usada por analistas de credito: acima de 20-30% num unico cliente ja e ponto de atencao.
+- Mapeie o risco "fora do seu controle": mudanca de regra, troca de comprador, renegociacao de contrato, crise do cliente. A Embraer opera bem e mesmo assim perdeu ate 9% de valor num dia por uma decisao externa.
+- Diversificar e processo, nao reacao: a Embraer constroi presenca nos EUA ha anos (hangar em Fort Worth, fornecedores americanos) e ainda assim ficou exposta. Pra PME, isso significa abrir canal novo antes da crise -- novo segmento, nova regiao, novo tipo de cliente.
+- Tenha plano B de margem: se o principal cliente apertar 10% no preco (o "equivalente" a uma tarifa), sua operacao fecha a conta? Simule esse cenario.
+- Tambem vale pra fornecedor: dependencia de um unico fornecedor e o mesmo risco, do outro lado da mesa.
+
+Dados de apoio:
+- Clientes americanos = ~45% dos jatos comerciais e ~70% dos jatos executivos da Embraer -- CartaCapital / Rio Times (2025): https://www.riotimesonline.com/billion-dollar-blow-embraer-scrambles-as-u-s-hikes-import-tariffs/
+- Embraer ja havia pago ~US$ 80 milhoes em tarifas nos EUA ate mar/2026, ~85% na aviacao executiva -- Band: https://www.band.com.br/economia/embraer-afirma-ja-ter-gasto-us-80-milhoes-em-tarifas-nos-eua
+- Em jul/2025, a ameaca de tarifa de 50% derrubou a acao em mais de 8% num dia -- InfoMoney: https://www.infomoney.com.br/mercados/embraer-embr3-acao-chega-a-desabar-mais-de-8-com-anuncio-de-tarifa-de-50-dos-eua/
+- Na epoca, a Embraer estimou impacto de ate R$ 20 bilhoes ate 2030 e comparou ao choque da pandemia (quando a receita caiu 30%) -- Panrotas: https://www.panrotas.com.br/aviacao/empresas/2025/07/embraer-preve-prejuizo-de-r-20-bilhoes-com-tarifaco-dos-eua_219530.html
+- Receita 2025 recorde de R$ 41,9 bilhoes (+18%) e carteira recorde de US$ 31,6 bilhoes -- Panrotas: https://www.panrotas.com.br/aviacao/empresas/2026/03/embraer-registra-receita-recorde-em-2025-e-projeta-alta-nas-entregas-em-2026_226650.html (contraste util: empresa saudavel, recorde de vendas, e mesmo assim vulneravel pela concentracao)
+- 55% das pecas dos avioes da Embraer vem de fornecedores americanos -- Flying Magazine (link acima)
+
+Ressalva/limite:
+- !! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou 5/5. O video NAO comenta a disputa entre os governos, NAO cita Trump, Lula, partidos, a nota do governo brasileiro ou o pedido na OMC de forma critica ou elogiosa, e NAO toma lado sobre quem tem razao. Citar so o fato de forma neutra ("os EUA propuseram uma tarifa de 10% sobre avioes brasileiros") e ir direto para o efeito no negocio.
+- E PROPOSTA, nao medida em vigor -- dizer isso explicitamente no video.
+- Queda da acao: usar "chegou a cair mais de 9% no dia"; o fechamento diverge entre fontes.
+- Valores do acucar (US$ 0,44/kg e US$ 0,60/kg) vieram de agregadores; se usar, falar "cerca de" ou omitir -- o acucar e secundario no angulo.
+- O dado "48% dos pedidos de jatos comerciais vao para os EUA" (relatorio do Banco Besse, citado no rascunho via CNN Brasil) NAO foi confirmado nesta etapa -- usar no lugar os 45%/70% da propria Embraer.
+- O comunicado oficial do USTR nao foi lido diretamente (rede bloqueada); prazos exatos (30/12 e 14/01) vem do rascunho/GHY.
+- Nao e recomendacao de compra ou venda da acao EMBR3.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: "A Embraer teve receita recorde em 2025. Ontem, a acao chegou a cair mais de 9% -- e nao foi por nada que ela fez."
+- Contexto/causa raiz: os EUA propuseram tarifa de 10% sobre avioes feitos no Brasil (ainda proposta). E os EUA sao quase metade dos jatos comerciais e 70% dos executivos da Embraer.
+- Desenvolvimento da cadeia causal: o vai-e-vem desde 2025 -- tarifa de 10%, ameaca de 50% (-8% num dia), isencao (+11% num dia), nova proposta (-9%). Cada mudanca de regra num unico mercado move o valor da empresa inteira.
+- Licao de gestao (a virada): "Isso tem nome: concentracao. E acontece na sua empresa quando um cliente vira metade do faturamento." Como medir (% do maior cliente / top 3), simular o aperto de 10% e abrir canal novo antes da crise.
+- Fechamento + CTA: "Faz a conta hoje: quanto do seu faturamento depende de um cliente so? Comenta o numero (sem nome)." / salvar e mandar pro socio.
+
+Fonte(s):
+- AIN Online -- https://www.ainonline.com/aviation-news/air-transport/2026-11-25/us-proposes-new-10-tariff-brazilian-aircraft
+- Flying Magazine -- https://www.flyingmag.com/embraer-proposed-10-percent-aircraft-tariff/
+- O Tempo -- https://www.otempo.com.br/economia/2026/11/25/acoes-da-embraer-caem-mais-de-6-na-bolsa-apos-anuncio-de-tarifaco-de-trump-sobre-avioes-brasileiros
+- TV Sim Brasil -- https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/26/embraer-cai-na-bolsa-com-tarifa-dos-eua-sobre-jatos
+- USTR (oficial) -- https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable
+- USTR (acao de julho/2026) -- https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-section-301-action-brazils-unreasonable-acts-policies-and-practices
+
+Runners-up do dia (registro/transparencia):
+- Bets proibidas: setor ja soma mais de 3,5 mil demissoes -- 24/35
+- Ate o pequeno investidor corre para o dolar; fila de brasileiros em bancos la fora -- 23/35
+- Recorde de 8.478 empresas em recuperacao judicial -- 22/35
