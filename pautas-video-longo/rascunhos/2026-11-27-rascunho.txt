@@ -1,0 +1,77 @@
+RADAR DE REPERCUSSAO -- ETAPA 1 (PESQUISA E PONTUACAO) -- 2026-11-27 (sexta-feira, dia de Black Friday)
+
+Observacoes de metodo:
+- Checagem de repeticao feita contra pautas-video-longo/saidas/ de 17/11 a 26/11/2026. Black Friday (juro travando o consumo) ja foi pauta em 22/11, por isso ficou fora da disputa de hoje.
+- Os sites dos portais (InfoMoney, Money Times, SpaceMoney) nao abrem pelo WebFetch nesta sandbox. Os fatos foram checados cruzando os resultados de busca de varios veiculos. A Etapa 2 deve reabrir as URLs abaixo e confirmar os numeros antes de gravar.
+
+======================================================================
+CANDIDATO 1 -- "Efeito Trabuco": Ibovespa sobe 6% em um dia com a noticia do novo ministro da Fazenda
+Fato: Na quinta-feira (26/11/2026), a noticia de que Luiz Carlos Trabuco (presidente do conselho do Bradesco) aceitou o convite para a Fazenda a partir de 2027 levou o Ibovespa a fechar em alta de cerca de 6,07%, aos 176.799 pontos. O dolar a vista caiu cerca de 1,25%, para R$ 5,74, e o dolar futuro chegou a cair ~3% depois do fechamento. Os juros futuros recuaram forte, principalmente os longos. As acoes de bancos dispararam: BB +12,6%, Bradesco +11,6%, Itau +6,4%, B3 +10,8%. A bolsa ganhou cerca de R$ 232 bilhoes em valor de mercado em um unico pregao. O IPCA-15 abaixo do esperado ajudou no mesmo dia.
+Ressalva: a CNN registra que a nomeacao ainda nao foi formalizada e cita resistencia interna. Tratar como "aceitou o convite / cotado", nunca como nomeacao oficial.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/ibovespa-salta-3-e-supera-os-172-mil-pontos-com-possibilidade-de-trabuco-na-fazenda/
+Fontes de apoio: CNN Brasil -- https://www.cnnbrasil.com.br/politica/trabuco-aceita-convite-de-lula-para-o-ministerio-da-fazenda/ | Times Brasil (CNBC) -- https://timesbrasil.com.br/brasil/economia-brasileira/trabuco-cotado-para-a-fazenda-faz-ibovespa-saltar-6-dolar-cai/ | Suno -- https://www.suno.com.br/noticias/ibovespa-trabuco-fazenda-bancos/ | InfoMoney (desdobramento) -- https://www.infomoney.com.br/mercados/ibovespa-e-real-ainda-podem-subir-mais-com-trabuco-confirmado-na-fazenda/
+Score de Repercussao:
+- Frescor: 5/5 (fechamento de ontem, com repercussao e desdobramentos hoje)
+- Relevancia do protagonista: 4/5 (Bradesco, BB e Itau, a bolsa, o dolar e o Ministerio da Fazenda)
+- Gravidade: 5/5 (alta de ~6% em um dia e R$ 232 bi em valor de mercado em um pregao, movimento raro)
+- Polemica adjacente: 5/5 (transicao de governo pos-eleicao e debate fiscal)
+- Volume de cobertura: 5/5 (InfoMoney, CNN, g1, Times Brasil/CNBC, Suno, SpaceMoney, Money Times e outros)
+- Clareza do angulo: 4/5 (expectativa -> juro futuro e dolar -> custo de credito, de importado e de reajuste da PME. Licao: credibilidade e expectativa mexem no preco antes de qualquer medida concreta, e o dono de PME deve olhar a curva de juros na hora de renegociar divida e travar custo)
+- Identificacao com audiencia: 4/5 (juro futuro e o que define a taxa do capital de giro e do financiamento. Dolar mexe em insumo e estoque)
+TOTAL: 32/35
+Status: VENCEDOR DO DIA
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou no score (5/5). O roteiro da Etapa 2 NAO pode avaliar Trabuco, Lula, o PT ou o novo governo, nao pode dizer se a escolha e boa ou ruim e nao pode prever politica economica. O angulo e so o mecanismo: "o mercado reage a expectativa, e isso chega no juro e no dolar que sua empresa paga". Tambem deve deixar claro que um dia de euforia nao e tendencia (pode haver realizacao de lucro) e que a nomeacao ainda nao foi formalizada.
+Nota de sobreposicao: em 18/11 este pipeline tratou o dolar a R$ 5,78. O assunto de hoje e outro (reacao do mercado a expectativa e queda dos juros futuros), mas o video pode citar esse contraste ("ha 10 dias o dolar batia recorde de 19 meses").
+
+======================================================================
+CANDIDATO 2 -- Itau ve 50% de chance de o PIB fechar 2027 no vermelho, e os bancos cortam suas projecoes
+Fato: O Itau cortou a projecao de PIB 2027 de 1,2% para 0,5%, elevou a de inflacao 2027 para 6,1% e projeta Selic em 13,75% o ano todo. O banco estima ~50% de chance de o PIB fechar 2027 em queda (57% num cenario de Selic a 15%). Os outros bancos foram na mesma linha: XP 0,3%, Bradesco 0,4%, BTG 0,6%. Custo do credito e inadimplencia aparecem como os indicadores a acompanhar.
+Fonte: InfoMoney -- https://www.infomoney.com.br/economia/itau-ve-50-chance-pib-negativo-2027/
+Fonte de apoio: SpaceMoney -- https://www.spacemoney.com.br/economia/macroeconomia/pib-2027-bancos-revisam-crescimento-juros-altos
+Score de Repercussao:
+- Frescor: 2/5 (relatorio de ~19/11, mas ainda circulando nas manchetes)
+- Relevancia do protagonista: 4/5 (Itau e os maiores bancos do pais)
+- Gravidade: 4/5 (risco explicito de recessao)
+- Polemica adjacente: 4/5 (pos-eleicao e cenario fiscal)
+- Volume de cobertura: 3/5
+- Clareza do angulo: 4/5 (juro alto -> credito caro -> consumo fraco -> planejar 2027 com caixa)
+- Identificacao com audiencia: 5/5 (planejamento e orcamento 2027 da PME)
+TOTAL: 26/35
+Status: runner-up (1o). Combina bem com o vencedor como contraponto: euforia de um dia x cenario de 2027 ainda apertado.
+
+======================================================================
+CANDIDATO 3 -- Previa da inflacao (IPCA-15) sobe 0,22% em novembro, abaixo do esperado, mas os alimentos disparam
+Fato: O IBGE divulgou em 26/11/2026 o IPCA-15 de novembro em 0,22%, contra 0,34% esperado pela Reuters e 0,32% em outubro. Em 12 meses o indice acumula 4,64%. Alimentacao e bebidas subiram 1,51% (tomate +38,92%, cebola +17,43%, carnes +3,65%, arroz +3,38%), e Transportes caiu 0,71%. A media dos nucleos foi de 0,15%, a menor desde julho de 2023.
+Fonte: InfoMoney -- https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-novembro-2026/
+Fontes de apoio: CNN Brasil -- https://www.cnnbrasil.com.br/economia/money/macroeconomia/ipca-15-hoje-26-novembro-2026/ | Agencia Brasil -- https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/previa-da-inflacao-ipca-15-fica-em-022-em-novembro
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 3/5 (IBGE e a inflacao, sem marca de empresa)
+- Gravidade: 2/5 (dado de rotina, mesmo com surpresa)
+- Polemica adjacente: 3/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5 (inflacao media cai, mas o custo de alimentos sobe: impacto em restaurante, food service e varejo alimentar)
+- Identificacao com audiencia: 4/5
+TOTAL: 25/35
+Status: runner-up (2o)
+
+======================================================================
+CANDIDATO 4 -- Cosan negocia venda de fatias de Rumo, Compass e Moove para zerar divida de R$ 9,5 bi
+Fato: A Cosan segue negociando a venda de participacoes minoritarias na Rumo, na Compass (ate 25%) e na Moove. A meta e zerar a divida liquida, que fechou o 3o tri/2026 em R$ 9,5 bi. Noticiado como destaque da B3 em 26/11. Pano de fundo: a Raizen esta em reestruturacao extrajudicial com ~R$ 65 bi em dividas.
+Fonte: Times Brasil (CNBC) -- https://timesbrasil.com.br/empresas-e-negocios/cosan-mantem-negociacoes-para-vender-participacoes-na-rumo-compass-e-moove/
+Score de Repercussao:
+- Frescor: 2/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 3/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 4/5 (vender o que tem valor para pagar divida cara)
+- Identificacao com audiencia: 3/5
+TOTAL: 18/35
+Status: runner-up (3o)
+
+======================================================================
+DESCARTADOS / NAO PONTUADOS
+- Black Friday 2026 (CNC: R$ 11,52 bi, +1,8%): ja foi pauta deste pipeline em 22/11. O resultado real so sai nos proximos dias e pode virar pauta nova (ex.: "o resultado veio abaixo/acima e o que isso diz sobre o credito").
+- Ekko Group pede recuperacao judicial (R$ 799 mi, 24/11): marca pouco conhecida do publico geral e pouca cobertura.
+- Caged de outubro de 2026: ainda nao divulgado ate o momento da pesquisa.
