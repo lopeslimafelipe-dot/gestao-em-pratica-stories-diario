@@ -1,0 +1,37 @@
+ROTEIRO 1 -- A resposta da IA ganhou vitrine paga
+"O Google começou a vender espaço dentro da resposta da inteligência artificial no Brasil. Segundo o Canaltech, 🟡`o anúncio aparece no fim da resposta do Modo IA e no resumo expandido, sempre marcado como patrocinado`🟡, por enquanto pra uma parcela pequena de usuários. O Google diz que a recomendação orgânica não é influenciada, e quem diz isso é quem vende o anúncio. 🟡`Quando a resposta da IA era só orgânica, ser citado era de graça; agora tem uma vitrine paga logo embaixo.`🟡 Seu cliente te encontra na resposta da IA ou só no anúncio do concorrente?"
+Fonte: Canaltech -- https://canaltech.com.br/internet-e-redes-sociais/google-comeca-a-mostrar-anuncios-nas-respostas-de-ia-da-busca-no-brasil/
+
+ROTEIRO 2 -- O dinheiro que vai virar concorrente
+"Tem dinheiro grande sendo preparado pro seu próximo concorrente. Segundo a Bloomberg, 🟡`a Kaszek, criada por ex-executivos do Mercado Livre, fechou 650 milhões de dólares pra investir em 20 a 30 startups`🟡, acima da meta de 600 milhões; a gestora diz que é o maior fundo de estágio inicial já captado pra região. O foco é startup que aplica IA em finanças, saúde e marketplaces. 🟡`O dinheiro não está indo pra quem cria a IA, está indo pra quem usa IA pra disputar mercado tradicional.`🟡 O seu setor está nessa lista?"
+Fonte: InvestNews -- https://investnews.com.br/negocios/kaszek-capta-us-650-milhoes-no-maior-fundo-de-estagio-inicial-da-america-latina/
+
+ROTEIRO 3 -- A inflação que a manchete não mostra
+"A prévia da inflação desacelerou, mas o supermercado não. Segundo o IBGE, o IPCA-15 de novembro ficou em 0,22%, abaixo do esperado. Só que 🟡`a alimentação no domicílio subiu 2,02% em um mês, o dobro de outubro, com o tomate subindo 38,92%`🟡. E em 12 meses o índice está em 4,64%, acima do teto da meta. 🟡`O índice geral desacelera, mas o custo de vida da sua equipe sobe mais rápido que a manchete`🟡, justo na época de 13º e dissídio. Na próxima conversa de reajuste, você vai olhar o índice ou a feira?"
+Fonte: Agência Brasil -- https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro
+
+ROTEIRO 4 -- Todo mundo usa, quase ninguém ganha
+"Quase toda empresa diz que usa IA. A Deloitte foi medir quem ganhou vantagem com isso. Ouviu 1.278 líderes na Ásia-Pacífico e 🟡`só 7% usam IA a fundo, mudaram o trabalho e melhoraram a posição competitiva ao mesmo tempo`🟡. Entre esses, 64% relatam ganho relevante pra empresa toda; entre os que só adotaram, 13%. A Deloitte vende consultoria de IA, e a amostra não inclui o Brasil. 🟡`Ferramenta de IA o seu concorrente assina amanhã; vantagem vem do que só a sua empresa sabe.`🟡 O que a sua empresa sabe que nenhuma ferramenta entrega?"
+Fonte: Deloitte Asia Pacific -- https://www.deloitte.com/ap/en/about/press-room/ai-is-abundant-originality-is-scarce.html
+
+ROTEIRO 5 -- 35 dias pro fim do PIS e da Cofins
+"Daqui a 35 dias, o PIS e a Cofins deixam de existir. Pela Lei Complementar 214, 🟡`em 1º de janeiro de 2027 a CBS passa a ser cobrada no lugar do PIS e da Cofins`🟡. O TCU calculou a alíquota de referência em 11,3%, e o Senado tem até dezembro pra fixar o número; se não fixar, vale o cálculo do TCU. Pra quem está no Lucro Presumido, hoje é 3,65% cumulativo; a CBS é não cumulativa, com crédito. 🟡`Quem tem pouco crédito pra abater pode pagar mais, e o preço e o sistema precisam estar prontos até 31 de dezembro.`🟡 Seu contador já fez essa simulação?"
+Fonte: Senado Notícias -- https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota
+
+ROTEIRO 6 -- O atalho que vira processo
+"Depois de anos de processo, a conta chegou. Segundo a CNBC e a CNN, 🟡`um júri federal em Nova York considerou a Huawei culpada em 10 das 12 acusações levadas a julgamento`🟡, entre elas fraude bancária e conspiração pra roubar segredo comercial. Ela foi absolvida das duas mais graves e vai recorrer; a pena só sai em 2027. 🟡`Crescer enganando banco ou copiando concorrente cria um passivo escondido, que aparece quando a empresa já é grande demais pra esconder.`🟡 Na sua empresa, alguém sabe onde estão os atalhos que um dia viram processo?"
+Fonte: CNBC -- https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html
+
+ROTEIRO 7 -- O corte sanfona
+"Em julho, a SAP dizia que a IA ia mudar funções, não cortar gente. Agora, segundo a Bloomberg, com fontes anônimas, 🟡`a SAP prepara um corte de pelo menos 10 mil vagas, mais de 9% do quadro`🟡. Sem confirmação da empresa. Em 2024 ela já tinha cortado perto de 10 mil, a um custo de cerca de 3 bilhões de euros, e terminou maior, depois de recontratar. 🟡`Corte sem redesenho de estrutura vira sanfona: sai gente, o trabalho continua igual e a contratação volta.`🟡 Antes de cortar, você sabe qual trabalho deixa de existir?"
+Fonte: CNBC -- https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html
+
+ROTEIRO 8 -- Mais pedidos, mesmo caixa
+"Hoje é Black Friday, e o número que importa não é o de pedidos. Segundo levantamento da TOTVS publicado pelo Times Brasil, 🟡`no fim de semana de 20 a 22 de novembro os pedidos em marketplaces subiram 51%, mas o faturamento dos lojistas subiu só 6%`🟡, comparado com o mesmo fim de semana de 2025. A TOTVS vende software pro varejo. 🟡`Frete, embalagem e atendimento crescem com o pedido, não com o tíquete: quem mede a Black Friday por volume pode comemorar margem que não existe.`🟡 Hoje à noite, você vai olhar quantos pedidos entraram ou quanto sobrou de cada um?"
+Fonte: Times Brasil -- https://timesbrasil.com.br/brasil/pedidos-em-marketplaces-crescem-51-antes-da-black-friday-mas-faturamento-avanca-6-aponta-totvs/
+
+============================================================
+SUGESTOES DE ENGAJAMENTO DO DIA (escolha 1 pra testar)
+1. [Enquete, Roteiro 8] "Na sua Black Friday, o que cresceu mais: o número de pedidos ou o lucro?" Pedidos / Lucro
+2. [Pergunta/Participacao, Roteiro 5] Caixinha: "Seu contador já te mostrou quanto sua empresa vai pagar com a CBS em 2027? Me conta o que ele disse ou o que ainda está sem resposta."
+3. [Virar Historia, Roteiro 3 -> Estilo Comparativo] Colocar lado a lado 0,22% do índice geral, 2,02% da comida em casa e 38,92% do tomate mostra num olhar o tamanho da distância entre a manchete e o custo de vida da equipe.
