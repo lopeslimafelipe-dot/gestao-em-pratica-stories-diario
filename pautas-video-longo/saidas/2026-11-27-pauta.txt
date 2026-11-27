@@ -1,0 +1,76 @@
+PAUTA DO DIA -- 2026-11-27
+Assunto: "Efeito Trabuco": Ibovespa sobe 6,07% em um dia e dolar cai a R$ 5,74 com a expectativa sobre o novo comando da Fazenda. Como uma EXPECTATIVA chega ao juro e ao cambio que a sua empresa paga
+Score final: 32/35
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5
+- Polemica adjacente: 5/5
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+
+Fato central verificado:
+Na quinta-feira, 26/11/2026, o Ibovespa fechou em alta de 6,07%, aos 176.799,84 pontos. Foram 10.115 pontos ganhos em uma unica sessao, a maior alta desde o 1o turno das eleicoes. O dolar a vista caiu 1,25%, para R$ 5,744. As acoes de bancos lideraram: Banco do Brasil (BBAS3) +12,59%, Bradesco (BBDC4) +11,56%, Itau (ITUB4) +6,37% e B3 (B3SA3) +10,84%. O indice do setor financeiro subiu 8,98%. Os juros futuros cairam ao longo da curva. O gatilho foi a expectativa de que Luiz Carlos Trabuco, presidente do conselho de administracao do Bradesco, assuma o Ministerio da Fazenda em 2027. No mesmo dia saiu o IPCA-15 de novembro (+0,22%), abaixo do esperado, o que somou ao movimento. Na noite de 26/11, o Planalto confirmou por nota que Trabuco aceitou o convite. A nomeacao formal ainda nao foi publicada.
+Fontes confirmadas no fact-check (via busca, com trechos batendo com o rascunho):
+- BP Money -- https://bpmoney.com.br/mercado/ibovespa-dispara-607-dolar-cai-574-expectativa-trabuco-fazenda/ (6,07%, 176.799,84 pts, dolar R$ 5,744, -1,25%)
+- SpaceMoney -- https://www.spacemoney.com.br/investimentos/ibovespa-alta-trabuco-fazenda-2 (BB +12,59%)
+- Suno -- https://www.suno.com.br/noticias/ibovespa-trabuco-fazenda-bancos/ (alta de ~10 mil pontos, BB +12%)
+- ADVFN -- https://br.advfn.com/jornal/2026/11/ibovespa-dispara-6-com-expectativa-de-trabuco-na-fazenda-e-alivio-fiscal (setor financeiro +8,98%, efeito do IPCA-15)
+- DGABC -- https://www.dgabc.com.br/Noticia/4370977/ibovespa-tem-maior-alta-desde-1-turno-com-expectativa-de-trabuco-na-fazenda (maior alta desde o 1o turno)
+- CNN Brasil -- https://www.cnnbrasil.com.br/politica/planalto-confirma-que-trabuco-aceitou-convite-para-comandar-fazenda/ (Planalto confirma o aceite do convite para 2027)
+
+Cadeia causal (o que levou a isso):
+1. Ponto de partida: um mercado tenso. A Selic esta em 13,75% (mantida pelo Copom em 04/11/2026, depois de cinco cortes desde abril), o dolar bateu o maior valor em 19 meses (~R$ 5,78 em 17/11) e os grandes bancos projetavam PIB fraco para 2027. O investidor estava cobrando um "premio de incerteza" sobre o fiscal do proximo ano.
+2. Chega uma informacao que muda a expectativa: o nome cotado para a Fazenda e um executivo conhecido pelo mercado financeiro. O mercado interpreta isso como menos incerteza sobre como as contas publicas serao conduzidas. Nada concreto mudou ainda: nenhuma medida, nenhuma lei, nenhum numero fiscal novo.
+3. A expectativa vira preco no mesmo dia. Com menos incerteza, os investidores exigem um premio menor para emprestar ao pais no longo prazo, e os juros futuros caem (o DI jan/2031 chegou a recuar de 14,88% para cerca de 14,63% durante a sessao). O dolar cai porque entra capital, e a bolsa sobe porque o juro de desconto das acoes cai.
+4. Os bancos sobem mais que o indice porque sao os mais sensiveis a curva de juros e a inadimplencia futura. O IPCA-15 abaixo do esperado reforcou que a inflacao corrente esta comportada.
+5. A ponte para a PME: a curva de juros futuros e a referencia que os bancos usam para precificar credito pre-fixado de prazo mais longo (capital de giro, financiamento de maquina, renegociacao). O dolar mexe no custo de insumo importado e de estoque. Se o movimento se sustentar, o efeito pode chegar a empresa nas proximas semanas, mas pode se desfazer com a mesma velocidade.
+
+Por que esta repercutindo agora:
+Movimento raro de 6% em um pregao, o maior desde o 1o turno, com cobertura em praticamente todos os veiculos de economia (Frescor 5, Gravidade 5, Volume 5). O tema encosta na transicao de governo (Polemica adjacente 5), e isso aumenta o alcance. Mas o angulo do canal e so o mecanismo de mercado e o efeito pratico. O que liga o assunto ao publico e o juro do credito da empresa e o preco do dolar no insumo (Identificacao 4).
+
+Angulo de gestao sugerido:
+"O preco do seu credito e do seu insumo reage a EXPECTATIVA antes de qualquer medida concreta." Licoes praticas para o dono de PME:
+(a) Acompanhe a curva de juros futuros (ou peca ao seu gerente a taxa pre-fixada do dia), nao so a Selic. A Selic nao mudou ontem, mas o custo do dinheiro de longo prazo mudou.
+(b) Janelas de alivio sao boas para cotar renegociacao de divida, alongar prazo ou travar taxa pre-fixada. Cote em mais de um banco e compare o custo efetivo total.
+(c) Quem compra em dolar pode usar dias de queda para programar compras ou fazer hedge simples (por exemplo, travar parte do cambio com o banco), em vez de apostar na direcao.
+(d) Nao refaca o orcamento de 2027 com base em um unico dia de euforia. Planeje com cenarios (base, otimista, pessimista) e mantenha caixa.
+
+Dados de apoio:
+- Ibovespa: +10.115,23 pontos na sessao de 26/11, maior alta desde o 1o turno -- BP Money / DGABC (URLs acima)
+- Dolar a R$ 5,744 em 26/11 contra ~R$ 5,78 em 17/11, o maior valor em 19 meses (pauta deste pipeline de 18/11; Melhor Investimento, Cardinot, InvestNews) -- BP Money (URL acima)
+- DI jan/2031: de 14,880% para 14,625% durante o pregao de 26/11 (dado intradiario, nao e o fechamento) -- Seu Credito Digital -- https://seucreditodigital.com.br/dolar-cai-ibovespa-sobe-inflacao-trabuco/
+- Selic em 13,75% a.a., mantida por unanimidade pelo Copom em 04/11/2026, depois de cinco cortes desde abril/2026 (antes, ficou em 15% de jun/2025 a mar/2026) -- Folha PE -- https://www.folhape.com.br/economia/banco-central-surpreende-e-mantem-juros-basicos-em-1375-ao-ano/522444/
+- IPCA-15 de novembro/2026: +0,22%, contra 0,32% em outubro -- BP Money (URL acima)
+- Historico: em 2014, Trabuco recusou um convite semelhante para a Fazenda -- Gazeta do Povo -- https://www.gazetadopovo.com.br/economia/executivo-do-bradesco-recusa-convite-para-a-fazenda-egfwovtrcqujytaz6fva20ua6 (usar so como curiosidade factual, se usar)
+
+Ressalva/limite:
+!! GUARDRAIL POLITICO: o fator "Polemica adjacente" pesou 5/5 no score. O video NAO pode avaliar Trabuco, o presidente, o PT ou o governo. Nao pode dizer se a escolha e boa ou ruim, nao pode prever a politica economica e nao deve citar a resistencia interna de partido. O assunto e so o mecanismo: "expectativa do mercado -> juro futuro e dolar -> custo da sua empresa".
+- Status: o Planalto confirmou o aceite do convite (26/11), mas a nomeacao formal ainda nao foi publicada. Dizer "aceitou o convite para assumir em 2027", nunca "e o ministro".
+- Um dia de euforia nao e tendencia. Pode haver realizacao de lucro nos proximos pregoes. Deixar isso explicito no video.
+- O numero de "R$ 232 bilhoes ganhos em valor de mercado", citado no rascunho, NAO foi confirmado no fact-check e foi retirado. Nao usar.
+- O dado do DI jan/2031 e intradiario. No video, preferir "os juros futuros cairam ao longo de toda a curva" a cravar o numero.
+- Nao e recomendacao de investimento. Nao sugerir compra de acoes de bancos nem de bolsa. As licoes sao de gestao financeira da empresa (credito, cambio, orcamento).
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico. "Ontem a bolsa subiu 6% e o dolar caiu, e nenhuma medida economica foi anunciada. So mudou uma expectativa. E isso mexe no juro que o seu banco vai te cobrar."
+- Contexto/causa raiz: o pano de fundo. Selic em 13,75%, dolar no maior valor em 19 meses dez dias antes, projecoes fracas para 2027. O mercado cobrava um premio de incerteza.
+- Desenvolvimento da cadeia causal (o espaco extra do formato longo): noticia -> menos incerteza percebida -> juros futuros caem -> dolar cai e bolsa sobe -> bancos lideram -> a curva de juros e a referencia do credito pre-fixado da PME e o dolar e a referencia do insumo.
+- Licao de gestao (a virada): o preco do dinheiro reage a expectativa antes do fato. Quem acompanha a curva de juros aproveita janelas para renegociar ou travar taxa, e quem compra em dolar programa compras e hedge. Mas nao se refaz orcamento por um dia de euforia.
+- Fechamento + CTA: "Voce sabe qual taxa pre-fixada o seu banco te oferece hoje? Pergunte esta semana e compare." + CTA padrao do canal.
+
+Fonte(s):
+- BP Money -- https://bpmoney.com.br/mercado/ibovespa-dispara-607-dolar-cai-574-expectativa-trabuco-fazenda/
+- SpaceMoney -- https://www.spacemoney.com.br/investimentos/ibovespa-alta-trabuco-fazenda-2
+- Suno -- https://www.suno.com.br/noticias/ibovespa-trabuco-fazenda-bancos/
+- ADVFN -- https://br.advfn.com/jornal/2026/11/ibovespa-dispara-6-com-expectativa-de-trabuco-na-fazenda-e-alivio-fiscal
+- DGABC -- https://www.dgabc.com.br/Noticia/4370977/ibovespa-tem-maior-alta-desde-1-turno-com-expectativa-de-trabuco-na-fazenda
+- CNN Brasil -- https://www.cnnbrasil.com.br/politica/planalto-confirma-que-trabuco-aceitou-convite-para-comandar-fazenda/
+- Seu Credito Digital -- https://seucreditodigital.com.br/dolar-cai-ibovespa-sobe-inflacao-trabuco/
+- Folha PE -- https://www.folhape.com.br/economia/banco-central-surpreende-e-mantem-juros-basicos-em-1375-ao-ano/522444/
+- InfoMoney (fonte original do rascunho, nao foi reaberta: o WebFetch esta bloqueado nesta sandbox) -- https://www.infomoney.com.br/mercados/ibovespa-salta-3-e-supera-os-172-mil-pontos-com-possibilidade-de-trabuco-na-fazenda/
+
+Runners-up do dia (registro/transparencia):
+- Itau ve 50% de chance de o PIB fechar 2027 no vermelho, e os bancos cortam suas projecoes -- 26/35
+- IPCA-15 de novembro sobe 0,22%, abaixo do esperado, mas os alimentos disparam -- 25/35
+- Cosan negocia venda de fatias de Rumo, Compass e Moove para zerar divida de R$ 9,5 bi -- 18/35
