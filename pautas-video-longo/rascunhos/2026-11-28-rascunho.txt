@@ -1,0 +1,73 @@
+RADAR DE REPERCUSSAO -- ETAPA 1 (PESQUISA E PONTUACAO) -- 2026-11-28 (sabado)
+
+Observacoes de metodo:
+- Checagem de repeticao feita contra pautas-video-longo/saidas/ de 18/11 a 27/11/2026. Ja usados: dolar a R$ 5,78 (18/11), IPO Anthropic (19/11), escala 5x2 (20/11), queda das acoes de IA (21/11), Black Friday travada pelo juro (22/11), subsidio do diesel (23/11), ajuste fiscal (24/11), Braskem (25/11), tarifa dos EUA/Embraer (26/11), "efeito Trabuco" na bolsa e no dolar (27/11).
+- Sabado: noticiario fraco. Os fatos fortes sao de sexta-feira (27/11).
+- WebFetch nao abre g1, Agencia Brasil, Investing nem a maioria dos portais nesta sandbox (DNS bloqueado). Os fatos foram checados cruzando os resultados de busca de varios veiculos. A Etapa 2 deve reabrir as URLs abaixo e confirmar os numeros antes de gravar.
+
+======================================================================
+CANDIDATO 1 -- Desemprego cai a 5,1% e iguala o menor nivel da historia: falta gente para contratar
+Fato: O IBGE divulgou na sexta-feira (27/11/2026) que a taxa de desocupacao ficou em 5,1% no trimestre de agosto a outubro de 2026. E o mesmo patamar do recorde de dezembro de 2025, o menor da serie iniciada em 2012. Eram 5,3% no trimestre ate julho e 5,4% um ano antes. A taxa tinha chegado a 6,1% no trimestre ate marco e caiu desde entao. Desocupados: 5,6 milhoes (-4,3% no trimestre, -5,8% no ano). Ocupados: 103,7 milhoes, recorde da serie (+1,1% no ano). Rendimento medio real: R$ 3.812 (+1% no ano). O numero veio em linha com o mercado (mediana de 5,1%).
+Fonte: Agencia Brasil -- https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/taxa-de-desemprego-fica-em-51-no-trimestre-encerrado-em-outubro
+Fontes de apoio: O Povo -- https://www.opovo.com.br/noticias/brasil/2026/11/27/taxa-de-desemprego-fica-em-51-no-trimestre-encerrado-em-outubro.html | JB -- https://www.jb.com.br/economia/2026/11/1061675-desemprego-fica-em-51-no-trimestre-encerrado-em-outubro-diz-ibge.html | ADVFN -- https://br.advfn.com/jornal/2026/11/pnad-continua-desemprego-no-brasil-fica-em-5-1-no-trimestre-ate-outubro-diz-ibge | Mix Vale -- https://www.mixvale.com.br/2026/11/27/taxa-de-desemprego-cai-para-51-no-trimestre-ate-outubro-no-brasil-e-iguala-minima-historica-do-ibge/
+Score de Repercussao:
+- Frescor: 5/5 (divulgado ontem, 27/11)
+- Relevancia do protagonista: 3/5 (IBGE e o mercado de trabalho do pais todo. Nao ha uma marca famosa no centro)
+- Gravidade: 4/5 (iguala a minima historica da serie e bate recorde de ocupados)
+- Polemica adjacente: 3/5 (encosta no debate juro alto x economia aquecida e na transicao de governo, sem precisar comenta-los)
+- Volume de cobertura: 5/5 (Agencia Brasil, O Povo, JB, ADVFN, Mix Vale, Imirante, Paraiba Online e outros)
+- Clareza do angulo: 4/5 (desemprego minimo -> pouca gente disponivel -> salario e rotatividade sobem e contratar fica mais caro e demorado. Licao: em mercado apertado, reter quem voce ja tem custa menos do que repor. Atencao: o numero e da PNAD, que inclui informais. O Caged de outubro (emprego com carteira) so sai na segunda, 30/11, e o de setembro ja mostrou desaceleracao das vagas formais. O video nao pode dizer que "o emprego formal esta bombando")
+- Identificacao com audiencia: 5/5 (todo dono de PME sente a dificuldade de contratar e segurar funcionario. Somado a escala 5x2 a partir de 16/12, o custo de mao de obra e a dor numero 1 do momento)
+TOTAL: 29/35
+Status: VENCEDOR DO DIA
+Nota de sobreposicao: a pauta de 20/11 (escala 5x2) tambem tratou de custo de mao de obra, mas o fato e outro (decreto vs. dado do IBGE). O video pode fazer a ponte: "mercado apertado + jornada menor em dezembro = a hora de trabalho mais cara".
+Guardrail politico: a "Polemica adjacente" pesou pouco (3/5). Mesmo assim, o roteiro nao atribui o recorde a governo nenhum, nao comenta o Banco Central nem a politica economica. O angulo e so o efeito na empresa.
+
+======================================================================
+CANDIDATO 2 -- Dolar tem a maior queda semanal desde 2008 depois da confirmacao de Trabuco na Fazenda
+Fato: Na sexta-feira (27/11/2026), o conselho do Bradesco confirmou em fato relevante que Luiz Carlos Trabuco aceitou comandar a Fazenda a partir de 2027. O dolar chegou a cair 4,6% (minima de R$ 5,4793) e fechou a R$ 5,51 (-3,97%). Na semana, caiu 7,07%, a maior queda semanal desde outubro de 2008. O Ibovespa fechou a sexta estavel (-0,13%, 176.573 pontos) depois de bater 183.625 pontos durante o dia, e acumulou +6,13% na semana.
+Fonte: InfoMoney -- https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27112026/
+Fontes de apoio: Seu Dinheiro -- https://www.seudinheiro.com/2026/bolsa-dolar/efeito-trabuco-leva-ibovespa-aos-182-mil-pontos-e-derruba-dolar-em-mais-de-3-davs/ | Suno -- https://www.suno.com.br/noticias/dolar-hoje-queda-trabuco-fazenda/ | Mix Vale -- https://www.mixvale.com.br/2026/11/28/dolar-cai-397-e-fecha-a-r-551-apos-confirmacao-de-trabuco-na-fazenda/ | ND+ -- https://ndmais.com.br/economia/negocios/ministro-da-fazenda-luiz-carlos-trabuco/
+Score de Repercussao:
+- Frescor: 5/5
+- Relevancia do protagonista: 4/5
+- Gravidade: 5/5 (maior queda semanal do dolar em 18 anos)
+- Polemica adjacente: 5/5 (transicao de governo e debate fiscal)
+- Volume de cobertura: 5/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 4/5
+TOTAL: 32/35 (score bruto)
+Status: runner-up -- INELEGIVEL POR REPETICAO. E continuacao direta da pauta vencedora de ontem (27/11, "efeito Trabuco" no Ibovespa e no dolar), e o dolar ja foi pauta em 18/11. Fica registrado porque teve o maior score bruto do dia. Uso possivel: atualizacao curta no proprio video de ontem ou nos Stories do Curador, que nao tem regra de nao-repeticao com este pipeline.
+!! GUARDRAIL POLITICO (se algum dia for reaproveitado): nao avaliar Trabuco, Lula, PT ou o novo governo. Angulo so de mecanismo: expectativa -> cambio -> custo de importado e de insumo.
+
+======================================================================
+CANDIDATO 3 -- Black Friday 2026: e-commerce projetado em R$ 13,3 bi (+20,7%), mas ticket medio em queda
+Fato: A projecao da Confi/Neotrust com o E-Commerce Brasil para os quatro dias de Black Friday (26 a 29/11) e de R$ 13,3 bilhoes no e-commerce, alta de 20,7% sobre 2025. Eletrodomesticos lideram (R$ 2,12 bi, +44,5%) e moda vem em segundo (R$ 1,38 bi, +44,2%). O numero de pedidos sobe, mas o ticket medio cai. O contraste e com a CNC, que preve alta de so 1,8% no varejo total. O balanco final ainda nao saiu.
+Fonte: Exame -- https://exame.com/invest/mercados/black-friday-deve-movimentar-r-133-bilhoes-mas-crise-no-varejo-desafia-vendas-2/
+Fonte de apoio: Terra -- https://www.terra.com.br/especiais/black-friday/faturamento-do-e-commerce-na-black-friday-deve-subir-207-diz-pesquisa,3fd350c68f6c39cd72e1c3582f905abaw9mlqkwo.html
+Score de Repercussao:
+- Frescor: 3/5 (evento em curso, mas os numeros ainda sao projecao)
+- Relevancia do protagonista: 4/5
+- Gravidade: 2/5
+- Polemica adjacente: 2/5
+- Volume de cobertura: 4/5
+- Clareza do angulo: 4/5
+- Identificacao com audiencia: 5/5
+TOTAL: 24/35
+Status: runner-up -- INELEGIVEL POR REPETICAO enquanto nao houver balanco (Black Friday foi pauta em 22/11). Pode voltar nos proximos dias se o resultado final contrastar forte com a projecao (por exemplo: mais pedidos e menos margem).
+
+======================================================================
+CANDIDATO 4 -- Yduqs (Estacio/Ibmec) e Afya: assembleia da fusao que cria grupo de R$ 9,4 bi de receita
+Fato: A assembleia de acionistas da Yduqs que vota a incorporacao da Afya estava marcada para 25/11/2026. O grupo combinado teria receita de cerca de R$ 9,4 bi, com os acionistas da Afya ficando com 69% do capital. A operacao ainda depende do Cade e dos reguladores de educacao. O resultado da assembleia NAO foi confirmado nas fontes (so um resumo de mercado de 26/11 cita aprovacao).
+Fonte: Brazil Journal / brapi (convocacao) -- https://brapi.dev/news/yduqs-aprova-protocolo-de-incorporacao-da-afya-e-convoca-assembleia-para-25-da716ed8
+Fonte de apoio: Mercado Hoje (26/11) -- https://mercadohoje.uai.com.br/2026/11/26/mercado-hoje-26-11-2026
+Score de Repercussao:
+- Frescor: 1/5
+- Relevancia do protagonista: 3/5
+- Gravidade: 4/5
+- Polemica adjacente: 1/5
+- Volume de cobertura: 2/5
+- Clareza do angulo: 3/5
+- Identificacao com audiencia: 2/5
+TOTAL: 16/35
+Status: runner-up (fraco; so como reserva)
