@@ -1,0 +1,61 @@
+PAUTA DO DIA -- 2026-11-28
+Assunto: Desemprego cai a 5,1% e iguala o menor nivel da historia -- falta gente para contratar
+Score final: 29/35 (Frescor 5/5 | Relevancia do protagonista 3/5 | Gravidade 4/5 | Polemica adjacente 3/5 | Volume de cobertura 5/5 | Clareza do angulo 4/5 | Identificacao com audiencia 5/5)
+
+Fato central verificado:
+O IBGE divulgou na sexta-feira (27/11/2026) que a taxa de desocupacao da PNAD Continua ficou em 5,1% no trimestre de agosto a outubro de 2026. E o mesmo patamar de dezembro de 2025, o menor da serie iniciada em 2012. Eram 5,3% no trimestre ate julho e 5,4% no mesmo trimestre de 2025. Desocupados: cerca de 5,6 milhoes (queda de 4,3% no trimestre, ou -252 mil pessoas; -344 mil no ano). Ocupados: 103,7 milhoes, o maior numero da serie. Rendimento medio real habitual: R$ 3.812, noticiado como recorde.
+Conferido via WebSearch em varios veiculos (WebFetch bloqueado nesta sandbox): Band, Agencia Brasil, Imirante, Hora do Povo, Meio News, CBN Recife, AJN1, Diario Carioca. Os numeros principais batem com o rascunho.
+Correcao em relacao ao rascunho: o rascunho dava o rendimento como "+1% no ano". As fontes divergem (uma diz +1,0% no TRIMESTRE e +3,5% no ano; outra atribui os R$ 3.812 so aos trabalhadores com carteira). Use apenas "R$ 3.812, recorde" e nao cite a variacao percentual.
+
+Cadeia causal (o que levou a isso):
+1. Desde marco o desemprego vem caindo (6,1% no trimestre ate marco -> 5,3% ate julho -> 5,1% ate outubro). E o efeito sazonal do segundo semestre somado a uma economia que ainda absorve gente, sobretudo em servicos.
+2. Com 103,7 milhoes ocupados e so 5,6 milhoes procurando emprego, sobra pouca gente disponivel. O "estoque" de candidatos encolhe.
+3. Ao mesmo tempo, a parte qualificada desse estoque e ainda menor. A CNI chama isso de paradoxo: desemprego na minima, mas falta de trabalhador qualificado em alta. A citacao do problema pelos industriais saltou de cerca de 5% (2015-2020) para 23% (2024), e ele e hoje o 4o maior entrave da industria, atras de impostos, juros e demanda.
+4. Resultado na ponta: a vaga demora mais a ser preenchida, o candidato tem mais opcoes, o salario de entrada sobe e o funcionario que ja esta na casa recebe proposta. A rotatividade vira custo (recrutamento, treinamento, curva de aprendizado e queda de produtividade enquanto a vaga fica aberta).
+5. Detalhe que muda a leitura: o emprego COM CARTEIRA nao e o que mais cresce. O contingente com carteira no setor privado ficou estavel (39,4 milhoes), e o Caged de setembro mostrou o pior setembro desde 2020 (121,3 mil vagas, -43,5% sobre set/2025). Ou seja, o mercado esta apertado para quem contrata, mas o motor nao e uma explosao de vagas formais. E falta de gente disponivel e qualificada.
+6. Em dezembro o custo da hora trabalhada pode subir mais um degrau com a escala 5x2 (pauta de 20/11). Mercado apertado + jornada menor = a hora de trabalho mais cara e mais disputada.
+
+Por que esta repercutindo agora:
+Frescor maximo (dado de ontem), volume alto de cobertura (dezenas de veiculos) e gravidade de recorde historico (minima da serie + recorde de ocupados). O que mais pesou para este canal foi a identificacao (5/5): contratar e segurar funcionario e a dor numero 1 do dono de PME neste fim de ano, ainda mais com a mudanca de jornada chegando.
+
+Angulo de gestao sugerido:
+"Quando falta gente, quem voce ja tem vale mais." Em mercado apertado, repor um funcionario custa mais caro e demora mais do que reter. Licoes praticas para o dono de PME:
+- Faca a conta do custo de reposicao (anuncio, entrevista, treinamento, meses de produtividade baixa) e compare com um reajuste ou beneficio para segurar quem e bom.
+- Mapeie quem e critico e quem tem proposta na mesa. Converse antes que o funcionario peca demissao.
+- Forme dentro de casa. Se o mercado nao tem o profissional qualificado, a empresa que treina deixa de depender dele (e o que a propria industria esta fazendo).
+- Planeje dezembro e o inicio de 2027 agora: escalas, horas extras e contratacoes temporarias vao disputar o mesmo estoque pequeno de candidatos.
+
+Dados de apoio:
+- Desocupacao 5,1% (ago-out/2026), igual a minima de dez/2025; 5,3% ate julho; 5,4% um ano antes -- Band / Agencia Brasil / Imirante (URLs abaixo).
+- 103,7 milhoes de ocupados, recorde da serie; 5,6 milhoes de desocupados (-252 mil no trimestre, -344 mil no ano) -- CBN Recife / Diario Carioca.
+- Rendimento medio real habitual de R$ 3.812, recorde -- AJN1 (https://ajn1.com.br/desemprego-fica-em-51-e-iguala-minima-historica-rendimento-bate-recorde/).
+- Empregados com carteira no setor privado: 39,4 milhoes, estavel no trimestre e no ano; empregadores 4,5 milhoes (+6,5% no ano) -- Band / Agencia Brasil.
+- Caged de setembro/2026: +121,3 mil vagas formais, pior setembro desde 2020, abaixo das projecoes; acumulado jan-set 1,25 milhao (-27,9% sobre 2025) -- IstoE (https://istoe.com.br/brasil-cria-121-mil-empregos-formais-setembro-2026) e BP Money (https://bpmoney.com.br/economia/caged-brasil-cria-1213-mil-vagas-em-setembro-mas-perde-ritmo/).
+- CNI: falta de trabalhador qualificado citada por 23% dos industriais em 2024 (contra cerca de 5% em 2015-2020); 4o maior entrave da industria -- Portal da Industria/CNI (https://noticias.portaldaindustria.com.br/noticias/economia/entenda-a-crise-de-mao-de-obra-qualificada-na-industria-em-meio-a-um-recorde-de-empregos-no-pais/) e DGABC (https://www.dgabc.com.br/Noticia/4284266/cni-falta-de-qualificacao-e-4-maior-entrave-da-industria-apos-impostos-juros-e-demanda).
+
+Ressalva/limite:
+- PNAD inclui informais. NAO dizer que "o emprego com carteira esta bombando": o formal esta estavel e o Caged desacelerou. O Caged de outubro sai na segunda (30/11) e pode mudar o quadro; se sair antes da gravacao, confira.
+- Rendimento: cite so "R$ 3.812, recorde". Nao cite variacao percentual (as fontes divergem) nem diga que e "so de quem tem carteira".
+- Os "23%" da CNI medem a parcela de industriais que citam o problema, nao a parcela de vagas abertas. E dado de 2024 sobre a industria; nao generalize como numero de todas as PMEs.
+- GUARDRAIL POLITICO (Polemica adjacente pesou 3/5): o dado esta sendo usado no debate da transicao de governo e de juros. O video NAO atribui o recorde a governo, partido ou figura politica, NAO comenta o Banco Central, a taxa de juros como escolha politica nem a politica economica. Evite como fonte veiculos partidarios que estao usando o numero como peca de balanco de mandato. O angulo e so o efeito na empresa.
+- Nada de recomendacao de investimento pessoal.
+
+Estrutura sugerida pro roteiro (referencia, nao e o roteiro pronto -- quem escreve o roteiro final e o Copywriter do canal, secao 2.4 do conhecimento dele, adaptado pra duracao maior):
+- Hook: conflito especifico -- "O desemprego no Brasil bateu o menor nivel da historia. Pra quem procura emprego e otimo. Pra quem precisa contratar, comecou o problema."
+- Contexto/causa raiz: 5,1%, 103,7 milhoes trabalhando, so 5,6 milhoes procurando. O estoque de candidatos encolheu, e o qualificado encolheu mais ainda (paradoxo da CNI).
+- Desenvolvimento da cadeia causal: pouca gente disponivel -> vaga demora mais -> salario de entrada sobe -> seu funcionario recebe proposta -> rotatividade vira custo. Detalhe: nao e explosao de carteira assinada (formal estavel, Caged desacelerando), e falta de gente. Ponte: em dezembro a jornada 5x2 aperta mais.
+- Licao de gestao (a virada): reter custa menos do que repor. Faca a conta da reposicao, mapeie quem e critico, converse antes da demissao, forme dentro de casa.
+- Fechamento + CTA: "Quanto te custa perder seu melhor funcionario amanha? Faz essa conta essa semana." + CTA do canal.
+
+Fonte(s):
+- Band -- https://www.band.com.br/economia/taxa-de-desemprego-fica-em-51-no-trimestre-encerrado-em-outubro
+- Agencia Brasil -- https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/taxa-de-desemprego-fica-em-51-no-trimestre-encerrado-em-outubro
+- Imirante -- https://imirante.com/noticias/brasil/2026/11/27/desemprego-fica-51-trimestre-encerrado-outubro
+- CBN Recife -- https://www.cbnrecife.com/2026/11/27/desemprego-no-brasil-recua-para-51-e-iguala-menor-indice-da-serie-historica-aponta-ibge/
+- Diario Carioca -- https://www.diariocarioca.com/2026/11/27/economia/desemprego-cai-para-5-1-e-iguala-minima-historica/
+- Meio News -- https://www.meionews.com/noticias/economia/desemprego-fica-em-5-1-em-outubro-e-iguala-menor-patamar-da-serie-historica-582295
+
+Runners-up do dia (registro/transparencia):
+- Dolar tem a maior queda semanal desde 2008 apos confirmacao de Trabuco na Fazenda -- 32/35 bruto (inelegivel: repete a pauta de 27/11)
+- Black Friday 2026: e-commerce projetado em R$ 13,3 bi (+20,7%), ticket medio em queda -- 24/35 (inelegivel: repete 22/11 ate sair balanco)
+- Yduqs e Afya: assembleia da fusao (grupo de R$ 9,4 bi de receita) -- 16/35
